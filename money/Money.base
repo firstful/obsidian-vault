@@ -1,0 +1,43 @@
+filters:
+  and:
+    - file.inFolder("money/institutions")
+    - file.ext == "md"
+properties:
+  institution:
+    displayName: Institution
+  kind:
+    displayName: Kind
+  accounts:
+    displayName: Accounts
+  cash:
+    displayName: Cash
+  debt:
+    displayName: Debt
+  net:
+    displayName: Net
+  transactions:
+    displayName: Txns
+  last_tx:
+    displayName: Last Txn
+views:
+  - type: table
+    name: Institutions
+    order:
+      - institution
+      - kind
+      - accounts
+      - cash
+      - debt
+      - net
+      - transactions
+      - last_tx
+  - type: table
+    name: By net
+    order:
+      - institution
+      - net
+      - cash
+      - debt
+    sort:
+      - property: net
+        direction: DESC

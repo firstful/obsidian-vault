@@ -1,0 +1,15 @@
+.cf-root { padding: 8px; }
+.cf-header { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; }
+.cf-title { font-weight: 600; flex: 1; text-align: center; }
+.cf-btn { cursor: pointer; }
+.cf-table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+.cf-table th, .cf-table td { border: 1px solid var(--background-modifier-border); vertical-align: top; padding: 4px; height: 90px; width: 14.28%; }
+.cf-daynum { font-weight: 600; font-size: 0.85em; }
+.cf-empty { background: var(--background-secondary); }
+.cf-today { background: var(--background-modifier-hover); }
+.cf-eventlist { list-style: none; padding: 0; margin: 4px 0 0 0; font-size: 0.75em; }
+.cf-event { margin-bottom: 2px; }
+.cf-link { cursor: pointer; color: var(--text-accent); }
+.cf-upcoming { color: var(--text-normal); }
+.cf-paid, .cf-done { color: var(--text-muted); text-decoration: line-through; }
+.cf-overdue { color: var(--text-error); }

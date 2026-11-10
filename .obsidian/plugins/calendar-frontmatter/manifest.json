@@ -1,0 +1,9 @@
+{
+  "id": "calendar-frontmatter",
+  "name": "Calendar Frontmatter",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Visualize calendar/* notes (frontmatter dates) in a monthly calendar view.",
+  "author": "Reed Sutliff",
+  "isDesktopOnly": false
+}

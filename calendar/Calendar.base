@@ -1,0 +1,31 @@
+filters:
+  and:
+    - file.inFolder("calendar")
+    - file.ext == "md"
+    - date
+properties:
+  date:
+    displayName: Date
+  title:
+    displayName: Title
+  amount:
+    displayName: Amount
+  status:
+    displayName: Status
+  type:
+    displayName: Type
+  bill:
+    displayName: Bill
+  payee:
+    displayName: Payee
+views:
+  - type: table
+    name: Calendar
+    order:
+      - date
+      - title
+      - amount
+      - status
+      - type
+      - bill
+      - payee
