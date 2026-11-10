@@ -1,12 +1,11 @@
-# READONLY — rsync-managed backup
+# obsidian-vault — git-managed
 
-This directory is a one-way, read-only mirror of the Obsidian vault on the
-owner local machine, synchronized via rsync. Do NOT edit, create, or delete
-files here — any changes will be overwritten on the next sync.
+This directory is now a git working tree tracking `reeds/obsidian-vault`
+on the homelab Gitea (public). Sync is git-based, not rsync.
 
-- Source: /home/reed/Documents/obsidian-vault/ (local machine)
-- Target: /mnt/raid_store/obsidian-vault/ (this directory)
-- Sync: unidirectional (local -> here). Not bidirectional.
-- Managed by: obsidian-vault-sync.sh on the local machine (cron).
+- Remote: http://gitea.ffilt.us/reeds/obsidian-vault.git
+- Branch: main
+- Source of truth: Gitea repo (cloned on desktop + server)
 
-If you need to change vault content, do it in the source vault, not here.
+Edit here or on the desktop clone; commit and push. Do not rsync over this
+directory — it would clobber `.git`.
