@@ -10,7 +10,10 @@ RUN npm ci
 RUN rm -rf content && mkdir -p content
 COPY . /vault
 RUN set -e; \
-  find /vault -mindepth 1 -maxdepth 1 ! -name '.git' ! -name '.gitea' ! -name '.obsidian' ! -name 'Dockerfile' ! -name '.dockerignore' ! -name 'nginx.conf' -exec cp -a {} content/ \;
+  find /vault -mindepth 1 -maxdepth 1 ! -name '.git' ! -name '.gitea' ! -name '.obsidian' ! -name 'Dockerfile' ! -name '.dockerignore' ! -name 'nginx.conf' -exec cp -a {} content/ \; \
+  if [ ! -f content/index.md ] && [ ! -f content/index.base.md ]; then \
+    printf '%s\n' '---' 'title: Obsidian Vault' '---' '' '# Obsidian Vault' '' 'Welcome. Start at [[AGENTS]] or [[Todos]].' > content/index.md; \
+  fi
 
 # Minimal Quartz config for vault render
 RUN cat > quartz.config.ts <<'TS'
@@ -96,6 +99,7 @@ RUN node ./quartz/bootstrap-cli.mjs build
 
 FROM nginxinc/nginx-unprivileged:1.27-alpine
 USER root
+RUN rm -rf /usr/share/nginx/html/*
 COPY nginx.conf /etc/nginx/nginx.conf
 COPY --from=build /quartz/public /usr/share/nginx/html
 RUN chmod 755 /etc/nginx /etc/nginx/conf.d && chmod 644 /etc/nginx/nginx.conf && chmod -R a+rX /usr/share/nginx/html
