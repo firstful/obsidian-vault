@@ -92,7 +92,7 @@ const config: QuartzConfig = {
 export default config
 TS
 
-RUN npx quartz build
+RUN node ./quartz/bootstrap-cli.mjs build
 
 FROM nginxinc/nginx-unprivileged:1.27-alpine
 USER root
