@@ -3,8 +3,3 @@
 .github
 .obsidian
 .gitignore
-Dockerfile
-.dockerignore
-nginx.conf
-README.md
-READONLY-RSYNC-MANAGED.md
