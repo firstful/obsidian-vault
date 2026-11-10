@@ -10,7 +10,8 @@ RUN npm ci
 RUN rm -rf content && mkdir -p content
 COPY . /vault
 RUN set -e; \
-  find /vault -mindepth 1 -maxdepth 1 ! -name '.git' ! -name '.gitea' ! -name '.obsidian' ! -name 'Dockerfile' ! -name '.dockerignore' ! -name 'nginx.conf' -exec cp -a {} content/ \; \
+  find /vault -mindepth 1 -maxdepth 1 ! -name '.git' ! -name '.gitea' ! -name '.obsidian' ! -name 'Dockerfile' ! -name '.dockerignore' ! -name 'nginx.conf' -exec cp -a {} content/ \;
+RUN set -e; \
   if [ ! -f content/index.md ] && [ ! -f content/index.base.md ]; then \
     printf '%s\n' '---' 'title: Obsidian Vault' '---' '' '# Obsidian Vault' '' 'Welcome. Start at [[AGENTS]] or [[Todos]].' > content/index.md; \
   fi
