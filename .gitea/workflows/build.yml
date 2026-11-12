@@ -3,9 +3,25 @@ name: build
 on:
   push:
     branches: [main]
+  schedule:
+    # Every 4 hours (UTC) to pick up commits (incl. triage [skip ci] commits)
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
+    # Run on schedule/manual; on push, skip commits marked to skip CI (e.g. automated email-triage vault updates)
+    if: >-
+      ${{
+        github.event_name == 'schedule' ||
+        github.event_name == 'workflow_dispatch' ||
+        (github.event_name == 'push' &&
+         !contains(github.event.head_commit.message, '[skip ci]') &&
+         !contains(github.event.head_commit.message, '[ci skip]') &&
+         !contains(github.event.head_commit.message, '[no ci]') &&
+         !contains(github.event.head_commit.message, '[skip actions]') &&
+         !contains(github.event.head_commit.message, '[actions skip]'))
+      }}
     uses: reeds/ci-pipelines/.gitea/workflows/build-static.yml@main
     with:
       image: reeds/obsidian
