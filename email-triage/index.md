@@ -39,6 +39,7 @@ tags: [email-triage, index]
 - [intel-web](topics/intel-web.md) — Intel-web Playwright Tests GitHub Actions CI failures
 - [job-alerts](topics/job-alerts.md) — Marketing job-board alerts (ZipRecruiter, etc.)
 - [job-applications](topics/job-applications.md) — Job applications and confirmations (Affirm, Reddit, Cresta, Descript, ZoomInfo)
+- [lykn](topics/lykn.md) — LYKN (lykn.io) AI agent/business marketing blasts (marketing)
 - [lendingclub](topics/lendingclub.md) — LendingClub / Happen (formerly LendingClub) personal-loan invitations and win-back promos (marketing)
 - [link-payments](topics/link-payments.md) -- Link (Stripe) payment-wallet account notices (email verification, etc.)
 - [linkedin](topics/linkedin.md) — LinkedIn engagement/marketing digests and LinkedIn News editorial roundups (search appearances, network updates, app-download nudges, AI/Anthropic news digests)
