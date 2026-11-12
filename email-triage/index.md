@@ -1,0 +1,76 @@
+---
+title: Email Triage Index
+tags: [email-triage, index]
+---
+
+# Email Triage Index
+
+- [aliexpress](topics/aliexpress.md) — AliExpress marketing digests / personalized product recommendations (marketing)
+- [allegiant](topics/allegiant.md) — Allegiant Air fare promos (marketing)
+- [amazon-orders](topics/amazon-orders.md) — Amazon order seller messages and delivery/refund issues
+- [apple-developer](topics/apple-developer.md) — Apple Developer "Hello Developer" newsletter issues (Developer Center events, platform/tooling news; marketing)
+- [appliance-factory](topics/appliance-factory.md) — Appliance Factory & Mattress Kingdom purchase receipts and card refunds
+- [billing](topics/billing.md) — Bills and invoices (Microsoft/Azure, etc.)
+- [bible-gateway](topics/bible-gateway.md) — Bible Gateway Deals promos and editorial/devotional newsletters (marketing)
+- [capital-one](topics/capital-one.md) — Capital One credit card: collections/late-payment notices, payment confirmations and CreditWise credit-score alerts
+- [cheaper-inference](topics/cheaper-inference.md) — Cheaper Inference (Keak AI) model launch / discount announcements
+- [citizen](topics/citizen.md) — Citizen app local incident alerts (automated geo notifications)
+- [consulting-guidepoint](topics/consulting-guidepoint.md) — Guidepoint expert-network consultation requests
+- [cord-blood-registry](topics/cord-blood-registry.md) — Cord Blood Registry (CBR) newborn stem-cell lead-gen follow-ups (marketing)
+- [credit-karma](topics/credit-karma.md) — Credit Karma credit-monitoring alerts (credit-limit changes, score/usage notices)
+- [cvs-pharmacy](topics/cvs-pharmacy.md) — CVS Pharmacy prescription order confirmations (pickup/payment)
+- [donations](topics/donations.md) — Charitable donations and receipts (World Team, etc.)
+- [donatos](topics/donatos.md) — Donatos Pizza pickup order confirmations and receipts
+- [ebay](topics/ebay.md) — eBay account/listing notices: offers, messages, transactions, and alerts
+- [email-delivery](topics/email-delivery.md) — Delivery status notifications, bounces, and mail routing failures
+- [experian](topics/experian.md) — Experian credit-report change and FICO-score alert emails (account-activation teasers; marketing)
+- [eyebuydirect](topics/eyebuydirect.md) — EyeBuyDirect post-purchase survey / follow-up emails (marketing)
+- [fairfield-dd](topics/fairfield-dd.md) — Fairfield County Board of Developmental Disabilities — Elijah's services, assistive-technology follow-ups and equipment links
+- [freedom-mortgage](topics/freedom-mortgage.md) — Freedom Mortgage marketing: seasonal home-maintenance and refinance/move promos (marketing)
+- [gift-exchange](topics/gift-exchange.md) — Gift exchange / Secret Santa (drawnames.com)
+- [gitea-mirror](topics/gitea-mirror.md) — Gitea mirror GitHub Actions CI failures
+- [github-security](topics/github-security.md) — GitHub security alerts and notifications
+- [google-account](topics/google-account.md) — Google Account security alerts and verification notices
+- [google-fi](topics/google-fi.md) — Google Fi Wireless rejoin/win-back offers and plan promos (marketing)
+- [google-health](topics/google-health.md) — Automated Google Health weekly fitness/activity digests (steps, floors) with Google Health Premium upsell (marketing)
+- [google-merchant-center](topics/google-merchant-center.md) — Google Merchant Center onboarding/feature-adoption nudges (conversion tracking etc.; marketing)
+- [google-pixel](topics/google-pixel.md) — Google Pixel device / Google AI feature marketing (Gemini, Circle to Search promos; marketing)
+- [google-play](topics/google-play.md) — Google Play account/security and purchase settings notices
+- [intel-web](topics/intel-web.md) — Intel-web Playwright Tests GitHub Actions CI failures
+- [job-alerts](topics/job-alerts.md) — Marketing job-board alerts (ZipRecruiter, etc.)
+- [job-applications](topics/job-applications.md) — Job applications and confirmations (Affirm, Reddit, Cresta, Descript, ZoomInfo)
+- [lendingclub](topics/lendingclub.md) — LendingClub / Happen (formerly LendingClub) personal-loan invitations and win-back promos (marketing)
+- [link-payments](topics/link-payments.md) -- Link (Stripe) payment-wallet account notices (email verification, etc.)
+- [linkedin](topics/linkedin.md) — LinkedIn engagement/marketing digests and LinkedIn News editorial roundups (search appearances, network updates, app-download nudges, AI/Anthropic news digests)
+- [mcdonalds](topics/mcdonalds.md) — McDonald's Mobile Order & Pay receipts (order/store, item totals, card last-4)
+- [medical-appointments](topics/medical-appointments.md) — Medical appointments and check-ins (Nationwide Children's, etc.)
+- [meta-for-developers](topics/meta-for-developers.md) — Meta for Developers product/model launch announcements (Muse Ember, Meta Model API; marketing)
+- [microsoft-azure](topics/microsoft-azure.md) — Microsoft Azure marketing promos (App Service plan offers, discounts; Microsoft/Azure bills stay in billing)
+- [namecheap](topics/namecheap.md) — Namecheap Private Email product announcements and mobile-app marketing (marketing)
+- [openai](topics/openai.md) — OpenAI / ChatGPT product marketing (feature promos, e.g. ChatGPT Images style presets; marketing)
+- [paypal](topics/paypal.md) — PayPal account notices (negative balance / collections reminders, failed automatic payments)
+- [personal-blog](topics/personal-blog.md) — Personal blog (firstful/personal-blog) GitHub Actions CI failures
+- [pet-cloud](topics/pet-cloud.md) — My PetCloud / Independence Pet Group (mypetinsurer.com) transactional account notices: login verification codes
+- [pickerington-schools](topics/pickerington-schools.md) — Pickerington Local School District (PLSD) superintendent communications (Project 256 video, etc.)
+- [postable](topics/postable.md) — Postable greeting-card sale promos (marketing)
+- [ramseyer-farms](topics/ramseyer-farms.md) — Ramseyer Farms (Wooster OH) Shopify store marketing: seasonal thanks/promo blasts (marketing)
+- [recruiter-outreach](topics/recruiter-outreach.md) — Recruiter outreach and LinkedIn connection requests (Robert Half, agency recruiters)
+- [resmed-myair](topics/resmed-myair.md) — ResMed myAir CPAP-therapy engagement blasts (myAir app coaching, nightly score/Streaks; marketing)
+- [samsclub](topics/samsclub.md) — Sam's Club member marketing blasts (Plus/Walmart+ bundle and benefits promos; marketing)
+- [security-alerts](topics/security-alerts.md) — Google/security account alerts
+- [service-deprecations](topics/service-deprecations.md) — API/service deprecations and shutdown notices requiring migration
+- [sherwin-williams](topics/sherwin-williams.md) — Sherwin-Williams paint marketing / Thumbtack painter-referral promos (marketing)
+- [shop-app](topics/shop-app.md) — Shop app (Shopify) Gift Shop gift-guide / sponsored product-recommendation blasts (marketing)
+- [slowdive](topics/slowdive.md) — Slowdive app marketing / re-engagement mail (promos)
+- [spendr](topics/spendr.md) — Spendr rewards-app weekly dispensary deals blasts (marketing)
+- [substack-post](topics/substack-post.md) — Substack's own Post publication essays/excerpts (news-and-views, the-weekender, unstacked sections; marketing)
+- [t-mobile](topics/t-mobile.md) — T-Mobile wireless account notices: payment receipts and billing
+- [temu](topics/temu.md) — Temu order/reshipment notices and automatic refunds (transactional)
+- [ticketmaster](topics/ticketmaster.md) — Ticketmaster event-marketing newsletters (new onsales / upcoming concert, comedy, family-show listings; marketing)
+- [tinybeans](topics/tinybeans.md) — Tinybeans parenting-app marketing/newsletters (gift guides, Little Tikes promos; marketing)
+- [uber-eats](topics/uber-eats.md) — Uber Eats order receipts (Wendy's, etc.) plus Uber / Uber One marketing blasts: 30%-off delivery promos, hotel-credit and premium airport-ride member deals (marketing)
+- [unitedhealthcare](topics/unitedhealthcare.md) — UnitedHealthcare member benefit marketing (Real Appeal/Wellos weight-loss promos)
+- [unsubscribes](topics/unsubscribes.md) — Unsubscribe actions ledger (marketing/promo senders, To noted; also records unsubscribe confirmations)
+- [usps-informed-delivery](topics/usps-informed-delivery.md) — USPS Informed Delivery daily digests (mailpiece/package previews, informational)
+- [westerville-library](topics/westerville-library.md) — Westerville Public Library newsletters (events, collection news; marketing)
+

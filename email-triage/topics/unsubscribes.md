@@ -1,0 +1,219 @@
+---
+title: Unsubscribes
+tags: [email-triage, unsubscribes]
+---
+
+# Unsubscribes
+
+Ledger of unsubscribe actions for marketing/promo senders (envelope-census 2026-11-10). One row per representative sender/message attempt. `To` from `email_message_meta`.
+
+| Date (UTC) | Sender | To | Folder/UID | Subject (rep) | Method | Result | Notes |
+|---|---|---|---|---|---|---|---|
+| 2026-11-10 | messages-noreply@linkedin.com | reedsut@gmail.com | INBOX/644 | LinkedIn is better on the app | POST | 200 | RFC8058 one-click; succeeded; unsubscribe request accepted |
+| 2026-11-10 | biblegateway@e.biblegateway.com | reedsut@gmail.com | INBOX/650 | Why so many parents rely on this morning routine. | POST | 200 | RFC 8058 one-click attempted; unsubscribe request accepted |
+| 2026-11-10 | instant-updates@mail.zillow.com | reedsut@gmail.com | INBOX/540 | $575K house just listed in Westerville, OH 43082 | POST | 204 | RFC 8058 one-click; unsubscribe request accepted |
+| 2026-11-10 | newsletter@xda-developers.com | reedsut@gmail.com | INBOX/573 | The Best PC Tech Deals Ahead Of Black Friday | POST | 200 | One-click HTTPS (known/header from prior fetch); success; unsubscribe request accepted |
+| 2026-11-10 | alerts@ziprecruiter.com | sutliff.reed@gmail.com | INBOX/645 | $125/hr Software Developer (part-time work from home) - AI Trainer job in Santa Monica, CA | POST | 403 | One-click POST rejected (403) |
+| 2026-11-10 | Samsclub@em.samsclub.com | reedsut@gmail.com | INBOX/532 | Last chance: Doorbusters end tonight! | POST | 202 | RFC 8058 one-click attempted; unsubscribe request accepted |
+| 2026-11-10 | lowes@e.lowes.com | reedsut@gmail.com | INBOX/450 | Your tool collection could use a +2 👌 | POST | 202 | RFC 8058 one-click; unsubscribe request accepted |
+| 2026-11-10 | emails@postable.com | sutliff.reed@gmail.com | INBOX/651 | Our 2026 Holiday Collection 🎄 | POST | 200 | One-click HTTPS (from cached/parsed data); success; unsubscribe request accepted |
+| 2026-11-10 | no-reply@rs.email.nextdoor.com | reedsut@gmail.com | INBOX/373 | Giant coyote | POST | 200 | Succeeded; unsubscribe request accepted |
+| 2026-11-10 | reply@e.fivebelow.com | reedsut@gmail.com | INBOX/500 | Calling all DISNEY fans ✨ magical prices & Holiday must-haves just arrived. | POST | 204 | RFC 8058 one-click attempted; unsubscribe request accepted |
+| 2026-11-10 | shop@m.chatbooks.com | reedsut@gmail.com | INBOX/537 | the package on your doorstep | POST | 200 | RFC 8058 one-click; unsubscribe request accepted |
+| 2026-11-10 | notifications-noreply@linkedin.com | reedsut@gmail.com | INBOX/617 | You have 1 new invitation | POST | 200 | One-click HTTPS (from cached/parsed data); success; unsubscribe request accepted |
+| 2026-11-10 | email@savings.lendingtree.com | reedsut@gmail.com | INBOX/539 | Reed, confirm your loan amount for November rates | POST | 204 | Succeeded (204); unsubscribe request accepted |
+| 2026-11-10 | do-not-reply@imdb.com | reedsut@gmail.com | INBOX/576 | 5 new shows to watch this week | POST | 202 | RFC 8058 one-click attempted; unsubscribe request accepted |
+| 2026-11-10 | rewards@bibibop.com | reedsut+bibibop@gmail.com | INBOX/503 | Share the good energy 📲 | POST | 200 | RFC 8058 one-click; unsubscribe request accepted |
+| 2026-11-10 | Azure@promomail.microsoft.com | reedsut@gmail.com | INBOX/563 | Save 20% on an Azure App Service Basic plan for a limited time | POST | 200 | One-click HTTPS (from cached/parsed data); success; unsubscribe request accepted |
+| 2026-11-10 | citicards@info15.citi.com | REEDSUT@gmail.com | INBOX/543 | Your Balance Transfer offer ends soon | POST-candidate | not attempted (not executed) | RFC8058 HTTPS found; URL not executed |
+| 2026-11-10 | editors-noreply@linkedin.com | reedsut@gmail.com | INBOX/613 | Anthropic unveils new models | POST | 200 | RFC 8058 one-click attempted; unsubscribe request accepted |
+| 2026-11-10 | PLSD_Infinite_Campus-do-not-reply@plsd.us | reedsut@gmail.com | INBOX/459 | PLSD Digital Download Family Newsletter / November 6, 2026 | none | skipped | Transactional/account/security/notice (school communication) |
+| 2026-11-10 | support@mail6.lendingclub.com | sutliff.reed@gmail.com | INBOX/643 | ✅ Reed, your loan invitation is here. | mailto | n/a | Mailto-only unsubscribe indicated (no HTTPS action taken) |
+| 2026-11-10 | updates-noreply@linkedin.com | reedsut@gmail.com | INBOX/618 | Miranda Demos - Senior People Infrastructure Manager reacted to this post: I'm hiring! I'm looking t | POST | 200 | Succeeded; unsubscribe request accepted |
+| 2026-11-10 | ae-ai-notice02@newarrival.aliexpress.com | reedsut@gmail.com | INBOX/332 | Pile up the savings today | none | ERR | Body not available in saved results |
+| 2026-11-10 | ae-fresh-item13@newarrival.aliexpress.com | reedsut@gmail.com | INGEST/928 | Great taste! Looking for 1pc Mens Boxers Shorts Ice Silk Men Panties Sea...? | none |  | No List-Unsubscribe/header/footer unsubscribe found in parsed content |
+| 2026-11-10 | chipotle@email.chipotle.com | reedsut@gmail.com | INBOX/505 | Have you claimed your free Queso, Reed? | POST | 202 | One-click HTTPS (+ mailto present, from cached/parsed data); success; unsubscribe request accepted |
+| 2026-11-10 | email@marketing.redlobster.com | reedsut@gmail.com | INBOX/449 | Your $12.99 "Fea5t" For Me awaits | unknown | n/a | Meta fetched; unsubscribe mechanism not recorded |
+| 2026-11-10 | hello@app.olo.com | reedsut@gmail.com | INBOX/372 | There is $20 off inside this email. | none | ERR | Body not available in saved results |
+| 2026-11-10 | hello@e.spendr.com | reedsut@gmail.com | INBOX/647 | Your $20 Nar reward is waiting this week | none |  | Body not available for parsing (MCP fetch output persisted/truncated in session) |
+| 2026-11-10 | hello@shop.tonies.com | reedsut@gmail.com | INBOX/465 | Is your kiddo loving their new Mo Willems' The Pigeon Series Tonie? | POST | 200 | One-click HTTPS (from cached/parsed data); success; unsubscribe request accepted |
+| 2026-11-10 | ubereats@uber.com | reedsut@gmail.com | INBOX/442 | Gameday deals are here with Uber Eats | POST | 202 | Accepted (202); unsubscribe request accepted |
+| 2026-11-10 | joe@saukmortgagegroup.com | reedsut@gmail.com | INBOX/534 | Demonstrate the benefits of owning, Reed | none | ERR | Body not available in saved results |
+| 2026-11-10 | linkedin@em.linkedin.com | reedsut@gmail.com | INBOX/295 | 4 job search filters that give you an edge. | POST | 200 | RFC 8058 one-click; unsubscribe request accepted |
+| 2026-11-10 | noreply@email.openai.com | reedsut@gmail.com | INBOX/520 | See what’s driving your spending | POST | 200 | One-click HTTPS (+ mailto present, from cached/parsed data); success; unsubscribe request accepted |
+| 2026-11-10 | noreply@email.shop.app | reedsut@gmail.com | INBOX/545 | $50 Shop Cash ends tonight! ⏰ | POST | 404 | One-click POST returned 404 |
+| 2026-11-10 | phil@ziprecruiter.com | sutliff.reed@gmail.com | INBOX/559 | Check out this Java Full Stack Developer with AWS job I found for you! | none | ERR | Body not available in saved results |
+| 2026-11-10 | info@info.timhortons.ca | reedsut@gmail.com | INBOX/446 | 325369 is your Tim Hortons login code | none | skipped | Transactional/account/security/notice (login code) |
+| 2026-11-10 | marketing@marketing.polymarket.com | reedsut@gmail.com | INBOX/453 | Rivalries And Title Races | POST | 200 | One-click HTTPS (from cached/parsed data); success; unsubscribe request accepted |
+| 2026-11-10 | newsletter@email.ticketmaster.com | REEDSUT@gmail.com | INBOX/242 | Taylor Tomlinson, Death Cab for Cutie, Anthony Jeselnik & more near you! | POST-candidate | not attempted (not executed) | RFC8058 HTTPS found |
+| 2026-11-10 | noreply@noreply.timhortons.ca | reedsut@gmail.com | INBOX/447 | Thanks for your order | none | ERR | Body not available in saved results |
+| 2026-11-10 | notifications@notifications.cheaperinference.com | sutliff.reed@gmail.com | INBOX/412 | Top 5 AI models on Cheaper Inference this week | POST | 308 | RFC 8058 one-click; unsubscribe request accepted |
+| 2026-11-10 | venmo@email.venmo.com | reedsut@gmail.com | INBOX/557 | Holiday hosting has its rewards this year | POST | 200 | One-click HTTPS; success; unsubscribe request accepted |
+| 2026-11-10 | advertiser@whattoexpect.com | reedsut@gmail.com | INBOX/589 | Get Your FREE Welcome Box! | POST-candidate | not attempted (not executed) | RFC8058 HTTPS present (Sailthru) |
+| 2026-11-10 | app@mail.alpaca.markets | sutliff.reed@gmail.com | INBOX/455 | Build Mean-Reversion Quant Agents with MCP & Code | POST | 204 | RFC 8058 one-click attempted; unsubscribe request accepted |
+| 2026-11-10 | awareness@cordblood.com | reedsut@gmail.com | INBOX/371 | 50% off newborn stem cell preservation | POST | 200 | RFC 8058 one-click; unsubscribe request accepted |
+| 2026-11-10 | bestegg@mail.bestegg.com | reedsut@gmail.com | INBOX/441 | Reed, what's your financial personality? | POST | 200 | One-click HTTPS; success; unsubscribe request accepted |
+| 2026-11-10 | dairyqueen@mail.dq.com | reedsut@gmail.com | INGEST/953 | Every day FREE* Delivery starts now! | POST | 200 | Succeeded; unsubscribe request accepted |
+| 2026-11-10 | funwithfondue@themeltingpotclubfondue-email.com | sutliff.reed@gmail.com | INBOX/434 | A Special Veterans Day Thank You at Melting Pot | POST | 202 | RFC 8058 one-click attempted; unsubscribe request accepted |
+| 2026-11-10 | inmail-hit-reply@linkedin.com | reedsut@gmail.com | INBOX/595 | Software Engineer opening - are you interested? | none | skipped | Transactional/account/security/notice (recruiter/inmail reply context) |
+| 2026-11-10 | Lauren.Reynolds@help.cordblood.com | reedsut@gmail.com | INBOX/603 | Interested in learning more? | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | marketing.department@email-freedommortgage.com | reedsut+fmort@gmail.com | INBOX/541 | View your FICO® Score in the Freedom Mortgage mobile app. | POST-candidate | not attempted (not executed) | RFC8058 HTTPS found |
+| 2026-11-10 | members@younginvincibles.org | reedsut@gmail.com | INBOX/594 | Open Enrollment is Here! | POST | 200 | RFC 8058 one-click attempted; unsubscribe request accepted |
+| 2026-11-10 | no-reply@e.allegiant.com | emileesutliff@gmail.com | INBOX/556 | Flights from $39 for Crisp Weather Escapes | none |  | Body not available for parsing (MCP fetch output persisted/truncated in session) |
+| 2026-11-10 | no-reply@marsello.com | reedsut@gmail.com | INBOX/264 | Get 35% OFF Select As-Is Sets! In-Store Only, or Call! | none | n/a | Promo; no `List-Unsubscribe` header found in fetched body; no action |
+| 2026-11-10 | post+the-weekender@substack.com | reedsut@gmail.com | INBOX/501 | “What can I do but oblige the wishes of the dying?” | POST-candidate | not attempted (not executed) | RFC8058 HTTPS found |
+| 2026-11-10 | thangs-user-updates@thangs.com | reedsut@gmail.com | INBOX/504 | The countdown to Christmas is on! Get ready with these 3D printed advent calendars | POST | 200 | RFC 8058 one-click attempted; unsubscribe request accepted |
+| 2026-11-10 | answers@westervillelibrary.org | reedsut@gmail.com | INBOX/599 | Westerville's history just became searchable. 🗞️ | none |  | Body not available for parsing (MCP fetch output persisted/truncated in session) |
+| 2026-11-10 | cole.procik@agilitypartners.io | sutliff.reed@gmail.com | INGEST/675 | Following Up | none | n/a | No `List-Unsubscribe` header found; appears personal follow-up/likely transactional — skipped |
+| 2026-11-10 | elle-gm@chirpbooks.com | reedsut@gmail.com | INBOX/297 | We’re giving you ANY audiobook for $3 (today only!) | POST-candidate | not attempted (not executed) | RFC8058 HTTPS present (Chirp) |
+| 2026-11-10 | email@em.sherwin-williams.com | reedsut@gmail.com | INBOX/648 | Picked your color? Find a painter on Thumbtack. | POST | 200 | RFC 8058 one-click attempted; unsubscribe request accepted |
+| 2026-11-10 | google-noreply@google.com | reed@ffilt.us | INBOX/191 | New privacy settings for Search services | none | skipped | Transactional/account/security/notice |
+| 2026-11-10 | hello@clicks.tech | reedsut@gmail.com | INBOX/538 | We put buttons on the iPhone 18 | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | hello_en@e.wonderbly.com | emileesutliff@gmail.com | INBOX/568 | Don't forget you've got $10 credit to spend | none | n/a | No List-Unsubscribe header in fetched body |
+| 2026-11-10 | info@dermatologycolumbus.com | reedsut+derm@gmail.com | INGEST/740 | Northeast Dermatology Now Accepts UHC — Book Your Next Visit! | POST | 200 | RFC 8058 one-click attempted; unsubscribe request accepted |
+| 2026-11-10 | jcharmes@cordblood.com | reedsut@gmail.com | INGEST/804 | Newborn Stem Cells: Insights for Expecting Parents - Last Chance to RSVP | none |  | Body not available for parsing (MCP fetch output persisted/truncated in session) |
+| 2026-11-10 | john@optimhire.ai | sutliff.reed@gmail.com | INBOX/551 | Reed, review your priority match for Senior Software Engineer opportunity (+10 more matches) | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | Microsoftstore@microsoftstore.microsoft.com | reedsut@gmail.com | INBOX/213 | Up to $700 off select Surface for your early gifting | none | n/a | No List-Unsubscribe header in fetched body |
+| 2026-11-10 | news@discover.offerup.com | reedsut@gmail.com | INGEST/815 | 12 items gaining attention right now | POST | 200 | RFC 8058 one-click attempted; unsubscribe request accepted |
+| 2026-11-10 | no-reply+e107e771@toast-restaurants.com | reedsut@gmail.com | INBOX/290 | Celebrate Veterans Day with us! | none |  | Body not available for parsing (MCP fetch output persisted/truncated in session) |
+| 2026-11-10 | no-reply@gitkraken.com | reed@ffilt.us | INBOX/163 | Git shouldn’t make you hesitate | POST | 202 | One-click HTTPS `List-Unsubscribe` (+ mailto present); success; unsubscribe request accepted |
+| 2026-11-10 | no-reply@google.com | sutliff.reed@gmail.com | INBOX/221 | Welcome to Google on your Linux | none | n/a | Not processed — MCP outage |
+| 2026-11-10 | noreply@e.fiverr.com | reedsut@gmail.com | INGEST/1022 | You’ve got new messages from Malik Ali Nawaz | none | — | No `List-Unsubscribe` header found |
+| 2026-11-10 | open-houses@mail.zillow.com | reedsut@gmail.com | INBOX/422 | Plan Your Weekend: 4 open houses and 3 new listings - NE Coumbus | none |  | Body not available for parsing (MCP fetch output persisted/truncated in session) |
+| 2026-11-10 | pesupport@namecheap.com | reed@ffilt.us | INBOX/192 | Reminder: Private Email webmail is changing | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | rewards-and-benefits@message.capitalone.com | emileesutliff@gmail.com | INBOX/475 | We noticed you haven't taken advantage of your $25 travel offer yet | none | n/a | Not processed — MCP outage |
+| 2026-11-10 | store+2752769@m.shopifyemail.com | reedsut@gmail.com | INBOX/522 | Final Hours, Sale Ends Tomorrow...🎃 35% Off at ADK! | none | ERR | Body fetched (one-click header present) but not parseable/accessible for scripted action in this run |
+| 2026-11-10 | store+57687900323@t.shopifyemail.com | emileesutliff@gmail.com | INBOX/307 | A shipment from order #2810356 has been delivered | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | team@notifications.cheaperinference.com | sutliff.reed@gmail.com | INBOX/615 | Fable 5.2 is live and discounted | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | transunion@em-tuci.transunion.com | emileesutliff@gmail.com | INBOX/485 | CreditView Report Alert for Emilee | none | n/a | Not processed — MCP outage |
+| 2026-11-10 | aaa@email.aaa-cluballiance.com | REEDSUT@gmail.com | INBOX/493 | Reed, Your 2026 AAA Holiday Gift Guide is Here | POST | 202 | RFC 8058 one-click attempted; unsubscribe request accepted |
+| 2026-11-10 | account@twitch.tv | reedsut@gmail.com | INBOX/245 | Your Twitch Account - Successful Social Log-in | none | skipped | Transactional/account/security/notice |
+| 2026-11-10 | admin@inbox.erli-automobile.de | reed@ffilt.us | INBOX/183 | ffilt.us will expire soon — renew now to keep your site live | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | admin@inbox.hochzeitsjaguar.com | reed@ffilt.us | INBOX/181 | Renew Your Domain ffilt.us to Avoid Service Interruption | none | n/a | Not processed — MCP outage |
+| 2026-11-10 | admin@inboxing.hochzeitsjaguar.com | reed@ffilt.us | INBOX/190 | URGENT: Domain ffilt.us will expire soon - renew now | none | — | No `List-Unsubscribe` header found |
+| 2026-11-10 | admin@renews.achat-werbeagentur.de | reed@ffilt.us | INBOX/175 | Reminder: Renewal notifications for: www.ffilt.us | none | skipped | Transactional/account/security/notice (suspicious/spoof-like renewal notice) |
+| 2026-11-10 | admin@uber.com | emileesutliff@gmail.com | INBOX/478 | Do not share: 8947 | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | ae-first-look16@newarrival.aliexpress.com | reedsut@gmail.com | INBOX/423 | To pair with what you purchased | none | n/a | Not processed — MCP outage |
+| 2026-11-10 | ae-week-digest20@mail.aliexpress.com | reedsut@gmail.com | INBOX/630 | To pair with what you purchased | none | — | No `List-Unsubscribe` header found |
+| 2026-11-10 | akfred.sakama@bellnexxia.com | reed@ffilt.us | INBOX/168 | 𝖯𝗅𝖾𝖺𝗌𝖾 𝖢𝗁𝖾𝖼𝗄 𝗒𝗈𝗎𝗋 𝖨𝗇𝖿𝗈𝗋𝗆𝖺𝗍𝗂𝗈𝗇 | none | skipped | Transactional/account/security/notice (suspicious/spoof-like) |
+| 2026-11-10 | aliexpress@notice.aliexpress.com | reedsut@gmail.com | INBOX/344 | Tell us about your AliExpress experience! | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | alszkbnzbxun7d48eqez@koga.cadim.com.ng | reed@ffilt.us | INBOX/152 | Quick Account Check-In | none | n/a | Not processed — MCP outage |
+| 2026-11-10 | AmeriSave@e.amerisave.com | reedsut@gmail.com | INBOX/386 | Reed, we found great news about your payment. | POST | 202 | RFC 8058 one-click attempted; unsubscribe request accepted |
+| 2026-11-10 | AmeriSave@e.AmeriSave.com | reedsut@gmail.com | INGEST/715 | Good news about your payment, Reed. | none | skipped | Transactional/account/security/notice (payment/account-related) |
+| 2026-11-10 | bank-offers@email.capitalone.com | emileesutliff@gmail.com | INBOX/378 | $400 limited-time bonus offer: Emilee, get rewarded for all the ways you bank | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | bingo@live.patreon.com | sutliff.reed@gmail.com | INGEST/837 | Join Not Another D&D Podcast's live now | none | n/a | Not processed — MCP outage |
+| 2026-11-10 | bingo@updates.patreon.com | sutliff.reed@gmail.com | INGEST/867 | Council of Elders Q&A! | none | ERR | Body fetched but parse/process error from saved/persisted result in this run |
+| 2026-11-10 | bmurray@comresource.com | reedsut@gmail.com | INBOX/583 | Refer Talent. Support a Cause. Make an Impact. | none | skipped | Recruiting/outreach/invite (not bulk marketing) |
+| 2026-11-10 | Bon_Appetit@e-mail.condenast.com | reedsut@gmail.com | INBOX/278 | Bon Appétit Subscription Notice | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | careers@doist.com | reed@ffilt.us | INBOX/156 | We’re moving job updates to LinkedIn | none | n/a | Not processed — MCP outage |
+| 2026-11-10 | citicards@info6.citi.com | emileesutliff@gmail.com | INBOX/356 | Your statement is now available online | skip | n/a | Appears transactional (statement/notice); not unsubscribed |
+| 2026-11-10 | copilot@optimhire.ai | sutliff.reed@gmail.com | INBOX/448 | Reed, priority match for your Senior Software Engineer (+10 more matches) | none | skipped | Recruiting/outreach/invite (not bulk marketing) |
+| 2026-11-10 | developer@insideapple.apple.com | reedsut@gmail.com | INGEST/721 | Say hello to Touch on Mac. | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | DoNotReply@order.raisingcanes.com | reedsut@gmail.com | INGEST/772 | Click here to check in for your order | none | n/a | Not processed — MCP outage |
+| 2026-11-10 | em@em1.cloudflare.com | reedsut@gmail.com | INGEST/612 | [Action Required] Upgrade your Cloudflare Tunnel to version 2026.10.2 or later | none | — | No `List-Unsubscribe` header found |
+| 2026-11-10 | email@newsletter.bonappetit.com | reedsut@gmail.com | INGEST/660 | Enter for a Chance to Win a Bon Appetit Gear of the Year Prize Package | none |  | Body not available for parsing (MCP fetch output persisted/truncated in session) |
+| 2026-11-10 | email@notify.lendingtree.com | reedsut@gmail.com | INBOX/328 | Reed, confirm your $9,000 loan request | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | english-quora-digest@quora.com | reedsut@gmail.com | INBOX/388 | Jesus was not a Jew. Why do people think He was? | none | n/a | Not processed — MCP outage |
+| 2026-11-10 | ExperienceTeam@medvet.com | emileesutliff@gmail.com | INBOX/269 | MedVet Client Experience Survey | none | ERR | Body fetched (one-click header present incl. mailto) but not parseable/accessible for scripted action in this run |
+| 2026-11-10 | features-and-upgrades@message.capitalone.com | emileesutliff@gmail.com | INBOX/364 | We're excited for you to get 0% APR for 12 months, Emilee | none |  | Body not available for parsing (MCP fetch output persisted/truncated in session) |
+| 2026-11-10 | firefox@mail.mozilla.org | reedsut@gmail.com | INGEST/582 | Settings changes in the Firefox redesign | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | google-health-noreply@google.com | emileesutliff@gmail.com | INBOX/227 | Your weekly progress report from Google Health | none | n/a | Not processed — MCP outage |
+| 2026-11-10 | googlepay-noreply@google.com | reedsut@gmail.com | INBOX/298 | Your annual notice about our customer service and error resolution policy | none | ERR | Body fetched but parse/process error from saved/persisted result in this run |
+| 2026-11-10 | hello@joinwelo.com | reedsut+welo@gmail.com | INGEST/739 | Help us make welo better (+ a chance at a $300 gift card) | none |  | Body not available for parsing (MCP fetch output persisted/truncated in session) |
+| 2026-11-10 | hello@lmmcare.com | reed@ffilt.us | INBOX/170 | Official Notice: Email Service Deactivation | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | hello@lottiefiles.com | sutliff.reed@gmail.com | INGEST/785 | Lottie Creator now supports audio 🎵 | none | n/a | Not processed — MCP outage |
+| 2026-11-10 | hi@news.kilocode.ai | sutliff.reed@gmail.com | INGEST/820 | Kilo Weekly: Happy Halloween! | none | ERR | Body fetched but parse/process error from saved/persisted result in this run |
+| 2026-11-10 | hit-reply@linkedin.com | reedsut@gmail.com | INGEST/672 | Message replied: Senior Software Engineer - Computer Vision & RPA, Remote | none | skipped | Transactional/account/security/notice (message replied) |
+| 2026-11-10 | info@asn.herbergi408.is | reed@ffilt.us | INBOX/173 | Reminder: Renewal notifications for: www.ffilt.us | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | info@berniesanders.com | reedsut@gmail.com | INGEST/687 | Please help Randy and Will - From Bernie | none | n/a | Not processed — MCP outage |
+| 2026-11-10 | info@capricciocatering.de | reed@ffilt.us | INBOX/154 | Action Required: Your Mail Subscription Is in Grace Period | none | ERR | Body fetched but parse/process error from saved/persisted result in this run |
+| 2026-11-10 | info@cerebras.net | reedsut@gmail.com | INBOX/452 | The Latest from Cerebras: Oracle Cloud, new partners, and more | none |  | Body not available for parsing (MCP fetch output persisted/truncated in session) |
+| 2026-11-10 | info@inbox.heinder-naturtrueb.de | reed@ffilt.us | INBOX/185 | URGENT: Domain ffilt.us will expire soon - renew now | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | info@info.aven.com | reedsut@gmail.com | INGEST/765 | Get $25,000 for as little as $149.73/mo with Aven | none | n/a | Not processed — MCP outage |
+| 2026-11-10 | info@leasefromme.com | reed@ffilt.us | INBOX/157 | Wise-Support | none | ERR | Body fetched (one-click header present) but not parseable/accessible for scripted action in this run; suspicious/phishing-like content noted |
+| 2026-11-10 | info@rechtdirect.nl | reed@ffilt.us | INBOX/153 | We couldn't charge the payment method for your subscription. | none | skipped | Transactional/account/security/notice (suspicious/spoof-like billing notice) |
+| 2026-11-10 | info@soulshiftforcarers.com | emileesutliff@gmail.com | INBOX/530 | 💗 You're in! Your FREE Burnout & Nervous System Workshop | POST | 204 | One-click HTTPS (from cached/parsed data); success; unsubscribe request accepted |
+| 2026-11-10 | invitations@linkedin.com | reedsut@gmail.com | INBOX/588 | I want to connect | none | n/a | Not processed — MCP outage |
+| 2026-11-10 | LLC_BANKAI.NET.bankai.NET.MCK.NET.MCK.NET.MCK.NET.LLC_BANKAI@telacuti.com | reedsut@gmail.com | INGEST/758 | RE: Welcome to your Fidelity Life offer      403 tgM9dsl5e61K8dYzlj4FEv9sQFXNN7gzYQO1ffaMB5K0O7IqKVR | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | market-updates@mail.zillow.com | reedsut@gmail.com | INGEST/625 | Housing market updates: Pickerington, 43147 | none |  | Body not available for parsing (MCP fetch output persisted/truncated in session) |
+| 2026-11-10 | marketing@news.tinybeans.com | reedsut@gmail.com | INBOX/284 | 🎁 Wish List Wednesday: Gifts They'll Play With Long After the Holidays | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | master@estetikamentelaser.it | reed@ffilt.us | INBOX/180 | The Domain ffilt.us will expire in the next 2 days. | none | n/a | Not processed — MCP outage |
+| 2026-11-10 | matthew@advintersection.org | reed@ffilt.us | INBOX/201 | Partnership Opportunity with Advanced Intersection | none | ERR | Body fetched but not parseable/accessible for scripted action in this run; likely cold outreach/spam (no unsubscribe header expected) |
+| 2026-11-10 | micah@firecrawl.dev | sutliff.reed@gmail.com | INBOX/642 | Firecrawl's v1 API shuts down on December 10 | none | skipped | Transactional/account/security/notice (service/API notice) |
+| 2026-11-10 | Mohamed.AJDIA@edu.uiz.ac.ma | reed@ffilt.us | INBOX/179 | Secure your PrivateMail account | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | my-home@mail.zillow.com | reedsut@gmail.com | INGEST/763 | Your Home Report for 12703 Stonecreek Dr - Zestimate and Neighborhood Updates | none | n/a | Not processed — MCP outage |
+| 2026-11-10 | my-saved-home@mail.zillow.com | sutliff.reed@gmail.com | INGEST/914 | Your Home Report for 5272 Sweetgum Pl - Values, Forecast, Neighborhood Activity | POST | 204 | RFC 8058 one-click attempted; unsubscribe request accepted |
+| 2026-11-10 | mywendys@notifications.wendys.com | reedsut@gmail.com | INBOX/394 | Your Wendy's Digital Order Receipt | none | skipped | Transactional/account/security/notice (order receipt) |
+| 2026-11-10 | news@e.eyebuydirect.com | emileesutliff@gmail.com | INBOX/607 | Thanks for your purchase 🙌😎 | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | no-reply-ugc@samsclub.com | reedsut@gmail.com | INGEST/922 | Give us the scoop on your recent purchase. | none | n/a | Not processed — MCP outage |
+| 2026-11-10 | no-reply@account.mintmobile.com | reedsut@gmail.com | INBOX/404 | Boom. You've officially switched to eSIM. | none | — | No `List-Unsubscribe` header found |
+| 2026-11-10 | no-reply@affirm.com | sutliff.reed@gmail.com | INBOX/646 | Your Application to Affirm | none | skipped | Transactional/account/security/notice (application) |
+| 2026-11-10 | no-reply@clientconnectionplus.com | emileesutliff@gmail.com | INBOX/354 | Your dog's care has never been easier | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | no-reply@descript.com | sutliff.reed@gmail.com | INBOX/277 | Thanks for applying to Descript! | none | n/a | Not processed — MCP outage |
+| 2026-11-10 | no-reply@drop.cobrand.com | reedsut@gmail.com | INGEST/650 | ESF Reissue / B-sides / Pinetabs / Merch | POST | 200 | RFC 8058 one-click attempted (note: same UID `650` appears again in batch as INGEST entry); unsubscribe request accepted |
+| 2026-11-10 | no-reply@kalshi.com | reedsut@gmail.com | INGEST/776 | Prediction markets are growing. Stay connected in Ohio. | none |  | Body not available for parsing (MCP fetch output persisted/truncated in session) |
+| 2026-11-10 | no-reply@launchdarkly.com | sutliff.reed@gmail.com | INBOX/462 | Thank You from LaunchDarkly | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | no-reply@lithic.com | sutliff.reed@gmail.com | INGEST/750 | Follow-up about your application to Lithic | none | n/a | Not processed — MCP outage |
+| 2026-11-10 | no-reply@mail.alpaca.markets | sutliff.reed@gmail.com | INGEST/946 | Scheduled maintenance on November 7, 2026. Here’s what to expect. | none | ERR | Body not available in saved results |
+| 2026-11-10 | no-reply@mailer.alpaca.markets | sutliff.reed@gmail.com | INGEST/618 | Scheduled maintenance on October 31, 2026. Here’s what to expect. | none | skipped | Transactional/account/security/notice (maintenance) |
+| 2026-11-10 | no-reply@mermaid.ai | sutliff.reed@gmail.com | INBOX/406 | Mermaid API is in open beta | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | no-reply@ms.email.nextdoor.com | reedsut@gmail.com | INGEST/797 | 🎃 Reed, plan where to trick-or-treat tomorrow | none | n/a | Not processed — MCP outage |
+| 2026-11-10 | no-reply@news.termius.com | reedsut@gmail.com | INBOX/218 | Termius News: Libghostty, agent notifications, and smarter autocomplete on mobile. | none | ERR | Body not available in saved results |
+| 2026-11-10 | no-reply@recruiting.upstart.com | sutliff.reed@gmail.com | INGEST/942 | Follow up from Upstart | none | skipped | Transactional/account/security/notice (recruiting follow-up) |
+| 2026-11-10 | no-reply@turing.com | sutliff.reed@gmail.com | INGEST/960 | Your login link is ready: Complete your Turing assessment on desktop | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | noreplay@aeronautique-associates.com | reed@ffilt.us | INBOX/171 | Renew Now Your Domain (ffilt.us) | none | n/a | Not processed — MCP outage |
+| 2026-11-10 | noreplay@benzi-etansare.ro | reed@ffilt.us | INBOX/184 | Service Expiration - Renew Now Your Domain ffilt.us. | none | ERR | Body not available in saved results |
+| 2026-11-10 | noreplay@petsfirstelitegrooming.com | reed@ffilt.us | INBOX/169 | URGENT: Renew Now Your Domain ffilt.us | none | skipped | Transactional/account/security/notice (suspicious/spoof-like domain renewal) |
+| 2026-11-10 | noreplay@rost-pod.ro | reed@ffilt.us | INBOX/182 | Alert: The Domain ffilt.us will expire in the next day. | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | noreply-photos@google.com | reedsut@gmail.com | INGEST/770 | Make your Halloween memories picture-perfect 📸 | none | n/a | Not processed — MCP outage |
+| 2026-11-10 | noreply@bandcamp.com | reedsut@gmail.com | INGEST/651 | New release from Pinegrove | POST | 200 | RFC 8058 one-click attempted; unsubscribe request accepted |
+| 2026-11-10 | noreply@busright.me | reedsut@gmail.com | INGEST/808 | You're invited to BusRight! | none | skipped | Recruiting/outreach/invite (not bulk marketing) |
+| 2026-11-10 | noreply@campaign.eventbrite.com | emileesutliff@gmail.com | INBOX/517 | You’re invited to Ohio Made Merry: Christmas Pop-Up Bar (November 20, 2026) | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | noreply@communications.breezeline.us | reedsut@gmail.com | INGEST/754 | Reed, treat a friend & get a $100 bill credit 🎃👻 | none | n/a | Not processed — MCP outage |
+| 2026-11-10 | noreply@email.mintmobile.com | reedsut@gmail.com | INBOX/552 | Phone Protection by Allstate has your back | none | ERR | Body not available in saved results |
+| 2026-11-10 | noreply@internationalgroupcolleferro.it | reed@ffilt.us | INBOX/492 | Renew Your Private EmaiI Subscription -reed@ffilt.us- | none | skipped | Transactional/account/security/notice (suspicious/spoof-like billing) |
+| 2026-11-10 | noreply@marketing.couchsurfing.com | reedsut@gmail.com | INBOX/514 | Travelers are coming to Columbus | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | noreply@windscribe.com | reedsut@gmail.com | INBOX/463 | Black Friday Came Early: $29 USD/year | none | n/a | Not processed — MCP outage |
+| 2026-11-10 | notifications@cardsolutions.usbank.com | emileesutliff@gmail.com | INBOX/271 | EMILEE, Missed Payment Notification | none | ERR | Body not available in saved results |
+| 2026-11-10 | notifications@t.mail.vello.idexx.com | emileesutliff@gmail.com | INBOX/261 | Maxine’s appointment has been booked | none | skipped | Transactional/account/security/notice (appointment booked) |
+| 2026-11-10 | personal-loan-offers@offer.capitalone.com | emileesutliff@gmail.com | INBOX/602 | View your offer and reply by Dec. 3, 2026 | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | post+unstacked@substack.com | reedsut@gmail.com | INGEST/952 | The local reporter who took the government to court twice | none | n/a | Not processed — MCP outage |
+| 2026-11-10 | promotion@aliexpress.com | reedsut@gmail.com | INGEST/730 | Interested in what you viewed? | none | ERR | Body not available in saved results |
+| 2026-11-10 | receipts@steaknshakeorders.com |  | INBOX/527 | We've Received Your Order! | none | skipped | Transactional/account/security/notice (order receipt) |
+| 2026-11-10 | roku@emails.roku.com | reedsut@gmail.com | INGEST/854 | Action required: Check HTTPS certificates by 11/5/26 | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | security@facebookmail.com | reedsut@gmail.com | INBOX/359 | Did you just move a new profile into your Meta Account? | none | n/a | Not processed — MCP outage |
+| 2026-11-10 | servicing@t.rocketloans.com | emileesutliff@gmail.com | INBOX/598 | Rocket Loans℠ and Cross River Bank Annual Privacy Notice. | none | ERR | Body not available in saved results |
+| 2026-11-10 | store+2752769@g.shopifyemail.com | reedsut@gmail.com | INGEST/811 | All Treats No Tricks! 🎃 35% Off + A Treat in Every Order from ADK | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | store+56507138211@g.shopifyemail.com | reedsut@gmail.com | INBOX/590 | Thanks for a great 2026 season! | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | store-news@amazon.com | emilee.sutliff@gmail.com | INBOX/444 | Introducing Uber Eats with Prime ✨ | none | n/a | Not processed — MCP outage |
+| 2026-11-10 | support@estetikamentelaser.it | reed@ffilt.us | INBOX/177 | Your domain (ffilt.us) is close to renewal | none | ERR | Body not available in saved results |
+| 2026-11-10 | support@info.teammyway.com | REEDSUT@GMAIL.COM | INGEST/998 | Reed, find support at every step with DUPIXENT® (dupilumab) 😌 | none |  | Body not available for parsing (MCP fetch output persisted/truncated in session) |
+| 2026-11-10 | support@movilidadgalia.com | reed@ffilt.us | INBOX/172 | Your domain (ffilt.us) is close to renewal | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | support@sc.mail.deepseek.com | reedsut@gmail.com | INGEST/640 | Notice of DeepSeek Search API Pricing of Server-Side Tool Call | none | n/a | Not processed — MCP outage |
+| 2026-11-10 | support@thangs.com | reedsut@gmail.com | INGEST/1006 | virtualdiversions gifted you a free membership on Thangs! | none | ERR | Body not available in saved results |
+| 2026-11-10 | sync-test@example.com | ingest@ffilt.us | INBOX/204 | [email-sync test] end-to-end pull verification | none | skipped | Transactional/account/security/notice (test message) |
+| 2026-11-10 | tickets@live.vividseats.com | reedsut@gmail.com | INGEST/615 | Halloween Treats Inside 👻 | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | TurboTax@em2.turbotax.intuit.com | sutliff.reed@gmail.com | INGEST/719 | Final Notice: Your tax filing status | none | n/a | Not processed — MCP outage |
+| 2026-11-10 | update@digital.metamail.com | reedsut@gmail.com | INBOX/616 | Muse Ember is now available in Muse Code and Meta Model API | none | ERR | Body not available in saved results |
+| 2026-11-10 | updates@moonshot.kimi.ai | reedsut@gmail.com | INGEST/587 | Kimi K3.1 Pro is Here | none |  | Body not available for parsing (MCP fetch output persisted/truncated in session) |
+| 2026-11-10 | welcome@mail.meshinspector.com | reedsut@gmail.com | INGEST/916 | Welcome to MeshInspector! | none | pending | No subagent result recorded; needs retry |
+| 2026-11-10 | whattoexpect@mail.sailthru.com | reedsut@gmail.com | INBOX/273 | Why WTE Moms Add Freestyle to Their Registry | none | n/a | Not processed — MCP outage |
+| 2026-11-11 | alerts@ziprecruiter.com | sutliff.reed@gmail.com | INBOX/690 | Sr. Software Development Engineer opening at Amazon Kuiper Manufacturing Enterprises LLC | POST | 403 | RFC 8058 one-click POST attempted; Cloudflare bot-block (403 "Just a moment..."); known ZipRecruiter pitfall |
+| 2026-11-11 | notifications-noreply@linkedin.com | reedsut@gmail.com | INBOX/695 | Your profile is popular - 28 search appearances | POST | 200 | RFC 8058 one-click; unsubscribe request accepted |
+| 2026-11-11 | marketing@news.tinybeans.com | reedsut@gmail.com | INBOX/702 | Warning: These books may cause endless “read it again!” 📚 | POST | 200 | RFC 8058 one-click (HTTPS, token redacted); unsubscribe request accepted |
+| 2026-11-11 | googlepixel-noreply@google.com | reedsut@gmail.com | INBOX/710 | Meet Google Pixel Tag, our first-ever item finder | POST | 200 | RFC 8058 one-click (Google communication-preferences); unsubscribe request accepted |
+| 2026-11-08 | newsletter@xda-developers.com | reedsut@gmail.com | INBOX/553 | Unsubscription Confirmation | none | n/a | Unsubscribe CONFIRMATION received (no unsubscribe performed — backfill run 2026-11-11). XDA newsletter already unsubscribed via RFC 8058 one-click on INBOX/573, 2026-11-10. Promo/noise, action-required: no. |
+| 2026-11-11 | noreply@uber.com | reedsut@gmail.com | INBOX/717 | 15% back is checking in soon | POST | 202 | RFC 8058 one-click (Uber postmaster HTTPS, token redacted); 202 accepted, empty body; promo Uber One Member Days hotel offer, no ledger entry |
+| 2026-11-11 | newsletter@email.ticketmaster.com | REEDSUT@gmail.com | INBOX/719 | John Crist Presale Starts Tomorrow | POST | 400 | RFC 8058 one-click POST -> HTTP 400; GET fallback -> 302 /Error.aspx (stored List-Unsubscribe token elided: `jwt=eyJhbG...4BR4`); mailto leave-UOGGVSSWGK6UHCEB757LX3W3XU.70268@leave.email.ticketmaster.com recorded, not sent |
+| 2026-11-11 | reply@email.livenation.com | REEDSUT@gmail.com | INBOX/720 | Presale for Matteo Lane Starts Tomorrow! | POST | 202 | RFC 8058 one-click (click.email.livenation.com subscription_center, jwt redacted); 202 body "Unsubscribe Request Accepted"; mailto leave-...@leave.email.livenation.com recorded, not sent |
+| 2026-11-12 | no-reply@kalshi.com | reedsut@gmail.com | INBOX/721 | Reed, claim 5 on us | POST | 200 | RFC 8058 one-click; accepted (body {}) |
+| 2026-11-12 | marketing.department@email-freedommortgage.com | reedsut+fmort@gmail.com | INBOX/722 | Join us in recognizing our nation’s Veterans. | none | n/a | No List-Unsubscribe header; only List-Help subscription_center URL with elided JWT token; no mailto or footer unsubscribe link; automated unsubscribe not possible |
+| 2026-11-12 | do-not-reply@imdb.com | reedsut@gmail.com | INBOX/737 | Here's what's been renewed and canceled | POST | 202 | RFC 8058 one-click; unsubscribe request accepted |
+| 2026-11-12 | jeanne.arter@worldteam.org | reedsut@gmail.com | INBOX/738 | Light in Dark Places | POST | 200 | RFC 8058 one-click; unsubscribe request accepted |
+| 2026-11-12 | hello@news.paradoxinteractive.com | reedsut@gmail.com | INBOX/744 | 🪖 Hearts of Iron IV: Expansion Pass 3 is Here | POST | 200 | RFC 8058 one-click (List-Unsubscribe-Post: One-Click); 200 accepted, empty body; promo Paradox HOI4 Expansion Pass 3, no ledger entry |
+| 2026-11-12 | support@mail6.lendingclub.com | sutliff.reed@gmail.com | INBOX/746 | Reed, please don't ignore this | mailto | n/a | Mailto-only unsubscribe indicated (HTTPS URL is an elided CloudPages JWT redirect; no one-click POST attempted) |
+| 2026-11-12 | hello@e.spendr.com | reedsut@gmail.com | INBOX/748 | Already shopped Nar this week? It counts toward $20 | POST | 200 | RFC 8058 one-click (List-Unsubscribe-Post: One-Click); 200 accepted, empty body; promo Spendr Nar Columbus $75/$20 reward, no ledger entry |
+| 2026-11-12 | no-reply+e50c4826@toast-restaurants.com | reedsut@gmail.com | INBOX/751 | Roosters Holiday Catering! | POST | 202 | RFC 8058 one-click; accepted |
+| 2026-11-12 | no-reply+320e084e@toast-restaurants.com | reedsut@gmail.com | INBOX/754 | Roosters Holiday Catering! | POST | 202 | RFC 8058 one-click; accepted |
+| 2026-11-12 | elle-gm@chirpbooks.com | reedsut@gmail.com | INBOX/766 | We’re giving you ANY audiobook for $3 (today only!) | POST | 302 | RFC 8058 one-click POST attempted (List-Unsubscribe=One-Click); HTTP 302 redirect to sign_in; request sent |
+| 2026-11-12 | noreply@email.shop.app | reedsut@gmail.com | INBOX/769 | The New Yorker’s holiday gift edit | POST | 404 | RFC 8058 one-click POST to List-Unsubscribe URL returned 404 (Shop unsubscribe endpoint) |

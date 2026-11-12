@@ -1,0 +1,44 @@
+---
+title: Job alerts
+tags: [email-triage, job-alerts]
+---
+
+# Job alerts
+
+## 2026-11-08 — Business System Solutions has an open position (uid 558)
+
+- **Date:** 2026-11-08T21:13:48Z
+- **Sender:** alerts@ziprecruiter.com (ZipRecruiter)
+- **Subject:** Reed, Business System Solutions has an open position
+- **Summary:** ZipRecruiter bulk job-alert digest promoting an open role at Business System Solutions, delivered to sutliff.reed@gmail.com (142 KB HTML, no attachments). Marketing/job-alert mail, not an application confirmation. Backfilled from stored event 558 after the triage outage.
+- **Action required:** no
+
+## 2026-11-09 — DataAnnotation is hiring now (uid 600)
+
+- **Date:** 2026-11-09T19:26:00Z
+- **Sender:** alerts@ziprecruiter.com (ZipRecruiter)
+- **To:** sutliff.reed@gmail.com
+- **Subject:** DataAnnotation is hiring now. November 9, 2026
+- **Message-ID:** `<20261109192600.27baf592f4f24dd7@mg.ziprecruiter.com>`
+- **Summary:** ZipRecruiter bulk job-alert digest promoting a DataAnnotation opening (AI-training/annotation work), 140 KB HTML, no attachments. Job-board marketing mail, not an application confirmation or recruiter outreach. Backfilled from stored event 600 after the triage outage; no unsubscribe performed (backfill run).
+- **Action required:** no
+
+## 2026-11-10 — $125/hr Software Developer (part-time WFH) - AI Trainer job in Santa Monica, CA (UID 645)
+
+- **Date:** 2026-11-10T14:57:45Z
+- **Sender:** alerts@ziprecruiter.com (ZipRecruiter)
+- **To:** sutliff.reed@gmail.com
+- **Subject:** $125/hr Software Developer (part-time work from home) - AI Trainer job in Santa Monica, CA
+- **Message-ID:** `<20261110145745.dc426ed37962c2db@mg.ziprecruiter.com>`
+- **Summary:** ZipRecruiter bulk job-alert digest pitching an AI-trainer listing at $125/hr, part-time work-from-home, Santa Monica CA (141 KB HTML, no attachments). Job-board marketing mail, not an application confirmation or recruiter outreach; the named rate and location are ad copy, not an offer. Same sender family as uids 558 and 600. Backfilled from stored event 645 after the triage outage. The unsubscribe ledger already holds a row for INBOX/645 (one-click POST rejected 403); no unsubscribe performed (backfill run).
+- **Action required:** no
+
+## 2026-11-10 — Your Personalized Remote Jobs for Extra Income 🚀 (Nov. 10) (UID 660)
+
+- **Date:** 2026-11-10T19:22:21Z
+- **Sender:** newcomers@email.intch.org (Intch)
+- **To:** emileesutliff@gmail.com
+- **Subject:** Your Personalized Remote Jobs for Extra Income 🚀 (Nov. 10)
+- **Message-ID:** `<010701a1c6e94eb4-0d13eabd-d9bd-481a-9314-888680a34f67-000000@eu-central-1.amazonses.com>`
+- **Summary:** Intch (intch.org) remote-job marketing digest for Emilee — "lots of new remote job posts targeted at your expertise in Education, Scientist, Call Center and more. Complete the onboarding process to get access to them." Single HTML part (~16 KB visible copy ~280 chars), no attachments, Amazon SES delivery. Job-board marketing mail, not an application confirmation, recruiter outreach, or an offer; the call to action is onboarding signup, so no action is required from the household. New sender family alongside ZipRecruiter in this topic. Auth: dkim=pass (email.intch.org, s=e2pk2hg67azk4x4qfqiehc7msaobht3n; amazonses.com s=qftdzk2dqsatjnlrq4r5brjbihpfcrsh), spf=pass, dmarc=pass p=none, arc=pass. No `List-Unsubscribe` header — opt-out is a body link only; **no unsubscribe performed** (backfill run). Backfilled from stored event 660 after the triage outage.
+- **Action required:** no

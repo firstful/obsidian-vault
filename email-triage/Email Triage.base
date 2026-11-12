@@ -1,0 +1,18 @@
+filters:
+  and:
+    - file.inFolder("email-triage/topics")
+    - file.ext == "md"
+properties:
+  file.name:
+    displayName: Topic
+  title:
+    displayName: Title
+  description:
+    displayName: Description
+views:
+  - type: table
+    name: Topics
+    order:
+      - file.name
+      - title
+      - description

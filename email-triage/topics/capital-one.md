@@ -1,0 +1,65 @@
+---
+title: Capital One
+tags: [email-triage, capital-one]
+---
+
+# Capital One
+
+## 2026-11-08 — Get caught up on your late payment today
+
+- **Date:** 2026-11-08
+- **Sender:** capitalone@notification.capitalone.com
+- **Subject:** Get caught up on your late payment today
+- **Summary:** Capital One Quicksilver Credit Card ending 4809 (Reed Sutliff) is in Collections after a missed payment. Minimum payment $157.00 due by November 16, 2026 to get caught up and out of Collections; further missed payments may raise the minimum and add fees. Pay via Capital One app, online banking, or 800-955-6600. Follow-up to an identical late-payment notice sent 2026-11-04 (uid 283).
+- **Action required:** yes
+
+## 2026-11-08 — We've received your payment
+
+- **Date:** 2026-11-08T20:05:07Z (payment dated November 7, 2026)
+- **Sender:** capitalone@notification.capitalone.com (Capital One | Quicksilver)
+- **To:** emileesutliff@gmail.com (forwarded via Cloudflare routing to reed@ffilt.us)
+- **Subject:** We've received your payment
+- **UID:** 554 (INBOX, message-id `<C8.C0.00756.3F5D0FA6@i-011893e90698e4fff.mta2vrest.sd.prd.sparkpost>`)
+- **Summary:** Capital One Quicksilver payment confirmation — "Thanks for your payment of $194.57", payment dated November 7, 2026. Informational receipt only; no account number, balance, or amount-due shown in the message. DKIM/DMARC/SPF pass (notification.capitalone.com).
+- **Action required:** no
+
+## 2026-11-09 — View your offer and reply by Dec. 3, 2026
+
+- **Date:** 2026-11-09T19:45:43Z
+- **Sender:** Discover by Capital One <personal-loan-offers@offer.capitalone.com>
+- **To:** emileesutliff@gmail.com
+- **Subject:** View your offer and reply by Dec. 3, 2026
+- **UID:** 602 (INBOX, message-id `<99.A9.46985.7E222FA6@i-0f13f1d3b3e8d942d.mta2vrest.sd.prd.sparkpost>`)
+- **Summary:** Marketing solicitation — Discover (now part of Capital One) invites Emilee to apply for a fixed-rate Discover personal loan of $2,500–$40,000; APR 6.99%–24.99% depending on creditworthiness, 36–84 month terms, no fees, same-day decision. "Check my rate" CTAs point at click-offer.capitalone.com; Personal Invitation ID 7429V244RNUKW-6BU, "Reply by Dec. 3, 2026". The referenced Capital One account ending 6099 is only the eligibility hook — no balance, bill, payment or account status in the message, so the Dec. 3 date is offer-expiry copy, not a household deadline. Bulk marketing via SparkPost with List-Unsubscribe one-click; addressed to Emilee, not Reed. No unsubscribe performed (backfill run).
+- **Action required:** no
+
+## 2026-11-10 — ⚠️ Capital One alert: Action required to prevent another missed payment
+
+- **Date:** 2026-11-10T16:25:57Z
+- **Sender:** Capital One | Quicksilver <capitalone@notification.capitalone.com>
+- **To:** reedsut@gmail.com (delivered to reed@ffilt.us via Cloudflare Email Routing)
+- **Subject:** ⚠️ Capital One alert: Action required to prevent another missed payment
+- **UID:** 652 (INBOX, message-id `<F5.35.25656.59543FA6@i-078252ac8972a6001.mta6vrest.sd.prd.sparkpost>`)
+- **Summary:** Collections/late-payment reminder for Quicksilver Credit Card ...4809 (Reed Sutliff). Account is past due; another payment is due **November 16, 2026**; new minimum payment amount **$157.00** (includes missed payments and fees). Pay at least the minimum to return the account to good standing. Card may be reported late to credit bureaus once more than 30 days past due if the minimum is not received by the statement due date. Assistance: 800-955-6600 (Mon–Fri 8a–11p ET, Sat–Sun 8a–5p ET). Information accurate as of 2026-11-08. Recurring notice, same account/amount as uid 283 (2026-11-04) and uid 544 (2026-11-08). No unsubscribe performed (backfill run).
+- **Action required:** yes
+
+## 2026-11-11 — ⚠️ Your account could be reported as late
+
+- **Date:** 2026-11-11T16:18:27Z
+- **Sender:** capitalone@notification.capitalone.com
+- **To:** reedsut@gmail.com
+- **Subject:** ⚠️ Your account could be reported as late
+- **UID:** 701 (INBOX, message-id `<6C.BD.21048.35594FA6@i-0ca2891cf870df11e.mta2vrest.sd.prd.sparkpost>`)
+- **Summary:** Capital One (Quicksilver, Reed Sutliff, acct ...4809) warns account may be reported late to credit bureaus if not paid; sign in to view balance and make payment to prevent late reporting. Info accurate as of 2026-11-09 per message.
+- **Action required:** yes
+
+## 2026-11-11 — Reed, your credit score has improved
+
+- **Date:** 2026-11-11T22:23:27Z
+- **Sender:** Capital One <capitalone@notification.capitalone.com>
+- **To:** reedsut@gmail.com (delivered to reed@ffilt.us via Cloudflare Email Routing)
+- **Subject:** Reed, your credit score has improved
+- **UID:** 718 (INBOX, message-id `<35.42.48589.FDAE4FA6@i-079d4bf43849d0c3f.mta2vrest.sd.prd.sparkpost>`)
+- **Summary:** CreditWise from Capital One alert — Reed's FICO® Score 8 (TransUnion data) **improved by 5 points**, monitored over the window **November 07, 2026 – November 10, 2026**. The delta is the only number in the message: it is rendered as an image whose alt text and tracking parameter read `5`, and the body carries **no absolute score value** (only a "See my score" link to the CreditWise dashboard), so the resulting score is unknown from the mail. Authentic: `dkim=pass header.d=notification.capitalone.com header.s=1024sep2015`, `spf=pass`, `dmarc=pass (policy=reject)`, `arc=pass`; sent via SparkPost. No attachment. No `List-Unsubscribe` header — the footer instead says to "unenroll from CreditWise" if unwanted, consistent with a transactional alert rather than bulk marketing. No unsubscribe performed (transactional account fact).
+- **Context / cross-reference:** the improvement window covers the **$194.57 payment dated November 7, 2026** (uid 554) posting to Quicksilver ...4809, which is the likely cause (on-time payment / reduced balance are the two CreditWise factors in play). It does **not** clear the account: the same trade line was in Collections (uid 544/652, minimum $157.00 due **November 16, 2026**) and was flagged **"could be reported as late"** the same day this alert arrived (uid 701, 2026-11-11T16:18Z). A score bump is not evidence that the late-reporting risk has passed — the ~30-day past-due threshold and the Nov 16 due date still govern.
+- **Action required:** no

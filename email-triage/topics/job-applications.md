@@ -1,0 +1,251 @@
+---
+title: Job Applications
+tags: [email-triage, job-applications]
+---
+
+# Job Applications
+
+## 2026-11-08 — Senior Staff Software Engineer, Backend (Cards) at Affirm
+
+- **Date:** 2026-11-08
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **Subject:** We've received your application for Senior Staff Software Engineer, Backend (Cards) at Affirm
+- **Summary:** Application confirmation from Affirm Talent Team via Greenhouse for the Senior Staff Software Engineer, Backend (Cards) role. High application volume; review may take time. Includes links to Affirm investor/culture/CEO content and a recruiting-scam notice (Affirm will never ask for payment; legit mail only from @affirm.com or @us.greenhouse-mail.io). Attached: GM___Immi_one_pager.pdf (resume/immigration one-pager). No action required beyond waiting; watch for follow-up from @affirm.com or @us.greenhouse-mail.io.
+- **Action required:** no
+
+
+## 2026-11-08 — Security code for Affirm application
+
+- **Date:** 2026-11-08
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **Subject:** Security code for your application to Affirm
+- **Summary:** Greenhouse security verification code for Reed's Affirm application (Senior Staff Software Engineer, Backend (Cards)). Code: 38425863. Copy/paste it into the security code field on the application, then resubmit. Time-sensitive.
+- **Action required:** yes
+
+## 2026-11-08 — Senior Staff Software Engineer, Backend (Compute Platform) at Affirm
+
+- **Date:** 2026-11-08
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **Subject:** We've received your application for Senior Staff Software Engineer, Backend (Compute Platform) at Affirm
+- **Summary:** Application confirmation from Affirm Talent Team via Greenhouse for the Senior Staff Software Engineer, Backend (Compute Platform) role. High application volume; review may take time. Includes links to Affirm investor/culture/CEO content and a recruiting-scam notice (Affirm will never ask for payment; legit mail only from @affirm.com or @us.greenhouse-mail.io). Attached: GM___Immi_one_pager.pdf (resume/immigration one-pager). No action required beyond waiting; watch for follow-up from @affirm.com or @us.greenhouse-mail.io.
+- **Action required:** no
+
+
+## 2026-11-08 — Senior Software Engineer, Backend (AI Platform) at Affirm
+
+- **Date:** 2026-11-08
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **Subject:** We've received your application for Senior Software Engineer, Backend (AI Platform) at Affirm
+- **Summary:** Application confirmation from Affirm Talent Team via Greenhouse for the Senior Software Engineer, Backend (AI Platform) role. High application volume; review may take time. Includes links to Affirm investor/culture/CEO content and a recruiting-scam notice (Affirm will never ask for payment; legit mail only from @affirm.com or @us.greenhouse-mail.io). Attached: GM___Immi_one_pager.pdf (resume/immigration one-pager). No action required beyond waiting; watch for follow-up from @affirm.com or @us.greenhouse-mail.io.
+- **Action required:** no
+
+## 2026-11-09 — Security code for Affirm application (uid 578)
+
+- **Date:** 2026-11-09T09:59:01Z
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **Subject:** Security code for your application to Affirm
+- **Summary:** Greenhouse security verification code for Reed's Affirm application — code 55074233. Second Affirm security code on record and distinct from the 2026-11-08 code (38425863); the body does not name which Affirm role. Sent to sutliff.reed@gmail.com and routed via Cloudflare Email Routing to ingest@ffilt.us → reed@ffilt.us. SPF/DKIM/DMARC all pass (mailgun signature for us.greenhouse-mail.io); the single inline PNG is the Greenhouse logo. Backfilled 2026-11-11 during outage catch-up — the code has long expired; re-request from Greenhouse if the application is still pending.
+- **Action required:** no (expired code; historical record)
+
+## 2026-11-09 — Staff Software Engineer, Backend (Search) at Affirm (uid 579)
+
+- **Date:** 2026-11-09T10:06:04Z
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **Subject:** We've received your application for Staff Software Engineer, Backend (Search) at Affirm
+- **Message-Id:** <20261109100604.60d1e6ebd1b7e128@us.greenhouse-mail.io>
+- **Summary:** Application-received confirmation from the Affirm Talent Team via Greenhouse for Staff Software Engineer, Backend (Search) (uid 579, to sutliff.reed@gmail.com). Standard Greenhouse template; size 169 KB. Attachment: GM___Immi_one_pager.pdf (resume/immigration one-pager, 155 KB). Body not fetched during this backfill — envelope + subject sufficient to classify. No action required beyond waiting; watch for follow-up from @affirm.com or @us.greenhouse-mail.io. Distinct role from the Cards/Compute Platform/AI Platform/Ledger Engineering Affirm applications already logged. No unsubscribe performed (backfill run).
+- **Action required:** no
+
+## 2026-11-10 — Security code for Cresta application (uid 631)
+
+- **Date:** 2026-11-10T10:42:52Z
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **Subject:** Security code for your application to Cresta
+- **Summary:** Greenhouse security verification code for Reed's Cresta application (uid 631). Code: 44367200. Copy/paste into the security code field on the application, then resubmit. Time-sensitive. (Related: uid 632-635 received same-day for Cresta.)
+- **Action required:** yes
+
+## 2026-11-10 — Security code for Cresta application
+
+- **Date:** 2026-11-10
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **Subject:** Security code for your application to Cresta
+- **Summary:** Greenhouse security verification code for Reed's Cresta application (uid 632). Code: 61768419. Copy/paste it into the security code field on the application, then resubmit. Time-sensitive.
+- **Action required:** yes
+
+## 2026-11-10 — Security code for Cresta application (uid 633)
+
+- **Date:** 2026-11-10
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **Subject:** Security code for your application to Cresta
+- **Summary:** Greenhouse security verification code for Reed's Cresta application (uid 633). Code: 21920057. Copy/paste into the security code field on the application, then resubmit. Time-sensitive. (Related: uid 631/632 also received same-day for Cresta.)
+- **Action required:** yes
+
+## 2026-11-10 — Security code for Cresta application (uid 634)
+
+- **Date:** 2026-11-10
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **Subject:** Security code for your application to Cresta
+- **Summary:** Greenhouse security verification code for Reed's Cresta application (uid 634). Code: 86529304. Copy/paste into the security code field on the application, then resubmit. Time-sensitive.
+- **Action required:** yes
+
+## 2026-11-10 — Security code for Cresta application (uid 635)
+
+- **Date:** 2026-11-10
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **Subject:** Security code for your application to Cresta
+- **Summary:** Greenhouse security verification code for Reed's Cresta application (uid 635). Code: 44732484. Copy/paste into the security code field on the application, then resubmit. Time-sensitive.
+- **Action required:** yes
+
+## 2026-11-10 — AI Growth Engineer at Cresta
+
+- **Date:** 2026-11-10
+- **Sender:** recruiting@cresta.ai
+- **Subject:** Thank you for applying to Cresta
+- **Summary:** Application-received auto-reply (Greenhouse/mailgun) for AI Growth Engineer at Cresta (uid 636, sutliff.reed@gmail.com). Hiring team reviewing; may reach out if qualifications match. No attachments. Notes rise in recruiting impersonations; legitimate comms from @cresta.ai (verify via recruiting@cresta.com if unsure). Do not reply (unattended mailbox). (Context: security codes for Cresta application already triaged same day, uids 631-635.)
+- **Action required:** no
+
+## 2026-11-10 — Application update: Senior Staff Software Engineer, Backend (Cards) at Affirm (uid 646)
+
+- **Date:** 2026-11-10T14:59:31Z
+- **Sender:** no-reply@affirm.com
+- **Subject:** Your Application to Affirm
+- **Summary:** Affirm Talent Team rejection/update for Senior Staff Software Engineer, Backend (Cards): "not moving forward with your application at this time" for that specific role. Notes that if other Affirm applications exist, this update applies only to Cards. No attachments. Job-search status tracking; no action needed.
+- **Action required:** no
+
+## 2026-11-11 — Thanks for applying to Descript! (uid 678)
+
+- **Date:** 2026-11-11T03:11:04Z
+- **Sender:** no-reply@descript.com
+- **Subject:** Thanks for applying to Descript!
+- **Summary:** Application-received auto-reply from `Recruiting @Descript`, sent through Descript's Greenhouse-hosted mailer via Mailgun (`X-Mailgun-Tag: CandidateAutoReply`, `X-Feedback-Id: postmaster@gh-mail.descript.com:CandidateAutoReply:5ff313f111d18f0627d4872d:mailgun`, message-id `<20261111031104.8f8762ab396de1e2@gh-mail.descript.com>`). Body: "Thank you for applying for a position with us, we wanted to confirm that we received your application… we will reach out via email if we see a potential fit", plus careers-page / release-blog / Twitter links. No role title, requisition id, attachment, next step or deadline — no attachments. To `sutliff.reed@gmail.com`, forwarded via Cloudflare Email Routing (`sutliff.reed+caf_=ingest=ffilt.us@gmail.com` → `Delivered-To: reed@ffilt.us`). Authentic: DKIM pass (`gh-mail.descript.com` s=krs, `mailgun.org` s=mg), SPF pass, DMARC pass policy=reject. Unattended mailbox — do not reply. `List-Unsubscribe` header is present but empty; no unsubscribe performed (backfill run, and this is transactional mail). **Sibling copies, not duplicates:** an identical auto-reply arrived later the same day as uid 689 (11:37:02Z, message-id `<20261111113702.dc0a412e2613414f@gh-mail.descript.com>`, different message-id ⇒ separate message) and an earlier copy is visible only as an untriaged unsubscribe-census row for INBOX/277 — the message has been emitted at least three times with no distinguishing content, which reads as repeated/parallel application submissions. Related Descript Greenhouse security-code verification mails already triaged: uid 687 (code 83087497) and uid 688 (code 49748815).
+- **Action required:** no
+
+## 2026-11-11 — Staff Software Engineer, DevPlatform at Reddit (uid 679)
+
+- **Date:** 2026-11-11T03:21:04Z
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **To:** sutliff.reed@gmail.com (routed via Cloudflare Email Routing → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Thank you for your interest in joining Reddit
+- **Message-Id:** <20261111032104.989a5ff40d21be88@us.greenhouse-mail.io>
+- **Summary:** Application-received auto-reply (Greenhouse/mailgun, `X-Mailgun-Tag: CandidateAutoReply`, org_id 2781) for the Staff Software Engineer, DevPlatform role at Reddit (uid 679). Body confirms the Reddit Talent Acquisition team has the application and is reviewing; will reach out about next steps only if there is a match, "within a few business days". Marketing-lite footer links (company values, r/RedditEng, Life at Reddit). Explicit "do not reply — unattended mailbox". No attachments (14,639 B, multipart/alternative). Distinct role from the same-subject Reddit auto-reply for Lead Forward Deployed Engineer (AI Enablement) (uid 685) logged separately — identical template subject, different role, different message-id. Auth: SPF pass, DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), DMARC pass (p=none), ARC pass. `List-Unsubscribe` header present but empty — no unsubscribe performed (backfill run). No action required beyond waiting.
+- **Action required:** no
+
+## 2026-11-11 — Senior Machine Learning Systems Engineer, ML Platform at Reddit (uid 680)
+
+- **Date:** 2026-11-11T03:22:03Z
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **Subject:** Thank you for your interest in joining Reddit
+- **Message-Id:** <20261111032203.8c4d65f4bf1b2ff6@us.greenhouse-mail.io>
+- **Summary:** Application-received auto-reply (Greenhouse/Mailgun, `X-Mailgun-Tag: CandidateAutoReply`, `X-Feedback-Id: …5ff5c19deab70c1acacf09a2:mailgun`, `X-Mailgun-Variables` org_id 2781 / person_id 511340655) for the **Senior Machine Learning Systems Engineer, ML Platform** role at Reddit (uid 680, to sutliff.reed@gmail.com). Body: application received, hiring team reviewing, "we strive to get back to you within a few business days", plus careers/company-values/RedditEng/blog/life-at-Reddit links; unattended mailbox — do not reply. No attachments; size 14,679 B. Routed via Cloudflare Email Routing (`sutliff.reed+caf_=ingest=ffilt.us@gmail.com` → `ingest@ffilt.us` → `Delivered-To: reed@ffilt.us`). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass p=none, arc=pass. `List-Unsubscribe` header present but empty; no unsubscribe performed (backfill run). **Sibling, not duplicate:** byte-identical subject to uid 685 (Lead Forward Deployed Engineer (AI Enablement) at Reddit) — different role and different message-id ⇒ a separate application acknowledgement, journalled as its own section.
+- **Action required:** no
+
+## 2026-11-11 — Lead Forward Deployed Engineer (AI Enablement) at Reddit
+
+- **Date:** 2026-11-11
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **Subject:** Thank you for your interest in joining Reddit
+- **Summary:** Application-received auto-reply (Greenhouse/mailgun) for Lead Forward Deployed Engineer (AI Enablement) at Reddit (uid 685, sutliff.reed@gmail.com). Hiring team reviewing; will be in touch if match. Do not reply (unattended mailbox). No attachments.
+- **Action required:** no
+
+
+## 2026-11-11 — Security code for Descript application (uid 688)
+
+- **Date:** 2026-11-11T11:33:05Z
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **Subject:** Security code for your application to Descript
+- **Summary:** Greenhouse security verification code for Reed's Descript application (uid 688, sutliff.reed@gmail.com). Code: 49748815. Copy/paste it into the security code field on the application, then resubmit. Time-sensitive. Attachment: Greenhouse Recruiting logo (image/png, 6756 bytes). Transactional verification mail.
+- **Action required:** yes
+
+## 2026-11-11 — Security code for Descript application (uid 687)
+
+- **Date:** 2026-11-11
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **Subject:** Security code for your application to Descript
+- **Summary:** Greenhouse security verification code for Reed's Descript application. Code: 83087497. Copy/paste it into the security code field on the application, then resubmit. Time-sensitive. Delivered to sutliff.reed@gmail.com (uid 687).
+- **Action required:** yes
+
+## 2026-11-11 — Staff Software Engineer, Backend (Ledger Engineering) at Affirm
+
+- **Date:** 2026-11-11T11:30:09Z
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **Subject:** We've received your application for Staff Software Engineer, Backend (Ledger Engineering) at Affirm
+- **Summary:** Application confirmation from Affirm Talent Team via Greenhouse for Staff Software Engineer, Backend (Ledger Engineering). High application volume; review may take time. Includes links to Affirm info and recruiting-scam notice (legit mail only from @affirm.com or @us.greenhouse-mail.io). Attachment: GM___Immi_one_pager.pdf. To: sutliff.reed@gmail.com.
+- **Action required:** no
+
+## 2026-11-11 — Thanks for applying to Descript! (uid 689)
+
+- **Date:** 2026-11-11T11:37:02Z
+- **Sender:** no-reply@descript.com
+- **Subject:** Thanks for applying to Descript!
+- **Summary:** Application-received auto-reply (Greenhouse/mailgun) for a position at Descript (uid 689, sutliff.reed@gmail.com). Hiring team reviewing; will reach out via email if potential fit. No attachments. Links to careers page, release blog, and social media. Unattended mailbox — do not reply. Related Greenhouse security-code verification emails already triaged: uid 687 (code 83087497) and uid 688 (code 49748815). Transactional verification mail.
+- **Action required:** no
+
+
+## 2026-11-11 — Principal Applied AI Engineer - Entity Agents at ZoomInfo (uid 706)
+
+- **Date:** 2026-11-11T17:31:22Z
+- **Sender:** no-reply@zoominfo.com
+- **Subject:** Your Application at ZoomInfo
+- **Summary:** ZoomInfo Talent Acquisition update for Principal Applied AI Engineer - Entity Agents (uid 706, sutliff.reed@gmail.com). After review, ZoomInfo is moving forward with other candidates whose qualifications more closely align with current requirements for this role. Encourages exploring other openings and signing up for job alerts on the careers page. No attachments. Greenhouse/mailgun delivery. Transactional application status notice.
+- **Action required:** no
+
+
+## 2026-11-12 \u2014 Senior Staff Machine Learning Systems Engineer, Ads ML Platform at Reddit (uid 729)
+
+- **Date:** 2026-11-12T03:43:02Z
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **To:** sutliff.reed@gmail.com (routed via Cloudflare Email Routing \u2192 ingest@ffilt.us \u2192 reed@ffilt.us)
+- **Subject:** Thank you for your interest in joining Reddit
+- **Message-Id:** <20261112034302.c3b32471f52f3314@us.greenhouse-mail.io>
+- **Summary:** Application-received auto-reply (Greenhouse/Mailgun, `X-Mailgun-Tag: CandidateAutoReply`, org_id 2781) for the Senior Staff Machine Learning Systems Engineer, Ads ML Platform role at Reddit (uid 729, to sutliff.reed@gmail.com). Body: application received, hiring team reviewing; will reach out about next steps only if there is a match, "within a few business days". Marketing-lite footer links (company values, r/RedditEng, Life at Reddit). Explicit "do not reply \u2014 unattended mailbox". No attachments (14,692 B, multipart/alternative). Routed via Cloudflare Email Routing (`sutliff.reed+caf_=ingest=ffilt.us@gmail.com` \u2192 `ingest@ffilt.us` \u2192 `Delivered-To: reed@ffilt.us`). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass. `List-Unsubscribe` header present but empty \u2014 no unsubscribe performed (transactional mail). No action required beyond waiting.
+- **Action required:** no
+
+## 2026-11-12 — Senior Staff Machine Learning Systems Engineer, Ads ML Platform at Reddit (uid 730)
+
+- **Date:** 2026-11-12T03:44:04Z
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **To:** sutliff.reed@gmail.com (routed via Cloudflare Email Routing → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Thank you for your interest in joining Reddit
+- **Message-Id:** <20261112034404.03f63b23d9a0d8cb@us.greenhouse-mail.io>
+- **Summary:** Application-received auto-reply (Greenhouse/Mailgun, `X-Mailgun-Tag: CandidateAutoReply`, org_id 2781) for the Senior Staff Machine Learning Systems Engineer, Ads ML Platform role at Reddit (uid 730, to sutliff.reed@gmail.com). Body: application received, hiring team reviewing; will reach out about next steps only if there is a match, "within a few business days". Marketing-lite footer links (company values, r/RedditEng, Life at Reddit). Explicit "do not reply — unattended mailbox". No attachments (14,703 B, multipart/alternative). Routed via Cloudflare Email Routing (`sutliff.reed+caf_=ingest=ffilt.us@gmail.com` → `ingest@ffilt.us` → `Delivered-To: reed@ffilt.us`). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass. `List-Unsubscribe` header present but empty — no unsubscribe performed (transactional mail). Sibling, not duplicate: same role/subject as uid 729 but different message-id (`<20261112034404.03f63b23d9a0d8cb@us.greenhouse-mail.io>` vs `<20261112034302.c3b32471f52f3314@us.greenhouse-mail.io>`) ⇒ distinct acknowledgement, journalled separately. No action required beyond waiting.
+- **Action required:** no
+
+## 2026-11-12 — Senior Staff Machine Learning Engineer, GenAI Platform at Reddit (uid 731)
+
+- **Date:** 2026-11-12T03:45:04Z
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **To:** sutliff.reed@gmail.com (routed via Cloudflare Email Routing → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Thank you for your interest in joining Reddit
+- **Message-Id:** <20261112034504.6ed081fe504fb172@us.greenhouse-mail.io>
+- **Summary:** Application-received auto-reply (Greenhouse/Mailgun, `X-Mailgun-Tag: CandidateAutoReply`, org_id 2781) for the Senior Staff Machine Learning Engineer, GenAI Platform role at Reddit (uid 731, to sutliff.reed@gmail.com). Body: application received, hiring team reviewing; will reach out about next steps only if there is a match, "within a few business days". Marketing-lite footer links (company values, r/RedditEng, Life at Reddit). Explicit "do not reply — unattended mailbox". No attachments (14,669 B, multipart/alternative). Routed via Cloudflare Email Routing (`sutliff.reed+caf_=ingest=ffilt.us@gmail.com` → `ingest@ffilt.us` → `Delivered-To: reed@ffilt.us`). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass. `List-Unsubscribe` header present but empty — no unsubscribe performed (transactional mail). Sibling, not duplicate: same subject as uid 729 (Senior Staff Machine Learning Systems Engineer, Ads ML Platform) and uid 730 (same Ads ML Platform role, distinct message-id) but different role and different message-id (`<20261112034504.6ed081fe504fb172@us.greenhouse-mail.io>`) ⇒ distinct acknowledgement, journalled separately. No action required beyond waiting.
+- **Action required:** no
+
+## 2026-11-12 — Staff Machine Learning Engineer, Ads ML Efficiency at Reddit (uid 732)
+
+- **Date:** 2026-11-12T03:46:03Z
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **To:** sutliff.reed@gmail.com (routed via Cloudflare Email Routing → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Thank you for your interest in joining Reddit
+- **Message-Id:** <20261112034603.b9c0053ae1a09356@us.greenhouse-mail.io>
+- **Summary:** Application-received auto-reply (Greenhouse/Mailgun, `X-Mailgun-Tag: CandidateAutoReply`, org_id 2781) for the Staff Machine Learning Engineer, Ads ML Efficiency role at Reddit (uid 732, to sutliff.reed@gmail.com). Body: application received, hiring team reviewing; will reach out about next steps only if there is a match, "within a few business days". Marketing-lite footer links (company values, r/RedditEng, Life at Reddit). Explicit "do not reply — unattended mailbox". No attachments (14,671 B, multipart/alternative). Routed via Cloudflare Email Routing (`sutliff.reed+caf_=ingest=ffilt.us@gmail.com` → `ingest@ffilt.us` → `Delivered-To: reed@ffilt.us`). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass. `List-Unsubscribe` header present but empty — no unsubscribe performed (transactional mail). Sibling, not duplicate: same subject as uid 729 (Senior Staff ML Systems Engineer, Ads ML Platform), uid 730 (same Ads ML Platform role, distinct message-id), and uid 731 (Senior Staff ML Engineer, GenAI Platform) but different role and different message-id (`<20261112034603.b9c0053ae1a09356@us.greenhouse-mail.io>`) → distinct acknowledgement, journalled separately. No action required beyond waiting.
+- **Action required:** no
+
+## 2026-11-12 — Machine Learning Engineer, Answers Relevance at Reddit (uid 739)
+
+- **Date:** 2026-11-12T11:57:03Z
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **To:** sutliff.reed@gmail.com (routed via Cloudflare Email Routing → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Thank you for your interest in joining Reddit
+- **Message-Id:** <20261112115703.c4c7d3c945ea71e1@us.greenhouse-mail.io>
+- **Summary:** Application-received auto-reply (Greenhouse/Mailgun, `X-Mailgun-Tag: CandidateAutoReply`, org_id 2781, person_id 511340655) for the Machine Learning Engineer, Answers Relevance role at Reddit (uid 739, to sutliff.reed@gmail.com). Body: application received, hiring team reviewing; will reach out about next steps only if there is a match, "within a few business days". Marketing-lite footer links (what makes Reddit different, company values, r/RedditEng, blog, LinkedIn, Life at Reddit, 2023 recap). Explicit "do not reply — unattended mailbox". No attachments (14,654 B, multipart/alternative). Routed via Cloudflare Email Routing (`sutliff.reed+caf_=ingest=ffilt.us@gmail.com` → `ingest@ffilt.us` → `Delivered-To: reed@ffilt.us`). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass. `List-Unsubscribe` header present but empty — no unsubscribe performed (transactional mail). Sibling, not duplicate: same generic subject as uid 729 (Senior Staff ML Systems Engineer, Ads ML Platform), uid 730 (same Ads ML Platform role, distinct message-id), uid 731 (Senior Staff ML Engineer, GenAI Platform), and uid 732 (Staff ML Engineer, Ads ML Efficiency) but different role and different message-id (`<20261112115703.c4c7d3c945ea71e1@us.greenhouse-mail.io>`) ⇒ distinct acknowledgement, journalled separately. No action required beyond waiting.
+- **Action required:** no
+
+## 2026-11-12 — Staff Security Engineer, Enterprise AI at Affirm (uid 740)
+
+- **Date:** 2026-11-12T11:58:06Z
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **To:** sutliff.reed@gmail.com
+- **Subject:** We've received your application for Staff Security Engineer, Enterprise AI at Affirm
+- **Message-Id:** <20261112115806.98a4452bd14fd05a@us.greenhouse-mail.io>
+- **Summary:** Application confirmation from Affirm Talent Team via Greenhouse for Staff Security Engineer, Enterprise AI role. High application volume; review may take time. Includes links to Affirm investor/culture/CEO content and a recruiting-scam notice (Affirm will never ask for payment; legit mail only from @affirm.com or @us.greenhouse-mail.io). Attached: GM___Immi_one_pager.pdf (resume/immigration one-pager, 155 KB). No action required beyond waiting; watch for follow-up from @affirm.com or @us.greenhouse-mail.io.
+- **Action required:** no
