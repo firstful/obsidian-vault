@@ -258,3 +258,13 @@ tags: [email-triage, job-applications]
 - **Message-Id:** <6af61d0969f8b_874c404819b@prod-jben-web-89c676c4b-prpqj.mail>
 - **Summary:** Greenhouse security-code email for an in-progress Reddit application (uid 772). Body instructs to copy/paste the code into the security code field and resubmit the application; code provided in message: 62386205. Transactional/application verification (not marketing). 1 inline image attachment (Greenhouse logo). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass. No List-Unsubscribe action taken.
 - **Action required:** yes — enter code 62386205 in the Reddit application security-code field and resubmit (if still pending)
+
+## 2026-11-12 — Security code for Reddit application (uid 773)
+
+- **Date:** 2026-11-12T20:11:11Z
+- **Sender:** no-reply@us.greenhouse-mail.io (Greenhouse)
+- **To:** sutliff.reed@gmail.com
+- **Subject:** Security code for your application to Reddit
+- **Message-Id:** <6af61d5f3700f_c74c7831588@prod-jben-web-89c676c4b-6zctg.mail>
+- **Summary:** Greenhouse security verification code for Reed's Reddit application (uid 773). Code: 62750291. Copy/paste into the security code field on the Reddit application, then resubmit. Time-sensitive/OTP. Transactional (not marketing); no List-Unsubscribe. Auth: DKIM/SPF/DMARC pass via Greenhouse/Mailgun.
+- **Action required:** yes
