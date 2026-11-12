@@ -42,3 +42,13 @@ tags: [email-triage, job-alerts]
 - **Message-ID:** `<010701a1c6e94eb4-0d13eabd-d9bd-481a-9314-888680a34f67-000000@eu-central-1.amazonses.com>`
 - **Summary:** Intch (intch.org) remote-job marketing digest for Emilee — "lots of new remote job posts targeted at your expertise in Education, Scientist, Call Center and more. Complete the onboarding process to get access to them." Single HTML part (~16 KB visible copy ~280 chars), no attachments, Amazon SES delivery. Job-board marketing mail, not an application confirmation, recruiter outreach, or an offer; the call to action is onboarding signup, so no action is required from the household. New sender family alongside ZipRecruiter in this topic. Auth: dkim=pass (email.intch.org, s=e2pk2hg67azk4x4qfqiehc7msaobht3n; amazonses.com s=qftdzk2dqsatjnlrq4r5brjbihpfcrsh), spf=pass, dmarc=pass p=none, arc=pass. No `List-Unsubscribe` header — opt-out is a body link only; **no unsubscribe performed** (backfill run). Backfilled from stored event 660 after the triage outage.
 - **Action required:** no
+
+## 2026-11-12 — Software Engineer (GitHub Contributor) - Remote opening at YO AI Labs (uid 784)
+
+- **Date:** 2026-11-12T21:46:08Z
+- **Sender:** alerts@ziprecruiter.com (ZipRecruiter)
+- **To:** sutliff.reed@gmail.com
+- **Subject:** Software Engineer (GitHub Contributor) - Remote opening at YO AI Labs
+- **Message-ID:** `<20261112214608.58fe97298ecc6e42@mg.ziprecruiter.com>`
+- **Summary:** ZipRecruiter job-alert digest featuring "Software Engineer (GitHub Contributor) - Remote" at YO AI Labs (New York, NY / Remote) plus additional recommended software roles (140 KB HTML, no attachments). Marketing/job-board alert, not an application confirmation, recruiter outreach, or offer.
+- **Action required:** no

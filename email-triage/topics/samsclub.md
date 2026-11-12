@@ -1,11 +1,25 @@
 ---
-title: Sam's Club (marketing)
+title: "Sam's Club"
 tags: [email-triage, samsclub]
 ---
 
-# Sam's Club (marketing)
+# Sam's Club
 
-Sam's Club member-services marketing from `Samsclub@em.samsclub.com` (Salesforce Marketing Cloud; DKIM `s10.y.mc.salesforce.com`). Promotional only — no order, account, bill or deadline content.
+Sam's Club emails: member marketing blasts and transactional order confirmations.
+
+## 2026-11-12 — Sam's Club order confirmation (UID 785)
+
+- **From:** SamsClub.com <No-reply@transaction.samsclub.com>
+- **To:** reedsut@gmail.com
+- **Date:** 2026-11-12 21:46:45Z
+- **Subject:** Reed, thanks for your order
+- **Message-ID:** <20261112214645.a95efe550adb3bed@prod.samsclub.com>
+- **Classification:** relevant (transactional order confirmation; not marketing). No `List-Unsubscribe` header; no unsubscribe action.
+- **Summary:** Order **8000-0010-8326-586** (order date Thu, Nov 12, 2026). Shipping, expected **Sat, Nov 14, 2026**, to 12703 Stonecreek Drive, Pickerington, OH 43147 (3 items). Order total **$119.94** (includes fees/taxes/discounts/driver tip). Payment: card ending **4780** $113.33 + Sam's Cash $6.61 (credit card charged when order ships or is picked up). No attachments.
+- **Action required:** no (track delivery).
+- **Related notes:** [[calendar/2026-11-14 - Sam's Club order 8000-0010-8326-586 expected delivery]], [[purchases/Sam's Club 8000-0010-8326-586]].
+
+## 2026-11-10 — Walmart+ has joined the Club (marketing, UID 668)
 
 | Date | Sender | Subject | Summary | Action required |
 | --- | --- | --- | --- | --- |
