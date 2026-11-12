@@ -268,3 +268,12 @@ tags: [email-triage, job-applications]
 - **Message-Id:** <6af61d5f3700f_c74c7831588@prod-jben-web-89c676c4b-6zctg.mail>
 - **Summary:** Greenhouse security verification code for Reed's Reddit application (uid 773). Code: 62750291. Copy/paste into the security code field on the Reddit application, then resubmit. Time-sensitive/OTP. Transactional (not marketing); no List-Unsubscribe. Auth: DKIM/SPF/DMARC pass via Greenhouse/Mailgun.
 - **Action required:** yes
+## 2026-11-12 — Staff Machine Learning Engineer, Retrieval at Reddit (uid 776)
+
+- **Date:** 2026-11-12T20:20:04Z
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **To:** sutliff.reed@gmail.com (routed via Cloudflare Email Routing → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Thank you for your interest in joining Reddit
+- **Message-Id:** <20261112202004.a6a81ad0943b5a4d@us.greenhouse-mail.io>
+- **Summary:** Application-received auto-reply (Greenhouse/Mailgun, `X-Mailgun-Tag: CandidateAutoReply`, org_id 2781, person_id 511340655) for the Staff Machine Learning Engineer, Retrieval role at Reddit (uid 776, to sutliff.reed@gmail.com). Body: application received, hiring team reviewing; will reach out about next steps only if there is a match, "within a few business days". Marketing-lite footer links (what makes Reddit different, company values, r/RedditEng, blog, LinkedIn, Life at Reddit, 2023 recap). Explicit "do not reply — unattended mailbox". No attachments (14,641 B, multipart/alternative). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass. `List-Unsubscribe` header present but empty — no unsubscribe performed (transactional mail). Sibling, not duplicate: same generic subject as other Reddit application acknowledgements but different role and different message-id ⇒ distinct acknowledgement, journalled separately. No action required beyond waiting.
+- **Action required:** no
