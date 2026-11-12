@@ -40,3 +40,13 @@ No unsubscribe performed (backfill run).
 - **UID:** 767 (INBOX, message-id `<20261112185200.0a1593baf20ac818@mail.creditkarma.com>`)
 - **Summary:** Credit Karma monitoring notice: the ROCKLOANS MARKETPLACE account on the Equifax credit report was updated to **Current** (basis: Equifax credit report information as reported 2026-11-12). No dollar amounts, payment history details, or prior status included beyond "back on track/current"; message encourages checking scores and payment habits. Carries `List-Unsubscribe` (one-click capable) and self-labels "promotional email," but payload is a concrete account-status fact.
 - **Action required:** no (informational status update; optionally review the Equifax report/score in Credit Karma to confirm details)
+
+## 2026-11-12 — Refinance/personal-loan promo: "You could pay off credit card debt in days via refinance"
+
+- **Date:** 2026-11-12T17:43:43Z
+- **Sender:** Credit Karma <notifications@notifications.creditkarma.com> (List-Id "Credit Karma Personal Loans" <personal-loans.lists.creditkarma.com>)
+- **To:** reedsut@gmail.com
+- **Subject:** Reed: You could pay off credit card debt in days via refinance
+- **UID:** 787 (INBOX, message-id `<20261112174343.77bd5453b97e53c4@notifications.creditkarma.com>`)
+- **Summary:** Marketing/promo offer for a low-interest personal loan/refinance to pay down stated $5,235 debt (figure attributed to TransUnion credit report as of 2026-11-11). Generic pitch (potentially lower payments, score/utilization improvement) with CTA to review options in Credit Karma; no bill, no due date, no required account action. Self-labeled "This is a promotional email." Includes RFC 8058 one-click List-Unsubscribe for PERSONAL_LOANS.
+- **Action required:** no (promotional; review loan options only if interested)
