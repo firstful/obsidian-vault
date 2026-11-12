@@ -249,3 +249,12 @@ tags: [email-triage, job-applications]
 - **Message-Id:** <20261112115806.98a4452bd14fd05a@us.greenhouse-mail.io>
 - **Summary:** Application confirmation from Affirm Talent Team via Greenhouse for Staff Security Engineer, Enterprise AI role. High application volume; review may take time. Includes links to Affirm investor/culture/CEO content and a recruiting-scam notice (Affirm will never ask for payment; legit mail only from @affirm.com or @us.greenhouse-mail.io). Attached: GM___Immi_one_pager.pdf (resume/immigration one-pager, 155 KB). No action required beyond waiting; watch for follow-up from @affirm.com or @us.greenhouse-mail.io.
 - **Action required:** no
+## 2026-11-12 — Security code for Reddit application (uid 772)
+
+- **Date:** 2026-11-12T20:09:45Z
+- **Sender:** Greenhouse <no-reply@us.greenhouse-mail.io>
+- **To:** sutliff.reed@gmail.com (routed via Cloudflare Email Routing → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Security code for your application to Reddit
+- **Message-Id:** <6af61d0969f8b_874c404819b@prod-jben-web-89c676c4b-prpqj.mail>
+- **Summary:** Greenhouse security-code email for an in-progress Reddit application (uid 772). Body instructs to copy/paste the code into the security code field and resubmit the application; code provided in message: 62386205. Transactional/application verification (not marketing). 1 inline image attachment (Greenhouse logo). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass. No List-Unsubscribe action taken.
+- **Action required:** yes — enter code 62386205 in the Reddit application security-code field and resubmit (if still pending)
