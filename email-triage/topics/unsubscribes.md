@@ -217,3 +217,4 @@ Ledger of unsubscribe actions for marketing/promo senders (envelope-census 2026-
 | 2026-11-12 | no-reply+320e084e@toast-restaurants.com | reedsut@gmail.com | INBOX/754 | Roosters Holiday Catering! | POST | 202 | RFC 8058 one-click; accepted |
 | 2026-11-12 | elle-gm@chirpbooks.com | reedsut@gmail.com | INBOX/766 | We’re giving you ANY audiobook for $3 (today only!) | POST | 302 | RFC 8058 one-click POST attempted (List-Unsubscribe=One-Click); HTTP 302 redirect to sign_in; request sent |
 | 2026-11-12 | noreply@email.shop.app | reedsut@gmail.com | INBOX/769 | The New Yorker’s holiday gift edit | POST | 404 | RFC 8058 one-click POST to List-Unsubscribe URL returned 404 (Shop unsubscribe endpoint) |
+| 2026-11-12 | support@pirateship.com | reedsut@gmail.com | INBOX/779 | Welcome aboard, Captain! | POST | 204 | RFC 8058 one-click (List-Unsubscribe-Post: One-Click); Intercom unsubscribe_post accepted (204) |
