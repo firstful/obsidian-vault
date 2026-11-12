@@ -288,3 +288,14 @@ tags: [email-triage, job-applications]
 - **Summary:** Application-received auto-reply (Greenhouse/Mailgun, `X-Mailgun-Tag: CandidateAutoReply`, org_id 2781, person_id 511340655) for the Staff Machine Learning Engineer, Retrieval & Targeting role at Reddit (uid 774, to sutliff.reed@gmail.com). Body: application received, hiring team reviewing; will reach out about next steps only if there is a match, "within a few business days". Marketing-lite footer links (what makes Reddit different, company values, r/RedditEng, blog, LinkedIn, Life at Reddit, 2023 recap). Explicit "do not reply — unattended mailbox". No attachments (14,669 B, multipart/alternative). `List-Unsubscribe` header present but empty — no unsubscribe performed (transactional). Sibling, not duplicate: same generic subject as other Reddit application acknowledgements (e.g. uids 679/680/685/729/730/731/732/739) but different role and different message-id → distinct acknowledgement, journalled separately. No action required beyond waiting.
 >>>>>>> email-triage: log Reddit application ack uid 774 (job-applications) [skip ci]
 - **Action required:** no
+
+
+## 2026-11-12 — Security code for your application to Reddit (uid 775)
+
+- **Date:** 2026-11-12T20:15:23Z
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **To:** sutliff.reed@gmail.com (routed via Cloudflare Email Routing → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Security code for your application to Reddit
+- **Message-Id:** <6af61e5b38060_123044cf8405c9@prod-jben-web-89c676c4b-ct2fp.mail>
+- **Summary:** Greenhouse security-code email (Mailgun) for Reddit job application verification. Body contains 8-digit code `60728763` in HTML; attachment `6af61e5b37780_123044cf840387@prod-jben-web-89c676c4b-ct2fp.mail` (image/png, 6756 B) is the Greenhouse logo. Instruction: copy/paste code into security code field and resubmit application. Routed via Cloudflare Email Routing (`sutliff.reed+caf_=ingest=ffilt.us@gmail.com` → `ingest@ffilt.us` → `Delivered-To: reed@ffilt.us`). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass (i=1 and i=2). Sibling security-code emails exist (uid 772, 773). Action required: enter code to proceed with Reddit application.
+- **Action required:** yes
