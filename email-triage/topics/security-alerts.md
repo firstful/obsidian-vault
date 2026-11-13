@@ -90,3 +90,16 @@ tags: [email-triage, security-alerts]
 - **Action required:** no (if Reed was signing in on Chrome/Windows at 02:27–02:59Z — household session), yes (if Reed was **not** active in Sam's Club during that window — change the Sam's Club password immediately, sign out all devices, and review account/payment settings, since three code redemptions would then mean mailbox or credential compromise).
 - **Flow status:** the sequence continued after this notice — UID 796 (`No-reply@transaction.samsclub.com`, verification code 226021, 03:03:06Z) followed by UID 797 "Sign-in from new device" (`transaction@info.samsclub.com`, 03:03:31Z): a **fourth** code→sign-in cycle, 37 minutes after the first. Detail lives in their own entries.
 - **Related notes:** [[samsclub]]
+
+## 2026-11-13 — Sam's Club sign-in from new device (UID 797)
+
+- **Date:** 2026-11-12 21:03:31 -0600 (2026-11-13 03:03:31Z, received)
+- **From:** Sam's Club <transaction@info.samsclub.com>
+- **To:** reedsut@gmail.com (routed to ingest@ffilt.us via Cloudflare Email Routing)
+- **Subject:** Sign-in from new device
+- **Message-ID:** `<2f8be0b1-7357-43e3-8406-ad7a03035566@dfw1s10mta1788.xt.local>`
+- **Classification:** relevant — transactional account-security notice (`X-Delivery: Transactional`), not marketing.
+- **Summary:** Fourth Sam's Club new-device notice in one sitting. **Device: Chrome on Windows**; **Date and time: November 12, 19:03 PM PST** (body label; send header -0600, so UTC 03:03:31Z); **Location: Reynoldsburg, Ohio, US** (approximate, IP-derived, ~10 mi from the household address in Pickerington). Legitimacy: DKIM pass for `info.samsclub.com` (s=10dkim1) and `s10.y.mc.salesforce.com` (s=fbldkim10), `spf=pass`, `dmarc=pass (policy=reject) header.from=info.samsclub.com`, sent via Salesforce Marketing Cloud (`Feedback-ID: 100027498:232627:128.245.4.3:sfmktgcld`), from a different MTA host (`dfw1s10mta1788`) than UID 791/793 (`dfw1s10mta1787`). Remedy offered: change the password at SamsClub.com account personal-info. No attachments. No `List-Unsubscribe` header → no unsubscribe action (transactional security mail, To is Reed's mailbox).
+- **Corroboration:** Fourth code→new-device cycle of the sitting: UID 796 code 226021 (03:03:06Z, 25 s before this notice) → UID 797. Prior cycles: UID 790→791, UID 792→793, UID 794→795. Four fresh codes redeemed in ~37 minutes, all Chrome on Windows, all Reynoldsburg OH (~10 mi from home). Consistent with Reed re-authenticating on a new browser/device, but four rapid cycles is also the shape of repeated login retries or an attacker with the account password. Cross-ref [[samsclub]] (UID 796 code, UID 794/792/790 codes), [[purchases/Sam's Club 8000-0010-8326-586]].
+- **Action required:** yes (if any of these sign-ins was not Reed's — change the Sam's Club password immediately and review account/payment settings), no (if recognized — household Chrome/Windows session).
+

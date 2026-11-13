@@ -20,6 +20,13 @@ Sam's Club emails: member marketing blasts and transactional order confirmations
 - **Action required:** yes — enter the code at the Sam's Club login prompt before it expires (≈03:18Z). If Reed did not initiate this login, treat as account-takeover attempt: change the Sam's Club password immediately and review account/payment settings.
 - **Related notes:** none (siblings UID 790–795 recorded here and in [[security-alerts]]).
 
+## 2026-11-13 — Sign-in from new device (UID 797)
+
+- **From:** Sam's Club <transaction@info.samsclub.com> · **To:** reedsut@gmail.com · **Date:** 2026-11-13 03:03:31Z
+- Fourth new-device notice in one sitting, triggered by UID 796 code 226021 (03:03:06Z, 25 s before). Same Chrome on Windows sign-in, same Reynoldsburg OH location. Full detail: [[security-alerts]] "Sam's Club sign-in from new device (UID 797)".
+- **Action required:** yes (if unrecognized — change the Sam's Club password immediately), no (if recognized — household Chrome/Windows session).
+
+
 ## 2026-11-13 — Sam's Club verification code (UID 794)
 
 - **From:** Sam's Club <No-reply@transaction.samsclub.com>
