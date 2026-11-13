@@ -74,3 +74,14 @@ tags: [email-triage, amazon-orders]
 - **Action required:** no — informational order confirmation; monitor delivery/contents on arrival and review order details in Amazon if needed.
 - **Message-ID:** <010001a1d7173b94-2f4ffa8e-e524-454f-b99d-5461da4ac676-000000@email.amazonses.com>
 - **UID:** 860
+
+## 2026-11-13 — Amazon payment declined / order on hold (UID 862)
+
+- **Date:** 2026-11-13T23:26:49Z
+- **Sender:** "Amazon.com" <payments-update@amazon.com> (to emilee.sutliff@gmail.com)
+- **Subject:** Payment declined: Update your information so we can ship your order.
+- **Summary:** Amazon reports payment was declined and the order is on hold pending updated payment information. Order #112-7026691-5399453 (Emilee, PICKERINGTON OH), total $144.07 USD. Follows order confirmation UID 857 (same order/amount). Prompt instructs to view/edit order and update payment method in Amazon.
+- **Action required:** yes — update payment method for Order #112-7026691-5399453 in Amazon so it can ship.
+- **Message-ID:** <010001a1d73c33a2-a31656ca-9bb3-4bbd-94ff-7b79daa7fd79-000000@email.amazonses.com>
+- **UID:** 862
+- **Related notes:** [[amazon-orders]] (see UID 857 for original order confirmation)
