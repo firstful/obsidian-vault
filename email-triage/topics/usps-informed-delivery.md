@@ -72,3 +72,12 @@ Informational only; never action-required.
 - Summary: Daily Informed Delivery digest for Friday 13 November 2026 — 1 mailpiece, 0 inbound packages arriving soon; Expected Today shows 3 item(s) (body partially truncated, sender names not extractable). Two JPEG attachments (mailer-13664.jpg 113 KB, content-13664.jpg 11 KB; 212 KB message). "No packages are available to display"; includes "one or more mailpieces for which we do not currently have an image." No bills, deadlines, or account actions referenced.
 - Action required: no
 - Notes: Live triage (event id 817). Body fetched for envelope/count context; standard USPS footer carries an unsubscribe link, but no unsubscribe performed (USPS digests are never marketing and never unsubscribed). No Reed/Emilee duplicate copy observed in current inbox search.
+
+## 2026-11-13 — USPS Informed Delivery: "Your Daily Digest for Fri, 11/13 is ready to view"
+
+- UID: 818 (INBOX) · message-id: <20261113133146.b21c3bdeaba80b83@email.informeddelivery.usps.com>
+- To: emileesutliff@gmail.com — forwarded into ingest via Cloudflare Email Routing (Delivered-To: reed@ffilt.us); greeting "Hi, Emilee!"
+- Date: 2026-11-13T13:31:46Z
+- Summary: Daily Informed Delivery digest for Friday 13 November 2026 — 1 mailpiece, 0 inbound packages. Two JPEG attachments (mailer-13664.jpg 116 KB, content-13664.jpg 11 KB; 217 KB message). Body fetched for piece/package counts (truncated at 200 KB). No package exceptions, bills, deadlines, or account actions referenced.
+- Action required: no
+- Notes: Live triage (event id 818). Standard USPS footer carries an unsubscribe link, but no unsubscribe performed (USPS digests are never marketing and never unsubscribed). Silent on Discord per USPS rule.
