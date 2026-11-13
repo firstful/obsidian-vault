@@ -55,6 +55,7 @@ tags: [email-triage, index]
 - [personal-blog](topics/personal-blog.md) — Personal blog (firstful/personal-blog) GitHub Actions CI failures
 - [pet-cloud](topics/pet-cloud.md) — My PetCloud / Independence Pet Group (mypetinsurer.com) transactional account notices: login verification codes
 - [pickerington-schools](topics/pickerington-schools.md) — Pickerington Local School District (PLSD) superintendent communications (Project 256 video, etc.)
+- [playful-pathways](topics/playful-pathways.md) — Playful Pathways Therapy, LLC OT appointment cancellations/reschedule (Elijah; Therabyte)
 - [postable](topics/postable.md) — Postable greeting-card sale promos (marketing)
 - [ramseyer-farms](topics/ramseyer-farms.md) — Ramseyer Farms (Wooster OH) Shopify store marketing: seasonal thanks/promo blasts (marketing)
 - [recruiter-outreach](topics/recruiter-outreach.md) — Recruiter outreach and LinkedIn connection requests (Robert Half, agency recruiters)
