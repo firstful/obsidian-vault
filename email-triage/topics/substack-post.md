@@ -19,3 +19,13 @@ events even though they share the `List-Id`; treat each UID as its own message.
 Related records in `topics/unsubscribes.md` (distinct messages, unsubscribe bookkeeping only):
 INBOX/501 `post+the-weekender@substack.com` ("What can I do but oblige the wishes of the dying?",
 RFC 8058 candidate, not executed) and INGEST/952 `post+unstacked@substack.com` (not processed — MCP outage).
+
+## 2026-11-13 — The Substack Post (newsletter)
+- **Date:** 2026-11-13 19:07 UTC
+- **Sender:** The Substack Post <post@substack.com>
+- **To:** reed@ffilt.us (forwarded from reedsut@gmail.com)
+- **Folder/UID:** INBOX/841
+- **Subject:** The internet should be a paradise of niche interests
+- **Summary:** Essay/newsletter by Mills Baker (Substack head of design) reflecting on early-web/Tumblr niche communities, meeting his wife on Tumblr, and Substack's aim to enable pluralistic creator communities via smaller-supporter models and customization features. Marketing/newsletter content; no bill, event, or action required.
+- **Action required:** no
+- **Unsubscribe:** RFC 8058 one-click POST to List-Unsubscribe HTTPS endpoint attempted (List-Unsubscribe-Post present); HTTP 302 response received.
