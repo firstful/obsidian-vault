@@ -111,3 +111,14 @@ tags: [email-triage, gitea-mirror]
 - **Summary:** GitHub Actions workflow "Gitea mirror" in firstful/gitea-mirror failed on main (commit 9d37763). Job "mirror" failed with 3 annotations; workflow duration 18m07s, finished 2026-11-13 07:14:58 UTC. Run: https://github.com/firstful/gitea-mirror/actions/runs/43382214952. Recurring failure — same workflow/commit has been failing repeatedly since 2026-11-08; mirror workflow itself is broken rather than a transient flake. SPF/DKIM/DMARC pass for github.com (dmarc p=quarantine); no List-Unsubscribe header (List-Id/List-Post/List-Archive only).
 - **Action required:** yes — investigate mirror failure and annotations, restore successful mirroring.
 - **Classification:** relevant — CI failure, recurring mirror breakage
+## 2026-11-13 — Run failed: Gitea mirror - main (9d37763) (UID 846)
+
+- **Date:** 2026-11-13T20:11:44Z (triage timestamp; envelope/body fetch unavailable)
+- **Sender:** notifications@github.com
+- **To:** unavailable (email-sync API GET /mail/846 unreachable from host; MCP email_* tools returned TypeError; trigger metadata-only)
+- **Subject:** [firstful/gitea-mirror] Run failed: Gitea mirror - main (9d37763)
+- **UID:** 846
+- **Message-Id:** unavailable (body/envelope not fetched)
+- **Summary:** GitHub Actions CI failure notification for `firstful/gitea-mirror` workflow "Gitea mirror" on `main` (commit 9d37763), per inbound trigger subject. Specific run URL, job annotations, duration, and finish time not available because full envelope/body could not be retrieved (email-sync svc DNS/endpoint fetch blocked/unreachable; MCP email_status/email_message_meta/email_fetch_body failing with `TypeError: 'module' object is not callable`). Recurring pattern: same workflow/commit has failed repeatedly since 2026-11-08 (see prior entries); treat as ongoing mirror breakage pending investigation.
+- **Action required:** yes — investigate Gitea mirror workflow failure on firstful/gitea-mirror main (9d37763) and restore successful mirroring.
+- **Classification:** relevant — CI failure notification, recurring mirror breakage
