@@ -20,6 +20,12 @@ Sam's Club emails: member marketing blasts and transactional order confirmations
 - **Action required:** no if the sign-in was Reed's (code is single-use and now past its 15-minute window); yes if unrecognised — change the Sam's Club password immediately and review account/payment settings.
 - **Related notes:** none (siblings UID 790–793, 795 recorded here and in [[security-alerts]]).
 
+## 2026-11-13 — Sign-in from new device (UID 795, third cycle)
+
+- **From:** Sam's Club <transaction@info.samsclub.com> · **To:** reedsut@gmail.com · **Date:** 2026-11-13 02:59:28Z
+- Third new-device notice of the session and a **fresh sign-in**, not a re-send: body clock 18:59 (→ 02:59Z) matches its own receipt time, and it follows UID 794 (verification code 456004, 02:58:32Z) by 56 s on the same Chrome on Windows / Reynoldsburg OH fingerprint as UID 791/793. Third code→sign-in cycle inside 33 minutes (790→791, 792→793, 794→795). Full detail: [[security-alerts]] "Sam's Club sign-in from new device (UID 795, third cycle)".
+- **Action required:** no (recognized household session); yes if Reed was not signing in at 02:58–02:59Z (then change the password and review account/payment settings).
+
 ## 2026-11-13 — Sign-in from new device (UID 793)
 
 - **From:** Sam's Club <transaction@info.samsclub.com> · **To:** reedsut@gmail.com · **Date:** 2026-11-13 02:34:33Z
