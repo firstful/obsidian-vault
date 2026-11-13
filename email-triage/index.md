@@ -57,7 +57,7 @@ tags: [email-triage, index]
 - [ramseyer-farms](topics/ramseyer-farms.md) — Ramseyer Farms (Wooster OH) Shopify store marketing: seasonal thanks/promo blasts (marketing)
 - [recruiter-outreach](topics/recruiter-outreach.md) — Recruiter outreach and LinkedIn connection requests (Robert Half, agency recruiters)
 - [resmed-myair](topics/resmed-myair.md) — ResMed myAir CPAP-therapy engagement blasts (myAir app coaching, nightly score/Streaks; marketing)
-- [samsclub](topics/samsclub.md) — Sam's Club transactional order confirmations and member marketing blasts
+- [samsclub](topics/samsclub.md) — Sam's Club transactional order confirmations, account login verification codes, and member marketing blasts
 - [security-alerts](topics/security-alerts.md) — Google/security account alerts
 - [service-deprecations](topics/service-deprecations.md) — API/service deprecations and shutdown notices requiring migration
 - [sherwin-williams](topics/sherwin-williams.md) — Sherwin-Williams paint marketing / Thumbtack painter-referral promos (marketing)

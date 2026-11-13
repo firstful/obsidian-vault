@@ -7,6 +7,18 @@ tags: [email-triage, samsclub]
 
 Sam's Club emails: member marketing blasts and transactional order confirmations.
 
+## 2026-11-13 — Sam's Club verification code (UID 790)
+
+- **From:** Sam's Club <No-reply@transaction.samsclub.com>
+- **To:** reedsut@gmail.com (routed by Cloudflare Email Routing → ingest@ffilt.us → reed@ffilt.us; `Return-Path: <reedsut+caf_=ingest=ffilt.us@gmail.com>`)
+- **Date:** 2026-11-13 02:26:12Z
+- **Subject:** Your Sam's Club verification code is 132786
+- **Message-ID:** <20261113022612.9a0d8ac49630be10@prod.samsclub.com>
+- **Classification:** relevant (transactional account-security verification code; not marketing). No `List-Unsubscribe` header; no unsubscribe action.
+- **Summary:** One-time login verification code **132786** for Reed's Sam's Club account, addressed to `reedsut@gmail.com`. Body reads "Here's your verification code, Reed." and states the code **expires in 15 minutes** (≈02:41Z). Auth all pass: DKIM (`d=prod.samsclub.com s=prodmg`, plus Mailgun `d=mailgun.org s=mg`), SPF pass, DMARC pass (`p=reject`), ARC pass. Body warns: if you did not request this code, change your password immediately. No attachments, no order/charge content.
+- **Action required:** yes — enter the code at the Sam's Club login prompt before it expires (expired at triage time). If Reed did not initiate the login, treat as an account-takeover attempt: change the Sam's Club password and review account activity.
+- **Related notes:** none.
+
 ## 2026-11-12 — Sam's Club order confirmation (UID 785)
 
 - **From:** SamsClub.com <No-reply@transaction.samsclub.com>
