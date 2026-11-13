@@ -328,3 +328,13 @@ tags: [email-triage, job-applications]
 - **Summary:** Greenhouse security-code email (Mailgun) for an in-progress Reddit job application (uid 803). Body instructs to copy/paste the 8-digit code into the security code field and resubmit the application; code: 59944561. Transactional/application verification (not marketing). 1 inline image attachment (Greenhouse logo, image/png, 6756 B). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass. No List-Unsubscribe action taken.
 - **Action required:** yes — enter code 59944561 in the Reddit application security-code field and resubmit (if still pending)
 
+
+## 2026-11-13 — Security code for your application to Affirm (uid 804)
+
+- **Date:** 2026-11-13T04:44:11Z
+- **Sender:** Greenhouse <no-reply@us.greenhouse-mail.io>
+- **To:** sutliff.reed@gmail.com (routed via Cloudflare Email Routing → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Security code for your application to Affirm
+- **Message-Id:** <6af6959bb5531_8e4d5896620@prod-jben-web-89c676c4b-jwp6x.mail>
+- **Summary:** Greenhouse security-code email (Mailgun) for an in-progress Affirm job application (uid 804). Body instructs to copy/paste the 8-digit code into the security code field and resubmit the application; code: 87703637. Transactional/application verification (not marketing). 1 inline image attachment (Greenhouse logo, image/png, 6756 B). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass. No List-Unsubscribe header → no unsubscribe action (transactional mail).
+- **Action required:** yes — enter code 87703637 in the Affirm application security-code field and resubmit (if still pending)
