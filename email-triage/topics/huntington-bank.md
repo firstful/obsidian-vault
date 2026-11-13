@@ -60,3 +60,14 @@ tags: [email-triage, huntington-bank]
 - **Summary:** Transactional notice: a new electronic statement is available for the Huntington account ending in ...5864; statement may contain important information including account changes. Review via the Huntington Mobile app or huntington.com. Auto-generated message; do not reply. Authentic: DKIM/SPF/DMARC pass (email.huntington.com). No balance or statement period disclosed in the message.
 - **Action required:** yes — log in and review the new statement (account ending ...5864) for any changes.
 - **Related:** [[Huntington Bank]] (money/institutions)
+
+## 2026-11-13 — Statement Available (account ...5864, EMILEESUTLIFF@gmail.com)
+
+- **Date:** 2026-11-13T16:14:13Z (email dated 2026-11-13 10:14:13 -0600)
+- **Sender:** Huntington Bank <HuntingtonOnline@email.huntington.com>
+- **To:** EMILEESUTLIFF@gmail.com (delivered to reed@ffilt.us via forwarding)
+- **Subject:** Statement Available
+- **UID:** 832 (INBOX, message-id `<40b4d6d9-f207-43c7-ae1b-203700352200@ind1s01mta0117.xt.local>`)
+- **Summary:** Transactional notice: a new electronic statement is available for the Huntington account ending in ...5864; statement may contain important account changes. Review via the Huntington Mobile app or huntington.com. Auto-generated message; do not reply. Authenticated (DKIM/SPF/DMARC pass, email.huntington.com). No full account number or balance disclosed.
+- **Action required:** yes — log in and review the new statement (account ending ...5864) for changes.
+- **Related:** [[Huntington Bank]] (money/institutions)
