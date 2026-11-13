@@ -357,3 +357,13 @@ tags: [email-triage, job-applications]
 - **Summary:** Greenhouse application-received confirmation for Staff Software Engineer, Fullstack (Auth Experiences) at Affirm (trigger metadata: inbound email #848). Classified as job-application/transactional confirmation from subject and sender; full envelope (To/headers) and body not fetched because email-sync GET /mail/848 was unreachable from this runtime and MCP email tools returned errors (email_search/email_message_meta). No unsubscribe performed (transactional, not promo/marketing). Action: none beyond waiting for follow-up from @affirm.com or @us.greenhouse-mail.io.
 - **Action required:** no
 - **Email id:** 848 (email-sync)
+
+## 2026-11-13 — Senior Software Engineer, Backend (ML Training and Serving) at Affirm (uid 851)
+
+- **Date:** 2026-11-13T21:30:12Z
+- **Sender:** no-reply@us.greenhouse-mail.io (Greenhouse)
+- **To:** sutliff.reed@gmail.com
+- **Subject:** We’ve received your application for Senior Software Engineer, Backend (ML Training and Serving) at Affirm
+- **Message-Id:** <20261113213012.25614d7d83ce25f6@us.greenhouse-mail.io>
+- **Summary:** Application-received confirmation via Greenhouse for Reed's application to Affirm for Senior Software Engineer, Backend (ML Training and Serving) (uid 851). Transactional acknowledgement (no body fetch beyond envelope/meta; email-sync MCP body/meta tools unavailable with TypeError). Attachment: GM___Immi_one_pager.pdf (155,634 B). No unsubscribe action (transactional, not marketing). Watch for follow-up from @affirm.com or @us.greenhouse-mail.io.
+- **Action required:** no
