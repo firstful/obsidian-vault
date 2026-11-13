@@ -62,3 +62,13 @@ Informational only; never action-required.
 - Summary: Daily Informed Delivery digest for Thursday 12 November 2026 — 6 mailpieces, 0 inbound packages. Eight mailpiece-scan JPEG attachments (2875567828-010.jpg 30 KB, content-1202196320.jpg 76 KB, mailer-1202197667.jpg 48 KB, content-1202197667.jpg 15 KB, 2875567492-010.jpg 41 KB, 2875567479-010.jpg 36 KB, 2875568224-010.jpg 38 KB, 2875567973-010.jpg 40 KB; 462 KB message). Dashboard "Expected Today 6 item(s)" names sender AVEN Financial (body truncated at 200 KB; same creative as UID 741 which also named U.S. Bank). No package exceptions, bills, deadlines, or account actions referenced.
 - Action required: no
 - Notes: Live triage (event id 742). Body fetched for piece counts; standard USPS footer carries an unsubscribe link, but no unsubscribe performed (USPS digests are never marketing and never unsubscribed). Silent on Discord per USPS rule.
+
+## 2026-11-13 — USPS Informed Delivery: "Your Daily Digest for Fri, 11/13 is ready to view"
+
+- UID: 817 (INBOX) · message-id: <20261113131248.f7a366f8dcf6eb14@email.informeddelivery.usps.com>
+- To: reedsut@gmail.com (Reed); forwarded into ingest via Cloudflare Email Routing (Delivered-To: reed@ffilt.us)
+- Date: 2026-11-13T13:12:48Z
+- From: USPS Informed Delivery <USPSInformeddelivery@email.informeddelivery.usps.com>
+- Summary: Daily Informed Delivery digest for Friday 13 November 2026 — 1 mailpiece, 0 inbound packages arriving soon; Expected Today shows 3 item(s) (body partially truncated, sender names not extractable). Two JPEG attachments (mailer-13664.jpg 113 KB, content-13664.jpg 11 KB; 212 KB message). "No packages are available to display"; includes "one or more mailpieces for which we do not currently have an image." No bills, deadlines, or account actions referenced.
+- Action required: no
+- Notes: Live triage (event id 817). Body fetched for envelope/count context; standard USPS footer carries an unsubscribe link, but no unsubscribe performed (USPS digests are never marketing and never unsubscribed). No Reed/Emilee duplicate copy observed in current inbox search.
