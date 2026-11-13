@@ -5,6 +5,17 @@ tags: [email-triage, billing]
 
 # Billing / Invoices
 
+## 2026-11-13 — Synchrony Google Store Financing statement ready (acct ending 2023) (UID 826)
+- **Date:** 2026-11-13T15:37:52Z
+- **From:** Synchrony for your Google Store Financing Account credit card <statements@mail.synchronybank.com>
+- **To:** emileesutliff@gmail.com
+- **Subject:** Your Google Store Financing Account credit card monthly statement is ready to view online
+- **Message-ID:** `<0.3.2.225.1DD7384F1F2BC96.0@omptrans.mail.synchronybank.com>`
+- **Classification:** relevant (billing/statement notice)
+- **Summary:** Monthly statement available for Google Store Financing Account credit card (Synchrony, account ending 2023). Statement balance **$655.24**, minimum payment due **$22.21**, payment due date **2026-12-05**. Email prompts login to view/print statement, review payment options, and view recent transaction history. Addressed to Emilee's mailbox (forwarded to ingest); no List-Unsubscribe action taken (To not a Reed mailbox).
+- **Action required:** yes — review statement in Synchrony account and ensure at least minimum payment ($22.21) is made by 2026-12-05 (or pay preferred amount).
+- **Related notes:** [[billing]]
+
 ## 2026-11-13 — Cloudflare invoice available (IN-88744770, $0.00, due 2026-11-13) (UID 816)
 - **Date:** 2026-11-13 13:12:50Z
 - **From:** Cloudflare <noreply@notify.cloudflare.com>
