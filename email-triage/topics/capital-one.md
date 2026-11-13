@@ -63,3 +63,14 @@ tags: [email-triage, capital-one]
 - **Summary:** CreditWise from Capital One alert — Reed's FICO® Score 8 (TransUnion data) **improved by 5 points**, monitored over the window **November 07, 2026 – November 10, 2026**. The delta is the only number in the message: it is rendered as an image whose alt text and tracking parameter read `5`, and the body carries **no absolute score value** (only a "See my score" link to the CreditWise dashboard), so the resulting score is unknown from the mail. Authentic: `dkim=pass header.d=notification.capitalone.com header.s=1024sep2015`, `spf=pass`, `dmarc=pass (policy=reject)`, `arc=pass`; sent via SparkPost. No attachment. No `List-Unsubscribe` header — the footer instead says to "unenroll from CreditWise" if unwanted, consistent with a transactional alert rather than bulk marketing. No unsubscribe performed (transactional account fact).
 - **Context / cross-reference:** the improvement window covers the **$194.57 payment dated November 7, 2026** (uid 554) posting to Quicksilver ...4809, which is the likely cause (on-time payment / reduced balance are the two CreditWise factors in play). It does **not** clear the account: the same trade line was in Collections (uid 544/652, minimum $157.00 due **November 16, 2026**) and was flagged **"could be reported as late"** the same day this alert arrived (uid 701, 2026-11-11T16:18Z). A score bump is not evidence that the late-reporting risk has passed — the ~30-day past-due threshold and the Nov 16 due date still govern.
 - **Action required:** no
+
+## 2026-11-13 — Important past-due notice: We’re here to help
+
+- **Date:** 2026-11-13T16:31:01Z
+- **Sender:** Capital One | Quicksilver <capitalone@notification.capitalone.com>
+- **To:** reedsut@gmail.com (delivered to reed@ffilt.us)
+- **Subject:** Important past-due notice: We’re here to help
+- **UID:** 831 (INBOX, message-id `<F0.88.58045.54B37FA6@i-085c6caeb07f174a2.mta2vrest.sd.prd.sparkpost>`)
+- **Summary:** Capital One past-due/collections reminder for Quicksilver Credit Card ending 4809 (Reed Sutliff). Message urges Reed to sign in and pay the missed/past-due amount to bring the account caught up and back in good standing. Body reviewed via email-sync triage fetch; specific current amount due, minimum payment, and due date were not clearly extractable from the parsed plain-text snippet in this triage pass, so verify current balance/due details in the Capital One app/online account or full message. DKIM/DMARC/SPF pass (notification.capitalone.com, SparkPost). Continues prior late-payment/collections sequence for ...4809 (see UID 652/701; Nov 16, 2026 minimum $157.00 context noted previously).
+- **Action required:** yes
+- **Related notes:** [[capital-one]], [[security-alerts]] (n/a)
