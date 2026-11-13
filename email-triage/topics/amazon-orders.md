@@ -34,3 +34,12 @@ tags: [email-triage, amazon-orders]
 - **Action required:** no — informational delivery confirmation; verify the package contents on arrival.
 - **Message-ID:** <010001a1d4b20a7c-406408f6-f647-4911-8670-e7b8c949cefb-000000@email.amazonses.com>
 - **UID:** 811
+## 2026-11-13 — Amazon order confirmation: 6 items (3D Printing Supplies) (UID 857)
+
+- **Date:** 2026-11-13T22:32:11Z
+- **Sender:** auto-confirm@amazon.com (Amazon.com, to emilee.sutliff@gmail.com)
+- **Subject:** Ordered 6 items: 3D Printing Supplies, Printing Supplies
+- **Summary:** Transactional Amazon order confirmation covering two orders/shipments: (1) Order #112-4821417-5355420, Grand Total $18.14 USD, arriving tomorrow (Emilee, PICKERINGTON OH). (2) Order #112-7026691-5399453, Grand Total $144.07 USD, arriving overnight 7:00 AM–10:00 AM (Emilee, PICKERINGTON OH). Subject/categories indicate 3D printing supplies (6 items total); item-level line details not fully extracted from HTML body. To address is emilee.sutliff@gmail.com (no "reed"), so no auto-unsubscribe performed.
+- **Action required:** no — informational order confirmation; monitor deliveries/contents on arrival and review order details in Amazon if needed.
+- **Message-ID:** <010001a1d70a30d0-2beed8c0-a161-433c-96b1-ad0565d60671-000000@email.amazonses.com>
+- **UID:** 857
