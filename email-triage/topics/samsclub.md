@@ -7,6 +7,19 @@ tags: [email-triage, samsclub]
 
 Sam's Club emails: member marketing blasts and transactional order confirmations.
 
+## 2026-11-13 — Sam's Club verification code (UID 796)
+
+- **From:** Sam's Club <No-reply@transaction.samsclub.com>
+- **To:** reedsut@gmail.com (routed by Cloudflare Email Routing → ingest@ffilt.us → reed@ffilt.us; `Return-Path: <reedsut+caf_=ingest=ffilt.us@gmail.com>`)
+- **Date:** 2026-11-13 03:03:06Z
+- **Subject:** Your Sam's Club verification code is 226021
+- **Message-ID:** <94e535b1d6b42cffc35984634b42a0e130025b7fa197370bcf03cee6be7c44c3@transaction.samsclub.com>
+- **Classification:** relevant (transactional account-security verification code; not marketing). No `List-Unsubscribe` header, no `Precedence: bulk`, no marketing footer — no unsubscribe action.
+- **Summary:** Fourth one-time login verification code for Reed's Sam's Club account inside ~37 minutes — **226021**. Body: "Here's your verification code, Reed. … Enter it on the website or app when prompted", **expires in 15 minutes** (≈03:18:06Z). Auth clean: `dkim=pass` (`d=ib.transaction.transaction.samsclub.com s=smtp1`), `spf=pass`, `dmarc=pass (policy=reject)`, `arc=pass`. HTML-only (64,105 bytes), no attachments, no order or charge content.
+- **Sibling correlation:** fourth code→sign-in cycle of the sitting: UID 790 code 132786 (02:26:12Z) → UID 791 new-device (02:27:17Z); UID 792 code 651622 (02:34:13Z) → UID 793 new-device (02:34:33Z); UID 794 code 456004 (02:58:32Z) → UID 795 new-device (02:59:28Z); UID 796 (03:03:06Z) may be followed by a further new-device notice. Consistent with Reed re-authenticating on a new Chrome/Windows machine (~10 mi from home), but four fresh codes in 37 minutes is also the shape of repeated login retries. Device/location detail in [[security-alerts]].
+- **Action required:** yes — enter the code at the Sam's Club login prompt before it expires (≈03:18Z). If Reed did not initiate this login, treat as account-takeover attempt: change the Sam's Club password immediately and review account/payment settings.
+- **Related notes:** none (siblings UID 790–795 recorded here and in [[security-alerts]]).
+
 ## 2026-11-13 — Sam's Club verification code (UID 794)
 
 - **From:** Sam's Club <No-reply@transaction.samsclub.com>
