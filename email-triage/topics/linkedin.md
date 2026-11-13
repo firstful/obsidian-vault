@@ -87,3 +87,11 @@ InMail/reply-needed mail there too, not here.
 - Summary: LinkedIn "career insights" digest (124 KB, no attachments; `X-LinkedIn-Template: email_career_insights_01`, `Feedback-ID: email_career_insights_01:linkedin`) titled "Career trends from your network" — marketing/job-seeker digest promoting career trends from the network. Bulk notification mail with one-click `List-Unsubscribe` (RFC 8058 POST accepted 200). Marketing only; no account state change, no deadline, no action implied.
 - Action required: no
 - Notes: Triaged 2026-11-13. RFC 8058 one-click POST to List-Unsubscribe HTTPS URL returned 200 (recorded in `topics/unsubscribes.md`).
+
+## 2026-11-13 - LinkedIn: "Someone at Foxen you may know"
+
+- UID: 815 (INBOX) - message-id: <1491199541.10017788.1794574911705@ltx1-app24909.prod.linkedin.com>
+- From: Yoland Dsouza on LinkedIn <messages-noreply@linkedin.com> - To: Reed Sutliff <reedsut@gmail.com>
+- Summary: LinkedIn "People You May Know" notification (116 KB, no attachments; Feedback-ID: email_pymk_02:linkedin) headlined "Do you know Yoland Dsouza?" on Yoland Dsouza, Software Quality Assurance Lead at Foxen (13 mutual connections), then "More people you may know" cards - Evan Carrish (Software developer, 16 mutuals), Andrew Doerfler (Senior Software Engineer at Foxen, 17), Shawn Leavy (Technical Team Lead at Foxen, 5), Justin Emrick (Senior AI Product Engineer at Foxen, 37), Sarah Tomko (Building Products and Scaling Start Ups, 31) - each with a Connect CTA, plus a "Get the new LinkedIn desktop app" cross-sell. PYMK marketing: no invitation, no incoming message, no recruiter note, no job listing, no deadline, no account or billing change anywhere in the body.
+- Action required: no
+- Notes: Triaged 2026-11-13. RFC 8058 one-click POST to List-Unsubscribe HTTPS URL returned 200 (recorded in topics/unsubscribes.md). Same messages-noreply@linkedin.com PYMK campaign family as UID 675 (2026-11-11, "Someone at Foxen you may know" / David Hairston) but distinct message-id and primary subject person.
