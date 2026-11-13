@@ -338,3 +338,13 @@ tags: [email-triage, job-applications]
 - **Message-Id:** <6af6959bb5531_8e4d5896620@prod-jben-web-89c676c4b-jwp6x.mail>
 - **Summary:** Greenhouse security-code email (Mailgun) for an in-progress Affirm job application (uid 804). Body instructs to copy/paste the 8-digit code into the security code field and resubmit the application; code: 87703637. Transactional/application verification (not marketing). 1 inline image attachment (Greenhouse logo, image/png, 6756 B). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass. No List-Unsubscribe header → no unsubscribe action (transactional mail).
 - **Action required:** yes — enter code 87703637 in the Affirm application security-code field and resubmit (if still pending)
+## 2026-11-13 — Senior Software Engineer, Backend (ML Feature Platform) at Affirm (uid 850)
+
+- **Date:** 2026-11-13T21:27:03Z
+- **Sender:** no-reply@us.greenhouse-mail.io (Greenhouse/Affirm Talent Team)
+- **To:** sutliff.reed@gmail.com (routed to reed@ffilt.us via ingest)
+- **Subject:** We’ve received your application for Senior Software Engineer, Backend (ML Feature Platform) at Affirm
+- **Message-Id:** <20261113212703.3505d956e53df984@us.greenhouse-mail.io>
+- **UID:** 850 (INBOX)
+- **Summary:** Application-received confirmation from Affirm Talent Team via Greenhouse for Senior Software Engineer, Backend (ML Feature Platform). Standard template: high application volume, review may take time; links to Affirm info/culture/recruiters/CEO; recruiting-scam notice (legit mail only from @affirm.com or @us.greenhouse-mail.io). Attachment: GM___Immi_one_pager.pdf (base64 PDF in message, ~155 KB). Auth: DKIM/SPF/DMARC pass (mailgun, us.greenhouse-mail.io). No List-Unsubscribe header value present. Transactional application acknowledgement, distinct role from other logged Affirm applications.
+- **Action required:** no (wait for follow-up from @affirm.com or @us.greenhouse-mail.io if selected)
