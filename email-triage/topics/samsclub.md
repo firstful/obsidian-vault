@@ -7,6 +7,12 @@ tags: [email-triage, samsclub]
 
 Sam's Club emails: member marketing blasts and transactional order confirmations.
 
+## 2026-11-13 — Sign-in from new device (UID 793)
+
+- **From:** Sam's Club <transaction@info.samsclub.com> · **To:** reedsut@gmail.com · **Date:** 2026-11-13 02:34:33Z
+- Second copy of the new-device notice already logged in [[security-alerts]] (UID 791, 02:27:17Z); same Chrome on Windows sign-in, same Reynoldsburg OH location. No separate unsubscribe action (transactional). Full detail: [[security-alerts]] "Sam's Club sign-in from new device (UID 793, re-send of UID 791)".
+- **Action required:** no (recognized household session)
+
 ## 2026-11-13 — Sam's Club verification code (UID 790)
 
 - **From:** Sam's Club <No-reply@transaction.samsclub.com>
