@@ -43,3 +43,15 @@ tags: [email-triage, medical-appointments]
 - **Summary:** Practice-wide notice to Bright Echoes families that Courtney will be off 11/26 (Thanksgiving Day) and 11/27 for the holiday — no speech-therapy sessions those two days. Remainder is a seasonal thank-you note to families; no make-up sessions, scheduling change, or confirmation is requested.
 - **Action required:** no (informational holiday-closure notice; Emilee received it directly, nothing to confirm, pay, or reschedule)
 - **Notes:** Backfilled 2026-11-11 from stored-but-untriaged mail (event 604, 20,303 bytes, no attachments). Sender is a human provider at a household service vendor, not bulk mail — no List-Unsubscribe header, so no unsubscribe performed or applicable.
+
+## 2026-11-13 (date unavailable) — New MyChart message (Nationwide Children's)
+
+- **Date:** unavailable (email-sync MCP email_message_meta/email_search unavailable: TypeError "module object is not callable" via execute_tool and mcp-call.py; trigger payload metadata-only)
+- **UID:** 847 (INBOX)
+- **Sender:** donotreply@nationwidechildrens.org (Nationwide Children's MyChart)
+- **Subject:** New Message
+- **To:** unavailable (envelope/body fetch unavailable)
+- **Message-ID:** unavailable (envelope/body fetch unavailable)
+- **Summary:** Inbound MyChart "New Message" notification from Nationwide Children's Hospital. Body not fetched due to email-sync MCP/API fetch failure, so recipient/patient and message details are unknown; consistent with prior Nationwide Children's MyChart alerts directing login to MyChart to read the message.
+- **Action required:** yes (log in to Nationwide Children's MyChart to read/respond; confirm which household member/patient the message is for)
+- **Triage note:** Triaged from trigger metadata only (no fabricated body/header facts). If details are needed, retry fetch when email-sync pipeline is healthy.
