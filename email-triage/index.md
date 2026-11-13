@@ -27,7 +27,8 @@ tags: [email-triage, index]
 - [experian](topics/experian.md) — Experian credit-report change and FICO-score alert emails (account-activation teasers; marketing)
 - [eyebuydirect](topics/eyebuydirect.md) — EyeBuyDirect post-purchase survey / follow-up emails (marketing)
 - [fairfield-dd](topics/fairfield-dd.md) — Fairfield County Board of Developmental Disabilities — Elijah's services, assistive-technology follow-ups and equipment links
-- [freedom-mortgage](topics/freedom-mortgage.md) — Freedom Mortgage marketing: seasonal home-maintenance and refinance/move promos (marketing)
+- [freedom-mortgage](topics/freedom-mortgage.md)
+- [sauk-mortgage-group](topics/sauk-mortgage-group.md) — Sauk Mortgage Group (Joseph Sauk) mortgage-monitoring marketing emails/promos — Freedom Mortgage marketing: seasonal home-maintenance and refinance/move promos (marketing)
 - [gift-exchange](topics/gift-exchange.md) — Gift exchange / Secret Santa (drawnames.com)
 - [gitea-mirror](topics/gitea-mirror.md) — Gitea mirror GitHub Actions CI failures
 - [github-security](topics/github-security.md) — GitHub security alerts and notifications
