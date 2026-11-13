@@ -64,3 +64,13 @@ tags: [email-triage, amazon-orders]
 - **Action required:** no — informational order confirmation; monitor delivery/contents on arrival and review order details in Amazon if needed.
 - **Message-ID:** <010001a1d711ad28-c93bac27-7807-4f6c-a844-717807fa6010-000000@email.amazonses.com>
 - **UID:** 859
+
+## 2026-11-13 — Amazon order confirmation: 1 item (Industrial & Scientific) (UID 860)
+
+- **Date:** 2026-11-13T22:46:26Z
+- **Sender:** auto-confirm@amazon.com (Amazon.com, to emilee.sutliff@gmail.com)
+- **Subject:** Ordered 1 item: Industrial & Scientific
+- **Summary:** Transactional Amazon order confirmation (Order #112-2276038-6004255). Grand Total $14.81 USD. Arriving overnight 7:00 AM–10:00 AM (Emilee, PICKERINGTON, OH). Item-level details not fully extracted from the HTML body; category indicated as Industrial & Scientific. To address is emilee.sutliff@gmail.com (no "reed"), so no auto-unsubscribe performed.
+- **Action required:** no — informational order confirmation; monitor delivery/contents on arrival and review order details in Amazon if needed.
+- **Message-ID:** <010001a1d7173b94-2f4ffa8e-e524-454f-b99d-5461da4ac676-000000@email.amazonses.com>
+- **UID:** 860
