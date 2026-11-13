@@ -13,3 +13,16 @@ tags: [email-triage, freedom-mortgage]
 - Authenticity: SPF/DKIM/DMARC all pass (`dkim=pass header.d=email-freedommortgage.com header.s=200608`, second DKIM for `s1.y.mc.salesforce.com header.s=fbldkim1`, `dmarc=pass (policy=reject) header.from=email-freedommortgage.com`, arc=pass), Salesforce Marketing Cloud (`Feedback-ID …:sfmktgcld`), RFC 8058 `List-Unsubscribe` + `List-Unsubscribe-Post: List-Unsubscribe=One-Click`. Genuine sender, advertising campaign.
 - Action required: no
 - Notes: Backfilled 2026-11-11 (message stored during a triage outage; original date 2026-11-10T20:02:42Z / header 14:02:42 -0600). **No unsubscribe performed (backfill run).** Related bookkeeping, not a triage record: `topics/unsubscribes.md` carries a 2026-11-10 row for the same sender under INBOX/541 ("View your FICO® Score in the Freedom Mortgage mobile app.", POST-candidate, not executed) — left untouched. Dup scan (anchored `\b665\b`, message-id tail `5cd3bd303e0c`, sender strings) found no prior entry; the only `665` match was inside an unrelated LinkedIn message-id `626655` in `topics/recruiter-outreach.md`.
+
+## 2026-11-13 — Freedom Mortgage follow-up: debt consolidation/home improvement opportunity (UID 845)
+
+- **Date:** 2026-11-13T19:57:56Z
+- **Sender:** Nickolas Stefanias <Nickolas.Stefanias@FreedomMortgage.com> (Senior Loan Advisor, Freedom Mortgage Customer Loyalty Team)
+- **To:** reedsut+fmort@gmail.com
+- **Folder/UID:** INBOX/845
+- **Message-ID:** <SN6PR07MB4608919BC163D35C754A48CB877F2@SN6PR07MB4608.namprd07.prod.outlook.com>
+- **Subject:** Freedom Mortgage Follow  Up: Debt Consolidation/Home Improvement Opportunity
+- **Summary:** Personal 1:1 follow-up from Nickolas Stefanias referencing an online inquiry and prior voicemail. He offers to discuss Reed's questions/goals and review possible options (debt consolidation/home improvement context per subject) and asks Reed to call him directly at 856-444-3031. No List-Unsubscribe header or unsubscribe mechanism found; 4 image attachments (signature/branding).
+- **Action required:** yes (respond/callback if interested; no stated deadline)
+- **Classification:** relevant (direct sales/advisor follow-up to inquiry), not bulk marketing
+- **Related notes:** [[freedom-mortgage]]
