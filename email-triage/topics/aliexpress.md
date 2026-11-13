@@ -13,3 +13,11 @@ tags: [email-triage, aliexpress]
 - action-required: no (marketing newsletter; no reply, purchase or deadline — delete at leisure)
 - ledger-note: backfill run — no unsubscribe performed (the List-Unsubscribe census row for this UID in topics/unsubscribes.md is an unsubscribe attempt record, not a triage record)
 - message-id: <93245c4c075442d0bca7e2603de46c40#4fb933e8-8cb6-4a64-96bc-248f23a85ad6#AE_GLOBAL@mail.aliexpress.com>
+
+## 2026-11-13 — Price drop on your carted items (UID 856)
+- date: 2026-11-13T22:19:20Z
+- sender: AliExpress <ae-style-finds10@deals.aliexpress.com> — to reedsut@gmail.com
+- subject: Price drop on your carted items
+- summary: AliExpress marketing/promo notification about price drops on carted items (deals sender). Classified from trigger metadata and fetched envelope/headers via email-sync API (folder INBOX, uid 856, message-id <93245c4c075442d0bca7e2603de46c40#c9901911-d018-4704-9fc1-75fa63de7648#AE_GLOBAL@deals.aliexpress.com>, size 106739, seen false). No List-Unsubscribe header or unsubscribe link found in fetched headers/body scan; no order/tracking/billing fact requiring action recorded.
+- action-required: no (marketing/promo)
+- message-id: <93245c4c075442d0bca7e2603de46c40#c9901911-d018-4704-9fc1-75fa63de7648#AE_GLOBAL@deals.aliexpress.com>
