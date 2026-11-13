@@ -26,3 +26,15 @@ tags: [email-triage, mcdonalds]
 - **Message-ID:** `<010001a1c7ce20d3-da5e131e-d9db-49a9-9dfd-9632d8839c5c-000000@email.amazonses.com>`
 - **Auth:** DKIM pass (header.d=us.mcdonalds.com, s=dqw5b77crtglwyibjjfsygctrjsgxb2o; also amazonses.com), DMARC pass (policy=quarantine) header.from=us.mcdonalds.com, SPF pass, ARC pass.
 - **Backfill note:** stored message replayed 2026-11-11 after the 2026-11-10 triage outage. Sibling of UID 640 — same sender/template, separate message-id, later order — not a duplicate.
+
+## 2026-11-13 — McDonald's mobile order receipt: $22.82 (UID 849)
+
+- **UID:** 849 (INBOX)
+- **Date:** 2026-11-13T21:25:26Z (Fri, 13 Nov 2026 21:25:26 +0000)
+- **Sender:** McDonald's Account Services <DoNotReply_US@us.mcdonalds.com> (To: reedsut@gmail.com; forwarded ingest@ffilt.us)
+- **Subject:** Thanks for placing a mobile order!
+- **Summary:** Mobile Order & Pay receipt (transactional). Order# MT62 / Check-In# MT62-HT97NW, placed 11/13/2026 04:25:20 PM (local), PCKRTON/S.R. 256, 1091 Hill Rd, Pickerington OH 43147-8886 (614-759-1007). Items: 20% off $10+ applied (discount $5.70), McDouble x2 $5.38, Double Hamburger x2 $5.98 (no mustard/diced onions/pickle), 6 pc. Chicken McNuggets Happy Meal x2 $9.78 (kids fry, extra kids fry, Pokemon toy, Honest Kids Organic Apple Juice, ketchup packet), Large French Fries $3.99, Large Reduced Sugar Vanilla Swirl w/ Coke Zero Sugar $3.39. Subtotal $22.82, Tax $0.00, **Total $22.82**, Total Savings $5.70. Paid MasterCard ****4772, approved $22.82, Merchant ID MCD-US-11127, Sequence SMMTT22FQRP6X769, Authorization 11/13/2026 04:25:22 PM, Balance $0.00. No attachments/List-Unsubscribe.
+- **Action required:** no (receipt/confirmation only).
+- **Message-ID:** `<010001a1d6cd1181-f731515e-195c-4769-97ef-da0fb9491929-000000@email.amazonses.com>`
+- **Auth:** DKIM pass (us.mcdonalds.com, amazonses.com), SPF pass, DMARC pass (p=quarantine) header.from=us.mcdonalds.com, ARC pass (per envelope headers).
+- **Related notes:** [[mcdonalds]]
