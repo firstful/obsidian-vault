@@ -74,3 +74,14 @@ tags: [email-triage, capital-one]
 - **Summary:** Capital One past-due/collections reminder for Quicksilver Credit Card ending 4809 (Reed Sutliff). Message urges Reed to sign in and pay the missed/past-due amount to bring the account caught up and back in good standing. Body reviewed via email-sync triage fetch; specific current amount due, minimum payment, and due date were not clearly extractable from the parsed plain-text snippet in this triage pass, so verify current balance/due details in the Capital One app/online account or full message. DKIM/DMARC/SPF pass (notification.capitalone.com, SparkPost). Continues prior late-payment/collections sequence for ...4809 (see UID 652/701; Nov 16, 2026 minimum $157.00 context noted previously).
 - **Action required:** yes
 - **Related notes:** [[capital-one]], [[security-alerts]] (n/a)
+
+## 2026-11-13 — Your Quicksilver Credit Card statement is ready
+
+- **Date:** 2026-11-13T16:56:29Z
+- **Sender:** Capital One | Quicksilver <capitalone@notification.capitalone.com>
+- **To:** emileesutliff@gmail.com
+- **Subject:** Your Quicksilver Credit Card statement is ready
+- **UID:** 834 (INBOX, message-id `<20.5A.45767.D3147FA6@i-0960891294fa5ba3d.mta6vrest.sd.prd.sparkpost>`)
+- **Summary:** Capital One Quicksilver credit card statement is ready (account holder context per recipient). Statement balance $1,262.41; minimum payment $25.00; payment due date December 7, 2026 (per statement/cutoff times may vary). Message indicates enrollment in AutoPay (selected amount will be debited as configured). Review full statement in Capital One app/online for account-specific details and confirm AutoPay/payment status.
+- **Action required:** yes
+- **Related notes:** [[capital-one]]
