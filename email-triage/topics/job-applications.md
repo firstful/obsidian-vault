@@ -307,3 +307,13 @@ tags: [email-triage, job-applications]
 - **Summary:** Greenhouse security-code email (Mailgun) for an in-progress Reddit job application (uid 801). Body instructs to copy/paste the 8-digit code into the security code field and resubmit the application; code: 83991239. Transactional/application verification (not marketing). 1 inline image attachment (Greenhouse logo, image/png, 6756 B). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass. No List-Unsubscribe action taken.
 - **Action required:** yes — enter code 83991239 in the Reddit application security-code field and resubmit (if still pending)
 
+
+## 2026-11-13 — Security code for Reddit application (uid 802)
+
+- **Date:** 2026-11-13T04:38:45Z
+- **Sender:** Greenhouse <no-reply@us.greenhouse-mail.io>
+- **To:** sutliff.reed@gmail.com (routed via Cloudflare Email Routing → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Security code for your application to Reddit
+- **Message-Id:** <6af694554f285_753ea4cb0564b9@prod-jben-web-89c676c4b-ct2fp.mail>
+- **Summary:** Greenhouse security-code email (Mailgun) for an in-progress Reddit job application (uid 802). Body instructs to copy/paste the 8-digit code into the security code field and resubmit the application; code: 51461969. Transactional/application verification (not marketing). 1 inline image attachment (Greenhouse logo, image/png, 6756 B). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass. No List-Unsubscribe action taken.
+- **Action required:** yes — enter code 51461969 in the Reddit application security-code field and resubmit (if still pending)
