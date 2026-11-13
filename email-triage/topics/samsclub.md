@@ -7,6 +7,19 @@ tags: [email-triage, samsclub]
 
 Sam's Club emails: member marketing blasts and transactional order confirmations.
 
+## 2026-11-13 — Sam's Club verification code (UID 794)
+
+- **From:** Sam's Club <No-reply@transaction.samsclub.com>
+- **To:** reedsut@gmail.com (routed by Cloudflare Email Routing → ingest@ffilt.us → reed@ffilt.us; `Return-Path: <reedsut+caf_=ingest=ffilt.us@gmail.com>`)
+- **Date:** 2026-11-13 02:58:32Z
+- **Subject:** Your Sam’s Club verification code is 456004
+- **Message-ID:** <f6cc2fad509d83fbfa8fe59f6394917662b7a41e6dbad4347f33bc7053d03ed9@transaction.samsclub.com>
+- **Classification:** relevant (transactional account-security verification code; not marketing). No `List-Unsubscribe`, no `Precedence: bulk`, no marketing footer — no unsubscribe action.
+- **Summary:** Third one-time login code for Reed's Sam's Club account inside 33 minutes — **456004**. Body: "Here's your verification code, Reed. … Enter it on the website or app when prompted", **expires in 15 minutes** (≈03:13:32Z). Auth clean: `dkim=pass` (`d=ib.transaction.transaction.samsclub.com s=smtp1`), `spf=pass`, `dmarc=pass (policy=reject) header.from=samsclub.com`, `arc=pass`. HTML-only (44,591 bytes), no attachments, no order or charge content.
+- **Sibling correlation:** sent **56 s before** UID 795 "Sign-in from new device" (`transaction@info.samsclub.com`, 02:59:28Z) — the **third** code→new-device cycle of the sitting: UID 790 code 132786 (02:26:12Z) → UID 791 new-device (02:27:17Z); UID 792 code 651622 (02:34:13Z) → UID 793 new-device (02:34:33Z); UID 794 → UID 795. Every cycle resolves within ~20–60 s, i.e. each code was requested and immediately redeemed. Consistent with Reed re-authenticating on a new Chrome/Windows machine (~10 mi from home), but three fresh codes in 33 minutes is also the shape of repeated login retries. Device/location detail is logged in [[security-alerts]] (UID 791/793); UID 795 not yet triaged at the time of this entry.
+- **Action required:** no if the sign-in was Reed's (code is single-use and now past its 15-minute window); yes if unrecognised — change the Sam's Club password immediately and review account/payment settings.
+- **Related notes:** none (siblings UID 790–793, 795 recorded here and in [[security-alerts]]).
+
 ## 2026-11-13 — Sign-in from new device (UID 793)
 
 - **From:** Sam's Club <transaction@info.samsclub.com> · **To:** reedsut@gmail.com · **Date:** 2026-11-13 02:34:33Z
