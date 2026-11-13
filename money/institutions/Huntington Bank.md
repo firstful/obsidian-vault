@@ -32,3 +32,7 @@ Plaid institution linked to [[Money]].
 ## Notes
 
 Kept at institution level only — no account numbers, masks, or Plaid IDs retained.
+
+## Card replacement (2026-11-13)
+
+- Email notice (UID 809): debit card expires end of month; replacement mailed, watch mailbox. Activate on receipt (huntington.com / mobile app / (800) 462-6260); update retailers/autopay with new number/expiry/CVV. See [[huntington-bank]] triage topic.
