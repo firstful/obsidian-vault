@@ -24,3 +24,13 @@ tags: [email-triage, amazon-orders]
 - **Action required:** yes — reply to seller via Amazon messaging link accepting/refusing the refund; verify tracking on the order.
 - **Message-ID:** <010001a1c9a1d236-156e5e1a-6b7c-461d-8829-78014d05c1bc-000000@email.amazonses.com>
 - **UID:** 684
+
+## 2026-11-13 — Amazon delivery confirmation: 2 items (Kitchen Fixtures, Appliances) (UID 811)
+
+- **Date:** 2026-11-13T11:36:40Z
+- **Sender:** order-update@amazon.com (to emilee.sutliff@gmail.com)
+- **Subject:** Delivered 2 items: Kitchen Fixtures, Appliances
+- **Summary:** Amazon delivery notification (order-update) reporting 2 items delivered, categories "Kitchen Fixtures" and "Appliances". Shipping/marketing notification, not an order status change requiring action. To address is emilee.sutliff@gmail.com (no "reed"), so no auto-unsubscribe performed.
+- **Action required:** no — informational delivery confirmation; verify the package contents on arrival.
+- **Message-ID:** <010001a1d4b20a7c-406408f6-f647-4911-8670-e7b8c949cefb-000000@email.amazonses.com>
+- **UID:** 811
