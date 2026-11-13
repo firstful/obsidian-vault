@@ -7,6 +7,18 @@ tags: [email-triage, samsclub]
 
 Sam's Club emails: member marketing blasts and transactional order confirmations.
 
+## 2026-11-13 — Give us the scoop on your recent purchase (UID 821)
+
+- **From:** Sam's Club <no-reply-ugc@samsclub.com>
+- **To:** reedsut@gmail.com
+- **Date:** 2026-11-13 14:43:48Z
+- **Subject:** Give us the scoop on your recent purchase.
+- **Message-ID:** <010001a1d55d6031-9b890a07-0d0f-4e12-a06b-6dee5be0b099-000000@email.amazonses.com>
+- **Classification:** promo/marketing (post-purchase review/feedback solicitation / UGC request; no bill, no order change, no security event). No `List-Unsubscribe` / `List-Unsubscribe-Post` headers found; no `Precedence: bulk` header observed.
+- **Summary:** Sam's Club soliciting feedback/review on a recent purchase ("give us the scoop"). No attachments, no concrete dated event, bill, or action required beyond optionally leaving a review.
+- **Action required:** no
+- **Related notes:** none
+
 ## 2026-11-13 — Sam's Club verification code (UID 796)
 
 - **From:** Sam's Club <No-reply@transaction.samsclub.com>
