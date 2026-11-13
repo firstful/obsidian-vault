@@ -13,6 +13,19 @@ Sam's Club emails: member marketing blasts and transactional order confirmations
 - Second copy of the new-device notice already logged in [[security-alerts]] (UID 791, 02:27:17Z); same Chrome on Windows sign-in, same Reynoldsburg OH location. No separate unsubscribe action (transactional). Full detail: [[security-alerts]] "Sam's Club sign-in from new device (UID 793, re-send of UID 791)".
 - **Action required:** no (recognized household session)
 
+## 2026-11-13 — Sam's Club verification code (UID 792)
+
+- **From:** Sam's Club <No-reply@transaction.samsclub.com>
+- **To:** reedsut@gmail.com (routed by Cloudflare Email Routing → ingest@ffilt.us → reed@ffilt.us; `Return-Path: <reedsut+caf_=ingest=ffilt.us@gmail.com>`)
+- **Date:** 2026-11-13 02:34:13Z
+- **Subject:** Your Sam's Club verification code is 651622
+- **Message-ID:** <20261113023413.a4de03884e5d0d0e@prod.samsclub.com>
+- **Classification:** relevant (transactional account-security verification code; not marketing). No `List-Unsubscribe` header; no unsubscribe action.
+- **Summary:** One-time login verification code **651622** for Reed's Sam's Club account, addressed to `reedsut@gmail.com`. Body: "Here's your verification code, Reed… Enter it on the website or app when prompted", code **expires in 15 minutes** (≈02:49Z). Auth all pass: DKIM (`d=prod.samsclub.com s=prodmg`, plus Mailgun `d=mailgun.org s=mg`), SPF pass, DMARC pass (`p=reject` on `header.from=samsclub.com`), ARC pass. HTML-only, no attachments, no order/charge content.
+- **Action required:** yes — enter the code at the Sam's Club login prompt (now expired). If Reed did not initiate this login, treat as account-takeover attempt: change the Sam's Club password and review account activity.
+- **Sibling correlation:** this code was followed **20 s later** by UID 793 "Sign-in from new device" (`transaction@info.samsclub.com`, 02:34:33Z) on the same mailbox — the code was requested and immediately used. That completes a **second** code→new-device cycle inside 8 minutes: UID 790 code 132786 (02:26:12Z) → UID 791 new-device (02:27:17Z, ~65 s later). Two fresh-device notices in one sitting (both Chrome on Windows, Reynoldsburg OH — ~10 mi from home) match Reed re-authenticating on a new device/browser rather than a takeover, but the codes were issued to whoever made those requests — if Reed was not signing in at 02:26–02:35Z, change the password. New-device detail lives in [[security-alerts]] (UID 791/793).
+- **Related notes:** none (siblings UID 790/791/793 recorded in this topic and [[security-alerts]]).
+
 ## 2026-11-13 — Sam's Club verification code (UID 790)
 
 - **From:** Sam's Club <No-reply@transaction.samsclub.com>
