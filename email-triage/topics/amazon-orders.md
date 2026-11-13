@@ -34,6 +34,7 @@ tags: [email-triage, amazon-orders]
 - **Action required:** no — informational delivery confirmation; verify the package contents on arrival.
 - **Message-ID:** <010001a1d4b20a7c-406408f6-f647-4911-8670-e7b8c949cefb-000000@email.amazonses.com>
 - **UID:** 811
+
 ## 2026-11-13 — Amazon order confirmation: 6 items (3D Printing Supplies) (UID 857)
 
 - **Date:** 2026-11-13T22:32:11Z
@@ -53,3 +54,13 @@ tags: [email-triage, amazon-orders]
 - **Action required:** no — informational order confirmation; monitor delivery and review order details in Amazon if needed.
 - **Message-ID:** <010001a1d710c80b-b845baac-0fca-488b-a7b7-984a487f2aa0-000000@email.amazonses.com>
 - **UID:** 858
+
+## 2026-11-13 — Amazon order confirmation: 1 item (Magnets) (UID 859)
+
+- **Date:** 2026-11-13T22:40:22Z
+- **Sender:** auto-confirm@amazon.com (Amazon.com, to reed@ffilt.us; original envelope from emilee.sutliff+caf_=ingest=ffilt.us@gmail.com)
+- **Subject:** Ordered 1 item: Magnets
+- **Summary:** Transactional Amazon order confirmation for 1 item (Magnets). Order #112-1851523-6991410, Grand Total $14.93 USD, arriving tomorrow (Emilee, PICKERINGTON OH). Item-level details not fully extracted from the HTML body.
+- **Action required:** no — informational order confirmation; monitor delivery/contents on arrival and review order details in Amazon if needed.
+- **Message-ID:** <010001a1d711ad28-c93bac27-7807-4f6c-a844-717807fa6010-000000@email.amazonses.com>
+- **UID:** 859
