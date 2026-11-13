@@ -53,3 +53,14 @@ tags: [email-triage, security-alerts]
 - **Summary:** Google Maps Timeline notification: a new smartphone recently signed in is now adding visits/routes to Timeline for emileesutliff@gmail.com. Informational security/privacy notice (review devices/activity controls, enable backup if desired). DKIM/SPF/DMARC pass in transit. Addressed to Emilee (not Reed).
 - **Action required:** yes (if unrecognized/new device not expected — review Google account devices & Timeline/location settings, turn off Timeline or secure account as needed), no (if recognized)
 
+## 2026-11-13 — Sam's Club sign-in from new device (UID 791)
+
+- **Date:** 2026-11-12 20:27:17 -0600 (2026-11-13 02:27:17Z, received)
+- **From:** Sam's Club <transaction@info.samsclub.com>
+- **To:** reedsut@gmail.com (routed to ingest@ffilt.us via Cloudflare Email Routing)
+- **Subject:** Sign-in from new device
+- **Message-ID:** `<89f63ab5-531e-4bf2-ac7b-8f5385f95b76@dfw1s10mta1787.xt.local>`
+- **Classification:** relevant — transactional account-security notice (`X-Delivery: Transactional`), not marketing.
+- **Summary:** Sam's Club member notification that the account signed in from a different device: **Device: Chrome on Windows**; **Date and time: November 12, 18:27** (body labels it "PM PST" — the template timezone label conflicts with the -0600 send header, so the clock label is unreliable; send was 2026-11-12 20:27 CST / 02:27Z Nov 13); **Location: Reynoldsburg, Ohio, US** (approximate, derived from the login IP — ~10 mi from the household address in Pickerington). Legitimacy: DKIM pass for `info.samsclub.com` (s=10dkim1) and s10.y.mc.salesforce.com, `dmarc=pass (policy=reject) header.from=info.samsclub.com`, `spf=pass`, sent via Salesforce Marketing Cloud (`Feedback-ID: 100027498:232627:...:sfmktgcld`). Remedy if unrecognized: change the password at SamsClub.com account personal-info. No attachments. No `List-Unsubscribe` header → no unsubscribe action (transactional security mail, and the To mailbox is Reed's).
+- **Corroboration:** A Sam's Club order confirmation (UID 785, order **8000-0010-8326-586**, $119.94, card ending 4780) arrived 2026-11-12 21:46Z — ~1h19m after this sign-in from the same account, consistent with household shopping that evening in a Windows/Chrome browser. No other Sam's Club sign-in alerts in the ledger. Cross-ref [[samsclub]], [[purchases/Sam's Club 8000-0010-8326-586]].
+- **Action required:** yes (if this sign-in was not Reed's — change the Sam's Club password immediately and review account/payment settings), no (if recognized — household Chrome/Windows session, which the same-evening order supports).
