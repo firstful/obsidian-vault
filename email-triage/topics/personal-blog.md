@@ -61,3 +61,14 @@ tags: [email-triage, personal-blog]
 - **Summary:** GitHub Actions workflow "Deploy to Azure Static Web Apps" in firstful/personal-blog failed on main (commit 52d4631). Build & Deploy failed (3 annotations) in 44s; PR Test skipped. Duration 49.0s, finished 2026-11-13 07:14:38 UTC. SPF/DKIM/DMARC pass.
 - **Run:** https://github.com/firstful/personal-blog/actions/runs/43384235305
 - **Action required:** yes
+
+## 2026-11-14 — Run failed: Deploy to Azure Static Web Apps - main (1084469)
+
+- **Date:** 2026-11-14T07:02:01Z (message date 2026-11-13 23:02:01 -0800; uid 881)
+- **Sender:** notifications@github.com (Reed Sutliff)
+- **To:** personal-blog@noreply.github.com (Cc ci_activity@noreply.github.com; routed via sutliff.reed@gmail.com -> ingest@ffilt.us)
+- **Subject:** [firstful/personal-blog] Run failed: Deploy to Azure Static Web Apps - main (1084469)
+- **Message-ID:** <firstful/personal-blog/check-suites/CS_kwDOUWGd288AAAAbd7W91w/1794639699@github.com>
+- **Summary:** GitHub Actions workflow \"Deploy to Azure Static Web Apps\" in firstful/personal-blog failed on main (commit 1084469). Build & Deploy failed (3 annotations) in 37s; PR Test skipped. Duration 37.0s, finished 2026-11-14 07:01:39 UTC. SPF/DKIM/DMARC pass.
+- **Run:** https://github.com/firstful/personal-blog/actions/runs/43569073901
+- **Action required:** yes
