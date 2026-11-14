@@ -81,3 +81,12 @@ Informational only; never action-required.
 - Summary: Daily Informed Delivery digest for Friday 13 November 2026 — 1 mailpiece, 0 inbound packages. Two JPEG attachments (mailer-13664.jpg 116 KB, content-13664.jpg 11 KB; 217 KB message). Body fetched for piece/package counts (truncated at 200 KB). No package exceptions, bills, deadlines, or account actions referenced.
 - Action required: no
 - Notes: Live triage (event id 818). Standard USPS footer carries an unsubscribe link, but no unsubscribe performed (USPS digests are never marketing and never unsubscribed). Silent on Discord per USPS rule.
+
+## 2026-11-14 — USPS Informed Delivery: "Your Daily Digest for Sat, 11/14 is ready to view"
+
+- UID: 888 (INBOX) · message-id: <20261114125319.8ef8e3db0fee7946@email.informeddelivery.usps.com>
+- To: reedsut@gmail.com (greeting "Hi, Reed!"); forwarded into ingest via Cloudflare Email Routing (Delivered-To: reed@ffilt.us)
+- Date: 2026-11-14T12:53:19Z
+- Summary: Daily Informed Delivery digest for Saturday 14 November 2026 — piece/package counts and dashboard sender names not fully extractable from truncated fetched body (377 KB message, 4 JPEG attachments: mailer-466.jpg 154 KB, content-466.jpg 40 KB, 2876268907-010.jpg 42 KB, 2876268906-010.jpg 42 KB; body capped at 200 KB). "Today's Deliveries: 11/14/2026" present in text/plain part. No bills, deadlines, or account actions referenced in available content.
+- Action required: no
+- Notes: Live triage (event id 888). Body fetched for context; standard USPS footer carries an unsubscribe link, but no unsubscribe performed (USPS digests are never marketing and never unsubscribed). Silent on Discord per USPS rule.
