@@ -455,3 +455,14 @@ tags: [email-triage, job-applications]
 - **UID:** 876 (INBOX)
 - **Summary:** Greenhouse security-code email (Mailgun) for an in-progress Lithic job application (uid 876). Body instructs to copy/paste the 8-digit code into the security code field and resubmit the application; code: 45305833. Transactional/application verification (not marketing). 1 inline image attachment (Greenhouse Recruiting logo, image/png). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass. No List-Unsubscribe action taken (transactional, not marketing).
 - **Action required:** yes — enter code 45305833 in the Lithic application security-code field and resubmit (if still pending)
+
+## 2026-11-14 — Security code for your application to Lithic (uid 877)
+
+- **Date:** 2026-11-14T05:55:26Z
+- **Sender:** Greenhouse <no-reply@us.greenhouse-mail.io>
+- **To:** sutliff.reed@gmail.com (routed via Cloudflare Email Routing → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Security code for your application to Lithic
+- **Message-Id:** <6af7f7cec0d58_28ca074d40916bf@prod-jben-web-89c676c4b-mtphb.mail>
+- **UID:** 877 (INBOX)
+- **Summary:** Greenhouse security-code email (Mailgun) for an in-progress Lithic job application (uid 877), distinct follow-up to uid 876. Body instructs to copy/paste the 8-digit code into the security code field and resubmit the application; code: 27769535. Transactional/application verification (not marketing). 1 inline image attachment (Greenhouse Recruiting logo, image/png, 6756 B). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass. No List-Unsubscribe action taken (transactional, not marketing).
+- **Action required:** yes — enter code 27769535 in the Lithic application security-code field and resubmit (if still pending)
