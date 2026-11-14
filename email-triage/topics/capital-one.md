@@ -96,3 +96,14 @@ tags: [email-triage, capital-one]
 - **Summary:** CreditWise from Capital One notice: a lender reported that the status of one of Reed's accounts is now current. The message states keeping an account current requires making at least the minimum payments on time and directs Reed to review the recent change in the Alerts section of CreditWise. No specific creditor, account, amount, or score value included in the email body. No List-Unsubscribe header present (transactional/account notice).
 - **Action required:** no
 - **Related notes:** [[capital-one]] — see ongoing Quicksilver ...4809 past-due/collections sequence (UIDs 652/701/831); this "current" status may reflect a different tradeline or an update on that account; verify in CreditWise/Capital One for which account changed.
+
+## 2026-11-14 — ⚠️ Capital One alert: Action required to prevent another missed payment
+
+- **Date:** 2026-11-14T16:23:03Z
+- **Sender:** Capital One | Quicksilver <capitalone@notification.capitalone.com>
+- **To:** reedsut@gmail.com (delivered to reed@ffilt.us)
+- **Subject:** ⚠️ Capital One alert: Action required to prevent another missed payment
+- **UID:** 896 (INBOX, message-id `<FD.3E.42723.7EA88FA6@i-0e4dea8a5c606fea8.mta6vrest.sd.prd.sparkpost>`)
+- **Summary:** Collections/late-payment reminder for Quicksilver Credit Card ...4809 (Reed Sutliff). Account is past due; another payment is due **November 16, 2026**; new minimum payment amount **$157.00** (includes missed payments and fees). Pay at least the minimum now to return the account to good standing. Card may be reported late to credit bureaus if more than 30 days past due and the minimum is not received by the statement due date. Help: 800-955-6600 (Mon-Fri 8 a.m.-11 p.m. ET, Sat-Sun 8 a.m.-5 p.m. ET). Information accurate as of 2026-11-12. Continues prior past-due/collections sequence for ...4809 (see uid 652/701/831; uid 895 noted a CreditWise "current on an account" alert — verify in Capital One/CreditWise which tradeline changed).
+- **Action required:** yes
+- **Related notes:** [[capital-one]]
