@@ -30,3 +30,15 @@ Bibibop Rewards transactional emails (verification codes, account notices).
 - **Summary:** BIBIBOP delivery order confirmed (order #47981944426561537, total $32.27) for emileesutliff@gmail.com. Routed through household ingest to reed@ffilt.us.
 - **Action required:** no (informational receipt; verify order/delivery in BIBIBOP account if needed)
 - **Related notes:** none
+
+## 2026-11-14 — Order delivered: 47981944426561537 (UID 909)
+
+- **From:** orders@bibiop-updates.craveup.com
+- **To:** emileesutliff@gmail.com (forwarded to reed@ffilt.us via ingest@ffilt.us)
+- **Date:** 2026-11-14 20:42:25Z
+- **Subject:** Order delivered: 47981944426561537
+- **Message-ID:** <010001a1dbcc0cea-35743eb5-835f-4bde-956a-d0023a53dd64-000000@email.amazonses.com>
+- **Classification:** relevant (transactional delivery notification; not marketing/promo). No unsubscribe action (To not Reed; no List-Unsubscribe action taken).
+- **Summary:** BIBIBOP delivery completed for order #47981944426561537 (delivered from BIBIBOP). Email addressed to emileesutliff@gmail.com, routed through household ingest to reed@ffilt.us.
+- **Action required:** no (informational delivery notice; verify in BIBIBOP account if desired)
+- **Related notes:** none
