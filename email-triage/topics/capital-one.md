@@ -107,3 +107,14 @@ tags: [email-triage, capital-one]
 - **Summary:** Collections/late-payment reminder for Quicksilver Credit Card ...4809 (Reed Sutliff). Account is past due; another payment is due **November 16, 2026**; new minimum payment amount **$157.00** (includes missed payments and fees). Pay at least the minimum now to return the account to good standing. Card may be reported late to credit bureaus if more than 30 days past due and the minimum is not received by the statement due date. Help: 800-955-6600 (Mon-Fri 8 a.m.-11 p.m. ET, Sat-Sun 8 a.m.-5 p.m. ET). Information accurate as of 2026-11-12. Continues prior past-due/collections sequence for ...4809 (see uid 652/701/831; uid 895 noted a CreditWise "current on an account" alert — verify in Capital One/CreditWise which tradeline changed).
 - **Action required:** yes
 - **Related notes:** [[capital-one]]
+
+## 2026-11-14 — Emilee, the payment status of one of your accounts changed (CreditWise)
+
+- **Date:** 2026-11-14T22:32:38Z
+- **Sender:** Capital One <capitalone@notification.capitalone.com>
+- **To:** emileesutliff@gmail.com (forwarded to ingest/rewritten headers show delivery path; original recipient per envelope: emileesutliff@gmail.com)
+- **Subject:** Emilee, the payment status of one of your accounts changed
+- **UID:** 913 (INBOX, message-id `<11.C6.39372.681E8FA6@i-092ea41f4fa76cf64.mta2vrest.sd.prd.sparkpost>`)
+- **Summary:** CreditWise/Capital One notification that payment status changed for one of Emilee’s accounts. Body is minimal/link-driven (“Please visit the Alerts section of CreditWise…”); no specific creditor, account ending, amount, or due date exposed in the fetched text (links to CreditWise/Capital One alerts). Treat as account-status alert requiring review in CreditWise/Capital One app (not a marketing promo). No List-Unsubscribe header present (transactional-style alert).
+- **Action required:** yes (review CreditWise alerts/sign in to confirm which account and what changed)
+- **Related notes:** [[capital-one]] (ongoing Reed/Quicksilver ...4809 sequence also tracked here; this alert is addressed to Emilee — verify account context in Capital One/CreditWise)
