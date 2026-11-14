@@ -85,3 +85,14 @@ tags: [email-triage, capital-one]
 - **Summary:** Capital One Quicksilver credit card statement is ready (account holder context per recipient). Statement balance $1,262.41; minimum payment $25.00; payment due date December 7, 2026 (per statement/cutoff times may vary). Message indicates enrollment in AutoPay (selected amount will be debited as configured). Review full statement in Capital One app/online for account-specific details and confirm AutoPay/payment status.
 - **Action required:** yes
 - **Related notes:** [[capital-one]]
+
+## 2026-11-14 — Reed, you're current on an account
+
+- **Date:** 2026-11-14T15:15:00Z
+- **Sender:** Capital One <capitalone@notification.capitalone.com>
+- **To:** reedsut@gmail.com
+- **Subject:** Reed, you're current on an account
+- **UID:** 895 (INBOX, message-id `<49.30.10562.4FA78FA6@i-0c36e294c77caf93c.mta6vrest.sd.prd.sparkpost>`)
+- **Summary:** CreditWise from Capital One notice: a lender reported that the status of one of Reed's accounts is now current. The message states keeping an account current requires making at least the minimum payments on time and directs Reed to review the recent change in the Alerts section of CreditWise. No specific creditor, account, amount, or score value included in the email body. No List-Unsubscribe header present (transactional/account notice).
+- **Action required:** no
+- **Related notes:** [[capital-one]] — see ongoing Quicksilver ...4809 past-due/collections sequence (UIDs 652/701/831); this "current" status may reflect a different tradeline or an update on that account; verify in CreditWise/Capital One for which account changed.
