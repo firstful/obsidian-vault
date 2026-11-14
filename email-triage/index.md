@@ -71,6 +71,7 @@ tags: [email-triage, index]
 - [spendr](topics/spendr.md) — Spendr rewards-app weekly dispensary deals blasts (marketing)
 - [substack-post](topics/substack-post.md) — Substack's own Post publication essays/excerpts (news-and-views, the-weekender, unstacked sections; marketing)
 - [t-mobile](topics/t-mobile.md) — T-Mobile wireless account notices: payment receipts and billing
+- [tacobell](topics/tacobell.md) — Taco Bell pickup order confirmations and receipts (transactional)
 - [temu](topics/temu.md) — Temu order/reshipment notices and automatic refunds (transactional)
 - [ticketmaster](topics/ticketmaster.md) — Ticketmaster event-marketing newsletters (new onsales / upcoming concert, comedy, family-show listings; marketing)
 - [tinybeans](topics/tinybeans.md) — Tinybeans parenting-app marketing/newsletters (gift guides, Little Tikes promos; marketing)
