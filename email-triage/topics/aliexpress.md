@@ -21,3 +21,11 @@ tags: [email-triage, aliexpress]
 - summary: AliExpress marketing/promo notification about price drops on carted items (deals sender). Classified from trigger metadata and fetched envelope/headers via email-sync API (folder INBOX, uid 856, message-id <93245c4c075442d0bca7e2603de46c40#c9901911-d018-4704-9fc1-75fa63de7648#AE_GLOBAL@deals.aliexpress.com>, size 106739, seen false). No List-Unsubscribe header or unsubscribe link found in fetched headers/body scan; no order/tracking/billing fact requiring action recorded.
 - action-required: no (marketing/promo)
 - message-id: <93245c4c075442d0bca7e2603de46c40#c9901911-d018-4704-9fc1-75fa63de7648#AE_GLOBAL@deals.aliexpress.com>
+
+## 2026-11-14 — To pair with what you purchased (UID 885)
+- date: 2026-11-14T10:23:57Z
+- sender: AliExpress <ae-style-finds10@deals.aliexpress.com> — to reedsut@gmail.com
+- subject: To pair with what you purchased
+- summary: AliExpress marketing/personalized recommendation digest ("to pair with what you purchased") from deals sender. Classified from fetched envelope/headers via email-sync (http://email.ffilt.us/mail/885; folder INBOX, uid 885, size 146471, seen false). No List-Unsubscribe header and no unsubscribe URL/mailto found in fetched headers/body scan; no order/tracking/billing fact requiring action.
+- action-required: no (marketing/promo)
+- message-id: <93245c4c075442d0bca7e2603de46c40#0c0b4605-4d16-4422-9911-f570986590fa#AE_GLOBAL@deals.aliexpress.com>
