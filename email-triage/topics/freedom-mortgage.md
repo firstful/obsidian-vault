@@ -26,3 +26,17 @@ tags: [email-triage, freedom-mortgage]
 - **Action required:** yes (respond/callback if interested; no stated deadline)
 - **Classification:** relevant (direct sales/advisor follow-up to inquiry), not bulk marketing
 - **Related notes:** [[freedom-mortgage]]
+
+## 2026-11-14 — Freedom Mortgage: "Take advantage of a weekend prequalification, Reed." (UID 897)
+
+- **Date:** 2026-11-14T17:04:37Z (header: Sat, 14 Nov 2026 11:04:37 -0600)
+- **Sender:** "Freedom Mortgage Corporation" <marketing.department@email-freedommortgage.com>
+- **To:** reedsut+fmort@gmail.com (delivered to reed@ffilt.us via ingest forwarding)
+- **Folder/UID:** INBOX/897
+- **Message-ID:** <4957480b-848f-413b-888f-62006cb41a05@ind1s01mta0083.xt.local>
+- **Subject:** Take advantage of a weekend prequalification, Reed.
+- **Summary:** Marketing email encouraging Reed to get prequalified over the weekend to shop for homes, with CTAs to "Get Prequalified" / contact Freedom Mortgage for assistance. No bill, statement, due date, account-specific action, or concrete appointment/event.
+- **Authenticity/headers:** SPF/DKIM pass indicators present in received headers (Salesforce/ESP path); `List-Unsubscribe` includes HTTPS subscription_center link and mailto; `List-Unsubscribe-Post: List-Unsubscribe=One-Click`.
+- **Action required:** no
+- **Classification:** promo/marketing (bulk marketing; unsubscribe-eligible). To contains "reed" (reedsut+fmort@gmail.com) — auto-unsubscribe policy applies.
+- **Unsubscribe:** attempted logging only — RFC 8058 one-click HTTPS URL present but JWT token was truncated in fetched envelope/body data, so exact POST could not be executed safely; recorded in [[unsubscribes]] (INBOX/897). Mailto present but not sent.
