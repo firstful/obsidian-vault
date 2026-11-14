@@ -85,3 +85,15 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a1d73c33a2-a31656ca-9bb3-4bbd-94ff-7b79daa7fd79-000000@email.amazonses.com>
 - **UID:** 862
 - **Related notes:** [[amazon-orders]] (see UID 857 for original order confirmation)
+
+
+## 2026-11-14 — Amazon shipping notification: 1 item (Industrial & Scientific) (UID 884)
+
+- **Date:** 2026-11-14T09:35:33Z
+- **Sender:** "Amazon.com" <shipment-tracking@amazon.com> (to emilee.sutliff@gmail.com)
+- **Subject:** Shipped 1 item: Industrial & Scientific
+- **Summary:** Amazon shipping notification (shipment-tracking) for Order #112-2832694-4776216 (Industrial & Scientific, $10.66 USD). Package shipped; arriving today 7 AM – 10 AM (Emilee, PICKERINGTON, OH). Tracking link available. Follows order confirmation UID 858 (same order/amount, arriving overnight 7:00 AM–10:00 AM). Transactional shipping notification; To address is emilee.sutliff@gmail.com (no "reed"), so no auto-unsubscribe performed.
+- **Action required:** no — informational shipping notification; monitor delivery and verify contents on arrival.
+- **Message-ID:** <010001a1d96982d3-cb6e3b0e-6a50-4ddc-af72-704016c65868-000000@email.amazonses.com>
+- **UID:** 884
+- **Related notes:** [[amazon-orders]] (see UID 858 for original order confirmation)
