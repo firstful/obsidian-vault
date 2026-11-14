@@ -52,3 +52,11 @@ tags: [email-triage, job-alerts]
 - **Message-ID:** `<20261112214608.58fe97298ecc6e42@mg.ziprecruiter.com>`
 - **Summary:** ZipRecruiter job-alert digest featuring "Software Engineer (GitHub Contributor) - Remote" at YO AI Labs (New York, NY / Remote) plus additional recommended software roles (140 KB HTML, no attachments). Marketing/job-board alert, not an application confirmation, recruiter outreach, or offer.
 - **Action required:** no
+
+## 2026-11-14 — ZipRecruiter (alerts@ziprecruiter.com) — YO AI Labs has a Junior Software Engineer - Remote opening now
+- Date: 2026-11-14T20:59:14Z (received via ingest; To: sutliff.reed@gmail.com)
+- Sender: alerts@ziprecruiter.com (ZipRecruiter)
+- Subject: YO AI Labs has a Junior Software Engineer - Remote opening now
+- Summary: Marketing job alert email from ZipRecruiter for a “Junior Software Engineer - Remote” role at YO AI Labs (promotional job listing notification).
+- Action required: no
+- Unsubscribe: RFC 8058 one-click POST attempted (2026-11-14, see `email-triage/topics/unsubscribes.md`); result 403 (Cloudflare challenge) — not confirmed unsubscribed.
