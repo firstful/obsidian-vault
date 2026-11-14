@@ -144,3 +144,15 @@ tags: [email-triage, gitea-mirror]
 - **Summary:** GitHub Actions workflow "Gitea mirror" in firstful/gitea-mirror failed on main (commit 9d37763). Job "mirror" failed with 3 annotations; workflow duration 19m10s, finished 2026-11-14 18:36:09 UTC. Run: https://github.com/firstful/gitea-mirror/actions/runs/43625721636. Recurring failure — same workflow/commit has been failing repeatedly since 2026-11-08; mirror workflow itself is broken rather than a transient flake. SPF/DKIM/DMARC pass for github.com (dmarc p=quarantine); no List-Unsubscribe header (List-Id/List-Post/List-Archive only).
 - **Action required:** yes — investigate mirror failure and annotations, restore successful mirroring.
 - **Classification:** relevant — CI failure, recurring mirror breakage
+
+## 2026-11-14 — Run failed: Gitea mirror - main (9d37763) (UID 914)
+
+- **Date:** 2026-11-14T00:00:00Z (triage timestamp; envelope/body fetch unavailable)
+- **Sender:** notifications@github.com
+- **To:** unavailable (email-sync API GET /mail/914 unreachable from host: email-sync.email.svc.cluster.local unresolved; MCP email_status/email_search/email_message_meta/email_fetch_body failed with `TypeError: 'module' object is not callable`; trigger metadata-only)
+- **Subject:** [firstful/gitea-mirror] Run failed: Gitea mirror - main (9d37763)
+- **UID:** 914
+- **Message-Id:** unavailable (body/envelope not fetched)
+- **Summary:** GitHub Actions CI failure notification for `firstful/gitea-mirror` workflow "Gitea mirror" on `main` (commit 9d37763), per inbound trigger subject. Specific run URL, job annotations, duration, and finish time unavailable because full envelope/body could not be retrieved from email-sync. Recurring pattern: same workflow/commit has failed repeatedly since 2026-11-08 (see prior entries); treat as ongoing mirror breakage pending investigation.
+- **Action required:** yes — investigate Gitea mirror workflow failure on firstful/gitea-mirror main (9d37763) and restore successful mirroring.
+- **Classification:** relevant — CI failure notification, recurring mirror breakage
