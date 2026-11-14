@@ -367,3 +367,14 @@ tags: [email-triage, job-applications]
 - **Message-Id:** <20261113213012.25614d7d83ce25f6@us.greenhouse-mail.io>
 - **Summary:** Application-received confirmation via Greenhouse for Reed's application to Affirm for Senior Software Engineer, Backend (ML Training and Serving) (uid 851). Transactional acknowledgement (no body fetch beyond envelope/meta; email-sync MCP body/meta tools unavailable with TypeError). Attachment: GM___Immi_one_pager.pdf (155,634 B). No unsubscribe action (transactional, not marketing). Watch for follow-up from @affirm.com or @us.greenhouse-mail.io.
 - **Action required:** no
+
+## 2026-11-14 — Update on your application: AI Growth Engineer (uid 865)
+
+- **Date:** 2026-11-14T03:30:06Z
+- **Sender:** recruiting@cresta.ai (Cresta Recruiting; Mailgun, X-Mailgun-Tag ScheduledCandidateEmail)
+- **To:** sutliff.reed@gmail.com (routed via Cloudflare Email Routing → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Update on your application: AI Growth Engineer
+- **Message-Id:** <20261114033006.b7c6751ad2552967@gh-mail.cresta.ai>
+- **UID:** 865 (INBOX)
+- **Summary:** Rejection notice from Cresta for the AI Growth Engineer role: after reviewing the application, Cresta decided to move forward with other candidates whose skills and qualifications more closely align. Encourages future applications for better-fit roles. Transactional candidate notification (Mailgun; DKIM/SPF/DMARC pass per headers); not marketing. List-Unsubscribe header present but empty — no unsubscribe mechanism/action. No attachments.
+- **Action required:** no (no further action; optional: keep Cresta in mind for future better-fit roles)
