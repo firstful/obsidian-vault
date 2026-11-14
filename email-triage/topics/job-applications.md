@@ -412,3 +412,13 @@ tags: [email-triage, job-applications]
 - **UID:** 872 (INBOX)
 - **Summary:** Greenhouse security-code email (Mailgun) for an in-progress Descript job application (uid 872). Body instructs to copy/paste the 8-digit code into the security code field and resubmit the application; code: 44233429. Transactional/application verification (not marketing). 1 inline image attachment (Greenhouse logo, image/png, 6756 B). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass. No List-Unsubscribe action taken (transactional).
 - **Action required:** yes — enter code 44233429 in the Descript application security-code field and resubmit (if still pending)
+
+## 2026-11-14 — Security code for Descript application (uid 873)
+
+- **Date:** 2026-11-14T05:45:57Z
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **To:** sutliff.reed@gmail.com (routed via Cloudflare Email Routing -> ingest@ffilt.us -> reed@ffilt.us)
+- **Subject:** Security code for your application to Descript
+- **Message-Id:** <6af7f595677f3_264c184d6068658@prod-jben-web-89c676c4b-f8swk.mail>
+- **Summary:** Greenhouse security verification code for Reed's Descript application (uid 873). Code: 76885711. Copy/paste it into the security code field on the application, then resubmit. Time-sensitive. Delivered to sutliff.reed@gmail.com; Greenhouse/Mailgun via us.greenhouse-mail.io. Authentic: DKIM/SPF/DMARC pass. Attachment: Greenhouse Recruiting logo (image/png). Transactional verification mail; no unsubscribe.
+- **Action required:** yes
