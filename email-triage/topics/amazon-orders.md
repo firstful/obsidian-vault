@@ -97,3 +97,12 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a1d96982d3-cb6e3b0e-6a50-4ddc-af72-704016c65868-000000@email.amazonses.com>
 - **UID:** 884
 - **Related notes:** [[amazon-orders]] (see UID 858 for original order confirmation)
+## 2026-11-14 — Amazon order confirmation: 3 items (Printing Supplies, Power Tools, and more) (UID 911)
+
+- **Date:** 2026-11-14 (trigger metadata; exact envelope timestamp unavailable)
+- **Sender:** auto-confirm@amazon.com (Amazon.com)
+- **Subject:** Ordered 3 items: Printing Supplies, Power Tools, and more
+- **To:** unknown (envelope unavailable: `GET /mail/911` to email-sync API unreachable from host; MCP `email_*` tools errored `module not callable`)
+- **Summary:** Amazon order confirmation (auto-confirm) for 3 items (Printing Supplies, Power Tools, and more) per trigger subject. Full envelope/headers/body could not be fetched at triage time, so item-level details, order number(s), total, delivery ETA, and List-Unsubscribe headers are unknown. Classified relevant/transactional (order confirmation), not promo/marketing.
+- **Action required:** no (informational order confirmation; review order/delivery details in Amazon when convenient). Re-triage if full details become available.
+- **UID:** 911
