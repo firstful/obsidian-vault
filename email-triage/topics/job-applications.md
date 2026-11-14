@@ -378,3 +378,14 @@ tags: [email-triage, job-applications]
 - **UID:** 865 (INBOX)
 - **Summary:** Rejection notice from Cresta for the AI Growth Engineer role: after reviewing the application, Cresta decided to move forward with other candidates whose skills and qualifications more closely align. Encourages future applications for better-fit roles. Transactional candidate notification (Mailgun; DKIM/SPF/DMARC pass per headers); not marketing. List-Unsubscribe header present but empty — no unsubscribe mechanism/action. No attachments.
 - **Action required:** no (no further action; optional: keep Cresta in mind for future better-fit roles)
+
+## 2026-11-14 — Senior Staff Software Engineer, Fullstack (Marketplace and Consumer Experiences) at Affirm (uid 870)
+
+- **Date:** 2026-11-14T05:41:03Z
+- **Sender:** no-reply@us.greenhouse-mail.io (Greenhouse/Affirm Talent Team)
+- **To:** sutliff.reed@gmail.com (routed via Cloudflare Email Routing → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** We’ve received your application for Senior Staff Software Engineer, Fullstack (Marketplace and Consumer Experiences) at Affirm
+- **Message-Id:** <20261114054103.4667ffd51154ed68@us.greenhouse-mail.io>
+- **UID:** 870 (INBOX)
+- **Summary:** Application-received confirmation from Affirm Talent Team via Greenhouse for Senior Staff Software Engineer, Fullstack (Marketplace and Consumer Experiences). Standard template: high application volume, review may take time; links to Affirm info/culture/recruiters/CEO; recruiting-scam notice (legit mail only from @affirm.com or @us.greenhouse-mail.io). Attachment: GM___Immi_one_pager.pdf (resume/immigration one-pager, 155,634 B). Auth: DKIM/SPF/DMARC pass (mailgun, us.greenhouse-mail.io). List-Unsubscribe header present but empty — no unsubscribe (transactional, not marketing). Distinct role from other logged Affirm applications.
+- **Action required:** no (wait for follow-up from @affirm.com or @us.greenhouse-mail.io if selected)
