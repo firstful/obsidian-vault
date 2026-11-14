@@ -466,3 +466,14 @@ tags: [email-triage, job-applications]
 - **UID:** 877 (INBOX)
 - **Summary:** Greenhouse security-code email (Mailgun) for an in-progress Lithic job application (uid 877), distinct follow-up to uid 876. Body instructs to copy/paste the 8-digit code into the security code field and resubmit the application; code: 27769535. Transactional/application verification (not marketing). 1 inline image attachment (Greenhouse Recruiting logo, image/png, 6756 B). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass. No List-Unsubscribe action taken (transactional, not marketing).
 - **Action required:** yes — enter code 27769535 in the Lithic application security-code field and resubmit (if still pending)
+
+## 2026-11-14 — Thank you for applying to Lithic (uid 878)
+
+- **Date:** 2026-11-14T05:57:02Z
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **To:** sutliff.reed@gmail.com (routed via Cloudflare Email Routing → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Thank you for applying to Lithic
+- **Message-Id:** <20261114055702.4e377bad65b58bea@us.greenhouse-mail.io>
+- **UID:** 878 (INBOX)
+- **Summary:** Application-received auto-reply from Lithic, sent through Greenhouse-hosted mailer via Mailgun (`X-Mailgun-Tag: CandidateAutoReply`, `X-Feedback-Id: no-reply@us.greenhouse-mail.io:CandidateAutoReply:5ff5c19deab70c1acacf09a2:mailgun`, message-id `<20261114055702.4e377bad65b58bea@us.greenhouse-mail.io>`). Body: "Reed, Thanks for applying to Lithic. Your application has been received and we will review it right away. If your application seems like a good fit for the position we will contact you soon." No role title, requisition id, attachment, or next step/deadline. Unattended mailbox — do not reply. `List-Unsubscribe` header present but empty; no unsubscribe performed (transactional mail). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass.
+- **Action required:** no
