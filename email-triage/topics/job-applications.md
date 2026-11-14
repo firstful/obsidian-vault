@@ -434,6 +434,17 @@ tags: [email-triage, job-applications]
 - **Summary:** Greenhouse security-code email (Mailgun) for an in-progress Descript job application (uid 874). Body instructs to copy/paste the 8-digit code into the security code field and resubmit the application; code: 24733388. Transactional/application verification (not marketing). 1 inline image attachment (Greenhouse logo, image/png, 6756 B). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass. No List-Unsubscribe action taken (transactional).
 - **Action required:** yes — enter code 24733388 in the Descript application security-code field and resubmit (if still pending)
 
+## 2026-11-14 — Thanks for applying to Descript! (uid 875)
+
+- **Date:** 2026-11-14T05:50:03Z
+- **Sender:** no-reply@descript.com
+- **To:** sutliff.reed@gmail.com (routed via Cloudflare Email Routing → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Thanks for applying to Descript!
+- **Message-Id:** <20261114055003.628b520bb09177ef@gh-mail.descript.com>
+- **UID:** 875 (INBOX)
+- **Summary:** Application-received auto-reply from `Recruiting @Descript`, sent through Descript's Greenhouse-hosted mailer via Mailgun (`X-Mailgun-Tag: CandidateAutoReply`, `X-Feedback-Id: postmaster@gh-mail.descript.com:CandidateAutoReply:5ff313f111d18f0627d4872d:mailgun`, message-id `<20261114055003.628b520bb09177ef@gh-mail.descript.com>`). Body: "Thank you for applying for a position with us, we wanted to confirm that we received your application… we will reach out via email if we see a potential fit", plus careers-page / release-blog / Twitter links. No role title, requisition id, attachment, next step or deadline — no attachments. To `sutliff.reed@gmail.com`, forwarded via Cloudflare Email Routing (`sutliff.reed+caf_=ingest=ffilt.us@gmail.com` → `Delivered-To: reed@ffilt.us`). Authentic: DKIM pass (`gh-mail.descript.com` s=krs, `mailgun.org` s=mg), SPF pass, DMARC pass policy=reject. Unattended mailbox — do not reply. `List-Unsubscribe` header is present but empty; no unsubscribe performed (transactional mail). Distinct message-id from prior Descript auto-replies (uids 678/689) ⇒ separate acknowledgement.
+- **Action required:** no
+
 ## 2026-11-14 — Security code for your application to Lithic (uid 876)
 
 - **Date:** 2026-11-14T05:54:20Z
@@ -444,4 +455,3 @@ tags: [email-triage, job-applications]
 - **UID:** 876 (INBOX)
 - **Summary:** Greenhouse security-code email (Mailgun) for an in-progress Lithic job application (uid 876). Body instructs to copy/paste the 8-digit code into the security code field and resubmit the application; code: 45305833. Transactional/application verification (not marketing). 1 inline image attachment (Greenhouse Recruiting logo, image/png). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass. No List-Unsubscribe action taken (transactional, not marketing).
 - **Action required:** yes — enter code 45305833 in the Lithic application security-code field and resubmit (if still pending)
-
