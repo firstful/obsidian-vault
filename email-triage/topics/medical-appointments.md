@@ -55,3 +55,14 @@ tags: [email-triage, medical-appointments]
 - **Summary:** Inbound MyChart "New Message" notification from Nationwide Children's Hospital. Body not fetched due to email-sync MCP/API fetch failure, so recipient/patient and message details are unknown; consistent with prior Nationwide Children's MyChart alerts directing login to MyChart to read the message.
 - **Action required:** yes (log in to Nationwide Children's MyChart to read/respond; confirm which household member/patient the message is for)
 - **Triage note:** Triaged from trigger metadata only (no fabricated body/header facts). If details are needed, retry fetch when email-sync pipeline is healthy.
+
+## 2026-11-14 — MyChart appointment reminder, preregister (OSU Wexner, Emilee)
+
+- **Date:** 2026-11-14T13:57:40Z (Sat 08:57:40 -0500)
+- **UID:** 892 (INBOX) · message-id: <1af1a54a-185a-47c2-9338-466918843400@SVR-EXCH19-VP01.OSUMC.EDU>
+- **Sender:** MyChart_DoNotReply@osumc.edu (OSU Wexner Medical Center MyChart)
+- **Subject:** MyChart - New Appointment Reminder.  Please preregister.
+- **To:** emileesutliff@gmail.com (Delivered-To reed@ffilt.us via forwarding)
+- **Summary:** MyChart appointment reminder for Emilee at Ohio State University Hospitals: **2026-11-16 15:15 EST** with **Jordan Bulcher, PA-C** at **Neurology Outpatient Care New Albany**. Email requests completing online preregistration before visit (insurance, meds/allergies/family history, consent forms, co-pay, provider questionnaires). Preregistration: https://mychart.osu.edu/osumc/s/XBIHPAH7TKI4DYBHNJMZZB75OU/echeckin (also https://mychart.osu.edu/osumc/). Support/preferences noted in footer (866-966-6975).
+- **Action required:** yes (complete MyChart preregistration before 2026-11-16 15:15 EST appointment)
+- **Related:** [[calendar/2026-11-16 - Emilee neurology appointment OSU (Jordan Bulcher PA-C)]]
