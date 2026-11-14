@@ -122,3 +122,14 @@ tags: [email-triage, gitea-mirror]
 - **Summary:** GitHub Actions CI failure notification for `firstful/gitea-mirror` workflow "Gitea mirror" on `main` (commit 9d37763), per inbound trigger subject. Specific run URL, job annotations, duration, and finish time not available because full envelope/body could not be retrieved (email-sync svc DNS/endpoint fetch blocked/unreachable; MCP email_status/email_message_meta/email_fetch_body failing with `TypeError: 'module' object is not callable`). Recurring pattern: same workflow/commit has failed repeatedly since 2026-11-08 (see prior entries); treat as ongoing mirror breakage pending investigation.
 - **Action required:** yes — investigate Gitea mirror workflow failure on firstful/gitea-mirror main (9d37763) and restore successful mirroring.
 - **Classification:** relevant — CI failure notification, recurring mirror breakage
+
+## 2026-11-14 — Run failed: Gitea mirror - main (9d37763) (UID 882)
+
+- **UID / Message-ID:** 882 / `<firstful/gitea-mirror/check-suites/CS_kwDOTzxDUc8AAAAbd36xFQ/1794639766@github.com>`
+- **Date:** 2026-11-14T07:03:06Z (email; run finished 2026-11-14T07:02:46Z UTC)
+- **From:** Reed Sutliff <notifications@github.com>
+- **To:** "firstful/gitea-mirror" <gitea-mirror@noreply.github.com>
+- **Subject:** [firstful/gitea-mirror] Run failed: Gitea mirror - main (9d37763)
+- **Summary:** GitHub Actions workflow "Gitea mirror" in firstful/gitea-mirror failed on main (commit 9d37763). Job "mirror" failed with 3 annotations; workflow duration 19m34s, finished 2026-11-14 07:02:46 UTC. Run: https://github.com/firstful/gitea-mirror/actions/runs/43567709420. Recurring failure — same workflow/commit has been failing repeatedly since 2026-11-08; mirror workflow itself is broken rather than a transient flake. SPF/DKIM/DMARC pass for github.com (dmarc p=quarantine); no List-Unsubscribe header (List-Id/List-Post/List-Archive only).
+- **Action required:** yes — investigate mirror failure and annotations, restore successful mirroring.
+- **Classification:** relevant — CI failure, recurring mirror breakage
