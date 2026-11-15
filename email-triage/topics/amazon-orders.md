@@ -106,3 +106,15 @@ tags: [email-triage, amazon-orders]
 - **Summary:** Amazon order confirmation (auto-confirm) for 3 items (Printing Supplies, Power Tools, and more) per trigger subject. Full envelope/headers/body could not be fetched at triage time, so item-level details, order number(s), total, delivery ETA, and List-Unsubscribe headers are unknown. Classified relevant/transactional (order confirmation), not promo/marketing.
 - **Action required:** no (informational order confirmation; review order/delivery details in Amazon when convenient). Re-triage if full details become available.
 - **UID:** 911
+
+
+## 2026-11-15 — Amazon order confirmation: 1 item (Seasonal Décor) (UID 916)
+
+- **Date:** 2026-11-15T00:42:09Z
+- **Sender:** "Amazon.com" <auto-confirm@amazon.com> (to emilee.sutliff@gmail.com)
+- **Subject:** Ordered 1 item: Seasonal Décor
+- **Summary:** Transactional Amazon order confirmation. Order #112-2628465-4005058, Grand Total $138.74 USD, arriving Wednesday (Emilee, PICKERINGTON, OH). Item-level details not fully extracted from HTML body; category indicated as Seasonal Décor (1 item). To address is emilee.sutliff@gmail.com (no "reed"), so no auto-unsubscribe performed.
+- **Action required:** no — informational order confirmation; monitor delivery/contents on arrival and review order details in Amazon if needed.
+- **Message-ID:** <010001a1dca78980-1c9be7c1-9bd9-448f-9f60-b3f20077548a-000000@email.amazonses.com>
+- **UID:** 916
+- **Related notes:** [[purchases/Amazon 112-2628465-4005058]], [[calendar/2026-11-18 - Amazon order 112-2628465-4005058 expected delivery]]
