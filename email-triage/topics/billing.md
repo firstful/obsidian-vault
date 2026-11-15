@@ -5,6 +5,18 @@ tags: [email-triage, billing]
 
 # Billing / Invoices
 
+## 2026-11-15 — OSU Wexner Medical Center MyChart automatic payment processed (UID 933)
+
+- **Date:** 2026-11-15T13:02:12Z
+- **UID:** 933 (INBOX) · message-id: <a428a696-2a1b-4c79-969e-b48bf0f5821b@SVR-EXCH19-VP02.OSUMC.EDU>
+- **Sender:** MyChart_DoNotReply@osumc.edu (OSU Wexner Medical Center MyChart)
+- **Subject:** Your automatic payment has been processed
+- **To:** emileesutliff@gmail.com
+- **Classification:** relevant (medical payment-plan autopay confirmation)
+- **Summary:** OSU Wexner Medical Center MyChart (Emilee Sutliff) automatic payment processed for her payment plan: **$81.00** charged **2026-11-15** to checking account ending **x9145** (authorization code **T0F2ZLYTAA1**; account # ****6016). Remaining balance **$3,679.21**, of which **$770.47 is not on the payment plan**. Payment can be viewed in MyChart. Support: 614-293-2100.
+- **Action required:** no (autopay succeeded; review remaining balance and the $770.47 not on the plan in MyChart if needed)
+- **Related notes:** [[medical-appointments]]
+
 ## 2026-11-15 - Payment issue notice: Slowdive Premium $29.99 (UID 920)
 
 - date: 2026-11-15T03:49:33Z
