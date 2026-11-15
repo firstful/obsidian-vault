@@ -11,6 +11,7 @@ tags: [email-triage, index]
 - [apple-developer](topics/apple-developer.md) — Apple Developer "Hello Developer" newsletter issues (Developer Center events, platform/tooling news; marketing)
 - [appliance-factory](topics/appliance-factory.md) — Appliance Factory & Mattress Kingdom purchase receipts and card refunds
 - [bibibop](topics/bibibop.md) — Bibibop Rewards transactional emails (verification codes, account notices)
+- [bosch](topics/bosch.md) — Bosch appliance registration confirmations and product care (transactional)
 - [billing](topics/billing.md) — Bills and invoices (Microsoft/Azure, etc.)
 - [bandcamp](topics/bandcamp.md) — Bandcamp fan release notifications (marketing)
 - [bible-gateway](topics/bible-gateway.md) — Bible Gateway Deals promos and editorial/devotional newsletters (marketing)
