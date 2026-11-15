@@ -19,3 +19,17 @@ Transactional delivery-order confirmations from `orders@eat.seamless.com` (Seaml
 - **Message-ID:** `<1_xIok-ISbeTdiE71k1ZMw@geopod-ismtpd-19>`
 - **Auth:** DKIM pass (eat.seamless.com SML, sendgrid.info smtpapi), SPF pass, DMARC pass (p=REJECT), ARC pass.
 - **Related notes:** none
+
+
+## 2026-11-15 — Seamless order adjustment: Boozemandu item removed, 4.99 refund (UID 923)
+
+- **Date:** 2026-11-15T04:43:41Z (order placed/updated Sat 14 Nov 2026)
+- **Sender:** Seamless Customer Care <no-reply@grubhub.com> (To: emileesutliff@gmail.com; forwarded via Gmail to ingest@ffilt.us to reed@ffilt.us)
+- **Subject:** Your order was updated
+- **UID:** 923 (INBOX, message-id <rE1bDdI6ROqHmLk_9gJ7NQ@geopod-ismtpd-9>)
+- **Classification:** relevant (transactional order adjustment/refund) — action-required: no
+- **Summary:** Seamless/Grubhub order #89293532-5104008 from Boozemandu Restaurant & Bar was adjusted: Mix Grill Platter (4.99) removed from order; 4.99 refunded to MasterCard ending 4780. New subtotal 0.97; fees/tax/tip unchanged (tax /bin/bash.00, delivery /bin/bash.49, service .89, tip .00); final total charged 6.35. Refund may take up to 5 business days to post. Related to prior receipt UID 922 (full order 1.34).
+- **Action required:** no (informational; monitor refund posting; no order change/cancel needed)
+- **Message-ID:** <rE1bDdI6ROqHmLk_9gJ7NQ@geopod-ismtpd-9>
+- **Auth:** DKIM pass (grubhub.com smtpapi, sendgrid.info smtpapi), SPF pass, DMARC pass (p=REJECT), ARC pass.
+- **Related notes:** [[email-triage/topics/seamless]] (UID 922 order receipt); no purchase note (food delivery; consistent with prior handling)
