@@ -5,6 +5,18 @@ tags: [email-triage, billing]
 
 # Billing / Invoices
 
+## 2026-11-15 - Payment issue notice: Slowdive Premium $29.99 (UID 920)
+
+- date: 2026-11-15T03:49:33Z
+- sender: support@slowdive.app (Ascetix inc) — to emileesutliff@gmail.com, forwarded via Cloudflare Email Routing to reed@ffilt.us
+- subject: [Action required] Issue with your recent payment for Ascetix inc
+- summary: Fourth repeat of the identical Slowdive dunning notice (same Invoice #392381, $29.99, "Slowdive Premium Upgrade – 1 Month", Nov 2 – Dec 2, 2026; billing address 12703 Stonecreek Drive, Pickerington OH 43147; OH tax 6.75% ($0.00); Paid $0.00 / Total Due $29.99). Same SendGrid click-tracking links and support@slowdive.app reply address. No attachments, no List-Unsubscribe header. Prior repeats: UID 415 (2026-11-06, not in ledger), UID 571 (2026-11-09, journaled), UID 733 (2026-11-12, journaled). Message-id differs from UID 733; same slowdive.app sender, SPF/DKIM/ARC pass — consistent with the app's own billing system. Addressed to Emilee's mailbox, not Reed's.
+- account: last-4 not stated anywhere in the message
+- action-required: yes (Emilee: update the payment method or cancel — the premium subscription lapses otherwise. Do not click links unless the Slowdive subscription is actually wanted.)
+- ledger-note: no unsubscribe performed (none offered; transactional billing notice)
+- message-id: <6af92bcd4657f_1240825067801@emaily-consumer-5f87459b5-jjtn6.mail>
+
+
 ## 2026-11-13 — Synchrony Google Store Financing statement ready (acct ending 2023) (UID 826)
 - **Date:** 2026-11-13T15:37:52Z
 - **From:** Synchrony for your Google Store Financing Account credit card <statements@mail.synchronybank.com>
