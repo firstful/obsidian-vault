@@ -5,6 +5,17 @@ tags: [email-triage, medical-appointments]
 
 # Medical Appointments
 
+## 2026-11-15 — Nationwide Children's automatic payment processed (UID 937)
+
+- **Date:** 2026-11-15T14:00:57Z
+- **UID:** 937 (INBOX) · message-id: <e6a027d8-062e-4607-a6ea-545fa2a1a117@H2PWEXCHSVR02.childrensroot.net>
+- **Sender:** donotreply@nationwidechildrens.org (Nationwide Children's MyChart)
+- **Subject:** Your automatic payment has been processed
+- **To:** emilee.sutliff@gmail.com
+- **Classification:** relevant (medical payment-plan autopay confirmation)
+- **Summary:** Nationwide Children's MyChart automatic payment processed for the payment plan (greeting to Reed, sent to Emilee's mailbox): **$225.00** charged **2026-11-15 (Nov 15)** to **Checking x9145** (authorization code **009606**, account ******5519**). Remaining balance **$3,426.11**, of which **$150.00 is not on the payment plan**. MyChart links provided to view payment/balance details.
+- **Action required:** no (autopay succeeded; review remaining balance / $150.00 not on plan in MyChart if needed)
+
 ## 2026-11-13 — New MyChart message (OSU Wexner Medical Center, Emilee)
 
 - **Date:** 2026-11-13T14:20:29Z
