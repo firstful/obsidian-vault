@@ -71,6 +71,7 @@ tags: [email-triage, index]
 - [service-deprecations](topics/service-deprecations.md) — API/service deprecations and shutdown notices requiring migration
 - [sherwin-williams](topics/sherwin-williams.md) — Sherwin-Williams paint marketing / Thumbtack painter-referral promos (marketing)
 - [shop-app](topics/shop-app.md) — Shop app (Shopify) Gift Shop gift-guide / sponsored product-recommendation blasts (marketing)
+- [singlekey-id](topics/singlekey-id.md) — SingleKey ID (Robert Bosch) account security/verification codes and sign-in notices
 - [slowdive](topics/slowdive.md) — Slowdive app marketing / re-engagement mail (promos)
 - [spendr](topics/spendr.md) — Spendr rewards-app weekly dispensary deals blasts (marketing)
 - [substack-post](topics/substack-post.md) — Substack's own Post publication essays/excerpts (news-and-views, the-weekender, unstacked sections; marketing)
