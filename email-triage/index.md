@@ -29,6 +29,7 @@ tags: [email-triage, index]
 - [ebay](topics/ebay.md) — eBay account/listing notices: offers, messages, transactions, and alerts
 - [email-delivery](topics/email-delivery.md) — Delivery status notifications, bounces, and mail routing failures
 - [experian](topics/experian.md) — Experian credit-report change and FICO-score alert emails (account-activation teasers; marketing)
+- [transunion-creditview](topics/transunion-creditview.md) — TransUnion CreditView Dashboard credit-report alerts (e.g. delinquency notices; via financial institution)
 - [eyebuydirect](topics/eyebuydirect.md) — EyeBuyDirect post-purchase survey / follow-up emails (marketing)
 - [fairfield-dd](topics/fairfield-dd.md) — Fairfield County Board of Developmental Disabilities — Elijah's services, assistive-technology follow-ups and equipment links
 - [freedom-mortgage](topics/freedom-mortgage.md)
