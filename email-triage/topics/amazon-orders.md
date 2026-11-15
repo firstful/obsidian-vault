@@ -118,3 +118,15 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a1dca78980-1c9be7c1-9bd9-448f-9f60-b3f20077548a-000000@email.amazonses.com>
 - **UID:** 916
 - **Related notes:** [[purchases/Amazon 112-2628465-4005058]], [[calendar/2026-11-18 - Amazon order 112-2628465-4005058 expected delivery]]
+
+
+## 2026-11-15 — Amazon order confirmation: 1 item (3D Printing Supplies) (UID 917)
+
+- **Date:** 2026-11-15T01:24:51Z
+- **Sender:** "Amazon.com" <auto-confirm@amazon.com> (to emilee.sutliff@gmail.com)
+- **Subject:** Ordered 1 item: 3D Printing Supplies
+- **Summary:** Transactional Amazon order confirmation. Order #112-7817073-7063464, Grand Total $18.24 USD, arriving Monday (Emilee, PICKERINGTON, OH). Item-level details not fully extracted from HTML body; category indicated as 3D Printing Supplies (1 item). To address is emilee.sutliff@gmail.com (no "reed"), so no auto-unsubscribe performed.
+- **Action required:** no — informational order confirmation; monitor delivery/contents on arrival and review order details in Amazon if needed.
+- **Message-ID:** <010001a1dccea1c4-bff3cca8-706f-4e91-97a4-8db41cd23041-000000@email.amazonses.com>
+- **UID:** 917
+- **Related notes:** [[purchases/Amazon 112-7817073-7063464]], [[calendar/2026-11-16 - Amazon order 112-7817073-7063464 expected delivery]]
