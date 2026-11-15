@@ -23,3 +23,14 @@ tags: [email-triage, gift-exchange]
 - **Summary:** drawnames.com service notification — "The wish list of the member you have drawn in the group **Christmas 2026** has been updated." One CTA link to the drawn member's wish list (`/wishlist/draw/...`). No names, no item list, no deadline, no payment or account content in the payload; the drawn member is only identifiable by opening the link. No attachment, no `List-Unsubscribe` header (transactional notification, Postmark infrastructure via `Feedback-ID: …:postmark`), footer states the address will not be used for any other purpose.
 - **Action required:** yes (soft) — view the updated wish list for the member Reed drew in the Christmas 2026 exchange before gift shopping. Follow-up to the 2026-11-08 "it's time to draw names again" notice in this topic.
 - **Unsubscribe:** none performed (backfill run; none offered).
+
+## 2026-11-15 — "Relive last year's magic" marketing (drawnames.com)
+
+- **Date:** 2026-11-15 09:52 UTC
+- **Sender:** drawnames@drawnames.com (From-name "drawnames.com")
+- **To:** emileesutliff@gmail.com
+- **Subject:** Emilee Sutliff, relive last year's magic
+- **UID:** 931 (INBOX, message-id 3f48806c-63c6-4f4b-8e08-446e12bc6301@mtasv.net, 19.3 KB)
+- **Summary:** drawnames.com marketing blast to Emilee Sutliff encouraging re-engagement with the gift-exchange service ("relive last year's magic"). Promo/marketing, no actionable content; recipient is Emilee, not a reed@ address.
+- **Action required:** no
+- **Unsubscribe:** not performed (To address does not contain "reed"; auto-unsubscribe policy not triggered).
