@@ -8,7 +8,7 @@ tags: [email-triage, index]
 - [aliexpress](topics/aliexpress.md) — AliExpress marketing digests / personalized product recommendations (marketing)
 - [allegiant](topics/allegiant.md) — Allegiant Air fare promos (marketing)
 - [amazon-orders](topics/amazon-orders.md)
-- [walmart-orders](topics/walmart-orders.md) — Walmart.com transactional order/payment and delivery notices — Amazon order seller messages and delivery/refund issues
+- [walmart-orders](topics/walmart-orders.md) — Walmart.com transactional order/payment, delivery, and cancellation notices
 - [apple-developer](topics/apple-developer.md) — Apple Developer "Hello Developer" newsletter issues (Developer Center events, platform/tooling news; marketing)
 - [appliance-factory](topics/appliance-factory.md) — Appliance Factory & Mattress Kingdom purchase receipts and card refunds
 - [bibibop](topics/bibibop.md) — Bibibop Rewards transactional emails (verification codes, account notices)
