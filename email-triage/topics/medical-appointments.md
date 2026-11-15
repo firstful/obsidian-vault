@@ -77,3 +77,14 @@ tags: [email-triage, medical-appointments]
 - **Summary:** MyChart appointment reminder for Emilee at Ohio State University Hospitals: **2026-11-16 15:15 EST** with **Jordan Bulcher, PA-C** at **Neurology Outpatient Care New Albany**. Email requests completing online preregistration before visit (insurance, meds/allergies/family history, consent forms, co-pay, provider questionnaires). Preregistration: https://mychart.osu.edu/osumc/s/XBIHPAH7TKI4DYBHNJMZZB75OU/echeckin (also https://mychart.osu.edu/osumc/). Support/preferences noted in footer (866-966-6975).
 - **Action required:** yes (complete MyChart preregistration before 2026-11-16 15:15 EST appointment)
 - **Related:** [[calendar/2026-11-16 - Emilee neurology appointment OSU (Jordan Bulcher PA-C)]]
+
+## 2026-11-15 — MyChart appointment reminder, preregister (OSU Wexner, Emilee)
+
+- **Date:** 2026-11-15T20:57:15Z (Sun 15:57:15 -0500)
+- **UID:** 953 (INBOX) · message-id: <f5fa3165-9c40-4a25-bfff-3730f3ac01ea@SVR-EXCH19-VP02.OSUMC.EDU>
+- **Sender:** MyChart_DoNotReply@osumc.edu (OSU Wexner Medical Center MyChart)
+- **Subject:** MyChart - New Appointment Reminder.  Please preregister.
+- **To:** emileesutliff@gmail.com (Delivered-To reed@ffilt.us via forwarding; original envelope ingest@ffilt.us)
+- **Summary:** Follow-up MyChart reminder for Emilee at Ohio State University Hospitals: **2026-11-16 15:15 EST** with **Jordan Bulcher, PA-C** at **Neurology Outpatient Care New Albany**. Requests completing online preregistration before visit (insurance, meds/allergies/family history, consent forms, co-pay, provider questionnaires). Preregistration: https://mychart.osu.edu/osumc/s/Q62UAUWPSZ4DNVSMNLZKRQGBJE/echeckin (also https://mychart.osu.edu/osumc/).
+- **Action required:** yes (complete MyChart preregistration before 2026-11-16 15:15 EST appointment)
+- **Related:** [[calendar/2026-11-16 - Emilee neurology appointment OSU (Jordan Bulcher PA-C)]]
