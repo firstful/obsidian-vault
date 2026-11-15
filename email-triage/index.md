@@ -69,7 +69,7 @@ tags: [email-triage, index]
 - [samsclub](topics/samsclub.md) — Sam's Club transactional order confirmations, account login verification codes, and member marketing blasts
 - [seamless](topics/seamless.md) — Seamless (Grubhub) food delivery order receipts
 - [security-alerts](topics/security-alerts.md) — Google/security account alerts
-- [service-deprecations](topics/service-deprecations.md) — API/service deprecations and shutdown notices requiring migration
+- [service-deprecations](topics/service-deprecations.md) — API/service deprecations and shutdown notices requiring migration; Todoist pre-2019 activity-history deletion
 - [sherwin-williams](topics/sherwin-williams.md) — Sherwin-Williams paint marketing / Thumbtack painter-referral promos (marketing)
 - [shop-app](topics/shop-app.md) — Shop app (Shopify) Gift Shop gift-guide / sponsored product-recommendation blasts (marketing)
 - [singlekey-id](topics/singlekey-id.md) — SingleKey ID (Robert Bosch) account security/verification codes and sign-in notices
