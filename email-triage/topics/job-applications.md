@@ -519,3 +519,13 @@ tags: [email-triage, job-applications]
 - **Message-Id:** <20261115230503.4120b3011d605840@us.greenhouse-mail.io>
 - **Summary:** Greenhouse auto-reply confirming receipt of Reed's application for Reddit Principal Software Engineer, Infrastructure. Hiring team reviewing; will follow up if there is a match (aims to respond within a few business days). No attachments. Unattended mailbox — do not reply. Transactional/recruiting; List-Unsubscribe header present but empty.
 - **Action required:** no
+
+## 2026-11-15 — Reddit application received: Software Engineer, Ad Signals (uid 959)
+
+- **Date:** 2026-11-15T23:00:04Z
+- **Sender:** no-reply@us.greenhouse-mail.io (Greenhouse/Reddit Talent Acquisition)
+- **To:** sutliff.reed@gmail.com (Delivered-To reed@ffilt.us; INBOX/959)
+- **Subject:** Thank you for your interest in joining Reddit
+- **Message-Id:** <20261115230004.ba73523a3b602b83@us.greenhouse-mail.io>
+- **Summary:** Greenhouse auto-reply confirming receipt of Reed's application for Reddit Software Engineer, Ad Signals. Hiring team reviewing; will follow up if there is a match (aims to respond within a few business days). No attachments. Unattended mailbox — do not reply. `List-Unsubscribe` header present but empty. Transactional application acknowledgement.
+- **Action required:** no
