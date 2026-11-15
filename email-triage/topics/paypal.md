@@ -29,3 +29,12 @@ tags: [email-triage, paypal]
 - action-required: yes (add/repair a funding source in PayPal, or the Patreon auto-renew lapses)
 - ledger-note: no unsubscribe performed (transactional billing notice)
 - message-id: <78.F1.09231.7BE76FA6@ccg01mail05>
+
+## 2026-11-15 - PayPal negative balance $522.00 (109 days) - collections deadline 2026-11-26 - UID 952
+- date: 2026-11-15T20:46:58Z
+- sender: service@paypal.com (to reedsut@gmail.com)
+- subject: Attention: Please read this message
+- summary: Genuine PayPal debt-collection notice. Account tied to reedsut@gmail.com has a negative balance of $522.00 USD for 109 days. States if not paid by 2026-11-26, PayPal may send the account to an outside collection agency. Requests one-time payment via PayPal (balances/resolve link) or contact 866-380-1798 (Mon–Fri 9 a.m.–7 p.m. EST). Notes processing may take up to 7 days if already resolved. No attachments; transactional notice, no List-Unsubscribe.
+- action-required: yes (pay $522.00 or contact PayPal before 2026-11-26 to avoid collections referral)
+- ledger-note: follow-up to UID 555 (same $522.00 balance; deadline added). No unsubscribe performed (transactional). Calendar note: [[2026-11-26 - PayPal negative balance payment deadline]].
+- message-id: <51.B0.08969.24A1AFA6@ccg01mail04>
