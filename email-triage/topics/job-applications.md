@@ -498,3 +498,14 @@ tags: [email-triage, job-applications]
 - **UID:** 926 (INBOX)
 - **Summary:** Application-received auto-reply (Greenhouse/Mailgun, `X-Mailgun-Tag: CandidateAutoReply`, org_id 2781, person_id 511340655) for the Principal Software Engineer, Infrastructure role at Reddit (uid 926, to sutliff.reed@gmail.com). Body: application received, hiring team reviewing; will reach out about next steps only if there is a match, "within a few business days". Marketing-lite footer links (what makes Reddit different, company values, r/RedditEng, blog, LinkedIn, Life at Reddit, 2023 recap). Explicit "do not reply — unattended mailbox". No attachments (14,657 B, multipart/alternative). Routed via Cloudflare Email Routing (`sutliff.reed+caf_=ingest=ffilt.us@gmail.com` → `ingest@ffilt.us` → `Delivered-To: reed@ffilt.us`). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass. `List-Unsubscribe` header present but empty — no unsubscribe performed (transactional mail). Sibling, not duplicate: same generic subject as other Reddit application acknowledgements but different role and different message-id ⇒ distinct acknowledgement, journalled separately. No action required beyond waiting.
 - **Action required:** no
+
+## 2026-11-15 — Security code for Reddit application (uid 960)
+
+- **Date:** 2026-11-15T23:01:06Z
+- **Sender:** Greenhouse <no-reply@us.greenhouse-mail.io>
+- **To:** sutliff.reed@gmail.com (routed via Cloudflare Email Routing → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Security code for your application to Reddit
+- **Message-Id:** <6afa39b264e47_17b2ad4d583143f@prod-jben-web-89c676c4b-qz669.mail>
+- **UID:** 960 (INBOX)
+- **Summary:** Greenhouse security verification code for Reed's Reddit job application (uid 960). Body instructs to copy/paste the code into the security code field on the application, then resubmit. Code: 12040519. Time-sensitive transactional/application verification (not marketing). 1 inline image attachment (Greenhouse Recruiting logo, image/png, 6756 B). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass. No unsubscribe action taken (transactional).
+- **Action required:** yes — enter code 12040519 in the Reddit application security-code field and resubmit (if still pending)
