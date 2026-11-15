@@ -477,3 +477,14 @@ tags: [email-triage, job-applications]
 - **UID:** 878 (INBOX)
 - **Summary:** Application-received auto-reply from Lithic, sent through Greenhouse-hosted mailer via Mailgun (`X-Mailgun-Tag: CandidateAutoReply`, `X-Feedback-Id: no-reply@us.greenhouse-mail.io:CandidateAutoReply:5ff5c19deab70c1acacf09a2:mailgun`, message-id `<20261114055702.4e377bad65b58bea@us.greenhouse-mail.io>`). Body: "Reed, Thanks for applying to Lithic. Your application has been received and we will review it right away. If your application seems like a good fit for the position we will contact you soon." No role title, requisition id, attachment, or next step/deadline. Unattended mailbox — do not reply. `List-Unsubscribe` header present but empty; no unsubscribe performed (transactional mail). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass.
 - **Action required:** no
+
+## 2026-11-15 — Principal Software Engineer, Infrastructure at Reddit (uid 926)
+
+- **Date:** 2026-11-15T06:30:03Z
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **To:** sutliff.reed@gmail.com (routed via Cloudflare Email Routing → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Thank you for your interest in joining Reddit
+- **Message-Id:** <20261115063003.ab5ef1605532a8a9@us.greenhouse-mail.io>
+- **UID:** 926 (INBOX)
+- **Summary:** Application-received auto-reply (Greenhouse/Mailgun, `X-Mailgun-Tag: CandidateAutoReply`, org_id 2781, person_id 511340655) for the Principal Software Engineer, Infrastructure role at Reddit (uid 926, to sutliff.reed@gmail.com). Body: application received, hiring team reviewing; will reach out about next steps only if there is a match, "within a few business days". Marketing-lite footer links (what makes Reddit different, company values, r/RedditEng, blog, LinkedIn, Life at Reddit, 2023 recap). Explicit "do not reply — unattended mailbox". No attachments (14,657 B, multipart/alternative). Routed via Cloudflare Email Routing (`sutliff.reed+caf_=ingest=ffilt.us@gmail.com` → `ingest@ffilt.us` → `Delivered-To: reed@ffilt.us`). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass. `List-Unsubscribe` header present but empty — no unsubscribe performed (transactional mail). Sibling, not duplicate: same generic subject as other Reddit application acknowledgements but different role and different message-id ⇒ distinct acknowledgement, journalled separately. No action required beyond waiting.
+- **Action required:** no
