@@ -509,3 +509,13 @@ tags: [email-triage, job-applications]
 - **UID:** 960 (INBOX)
 - **Summary:** Greenhouse security verification code for Reed's Reddit job application (uid 960). Body instructs to copy/paste the code into the security code field on the application, then resubmit. Code: 12040519. Time-sensitive transactional/application verification (not marketing). 1 inline image attachment (Greenhouse Recruiting logo, image/png, 6756 B). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass. No unsubscribe action taken (transactional).
 - **Action required:** yes — enter code 12040519 in the Reddit application security-code field and resubmit (if still pending)
+
+## 2026-11-15 — Reddit application received: Principal Software Engineer, Infrastructure (uid 961)
+
+- **Date:** 2026-11-15T23:05:03Z
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **Subject:** Thank you for your interest in joining Reddit
+- **To:** sutliff.reed@gmail.com (Delivered-To reed@ffilt.us; INBOX/961)
+- **Message-Id:** <20261115230503.4120b3011d605840@us.greenhouse-mail.io>
+- **Summary:** Greenhouse auto-reply confirming receipt of Reed's application for Reddit Principal Software Engineer, Infrastructure. Hiring team reviewing; will follow up if there is a match (aims to respond within a few business days). No attachments. Unattended mailbox — do not reply. Transactional/recruiting; List-Unsubscribe header present but empty.
+- **Action required:** no
