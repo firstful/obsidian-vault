@@ -40,3 +40,13 @@ tags: [email-triage, google-account]
 - **UID / Message-ID:** 728 / <3c1d9726609ec5e6bf52e781bdb97dbbe764aa36-20376977-337030291@google.com>
 - **Summary:** Google OAuth data-sharing notice: sutliff.reed@gmail.com used Sign in with Google to sign in to Blizzard Entertainment on 2026-11-11 21:12 local (2026-11-12 02:12Z), sharing basic profile info (Reed Sutliff, name/profile picture, email address sutliff.reed@gmail.com). Legitimate Google mail (DKIM/DMARC/SPF pass, accounts.google.com), 0 attachments. Google states there is nothing to do; access can be revoked at myaccount.google.com/linkedapps (linked apps > Blizzard Entertainment). Transactional/security notification, not marketing - no unsubscribe performed.
 - **Action required:** no (informational third-party access grant; review Google linked apps if this Blizzard sign-in was not expected)
+
+
+## 2026-11-15 - Google Account data shared with Seamless <noreply-accounts@google.com>
+- **Date:** 2026-11-15 04:24:36Z (Sat, 14 Nov 2026 20:24:36 -0800)
+- **From:** Google <noreply-accounts@google.com>
+- **To:** emileesutliff@gmail.com
+- **Subject:** You shared some Google Account data with Seamless
+- **UID / Message-ID:** 921 / <335ddbd4cf9fa9568e2bbd82faef19924960bed5-20376977-337030291@google.com>
+- **Summary:** Google OAuth data-sharing notice: emileesutliff@gmail.com used Sign in with Google to sign in to Seamless on 2026-11-14 23:24 local (2026-11-15 04:24Z), sharing basic profile info (Emilee Sutliff, name/profile picture, email address emileesutliff@gmail.com). Legitimate Google mail (DKIM/DMARC/SPF pass, accounts.google.com), 0 attachments. Google states there is nothing to do; access can be revoked at myaccount.google.com/linkedapps (linked apps > Seamless). Transactional/security notification, not marketing - no unsubscribe performed (do not unsubscribe; would suppress account-activity mail).
+- **Action required:** no (informational third-party access grant; review Google linked apps if this Seamless sign-in was not expected)
