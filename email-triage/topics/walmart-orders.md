@@ -48,3 +48,14 @@ tags: [email-triage, walmart-orders, purchases]
 - **Message-ID:** <20261115175242.c1b87f2e40987bf9@prod.walmart.com>
 - **UID:** 945
 - **Folder:** INBOX
+
+## 2026-11-15 — Walmart delivery canceled (UID 946, 7 items)
+
+- **Date:** 2026-11-15T18:10:45Z
+- **Sender:** Walmart.com <help@walmart.com> (to emilee.sutliff@gmail.com)
+- **Subject:** Canceled: delivery of Goodnites Boys Absorbe... +6 items 🔴
+- **Summary:** Transactional Walmart notice: delivery order canceled due to payment processing issues; you won't be charged for these items. 7 items canceled (includes Goodnites Boys Absorbent Disposable Nighttime Bedwetting product; full item/order details not fully extracted from body). Order number referenced in email but not fully parsed from HTML.
+- **Action required:** yes — if these items are still needed, review payment method and reorder/check the Walmart app or order details.
+- **Message-ID:** <20261115181045.c1b4a5f1478c5e69@prod.walmart.com>
+- **UID:** 946
+- **Folder:** INBOX
