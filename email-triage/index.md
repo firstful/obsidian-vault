@@ -66,6 +66,7 @@ tags: [email-triage, index]
 - [resmed-myair](topics/resmed-myair.md) — ResMed myAir CPAP-therapy engagement blasts (myAir app coaching, nightly score/Streaks; marketing)
 - [rocket-loans](topics/rocket-loans.md) — Rocket Loans account notices and payment reminders
 - [samsclub](topics/samsclub.md) — Sam's Club transactional order confirmations, account login verification codes, and member marketing blasts
+- [seamless](topics/seamless.md) — Seamless (Grubhub) food delivery order receipts
 - [security-alerts](topics/security-alerts.md) — Google/security account alerts
 - [service-deprecations](topics/service-deprecations.md) — API/service deprecations and shutdown notices requiring migration
 - [sherwin-williams](topics/sherwin-williams.md) — Sherwin-Williams paint marketing / Thumbtack painter-referral promos (marketing)
