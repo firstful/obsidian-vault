@@ -50,3 +50,13 @@ tags: [email-triage, google-account]
 - **UID / Message-ID:** 921 / <335ddbd4cf9fa9568e2bbd82faef19924960bed5-20376977-337030291@google.com>
 - **Summary:** Google OAuth data-sharing notice: emileesutliff@gmail.com used Sign in with Google to sign in to Seamless on 2026-11-14 23:24 local (2026-11-15 04:24Z), sharing basic profile info (Emilee Sutliff, name/profile picture, email address emileesutliff@gmail.com). Legitimate Google mail (DKIM/DMARC/SPF pass, accounts.google.com), 0 attachments. Google states there is nothing to do; access can be revoked at myaccount.google.com/linkedapps (linked apps > Seamless). Transactional/security notification, not marketing - no unsubscribe performed (do not unsubscribe; would suppress account-activity mail).
 - **Action required:** no (informational third-party access grant; review Google linked apps if this Seamless sign-in was not expected)
+
+## 2026-11-16 — Google Account data access granted to TuneMyMusic (UID 1016)
+
+- **Date:** 2026-11-16T23:54:19Z (Mon, 16 Nov 2026 23:54:19 +0000)
+- **From:** Google <no-reply@accounts.google.com>
+- **To:** reedsut@gmail.com (Gmail auto-forward via Cloudflare Email Routing `caf_=ingest=ffilt.us`, Delivered-To reed@ffilt.us)
+- **Subject:** Security alert
+- **UID / Message-ID:** 1016 (INBOX) / `<106l1ykOm9qPJoo8heVb9g@notifications.google.com>` · 17226 B · 0 attachments
+- **Summary:** Third-party data-access notice — body headline "You allowed TuneMyMusic access to some of your Google Account data". Google informs reedsut@gmail.com that TuneMyMusic was granted access to Google Account data; if Reed did not authorize it, someone may be trying to access the account. Same family as the "You shared some Google Account data with <ThirdParty>" OAuth notices (Umami/Blizzard/Seamless) — a transactional security/privacy account-activity notice, NOT marketing. Legitimate Google mail: `dkim=pass header.d=accounts.google.com header.s=20260707`, `arc=pass`, `spf=pass`, `dmarc=pass (policy=reject)`; `Feedback-ID: 127:account-notifier`. Remedies offered: "Check activity" (myaccount.google.com/alert/nt/…), manage/revoke TuneMyMusic access at myaccount.google.com/connections/overview/…, and review security activity at myaccount.google.com/notifications. No List-Unsubscribe header, no `Precedence: bulk` → no unsubscribe (transactional security mail; do not suppress account-activity notifications even though To contains "reed").
+- **Action required:** no (informational third-party access grant; review linked apps and revoke TuneMyMusic access at myaccount.google.com/connections if this grant was not expected)
