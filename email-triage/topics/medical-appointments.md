@@ -136,3 +136,15 @@ tags: [email-triage, medical-appointments]
 - **Summary:** Third reminder in the series for Emilee's **2026-11-16 15:15 EST** neurology appointment with **Jordan Bulcher, PA-C** at Ohio State University Hospitals (Neurology Outpatient Care New Albany). Sent ~37 min before the appointment; again requests online preregistration (insurance, meds/allergies/family history, consent forms, co-pay, provider questionnaires). Newest eCheck-in link: https://mychart.osu.edu/osumc/s/YYD5OAQFP3ARYYYX766TMAJLJY/echeckin (prior: UID 953 Q62UAUWPSZ4DNVSMNLZKRQGBJE, UID 892 XBIHPAH7TKI4DYBHNJMZZB75OU). Same event as UIDs 892/953 — no new appointment detail.
 - **Action required:** yes (complete MyChart preregistration — appointment is 2026-11-16 15:15 EST, ~37 min after this reminder)
 - **Related:** [[calendar/2026-11-16 - Emilee neurology appointment OSU (Jordan Bulcher PA-C)]], [[medical-appointments]]
+
+## 2026-11-16 — MyChart video visit check-in reminder (OSU Wexner, Emilee; UID 1002)
+
+- **Date:** 2026-11-16T20:05:11Z (Mon 15:05:11 -0500)
+- **UID:** 1002 (INBOX) · message-id: <52faf78a-96e3-4471-a672-0bc007ac984c@SVR-EXCH19-VP02.OSUMC.EDU>
+- **Sender:** MyChart_DoNotReply@osumc.edu (OSU Wexner Medical Center MyChart)
+- **Subject:** Reminder of your upcoming video visit
+- **To:** emileesutliff@gmail.com
+- **Classification:** relevant (transactional same-day video-visit check-in reminder; no List-Unsubscribe)
+- **Summary:** Same-day check-in reminder for Emilee's **2026-11-16 15:15 EST** neurology appointment (Jordan Bulcher, PA-C, OSU Wexner) — sent ~10 min before the visit. This reminder specifies the visit is a **video visit**: check in at https://mychart.osu.edu with MyChart username/password to join; no separate eCheck-in/preregistration link is included in this notice. Fourth MyChart reminder for the same 2026-11-16 appointment (after UIDs 892/953 and UID 1000 preregister notices); this one is the video-visit check-in variant and carries no new appointment detail. MyChart support: 614-366-6975 / 1-866-966-6975 (Mon-Fri 9 a.m.-6 p.m.).
+- **Action required:** yes (check in to MyChart to join the video visit — appointment 2026-11-16 15:15 EST, ~10 min after this reminder)
+- **Related:** [[calendar/2026-11-16 - Emilee neurology appointment OSU (Jordan Bulcher PA-C)]], [[medical-appointments]]
