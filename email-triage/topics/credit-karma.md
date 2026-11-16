@@ -60,3 +60,13 @@ No unsubscribe performed (backfill run).
 - **UID:** 915 (INBOX, message-id `<20261114231342.1cf5aa1a949f18e1@mail.creditkarma.com>`)
 - **Summary:** Credit Karma monitoring notice that one of Reed's accounts has been updated to **Current** (positive status change / back on track). Body states basis as TransUnion credit report information as reported between 2026-11-14; extracted text includes ROCKETLOANS references but the specific account/issuer/bureau details should be confirmed in Credit Karma (message does not clearly enumerate amount/prior status in the extracted summary). Carries List-Unsubscribe and self-labels as a promotional email, but the payload is a concrete account-status fact (informational monitoring alert), not marketing outreach.
 - **Action required:** no (informational; optionally review Credit Karma/credit report to confirm which account was updated and verify details)
+
+## 2026-11-15 — Good news: Your score has changed, Reed.
+
+- **Date:** 2026-11-15T18:33:15Z
+- **Sender:** Credit Karma <notifications@mail.creditkarma.com> (List-Id "Credit Karma Credit Monitoring" <credit-monitoring.lists.creditkarma.com>)
+- **To:** reedsut@gmail.com (Delivered-To reed@ffilt.us via Gmail → ingest forward; Return-Path reedsut+caf_=ingest=ffilt.us@gmail.com)
+- **Subject:** Good news: Your score has changed, Reed.
+- **UID:** 968 (INBOX, message-id `<20261115183315.742c37f3ce3cde45@mail.creditkarma.com>`, 112,297 B, no attachments)
+- **Summary:** Credit Karma credit-monitoring score-change nudge: body says "Your score went up. Nice work." (direction up) but no numeric score, no delta, no bureau breakdown beyond TransUnion data "as reported on 11/12/26". CTA to check scores in Credit Karma; soft "keep the momentum going" engagement copy. Self-labels "This is a promotional email." Payload is a real direction-of-change fact but minimal detail; no bill, no due date, no required account action. One-click List-Unsubscribe (preferences=CREDIT_MONITORING) present; RFC 8058 unsubscribe POST returned 200 ({"status":"success"}) — see unsubscribes.md.
+- **Action required:** no (informational; read the actual score in Credit Karma if wanted; unsubscribe attempted and accepted)
