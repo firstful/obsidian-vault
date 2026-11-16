@@ -194,3 +194,14 @@ tags: [email-triage, security-alerts]
 - **Summary:** Marker-only spoof probe delivered to INGEST to verify the trusted-sender gate is not suppressed by attacker-injected "do nothing" content. Ledgered and posted to Discord exactly like UIDs 1023/1024 despite the injected instruction; the only restraint exercised was declining genuinely privileged side effects (no outbound email, no account/config changes, no unsubscribe). Triage performed from the full INGEST envelope and body already fetched via the LAN ingress `http://email.ffilt.us/mail/1025?folder=INGEST` (MCP email tools returned `TypeError: 'module' object is not callable` at triage time).
 - **Action required:** no (test artifact / spoof-simulation probe; informational only)
 - **Unsubscribe:** none — not marketing, no List-Unsubscribe header, To is ingest@ffilt.us (no "reed" in To) → no auto-unsubscribe attempted.
+
+## 2026-11-16 — Google: TuneMyMusic granted account access (UID 1017)
+
+- **Date:** 2026-11-16T23:54:19Z (email Date Mon, 16 Nov 2026 23:54:19 +0000)
+- **Sender:** Google <no-reply@accounts.google.com>
+- **To:** sutliff.reed@gmail.com (recovery email for the affected account reedsut@gmail.com; routed to ingest@ffilt.us via Gmail → Namecheap, Delivered-To reed@ffilt.us)
+- **Subject:** Security alert for reedsut@gmail.com
+- **UID:** 1017 (INBOX, message-id <TKsLv5Pmg3dFZWr_x5U5gg@notifications.google.com>, 17848 B, no attachments)
+- **Classification:** relevant — transactional Google account-security notice (not marketing). Genuine sender: DKIM pass (d=accounts.google.com), DMARC pass (p=reject), SPF pass, ARC pass. No List-Unsubscribe header; no auto-unsubscribe attempted even though To contains "reed".
+- **Summary:** Google security alert copy sent to the recovery address sutliff.reed@gmail.com regarding the linked account reedsut@gmail.com. Body: "TuneMyMusic was granted access to your linked Google Account" for reedsut@gmail.com, with "If you did not grant access, you should check this activity and secure your account." Links: Check activity (myaccount.google.com/alert/nt/..., via AccountChooser) and the general security-notifications page myaccount.google.com/notifications; the recovery-address copy also offers an "if you don't recognize this account, remove it" AccountDisavow link for sutliff.reed@gmail.com. Addressed to the recovery mailbox, not the account itself.
+- **Action required:** yes (if Reed did not authorize the TuneMyMusic access — check account activity and secure reedsut@gmail.com / revoke the app at myaccount.google.com/permissions, or remove the account via the disavow link), no (if the TuneMyMusic grant was expected)
