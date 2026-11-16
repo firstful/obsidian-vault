@@ -88,3 +88,15 @@ tags: [email-triage, medical-appointments]
 - **Summary:** Follow-up MyChart reminder for Emilee at Ohio State University Hospitals: **2026-11-16 15:15 EST** with **Jordan Bulcher, PA-C** at **Neurology Outpatient Care New Albany**. Requests completing online preregistration before visit (insurance, meds/allergies/family history, consent forms, co-pay, provider questionnaires). Preregistration: https://mychart.osu.edu/osumc/s/Q62UAUWPSZ4DNVSMNLZKRQGBJE/echeckin (also https://mychart.osu.edu/osumc/).
 - **Action required:** yes (complete MyChart preregistration before 2026-11-16 15:15 EST appointment)
 - **Related:** [[calendar/2026-11-16 - Emilee neurology appointment OSU (Jordan Bulcher PA-C)]]
+
+## 2026-11-16 — OSU Wexner Medical Center MyChart login security verification code (UID 977)
+
+- **Date:** 2026-11-16T03:50:02Z
+- **UID:** 977 (INBOX) · message-id: <4a86a645-d803-4955-bb43-420fbcd44131@SVR-EXCH19-VP02.OSUMC.EDU>
+- **Sender:** MyChart_DoNotReply@osumc.edu (OSU Wexner Medical Center MyChart)
+- **Subject:** MyChart - New Message
+- **To:** emileesutliff@gmail.com
+- **Classification:** relevant (MyChart login security verification code)
+- **Summary:** OSU Wexner Medical Center MyChart message addressed to Emilee Sutliff with subject "MyChart - New Message" but body is a login security verification code: **635127**, to be entered on the Additional Security Verification screen. Code expires at **11:00 PM EST** (2026-11-15, ~10 minutes after send); now expired. No message content included; login to https://mychart.osu.edu/osumc/ to read any actual MyChart message. Support: 614-366-6975 / 1-866-966-6975.
+- **Action required:** no (code expired; if a login is still needed, request a new code; if the login was not initiated by Emilee, treat as a security concern)
+- **Related notes:** [[medical-appointments]]
