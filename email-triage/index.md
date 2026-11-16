@@ -96,3 +96,4 @@ tags: [email-triage, index]
 - [westerville-library](topics/westerville-library.md) — Westerville Public Library newsletters (events, collection news; marketing)
 - [what-to-expect](topics/what-to-expect.md) — What To Expect / Everyday Health parenting & pregnancy marketing newsletters (product promos, sponsored deals; marketing)
 
+- [robinhood](topics/robinhood.md) — Robinhood Credit Card / Gold Card rewards & credit-card application marketing (promo)
