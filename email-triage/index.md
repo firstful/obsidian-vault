@@ -86,6 +86,7 @@ tags: [email-triage, index]
 - [ticketmaster](topics/ticketmaster.md) — Ticketmaster event-marketing newsletters (new onsales / upcoming concert, comedy, family-show listings; marketing)
 - [tinybeans](topics/tinybeans.md) — Tinybeans parenting-app marketing/newsletters (gift guides, Little Tikes promos; marketing)
 - [uber-eats](topics/uber-eats.md) — Uber Eats order receipts (Wendy's, etc.) plus Uber / Uber One marketing blasts: 30%-off delivery promos, hotel-credit and premium airport-ride member deals (marketing)
+- [uber-one](topics/uber-one.md) — Uber One membership account notices (payment-method failures, renewal/billing) (transactional)
 - [unitedhealthcare](topics/unitedhealthcare.md) — UnitedHealthcare member benefit marketing (Real Appeal/Wellos weight-loss promos)
 - [unsubscribes](topics/unsubscribes.md) — Unsubscribe actions ledger (marketing/promo senders, To noted; also records unsubscribe confirmations)
 - [usps-informed-delivery](topics/usps-informed-delivery.md) — USPS Informed Delivery daily digests (mailpiece/package previews, informational)
