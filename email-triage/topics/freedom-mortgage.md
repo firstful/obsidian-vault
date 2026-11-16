@@ -5,6 +5,19 @@ tags: [email-triage, freedom-mortgage]
 
 # Freedom Mortgage — home-financing / winter-prep marketing
 
+## 2026-11-16 — Freedom Mortgage: ACH payment confirmation (UID 997)
+
+- **Date:** 2026-11-16T17:08:48Z (header: Mon, 16 Nov 2026 17:08:48 +0000)
+- **Sender:** noreply@freedommortgagewebservices.com (Freedom Mortgage Corporation, Customer Care)
+- **To:** reedsut+fmort@gmail.com (forwarded: Return-Path `reedsut+caf_=ingest=ffilt.us@gmail.com` -> `Delivered-To: reed@ffilt.us`)
+- **Folder/UID:** INBOX/997
+- **Message-ID:** <XmhWYhO3Te-RJqMI4aBr_w@geopod-ismtpd-106>
+- **Subject:** Confirmation of Your ACH Request
+- **Summary:** Transactional confirmation that a one-time electronic transfer (ACH debit) has been scheduled from the bank account for the mortgage loan ending in **0185**. Scheduled payment: **$3,209.90**, scheduled date **2026-11-16**, confirmation number **01642501850020**. Customer-care phone 855-690-5900. Standard bankruptcy/discharge compliance notice in footer. DKIM/SPF/DMARC all pass (`dkim=pass header.d=freedommortgagewebservices.com`; sendgrid.info DKIM; `dmarc=pass`); genuine servicing notice sent via SendGrid. No List-Unsubscribe / marketing content.
+- **Action required:** no (informational confirmation that payment was scheduled; verify bank debit if needed)
+- **Classification:** relevant (transactional payment confirmation, important financial fact)
+- **Related notes:** [[2026-11-16 - Freedom Mortgage ACH payment scheduled]], [[freedom-mortgage]]
+
 ## 2026-11-10 — Freedom Mortgage: "Simple winter prep could help you avoid costly repairs."
 
 - UID: 665 (INBOX) · message-id: <2ff80242-bd07-4480-8569-5cd3bd303e0c@ind1s01mta0081.xt.local>

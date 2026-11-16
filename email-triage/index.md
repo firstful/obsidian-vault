@@ -35,7 +35,7 @@ tags: [email-triage, index]
 - [transunion-creditview](topics/transunion-creditview.md) — TransUnion CreditView Dashboard credit-report alerts (e.g. delinquency notices; via financial institution)
 - [eyebuydirect](topics/eyebuydirect.md) — EyeBuyDirect post-purchase survey / follow-up emails (marketing)
 - [fairfield-dd](topics/fairfield-dd.md) — Fairfield County Board of Developmental Disabilities — Elijah's services, assistive-technology follow-ups and equipment links
-- [freedom-mortgage](topics/freedom-mortgage.md)
+- [freedom-mortgage](topics/freedom-mortgage.md) — Freedom Mortgage servicing notices: ACH/payment confirmations (transactional) + home-financing/refi marketing (promo)
 - [sauk-mortgage-group](topics/sauk-mortgage-group.md) — Sauk Mortgage Group (Joseph Sauk) mortgage-monitoring marketing emails/promos — Freedom Mortgage marketing: seasonal home-maintenance and refinance/move promos (marketing)
 - [gift-exchange](topics/gift-exchange.md) — Gift exchange / Secret Santa (drawnames.com)
 - [gitea-mirror](topics/gitea-mirror.md) — Gitea mirror GitHub Actions CI failures
