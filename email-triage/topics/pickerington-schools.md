@@ -48,3 +48,14 @@ tags: [email-triage, pickerington-schools]
 - **Message-ID:** <20261112164136.a23a9ac3cd6d176b@plsd.us>
 - **Summary:** Important message from Pickerington Schools: due to a power outage, all afternoon classes at the Pickerington Early Learning Center are canceled today, Thursday, November 12, 2026. Crews are working to restore power. Classes will resume as scheduled on Monday, November 16, 2026. Sent via Infinite Campus (Mailgun); DKIM/SPF/DMARC pass for plsd.us. Unsubscribe/preferences managed via Infinite Campus Parent Portal (affects all district messages including emergency notices).
 - **Action required:** yes (PELC afternoon classes canceled today 2026-11-12 due to power outage; plan accordingly; classes resume Mon 2026-11-16)
+
+## 2026-11-16 — Student Opportunity Fund
+
+- **Date:** 2026-11-16T23:16:14Z
+- **Sender:** PLSD_Infinite_Campus-do-not-reply@plsd.us — Pickerington Local School District (Infinite Campus / Mailgun)
+- **To:** reedsut@gmail.com (reached this stack via Cloudflare Email Routing; Return-Path reedsut+caf_=ingest=ffilt.us@gmail.com; delivered reed@ffilt.us)
+- **Subject:** Student Opportunity Fund
+- **UID:** 1013 (INBOX)
+- **Message-ID:** <20261116231614.069ac89fab17fa62@plsd.us>
+- **Summary:** Important message from Pickerington Schools to families and staff, signed "Charlie". The District has established a "Student Opportunity Fund" to help resume extracurricular activities suspended amid financial challenges, while keeping the general fund reserved for classroom instruction for the remainder of the 2026-2027 school year. The centralized fund accepts contributions from individuals, businesses, corporations and community organizations; the District retains authority over acceptance/allocation/expenditure and donors cannot direct gifts to a specific student, coach, advisor, school or team. Restoration of any activity is not guaranteed — required contributions plus District approval/equity/operating requirements must be met (e.g. equal opportunities for both genders and schools; funding must cover JV baseball and JV softball at both Central and North). Families/staff told to review the framework, funding requirements, activity costs and important deadlines at the district financials page (https://www.plsd.us/district-financials-page). Sent via Infinite Campus (Mailgun); DKIM/SPF/DMARC pass for plsd.us. No attachments, no List-Unsubscribe header; preferences managed via Infinite Campus Parent Portal (affects all district messages incl. emergency notices/school closures).
+- **Action required:** yes (review the fund framework, activity costs and deadlines on the district website if the household wants to understand/contribute toward restoring extracurricular activities; do-not-reply address — no reply)
