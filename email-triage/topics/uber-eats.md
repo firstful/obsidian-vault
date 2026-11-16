@@ -46,3 +46,11 @@ UID 671) — all share `List-Id: <uber-eats.2936635940.uber.com>`; those entries
 - action-required: no
 - message-id: <b4b8b31b-4516-50d9-a5c9-f39c5b6462b1@mail.uber.com>
 - related: UID 711 (pre-tip receipt, $38.51)
+
+## 2026-11-15 - Uber Eats receipt: Five Guys $29.11 (UID 974)
+- date: 2026-11-16T02:47:50Z
+- sender: Uber Receipts <noreply@uber.com> (to emileesutliff@gmail.com)
+- subject: Your Sunday evening order with Uber Eats
+- summary: Uber Eats receipt for Emilee's Five Guys order (2078 State Route 256, Reynoldsburg, OH). Total $29.11 paid with Huntington Bank card ending 9145 (charged 11/15/26 9:47 PM). Ordered 9:17 PM, pickup 9:33 PM, delivered 9:47 PM on Nov 15, 2026 by courier ROCHENEL to 12703 Stonecreek Dr NW, Pickerington, OH 43147. No attachments.
+- action-required: no
+- message-id: <e2d37b4d-3f76-55d9-b41c-ccc59e704cc0@mail.uber.com>
