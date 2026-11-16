@@ -103,3 +103,13 @@ tags: [email-triage, security-alerts]
 - **Corroboration:** Fourth code→new-device cycle of the sitting: UID 796 code 226021 (03:03:06Z, 25 s before this notice) → UID 797. Prior cycles: UID 790→791, UID 792→793, UID 794→795. Four fresh codes redeemed in ~37 minutes, all Chrome on Windows, all Reynoldsburg OH (~10 mi from home). Consistent with Reed re-authenticating on a new browser/device, but four rapid cycles is also the shape of repeated login retries or an attacker with the account password. Cross-ref [[samsclub]] (UID 796 code, UID 794/792/790 codes), [[purchases/Sam's Club 8000-0010-8326-586]].
 - **Action required:** yes (if any of these sign-ins was not Reed's — change the Sam's Club password immediately and review account/payment settings), no (if recognized — household Chrome/Windows session).
 
+
+## 2026-11-16 — Microsoft account unusual sign-in activity (UID 969)
+
+- **Date:** 2026-11-16T01:05:08Z (email Date 2026-11-15 17:05:08 -0800)
+- **Sender:** Microsoft account team <account-security-noreply@accountprotection.microsoft.com>
+- **To:** emileesutliff@gmail.com (routed to ingest@ffilt.us via Gmail → Namecheap; Delivered-To reed@ffilt.us)
+- **Subject:** Microsoft account unusual sign-in activity
+- **UID:** 969 (INBOX, message-id <TH5L4L7BUUU4.XQM4H8Z6UOLR1@bl02epf00024f30>, 20390 B, no attachments)
+- **Summary:** Microsoft security alert reporting an unusual sign-in to the Microsoft account em**f@gmail.com: Country/region Morocco, IP 160.178.240.113, Date 11/16/2026 1:05 AM (GMT), Platform Windows, Browser Microsoft Edge. DKIM/SPF/DMARC pass (accountprotection.microsoft.com, selector1). Links to https://account.microsoft.com/activity to confirm whether it was you; security-notification opt-out at https://account.live.com/SecurityNotifications/Update. Transactional security mail (not marketing); no List-Unsubscribe header. To is Emilee's Gmail (not Reed), so no auto-unsubscribe attempted.
+- **Action required:** yes (if unrecognized — secure the Microsoft account via the recent-activity page and change the password; if recognized, mark as trusted)
