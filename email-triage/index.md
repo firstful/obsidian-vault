@@ -66,7 +66,7 @@ tags: [email-triage, index]
 - [paypal](topics/paypal.md) — PayPal account notices (negative balance / collections reminders, failed automatic payments, account statements)
 - [personal-blog](topics/personal-blog.md) — Personal blog (firstful/personal-blog) GitHub Actions CI failures
 - [pet-cloud](topics/pet-cloud.md) — My PetCloud / Independence Pet Group (mypetinsurer.com) transactional account notices: login verification codes
-- [pickerington-schools](topics/pickerington-schools.md) — Pickerington Local School District (PLSD) superintendent communications (Project 256 video, etc.)
+- [pickerington-schools](topics/pickerington-schools.md) — Pickerington Local School District (PLSD) communications (Project 256 video, school closures, Student Opportunity Fund, etc.)
 - [playful-pathways](topics/playful-pathways.md) — Playful Pathways Therapy, LLC OT appointment cancellations/reschedule (Elijah; Therabyte)
 - [postable](topics/postable.md) — Postable greeting-card sale promos (marketing)
 - [ramseyer-farms](topics/ramseyer-farms.md) — Ramseyer Farms (Wooster OH) Shopify store marketing: seasonal thanks/promo blasts (marketing)
