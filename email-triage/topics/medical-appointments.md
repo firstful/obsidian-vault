@@ -160,3 +160,14 @@ tags: [email-triage, medical-appointments]
 - **Summary:** Join-now notification addressed to Emilee ("Dear Emilee"): "You may now join your video visit. Check in before joining if you haven't done so already." Directs the patient to sign in at https://mychart.osu.edu (or the Sign In button, https://mychart.osu.edu/osumc/) with MyChart username/password to join. No separate appointment date/time or eCheck-in token is included in the body — it is the join-now variant of the same 2026-11-16 15:15 EST neurology video visit with Jordan Bulcher, PA-C (OSU Wexner, Neurology Outpatient Care New Albany), ~20 min after the visit's scheduled start. Fifth MyChart notice for this appointment (after UIDs 892/953/1000 preregister reminders and UID 1002 video-visit check-in reminder); carries no new appointment detail. Support: 614-366-6975 / 1-866-966-6975 (Mon-Fri 9 a.m.-6 p.m.).
 - **Action required:** yes (check in at MyChart and join the video visit — the visit is now open; appointment 2026-11-16 15:15 EST)
 - **Related:** [[calendar/2026-11-16 - Emilee neurology appointment OSU (Jordan Bulcher PA-C)]], [[medical-appointments]]
+
+## 2026-11-16 — MyChart provider running late (video visit, OSU Wexner, Emilee; UID 1006)
+
+- **Date:** 2026-11-16T20:35:04Z (Mon 15:35:04 -0500)
+- **UID:** 1006 (INBOX) · message-id: <5de7457a-1b3d-406b-8498-d4b143e008cf@SVR-EXCH19-VP01.OSUMC.EDU>
+- **Sender:** MyChart_DoNotReply@osumc.edu (OSU Wexner Medical Center MyChart)
+- **To:** emileesutliff@gmail.com (original recipient; forwarded to ingest@ffilt.us, Delivered-To reed@ffilt.us)
+- **Classification:** relevant (transactional video-visit provider-delay notice; no List-Unsubscribe)
+- **Summary:** Addressed to Emilee ("Dear Emilee"): "Your provider is running late and will join shortly. If they haven't joined in five minutes, please call 614-366-2050." Directs the patient to sign in at https://mychart.osu.edu with MyChart username/password to join the visit. No appointment date/time in the body — this is the provider-delay follow-up to the same 2026-11-16 15:15 EST neurology video visit with Jordan Bulcher, PA-C (OSU Wexner, Neurology Outpatient Care New Albany), arriving ~10 min after the join-now notice (UID 1004) and ~20 min after the visit's scheduled start. Sixth MyChart notice for this appointment (after UIDs 892/953/1000 preregister reminders, UID 1002 video-visit check-in reminder, UID 1004 join-now); carries no new appointment detail. MyChart support: 614-366-6975 / 1-866-966-6975 (Mon-Fri 9 a.m.-6 p.m.).
+- **Action required:** yes (stay signed in / ready in MyChart; provider is running late — if they do not join within 5 minutes, call 614-366-2050)
+- **Related:** [[calendar/2026-11-16 - Emilee neurology appointment OSU (Jordan Bulcher PA-C)]], [[medical-appointments]]
