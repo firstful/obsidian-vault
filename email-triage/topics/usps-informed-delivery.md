@@ -99,3 +99,12 @@ Informational only; never action-required.
 - Summary: Daily Informed Delivery digest for Monday 16 November 2026 — 7 mailpieces, 0 inbound packages arriving soon; "Expected Today 7 item(s)". Three mailpiece-scan JPEG attachments (2876753698-010.jpg, content-1202192890.jpg, 2876753682-010.jpg; per-file sizes unavailable — fetched body truncated at 200 KB, 447 KB message). "No packages are available to display." Dashboard names senders SoFi, Citibank, and Freedom Mortgage Corp - SL. No package exceptions, bills, deadlines, or account actions referenced.
 - Action required: no
 - Notes: Live triage (event id 987). Body fetched via email-sync MCP (email_status/meta hit the known TypeError; email_fetch_body succeeded). Standard USPS footer carries an unsubscribe link, but no unsubscribe performed (USPS digests are never marketing and never unsubscribed). Silent on Discord per USPS rule.
+
+## 2026-11-16 13:05 — USPS Informed Delivery: "Your Daily Digest for Mon, 11/16 is ready to view" (Emilee copy)
+
+- UID: 988 (INBOX) · message-id: <20261116130511.57ce2a03add702f5@email.informeddelivery.usps.com>
+- To: emileesutliff@gmail.com — forwarded into ingest via Cloudflare Email Routing (Delivered-To: reed@ffilt.us); greeting "Hi, EMILEE !" (merge-field artifact)
+- Date: 2026-11-16T13:05:11Z
+- Summary: Daily Informed Delivery digest for Monday 16 November 2026 — 7 mailpieces, 0 inbound packages arriving soon; "Expected Today 7 item(s)". Ten mailpiece-scan JPEG attachments (2876753698-010.jpg 30 KB, content-1202192890.jpg 32 KB, 2876753682-010.jpg 32 KB, content-946.jpg 42 KB, 2876670519-010.jpg 30 KB, content-27331.jpg 29 KB, 2876753215-010.jpg 38 KB, 2876753165-010.jpg 26 KB, 2876670495-010.jpg 24 KB, 2876671726-010.jpg 31 KB; 447 KB message). "No packages are available to display." Dashboard names senders SoFi, Citibank, and Freedom Mortgage Corp - SL. No package exceptions, bills, deadlines, or account actions referenced.
+- Action required: no
+- Notes: Live triage (event id 988). Sibling of UID 987 (Reed's copy, 13:04:14Z) — separate envelope, separate message-id, different household mailbox, byte-identical subject; a subject-only dedupe would have wrongly skipped it. To is Emilee's mailbox (no "reed"), and USPS digests are never marketing in any case — no unsubscribe performed. Body fetched via HTTP LAN fallback (email_status/meta hit the known TypeError). Silent on Discord per USPS rule.
