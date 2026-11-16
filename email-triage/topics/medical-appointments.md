@@ -112,3 +112,15 @@ tags: [email-triage, medical-appointments]
 - **Summary:** OSU Wexner Medical Center MyChart notification addressed to Reed ("Dear Reed") indicating a new message is available in the MyChart account. Body contains no message content and no verification code — it directs the recipient to log in at https://mychart.osu.edu with MyChart ID/password to retrieve the message. Distinct from UID 977 (same day, OSU MyChart login security verification code) — this one is a plain "new message" notice. No List-Unsubscribe header. Support: 614-366-6975 / 1-866-966-6975 (Mon-Fri 9 a.m.-6 p.m., excluding holidays).
 - **Action required:** yes (log in to OSU MyChart to read/respond to the new message)
 - **Related notes:** [[medical-appointments]]
+
+## 2026-11-16 — OSU Wexner MyChart payment plan overdue (UID 995)
+
+- **Date:** 2026-11-16T16:20:22Z (Mon 11:20:22 -0500)
+- **UID:** 995 (INBOX) · message-id: <5f3efc0e-06f0-4636-9e72-5497834db0e3@SVR-EXCH19-VP01.OSUMC.EDU>
+- **Sender:** MyChart_DoNotReply@osumc.edu (OSU Wexner Medical Center MyChart)
+- **Subject:** Action Needed: Your payment plan is overdue
+- **To:** reedsut@gmail.com (Delivered-To reed@ffilt.us via forwarding; envelope-received reed@ffilt.us)
+- **Classification:** relevant (medical bill / payment-plan delinquency notice; transactional, no List-Unsubscribe)
+- **Summary:** OSU Wexner Medical Center MyChart statement for account ending in **1929** addressed to Reed: payment plan is **overdue**. **$90.00 is not on the payment plan**; **Amount Due $158.00**. Payment plan details: remaining balance **$395.08**, monthly payment **$34.00**, overdue **$34.00**, payment plan due **$68.00**. **Auto Pay suspended** — last payment declined on **2026-10-16**; email prompts updating payment method / making a payment. Financial assistance option offered. Contact 614-293-2100. Distinct from same-day MyChart UIDs 977 (login OTP) and 994 (new-message notice) — this is a billing/Collections notice.
+- **Action required:** yes (log in to OSU MyChart to make the overdue payment / update the declined payment method and restore Auto Pay; consider $90.00 off-plan balance and financial-assistance options)
+- **Related notes:** [[calendar/2026-11-16 - OSU Wexner payment plan overdue]], [[medical-appointments]]
