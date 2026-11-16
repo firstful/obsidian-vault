@@ -133,3 +133,14 @@ tags: [email-triage, security-alerts]
 - **UID:** 971 (INBOX, message-id <DSIPS98BUUU4.FZB5058M17RO@ph1pepf00017370>, 20392 B, no attachments)
 - **Summary:** Microsoft security alert reporting an unusual sign-in to the Microsoft account em**f@gmail.com: Country/region Germany, IP 91.96.79.181, Date 11/16/2026 1:07 AM (GMT), Platform Windows, Browser Microsoft Edge. DKIM/SPF/DMARC pass (accountprotection.microsoft.com, selector1). Links to https://account.microsoft.com/activity to confirm whether it was you; security-notification opt-out at https://account.live.com/SecurityNotifications/Update. Transactional security mail (not marketing); no List-Unsubscribe header. To is Emilee's Gmail (not Reed), so no auto-unsubscribe attempted. Follows earlier Microsoft account alerts UID 969 (Morocco, 160.178.240.113) and UID 970 (possible unauthorized access).
 - **Action required:** yes (if unrecognized — secure the Microsoft account via the recent-activity page and change the password; if recognized, mark as trusted)
+
+## 2026-11-16 — MyChart new device linked (OSU Wexner, Emilee) (UID 978)
+
+- **Date:** 2026-11-16T03:50:30Z (email Date Sun 15 Nov 2026 22:50:30 -0500)
+- **Sender:** MyChart_DoNotReply@osumc.edu (OSU Wexner Medical Center MyChart)
+- **To:** emileesutliff@gmail.com (routed to ingest@ffilt.us via Gmail → Namecheap; Delivered-To reed@ffilt.us)
+- **Subject:** MyChart - New Device Linked
+- **UID:** 978 (INBOX) · message-id: <d79936d9-a7b8-44ec-9e54-c3658397519e@SVR-EXCH19-VP01.OSUMC.EDU> · 30066 B · no attachments
+- **Classification:** relevant — transactional account-security notice (new mobile device linked to MyChart account); not marketing. No List-Unsubscribe header; To is Emilee's Gmail (not Reed), so no auto-unsubscribe attempted.
+- **Summary:** OSU Wexner Medical Center MyChart notification addressed to Emilee Sutliff that a new mobile device has been linked to her MyChart account. If the change was made by Emilee, no further action is needed. If not, contact MyChart Customer Support: 614-366-6975 or toll-free 1-866-966-6975 (Mon–Fri 9 a.m.–6 p.m., excluding holidays). Support mailbox not monitored (do not reply). DKIM/SPF/DMARC pass (osumc.edu, p=REJECT); Proofpoint scanned (notspam, score 0). No attachments.
+- **Action required:** yes (if the new device was not linked by Emilee — contact MyChart Customer Support 614-366-6975 / 1-866-966-6975), no (if recognized)
