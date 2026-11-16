@@ -90,3 +90,12 @@ Informational only; never action-required.
 - Summary: Daily Informed Delivery digest for Saturday 14 November 2026 — 3 mailpieces, 0 inbound packages arriving soon; Expected Today 3 item(s). 4 JPEG attachments (mailer-466.jpg 154 KB, content-466.jpg 40 KB, 2876268907-010.jpg 42 KB, 2876268906-010.jpg 42 KB; 377 KB message). "No packages are available to display." Dashboard sender names not extractable from truncated fetched body (capped at 200 KB). No bills, deadlines, or account actions referenced.
 - Action required: no
 - Notes: Live triage (event id 888). Body fetched for piece/package counts; standard USPS footer carries an unsubscribe link, but no unsubscribe performed (USPS digests are never marketing and never unsubscribed). Silent on Discord per USPS rule.
+
+## 2026-11-16 — USPS Informed Delivery: "Your Daily Digest for Mon, 11/16 is ready to view"
+
+- UID: 987 (INBOX) · message-id: <20261116130414.f0cf39d78f5801a9@email.informeddelivery.usps.com>
+- To: reedsut@gmail.com (greeting "Hi, Reed!"); forwarded into ingest via Cloudflare Email Routing (Delivered-To: reed@ffilt.us)
+- Date: 2026-11-16T13:04:14Z
+- Summary: Daily Informed Delivery digest for Monday 16 November 2026 — 7 mailpieces, 0 inbound packages arriving soon; "Expected Today 7 item(s)". Three mailpiece-scan JPEG attachments (2876753698-010.jpg, content-1202192890.jpg, 2876753682-010.jpg; per-file sizes unavailable — fetched body truncated at 200 KB, 447 KB message). "No packages are available to display." Dashboard names senders SoFi, Citibank, and Freedom Mortgage Corp - SL. No package exceptions, bills, deadlines, or account actions referenced.
+- Action required: no
+- Notes: Live triage (event id 987). Body fetched via email-sync MCP (email_status/meta hit the known TypeError; email_fetch_body succeeded). Standard USPS footer carries an unsubscribe link, but no unsubscribe performed (USPS digests are never marketing and never unsubscribed). Silent on Discord per USPS rule.
