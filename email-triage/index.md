@@ -47,6 +47,7 @@ tags: [email-triage, index]
 - [google-pixel](topics/google-pixel.md) — Google Pixel device / Google AI feature marketing (Gemini, Circle to Search promos; marketing)
 - [google-play](topics/google-play.md) — Google Play account/security and purchase settings notices
 - [huntington-bank](topics/huntington-bank.md) — Huntington Bank notices (debit card expiration/replacement, statement available) (transactional)
+- [insurance](topics/insurance.md) — Insurance & benefits documents (employer health/dental/vision plan docs, SBCs, policies)
 - [intel-web](topics/intel-web.md) — Intel-web Playwright Tests GitHub Actions CI failures
 - [job-alerts](topics/job-alerts.md) — Marketing job-board alerts (ZipRecruiter, etc.)
 - [job-applications](topics/job-applications.md) — Job applications and confirmations (Affirm, Reddit, Cresta, Descript, ZoomInfo)
