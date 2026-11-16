@@ -123,3 +123,13 @@ tags: [email-triage, security-alerts]
 - **UID:** 970 (INBOX, message-id <587IAF8BUUU4.DM3H97HDJD6B@ph1pepf00017370>, 19443 B, no attachments)
 - **Summary:** Microsoft security alert stating someone else might have accessed the Microsoft account em**f@gmail.com (emileesutliff@gmail.com). Requires identity verification with a security challenge and password change on next sign-in. DKIM/SPF/DMARC pass (accountprotection.microsoft.com, selector1). Links to https://account.live.com to recover account and https://go.microsoft.com/fwlink/?LinkID=263818 for security tips. Transactional security mail (not marketing); no List-Unsubscribe header. To is Emilee's Gmail (not Reed), so no auto-unsubscribe attempted.
 - **Action required:** yes (verify identity and change password via account.live.com if the access was unauthorized; if recognized, no action needed)
+
+## 2026-11-16 — Microsoft account unusual sign-in activity (UID 971)
+
+- **Date:** 2026-11-16T01:07:38Z (email Date 2026-11-15 17:07:38 -0800)
+- **Sender:** Microsoft account team <account-security-noreply@accountprotection.microsoft.com>
+- **To:** emileesutliff@gmail.com (routed to ingest@ffilt.us via Gmail → Namecheap; Delivered-To reed@ffilt.us)
+- **Subject:** Microsoft account unusual sign-in activity
+- **UID:** 971 (INBOX, message-id <DSIPS98BUUU4.FZB5058M17RO@ph1pepf00017370>, 20392 B, no attachments)
+- **Summary:** Microsoft security alert reporting an unusual sign-in to the Microsoft account em**f@gmail.com: Country/region Germany, IP 91.96.79.181, Date 11/16/2026 1:07 AM (GMT), Platform Windows, Browser Microsoft Edge. DKIM/SPF/DMARC pass (accountprotection.microsoft.com, selector1). Links to https://account.microsoft.com/activity to confirm whether it was you; security-notification opt-out at https://account.live.com/SecurityNotifications/Update. Transactional security mail (not marketing); no List-Unsubscribe header. To is Emilee's Gmail (not Reed), so no auto-unsubscribe attempted. Follows earlier Microsoft account alerts UID 969 (Morocco, 160.178.240.113) and UID 970 (possible unauthorized access).
+- **Action required:** yes (if unrecognized — secure the Microsoft account via the recent-activity page and change the password; if recognized, mark as trusted)
