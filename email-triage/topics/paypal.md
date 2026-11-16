@@ -38,3 +38,12 @@ tags: [email-triage, paypal]
 - action-required: yes (pay $522.00 or contact PayPal before 2026-11-26 to avoid collections referral)
 - ledger-note: follow-up to UID 555 (same $522.00 balance; deadline added). No unsubscribe performed (transactional). Calendar note: [[2026-11-26 - PayPal negative balance payment deadline]].
 - message-id: <51.B0.08969.24A1AFA6@ccg01mail04>
+
+## 2026-11-16 - PayPal October account statement available - UID 967
+- date: 2026-11-16T00:39:34Z
+- sender: noreply@service.paypal.com (to reedsut@gmail.com)
+- subject: Reed, your October account statement is available.
+- summary: Genuine PayPal statement-availability notice (SPF, DKIM and DMARC all pass; From service.paypal.com). Notifies that the October account statement is available to view online via the PayPal account (statements/monthly). No attachments; no List-Unsubscribe (transactional account notice). To address contains "reed" but message is transactional, so no unsubscribe performed.
+- action-required: no (informational; view October statement online if desired)
+- ledger-note: no unsubscribe performed (transactional account statement notice). Not related to the outstanding $522.00 negative balance (UID 555/952).
+- message-id: <48b51e1c-6c53-352a-be90-41e5ec7bc358@service.paypal.com>
