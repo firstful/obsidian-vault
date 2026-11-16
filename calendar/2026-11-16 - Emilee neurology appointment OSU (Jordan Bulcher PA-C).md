@@ -17,5 +17,5 @@ tags: [calendar, medical, appointment]
 - **Provider:** Jordan Bulcher, PA-C
 - **Location:** Neurology Outpatient Care New Albany (Ohio State University Hospitals / OSU Wexner)
 - **Action:** Complete MyChart preregistration before visit (insurance, meds/allergies/family history, consent forms, co-pay, questionnaires).
-- **Preregistration:** https://mychart.osu.edu/osumc/s/Q62UAUWPSZ4DNVSMNLZKRQGBJE/echeckin (latest reminder UID 953; prior UID 892: https://mychart.osu.edu/osumc/s/XBIHPAH7TKI4DYBHNJMZZB75OU/echeckin)
-- **Source:** [[email-triage/topics/medical-appointments]] (UID 892 2026-11-14, UID 953 2026-11-15, MyChart_DoNotReply@osumc.edu)
+- **Preregistration:** https://mychart.osu.edu/osumc/s/YYD5OAQFP3ARYYYX766TMAJLJY/echeckin (latest reminder UID 1000 2026-11-16; prior UID 953: https://mychart.osu.edu/osumc/s/Q62UAUWPSZ4DNVSMNLZKRQGBJE/echeckin, UID 892: https://mychart.osu.edu/osumc/s/XBIHPAH7TKI4DYBHNJMZZB75OU/echeckin)
+- **Source:** [[email-triage/topics/medical-appointments]] (UID 892 2026-11-14, UID 953 2026-11-15, UID 1000 2026-11-16, MyChart_DoNotReply@osumc.edu)

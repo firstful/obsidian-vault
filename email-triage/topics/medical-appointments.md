@@ -124,3 +124,15 @@ tags: [email-triage, medical-appointments]
 - **Summary:** OSU Wexner Medical Center MyChart statement for account ending in **1929** addressed to Reed: payment plan is **overdue**. **$90.00 is not on the payment plan**; **Amount Due $158.00**. Payment plan details: remaining balance **$395.08**, monthly payment **$34.00**, overdue **$34.00**, payment plan due **$68.00**. **Auto Pay suspended** — last payment declined on **2026-10-16**; email prompts updating payment method / making a payment. Financial assistance option offered. Contact 614-293-2100. Distinct from same-day MyChart UIDs 977 (login OTP) and 994 (new-message notice) — this is a billing/Collections notice.
 - **Action required:** yes (log in to OSU MyChart to make the overdue payment / update the declined payment method and restore Auto Pay; consider $90.00 off-plan balance and financial-assistance options)
 - **Related notes:** [[calendar/2026-11-16 - OSU Wexner payment plan overdue]], [[medical-appointments]]
+
+## 2026-11-16 — MyChart appointment reminder (3rd notice, OSU Wexner, Emilee; UID 1000)
+
+- **Date:** 2026-11-16T19:37:59Z (Mon 14:37:59 -0500)
+- **UID:** 1000 (INBOX) · message-id: <a9958853-45f1-4561-8582-68178c113561@SVR-EXCH19-VP02.OSUMC.EDU>
+- **Sender:** MyChart_DoNotReply@osumc.edu (OSU Wexner Medical Center MyChart)
+- **Subject:** MyChart - New Appointment Reminder.  Please preregister.
+- **To:** emileesutliff@gmail.com (original envelope ingest@ffilt.us; Delivered-To reed@ffilt.us via forwarding)
+- **Classification:** relevant (transactional healthcare appointment reminder; no List-Unsubscribe)
+- **Summary:** Third reminder in the series for Emilee's **2026-11-16 15:15 EST** neurology appointment with **Jordan Bulcher, PA-C** at Ohio State University Hospitals (Neurology Outpatient Care New Albany). Sent ~37 min before the appointment; again requests online preregistration (insurance, meds/allergies/family history, consent forms, co-pay, provider questionnaires). Newest eCheck-in link: https://mychart.osu.edu/osumc/s/YYD5OAQFP3ARYYYX766TMAJLJY/echeckin (prior: UID 953 Q62UAUWPSZ4DNVSMNLZKRQGBJE, UID 892 XBIHPAH7TKI4DYBHNJMZZB75OU). Same event as UIDs 892/953 — no new appointment detail.
+- **Action required:** yes (complete MyChart preregistration — appointment is 2026-11-16 15:15 EST, ~37 min after this reminder)
+- **Related:** [[calendar/2026-11-16 - Emilee neurology appointment OSU (Jordan Bulcher PA-C)]], [[medical-appointments]]
