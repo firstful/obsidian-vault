@@ -171,3 +171,15 @@ tags: [email-triage, medical-appointments]
 - **Summary:** Addressed to Emilee ("Dear Emilee"): "Your provider is running late and will join shortly. If they haven't joined in five minutes, please call 614-366-2050." Directs the patient to sign in at https://mychart.osu.edu with MyChart username/password to join the visit. No appointment date/time in the body — this is the provider-delay follow-up to the same 2026-11-16 15:15 EST neurology video visit with Jordan Bulcher, PA-C (OSU Wexner, Neurology Outpatient Care New Albany), arriving ~10 min after the join-now notice (UID 1004) and ~20 min after the visit's scheduled start. Sixth MyChart notice for this appointment (after UIDs 892/953/1000 preregister reminders, UID 1002 video-visit check-in reminder, UID 1004 join-now); carries no new appointment detail. MyChart support: 614-366-6975 / 1-866-966-6975 (Mon-Fri 9 a.m.-6 p.m.).
 - **Action required:** yes (stay signed in / ready in MyChart; provider is running late — if they do not join within 5 minutes, call 614-366-2050)
 - **Related:** [[calendar/2026-11-16 - Emilee neurology appointment OSU (Jordan Bulcher PA-C)]], [[medical-appointments]]
+
+## 2026-11-16 — New MyChart message (OSU Wexner, Emilee; UID 1010)
+
+- **Date:** 2026-11-16T21:42:56Z (Mon 16:42:56 -0500)
+- **UID:** 1010 (INBOX) · message-id: <8f09ed4b-feaf-453a-a024-a5bbe0aa5880@SVR-EXCH19-VP02.OSUMC.EDU>
+- **Sender:** MyChart_DoNotReply@osumc.edu (OSU Wexner Medical Center MyChart)
+- **Subject:** MyChart - New Message
+- **To:** emileesutliff@gmail.com (original recipient; forwarded to ingest@ffilt.us, Delivered-To reed@ffilt.us)
+- **Classification:** relevant (transactional healthcare portal notification; no List-Unsubscribe)
+- **Summary:** Plain "new message" portal notice addressed to Emilee ("Dear Emilee"): "You have a new message in your MyChart account. Visit https://mychart.osu.edu and enter your MyChart ID and password to retrieve your information." Body contains no message content, no verification code, and no appointment/billing detail — it directs the patient to log in to read the message. Support: 614-366-6975 / 1-866-966-6975 (Mon-Fri 9 a.m.-6 p.m., excluding holidays). Distinct from same-day OSU MyChart UIDs 977 (login OTP), 994 (Reed new-message notice), 995 (payment-plan overdue), and the 15:15 EST video-visit series (892/953/1000/1002/1004/1006) — this is a generic new-message notice to Emilee. No List-Unsubscribe header.
+- **Action required:** yes (log in to OSU MyChart to read/respond to the new message)
+- **Related notes:** [[medical-appointments]]
