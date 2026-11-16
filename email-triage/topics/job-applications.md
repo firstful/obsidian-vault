@@ -540,3 +540,13 @@ tags: [email-triage, job-applications]
 - **UID:** 983 (INBOX)
 - **Summary:** Application-received auto-reply from Discord via Greenhouse/Mailgun (X-Mailgun-Tag: CandidateAutoReply, org_id 4000123002, person_id 293502362002) for the Engineering Manager, Machine Learning (Safety) role (uid 983, to sutliff.reed@gmail.com). Body: "Hey Reed, Thanks so much for your interest in Discord! We successfully received your application for the Engineering Manager, Machine Learning (Safety) role and are pumped to look over it. Our team will review your application and be in touch if your experiences are a fit for our role(s)." Signed "Thank you for applying! Discord". No attachments (0). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=NONE), ARC pass. List-Unsubscribe header present but empty — no unsubscribe performed (transactional application acknowledgement, not marketing). Unattended mailbox — do not reply.
 - **Action required:** no (wait for follow-up from Discord/Greenhouse if selected)
+
+## 2026-11-16 — Engineering Manager, Machine Learning (Safety) at Discord (uid 984)
+
+- **Date:** 2026-11-16T07:28:03Z
+- **Sender:** no-reply@us.greenhouse-mail.io (Greenhouse/Discord)
+- **To:** sutliff.reed@gmail.com (routed via Cloudflare Email Routing → ingest@ffilt.us → reed@ffilt.us; INBOX/984)
+- **Subject:** Thank you for applying to Discord!
+- **Message-Id:** <20261116072803.545d17d3724009e7@us.greenhouse-mail.io>
+- **Summary:** Greenhouse auto-reply confirming receipt of Reed's application for the Engineering Manager, Machine Learning (Safety) role at Discord. Hiring team reviewing; will be in touch if experiences are a fit. No attachments (multipart/alternative text+html). Unattended mailbox — do not reply. Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass. List-Unsubscribe header present but empty — no unsubscribe mechanism; transactional mail, no unsubscribe performed.
+- **Action required:** no
