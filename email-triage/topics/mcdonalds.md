@@ -38,3 +38,15 @@ tags: [email-triage, mcdonalds]
 - **Message-ID:** `<010001a1d6cd1181-f731515e-195c-4769-97ef-da0fb9491929-000000@email.amazonses.com>`
 - **Auth:** DKIM pass (us.mcdonalds.com, amazonses.com), SPF pass, DMARC pass (p=quarantine) header.from=us.mcdonalds.com, ARC pass (per envelope headers).
 - **Related notes:** [[mcdonalds]]
+
+## 2026-11-16 — McDonald's mobile order receipt: $7.46 (UID 979)
+
+- **UID:** 979 (INBOX)
+- **Date:** 2026-11-16T04:14:00Z (order placed 11/15/2026 11:13:48 PM EST)
+- **Sender:** McDonald's Account Services <DoNotReply_US@us.mcdonalds.com> (To: reedsut@gmail.com; forwarded via Cloudflare Email Routing -> ingest@ffilt.us)
+- **Subject:** Thanks for placing a mobile order!
+- **Summary:** Mobile Order and Pay receipt (transactional), Order# YG34 / Check-In# YG34-LX98OW, placed 11/15/2026 11:13:48 PM at PCKRTON/S.R. 256, 1091 Hill Rd, Pickerington, OH 43147-8886 (614-759-1007). Items: Big Mac qty 1 $0.00 (with offer), XTRA Pickle $0.30, OREO McFlurry qty 1 $4.19, Large Coke qty 2 $2.78. Subtotal $7.27, tax $0.19 (6.75% on $2.78 base), Total $7.46, Total Savings $5.79. Paid by MasterCard ending 4772, approved $7.46, authorization/sequence DDJDQJT2QSNM24B9, merchant ID n/a, balance $0.00. No attachments/List-Unsubscribe. System-generated email ("please do not reply").
+- **Action required:** no (receipt only; no order issue, refund or follow-up requested)
+- **Message-ID:** `<010001a1e28fd9d1-4cb2b5d6-bf70-41be-bab7-e057b93aec85-000000@email.amazonses.com>`
+- **Auth:** DKIM pass (us.mcdonalds.com, amazonses.com), SPF pass, DMARC pass (p=quarantine) header.from=us.mcdonalds.com, ARC pass.
+- **Related notes:** [[mcdonalds]]
