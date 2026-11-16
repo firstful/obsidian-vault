@@ -529,3 +529,14 @@ tags: [email-triage, job-applications]
 - **Message-Id:** <20261115230004.ba73523a3b602b83@us.greenhouse-mail.io>
 - **Summary:** Greenhouse auto-reply confirming receipt of Reed's application for Reddit Software Engineer, Ad Signals. Hiring team reviewing; will follow up if there is a match (aims to respond within a few business days). No attachments. Unattended mailbox — do not reply. `List-Unsubscribe` header present but empty. Transactional application acknowledgement.
 - **Action required:** no
+
+## 2026-11-16 — Engineering Manager, Machine Learning (Safety) at Discord (uid 983)
+
+- **Date:** 2026-11-16T07:26:02Z
+- **Sender:** no-reply@us.greenhouse-mail.io (Greenhouse/Discord)
+- **To:** sutliff.reed@gmail.com (routed via Cloudflare Email Routing → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Thank you for applying to Discord!
+- **Message-Id:** <20261116072602.59fac49be191b5c1@us.greenhouse-mail.io>
+- **UID:** 983 (INBOX)
+- **Summary:** Application-received auto-reply from Discord via Greenhouse/Mailgun (X-Mailgun-Tag: CandidateAutoReply, org_id 4000123002, person_id 293502362002) for the Engineering Manager, Machine Learning (Safety) role (uid 983, to sutliff.reed@gmail.com). Body: "Hey Reed, Thanks so much for your interest in Discord! We successfully received your application for the Engineering Manager, Machine Learning (Safety) role and are pumped to look over it. Our team will review your application and be in touch if your experiences are a fit for our role(s)." Signed "Thank you for applying! Discord". No attachments (0). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=NONE), ARC pass. List-Unsubscribe header present but empty — no unsubscribe performed (transactional application acknowledgement, not marketing). Unattended mailbox — do not reply.
+- **Action required:** no (wait for follow-up from Discord/Greenhouse if selected)
