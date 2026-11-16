@@ -20,3 +20,12 @@ tags: [email-triage, unitedhealthcare]
 - Summary: Second copy of the same Real Appeal(R) powered by Wellos(R) acquisition campaign litigated as UID 596 the same day (identical creative: utm_campaign=acq, utm_content=RAW-Acq-SPM-UH-Nov26-EM1-B3-v1). Pitches "unused benefits" with a dedicated coach, weekly group support and a free healthy-lifestyle Starter Kit (Bluetooth scale, measuring tape, resistance bands) at $0 out-of-pocket; "See My Benefit" / "Claim My Kit" both point at onboarding.wellos.com. Standard voluntary-program disclaimer plus marketing "Unsubscribe from this type of communication" link. No plan change, claim, premium, ID card or deadline anywhere in the message.
 - Action required: no
 - Notes: Promo / marketing (duplicate blast, same campaign as UID 596; distinct UID + message-id). Backfilled 2026-11-11 (message stored during a triage outage; event id 597). Addressed to a Reed mailbox, but no unsubscribe performed (backfill run - unsubscribes excluded).
+
+
+## 2026-11-16 - UnitedHealthcare: "Notice: You have unused benefits for weight loss"
+
+- UID: 993 (INBOX) - message-id: <64839c39-ba09-3cfe-a95e-63e79fc73a27@email.uhc.com>
+- To: emileesutliff@gmail.com
+- Summary: Verbatim re-send of the same Real Appeal(R) powered by Wellos(R) acquisition campaign already journalled as UID 596 and UID 597 (both 2026-11-09) - identical utm_campaign=acq and utm_content=RAW-Acq-SPM-UH-Nov26-EM1-B3-v1 creative. "See My Benefit" / "Claim My Kit" CTAs point at onboarding.wellos.com; voluntary-program/items-may-be-taxable disclaimer in footer; no plan change, claim, premium, ID card or deadline anywhere in the body.
+- Action required: no
+- Notes: Promo / marketing (duplicate blast; distinct UID + message-id from 596/597). To is emileesutliff@gmail.com rather than a Reed mailbox, so the recipient-based auto-unsubscribe gate does not apply; no unsubscribe performed. Live triage 2026-11-16.
