@@ -70,3 +70,14 @@ tags: [email-triage, walmart-orders, purchases]
 - **Message-ID:** <efe3a7abf1e88400d4c06b7ac0d19ead352fef0e31368d69982ba11c54a6975e@walmart.com>
 - **UID:** 947
 - **Folder:** INBOX
+
+## 2026-11-16 — Walmart package arriving (UID 986, Order 2000157-84565479)
+
+- **Date:** 2026-11-16T11:29:59Z
+- **Sender:** Walmart.com <help@walmart.com> (to emilee.sutliff@gmail.com)
+- **Subject:** Package arriving by Tue, Nov 17
+- **Summary:** Transactional Walmart shipping/tracking notice. Order 2000157-84565479 (order date Sun, Nov 15, 2026). 1 item ("Command Broom and Mop…" truncated) sold and shipped by Walmart. Package in transit, arrives Tue, Nov 17 to 12703 Stonecreek Dr, Pickerington, OH 43147, USA. Tracking: 55559216630496125815. Same order as UID 947 (delivery order confirmed). To: emilee.sutliff@gmail.com.
+- **Action required:** no — informational shipping notice; verify item on arrival. Tracking 55559216630496125815.
+- **Message-ID:** <db4515941d9fb89d5160ba02c6cc7c2131bd8918769ef470e1b40fc637af9343@walmart.com>
+- **UID:** 986
+- **Folder:** INBOX
