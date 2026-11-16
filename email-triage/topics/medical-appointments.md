@@ -100,3 +100,15 @@ tags: [email-triage, medical-appointments]
 - **Summary:** OSU Wexner Medical Center MyChart message addressed to Emilee Sutliff with subject "MyChart - New Message" but body is a login security verification code: **635127**, to be entered on the Additional Security Verification screen. Code expires at **11:00 PM EST** (2026-11-15, ~10 minutes after send); now expired. No message content included; login to https://mychart.osu.edu/osumc/ to read any actual MyChart message. Support: 614-366-6975 / 1-866-966-6975.
 - **Action required:** no (code expired; if a login is still needed, request a new code; if the login was not initiated by Emilee, treat as a security concern)
 - **Related notes:** [[medical-appointments]]
+
+## 2026-11-16 — New MyChart message (OSU Wexner, Reed)
+
+- **Date:** 2026-11-16T16:15:02Z (Mon 11:15:02 -0500)
+- **UID:** 994 (INBOX) · message-id: <88249acb-d443-4cd4-8941-5ee90371710f@SVR-EXCH19-VP01.OSUMC.EDU>
+- **Sender:** MyChart_DoNotReply@osumc.edu (OSU Wexner Medical Center MyChart)
+- **Subject:** MyChart - New Message
+- **To:** reedsut@gmail.com
+- **Classification:** relevant (transactional healthcare portal notification)
+- **Summary:** OSU Wexner Medical Center MyChart notification addressed to Reed (\"Dear Reed\") indicating a new message is available in the MyChart account. Body contains no message content and no verification code — it directs the recipient to log in at https://mychart.osu.edu with MyChart ID/password to retrieve the message. Distinct from UID 977 (same day, OSU MyChart login security verification code) — this one is a plain \"new message\" notice. No List-Unsubscribe header. Support: 614-366-6975 / 1-866-966-6975 (Mon-Fri 9 a.m.-6 p.m., excluding holidays).
+- **Action required:** yes (log in to OSU MyChart to read/respond to the new message)
+- **Related notes:** [[medical-appointments]]
