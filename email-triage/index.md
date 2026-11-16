@@ -55,7 +55,7 @@ tags: [email-triage, index]
 - [link-payments](topics/link-payments.md) -- Link (Stripe) payment-wallet account notices (email verification, etc.)
 - [linkedin](topics/linkedin.md) — LinkedIn engagement/marketing digests and LinkedIn News editorial roundups (search appearances, network updates, app-download nudges, AI/Anthropic news digests)
 - [mcdonalds](topics/mcdonalds.md) — McDonald's Mobile Order & Pay receipts (order/store, item totals, card last-4)
-- [medical-appointments](topics/medical-appointments.md) — Medical appointments and check-ins (Nationwide Children's, etc.)
+- [medical-appointments](topics/medical-appointments.md) — Medical appointments, check-ins, and MyChart billing/payment-plan notices (Nationwide Children's, OSU Wexner)
 - [meta-for-developers](topics/meta-for-developers.md) — Meta for Developers product/model launch announcements (Muse Ember, Meta Model API; marketing)
 - [microsoft-azure](topics/microsoft-azure.md) — Microsoft Azure marketing promos (App Service plan offers, discounts; Microsoft/Azure bills stay in billing)
 - [namecheap](topics/namecheap.md) — Namecheap Private Email product announcements and mobile-app marketing (marketing)
