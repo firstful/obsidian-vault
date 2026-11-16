@@ -29,3 +29,11 @@ tags: [email-triage, unitedhealthcare]
 - Summary: Verbatim re-send of the same Real Appeal(R) powered by Wellos(R) acquisition campaign already journalled as UID 596 and UID 597 (both 2026-11-09) - identical utm_campaign=acq and utm_content=RAW-Acq-SPM-UH-Nov26-EM1-B3-v1 creative. "See My Benefit" / "Claim My Kit" CTAs point at onboarding.wellos.com; voluntary-program/items-may-be-taxable disclaimer in footer; no plan change, claim, premium, ID card or deadline anywhere in the body.
 - Action required: no
 - Notes: Promo / marketing (duplicate blast; distinct UID + message-id from 596/597). To is emileesutliff@gmail.com rather than a Reed mailbox, so the recipient-based auto-unsubscribe gate does not apply; no unsubscribe performed. Live triage 2026-11-16.
+
+## 2026-11-16 - UnitedHealthcare: "Notice: You have unused benefits for weight loss"
+
+- UID: 992 (INBOX) - message-id: <e1fea6b4-0911-3ead-8ff9-b7376347a2de@email.uhc.com>
+- To: reedsut@gmail.com
+- Summary: Fourth copy of the same Real Appeal(R) powered by Wellos(R) acquisition campaign already journaled as UIDs 596/597 (identical creative: utm_campaign=acq, utm_content=RAW-Acq-SPM-UH-Nov26-EM1-B3-v1). Pitches "unused benefits" with a dedicated coach, weekly group support and a free healthy-lifestyle Starter Kit (Bluetooth scale, measuring tape, resistance bands) at $0 out-of-pocket; both CTAs ("See My Benefit" / "Claim My Kit") point at onboarding.wellos.com. Standard voluntary-program disclaimer and a marketing "Unsubscribe from this type of communication" footer link. No plan change, claim, premium, ID card or deadline anywhere in the message.
+- Action required: no
+- Notes: Promo / marketing (distinct live message; same campaign as UIDs 596/597, new UID + message-id + date). Addressed to a Reed mailbox, so the recipient-based auto-unsubscribe gate fired: no RFC 8058 List-Unsubscribe header on this send, but the body carried a tokenized direct-GET footer unsubscribe URL (clinical-subscription.optum.com/unsubscribe?...OptOutStatus=True). GET fallback returned HTTP 200 with confirmation text; logged in [[unsubscribes]]. This is a live triage event (not a backfill), so unsubscribe was performed. No ledger topic beyond this promo record.
