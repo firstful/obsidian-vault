@@ -130,3 +130,13 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a1dccea1c4-bff3cca8-706f-4e91-97a4-8db41cd23041-000000@email.amazonses.com>
 - **UID:** 917
 - **Related notes:** [[purchases/Amazon 112-7817073-7063464]], [[calendar/2026-11-16 - Amazon order 112-7817073-7063464 expected delivery]]
+
+## 2026-11-16 — Amazon delivery confirmation: 1 item (3D Printing Supplies) (UID 1003)
+
+- **Date:** 2026-11-16T20:07:51Z
+- **Sender:** "Amazon.com" <order-update@amazon.com> (to emilee.sutliff@gmail.com)
+- **Subject:** Delivered 1 item: 3D Printing Supplies
+- **Summary:** Amazon delivery notification (order-update) reporting 1 item delivered, category "3D Printing Supplies". Shipping/marketing notification, not an order status change requiring action; logged as a compact paper-trail entry per household convention (cf. UID 811, same sender/pattern). To address is emilee.sutliff@gmail.com (no "reed"), so no auto-unsubscribe performed; these carry no List-Unsubscribe header anyway.
+- **Action required:** no — informational delivery confirmation; verify the package contents on arrival.
+- **Message-ID:** <010001a1e5f9218a-5c7f4d27-8b72-42d9-af99-a635f0724ff4-000000@email.amazonses.com>
+- **UID:** 1003
