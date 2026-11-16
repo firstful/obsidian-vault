@@ -118,3 +118,14 @@ tags: [email-triage, capital-one]
 - **Summary:** CreditWise/Capital One notification that payment status changed for one of Emilee’s accounts. Body is minimal/link-driven (“Please visit the Alerts section of CreditWise…”); no specific creditor, account ending, amount, or due date exposed in the fetched text (links to CreditWise/Capital One alerts). Treat as account-status alert requiring review in CreditWise/Capital One app (not a marketing promo). No List-Unsubscribe header present (transactional-style alert).
 - **Action required:** yes (review CreditWise alerts/sign in to confirm which account and what changed)
 - **Related notes:** [[capital-one]] (ongoing Reed/Quicksilver ...4809 sequence also tracked here; this alert is addressed to Emilee — verify account context in Capital One/CreditWise)
+
+## 2026-11-16 — Emilee, the payment status of one of your accounts changed
+
+- **Date:** 2026-11-16T01:52:14Z
+- **Sender:** Capital One <capitalone@notification.capitalone.com>
+- **To:** emileesutliff@gmail.com (delivered to reed@ffilt.us via Cloudflare Email Routing / ingest)
+- **Subject:** Emilee, the payment status of one of your accounts changed
+- **UID:** 972 (INBOX, message-id `<9D.D1.19063.EC16AFA6@i-078252ac8972a6001.mta6vrest.sd.prd.sparkpost>`)
+- **Summary:** CreditWise/Capital One account-status alert (Emilee). Body is link-driven (“Please visit the Alerts section of CreditWise…”) with no specific creditor, account ending, amount, or due date exposed; links to CreditWise/Capital One alerts. Transactional-style alert (no List-Unsubscribe header). Review in CreditWise/Capital One app to confirm which account and what changed; not a marketing promo. Follows prior similar alert (uid 913, 2026-11-14).
+- **Action required:** yes (review CreditWise alerts / sign in to confirm which account and what changed)
+- **Related notes:** [[capital-one]] (ongoing Reed/Quicksilver ...4809 sequence also tracked here; this alert is addressed to Emilee — verify account context in Capital One/CreditWise)
