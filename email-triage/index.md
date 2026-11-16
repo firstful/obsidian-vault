@@ -17,6 +17,7 @@ tags: [email-triage, index]
 - [bosch](topics/bosch.md) — Bosch appliance registration confirmations and product care (transactional)
 - [billing](topics/billing.md) — Bills and invoices (Microsoft/Azure, etc.)
 - [bandcamp](topics/bandcamp.md) — Bandcamp fan release notifications (marketing)
+- [best-egg](topics/best-egg.md) — Best Egg personal loan autopay notices (transactional)
 - [bible-gateway](topics/bible-gateway.md) — Bible Gateway Deals promos and editorial/devotional newsletters (marketing)
 - [capital-one](topics/capital-one.md) — Capital One credit card: collections/late-payment notices, payment confirmations and CreditWise credit-score alerts
 - [chase-credit-journey](topics/chase-credit-journey.md) — Chase Credit Journey credit-report alerts (e.g. past-due balance notices; review in Credit Journey for account-specific details)
