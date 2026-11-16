@@ -14,3 +14,13 @@ Automated "LIVE INCIDENT" breaking-alert mail from `noreply@mail.citizen.com` (C
 - Summary: Automated Citizen "LIVE INCIDENT" breaking-alert: three-vehicle crash with a car overturned at Bella Via Ave & Cleveland Ave (Cleveland Avenue, Northland, Columbus, Franklin County OH 43234; ≈40.096, −82.950 — roughly 20 km north-west of the Stonecreek Dr home). Southbound lanes blocked; 56 watching; live video link. Bulk incident-notification blast (Iterable/Mailgun, List-Unsubscribe), not a household event.
 - Action required: no
 - Notes: Backfilled 2026-11-11 (message stored during a triage outage). Automated geo alert from the Citizen app, not actionable household mail; logged under this sender topic per the backfill instruction. No unsubscribe performed (backfill run).
+
+## 2026-11-16 — Citizen: "Smoke Rising From House Fire"
+
+- UID: 965 (INBOX) · message-id: <20261116000511.431811aeeb984305@mail.citizen.com>
+- Date: 2026-11-16T00:05:11Z
+- From: Citizen <noreply@mail.citizen.com>
+- To: sutliff.reed@gmail.com (routed sutliff.reed+caf_=ingest=ffilt.us@gmail.com → ingest@ffilt.us → reed@ffilt.us)
+- Summary: Automated Citizen live incident alert: "Smoke Rising From House Fire" at 2258 Brentnell Ave. Firefighters reported opening up walls to access and extinguish remaining flames (≈1.6K views, 6 comments at send time). Bulk geo/incident notification (Iterable/Mailgun; List-Unsubscribe present) — informational local alert, not household-directed action.
+- Action required: no
+- Notes: Triaged from email event 965 (envelope/body fetched via email.ffilt.us ingress; MCP email tools unavailable with TypeError in this session). No unsubscribe performed.
