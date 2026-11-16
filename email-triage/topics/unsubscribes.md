@@ -267,3 +267,4 @@ Ledger of unsubscribe actions for marketing/promo senders (envelope-census 2026-
 
 
 | 2026-11-16 | alerts@ziprecruiter.com | sutliff.reed@gmail.com | INBOX/996 | DataAnnotation is hiring now. November 16, 2026 | POST (RFC 8058 one-click) | 403 | Promo/marketing bulk job alert (message-id @mg.ziprecruiter.com). List-Unsubscribe HTTPS one-click POST attempted from saved RFC822; Cloudflare managed bot-challenge (403) blocked automation - unsubscribe not confirmed (same outcome as prior UIDs 910/938). No ledger topic entry; mailto fallback not sent. |
+| 2026-11-16 | noreply@robinhood.com | sutliff.reed@gmail.com | INBOX/999 | Get 3% cash back with the Gold Card | POST | 200 | RFC 8058 one-click; succeeded; no CF challenge; no mailto in header |
