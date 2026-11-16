@@ -109,6 +109,6 @@ tags: [email-triage, medical-appointments]
 - **Subject:** MyChart - New Message
 - **To:** reedsut@gmail.com
 - **Classification:** relevant (transactional healthcare portal notification)
-- **Summary:** OSU Wexner Medical Center MyChart notification addressed to Reed (\"Dear Reed\") indicating a new message is available in the MyChart account. Body contains no message content and no verification code — it directs the recipient to log in at https://mychart.osu.edu with MyChart ID/password to retrieve the message. Distinct from UID 977 (same day, OSU MyChart login security verification code) — this one is a plain \"new message\" notice. No List-Unsubscribe header. Support: 614-366-6975 / 1-866-966-6975 (Mon-Fri 9 a.m.-6 p.m., excluding holidays).
+- **Summary:** OSU Wexner Medical Center MyChart notification addressed to Reed ("Dear Reed") indicating a new message is available in the MyChart account. Body contains no message content and no verification code — it directs the recipient to log in at https://mychart.osu.edu with MyChart ID/password to retrieve the message. Distinct from UID 977 (same day, OSU MyChart login security verification code) — this one is a plain "new message" notice. No List-Unsubscribe header. Support: 614-366-6975 / 1-866-966-6975 (Mon-Fri 9 a.m.-6 p.m., excluding holidays).
 - **Action required:** yes (log in to OSU MyChart to read/respond to the new message)
 - **Related notes:** [[medical-appointments]]
