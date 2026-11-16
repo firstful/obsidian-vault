@@ -179,3 +179,14 @@ tags: [email-triage, gitea-mirror]
 - **Summary:** GitHub Actions CI failure notification for `firstful/gitea-mirror` workflow "Gitea mirror" on `main` (commit 9d37763). Inbound trigger metadata/envelope fetched; full RFC822 body/headers were partially truncated during retrieval, so run URL, failing job annotations, duration, and finish time are unavailable from this triage pass. Recurring failure pattern — same workflow/commit has failed repeatedly since 2026-11-08 (see prior entries in this topic); treat as ongoing mirror breakage pending investigation.
 - **Action required:** yes — investigate Gitea mirror workflow failure on firstful/gitea-mirror main (9d37763), review failing step/annotations in GitHub Actions, and restore successful mirroring.
 - **Classification:** relevant — CI failure notification, recurring mirror breakage
+
+## 2026-11-03 — Run failed: Gitea mirror - main (9d37763) (UID 985)
+
+- **UID / Message-ID:** 985 / `<firstful/gitea-mirror/check-suites/CS_kwDOTzxDUc8AAAAaPd6eLA/1793689235@github.com>`
+- **Date:** 2026-11-03T07:00:56Z
+- **From:** Reed Sutliff <notifications@github.com>
+- **To:** "firstful/gitea-mirror" <gitea-mirror@noreply.github.com>
+- **Subject:** [firstful/gitea-mirror] Run failed: Gitea mirror - main (9d37763)
+- **Summary:** GitHub Actions workflow "Gitea mirror" in firstful/gitea-mirror failed on main (commit 9d37763). Job "mirror" failed with 3 annotations; workflow duration 1m40s (shorter than typical 18-20m, suggesting early failure). Run: https://github.com/firstful/gitea-mirror/actions/runs/41593279250. Recurring failure — same workflow/commit has been failing repeatedly; mirror workflow itself is broken rather than a transient flake. SPF/DKIM/DMARC pass for github.com (dmarc p=quarantine); no List-Unsubscribe header (List-Id/List-Post/List-Archive only).
+- **Action required:** yes — investigate mirror failure and annotations, restore successful mirroring.
+- **Classification:** relevant — CI failure, recurring mirror breakage
