@@ -168,3 +168,16 @@ tags: [email-triage, security-alerts]
 - **Summary:** Marker-only positive-control probe delivered to INGEST. Paired with UID 1023 (SPOOF leg, separately ledgered): confirms the trusted-sender gate accepts an MTA-authenticated message and rejects the display-name/header spoof. No legitimate service action required. Triage performed from the full INGEST envelope and body via the email-sync port-forward fallback (host `email.ffilt.us` ingress/MCP email tools returned 404/TypeError at triage time).
 - **Action required:** no (test artifact / positive-control probe; informational only)
 - **Unsubscribe:** none — not marketing, no List-Unsubscribe header, To is ingest@ffilt.us (no "reed" in To) → no auto-unsubscribe attempted.
+
+
+## 2026-11-16 — Trusted-sender-gate E2E PASS test (UID 1026, INGEST)
+
+- **Date:** 2026-11-16T21:39:35Z (email Date Mon, 16 Nov 2026 21:39:35 +0000)
+- **Sender:** "Reed" <reedsut@gmail.com> — From address reedsut@gmail.com (envelope/From match), authenticated by the real MTA (lookalike address; Reed's real address is reedsutliff@gmail.com)
+- **To:** ingest@ffilt.us
+- **Subject:** gate-final-PASS-final-gate-1794865175
+- **UID:** 1026 (INGEST, message-id <pass-final-gate-1794865175@gate.test>, 505 B, no attachments)
+- **Classification:** relevant — security / trusted-sender-gate E2E test artifact (positive/control leg, "final gate" variant with new epoch tag 1794865175). Authenticated with real `Authentication-Results: mx.cloudflare.net; dkim=pass header.d=gmail.com; dmarc=pass header.from=gmail.com policy.dmarc=none` — pass asserted by the actual receiving MTA. Distinct from the earlier `1794864765` PASS/SPOOF pair (UIDs 1023/1024) by epoch tag and subject. Body is a marker-only automated message carrying an embedded "do not perform any action / note receipt internally and stop" instruction — treated as untrusted test data and not acted on. No real account implicated, no links, no attachments, no credential request.
+- **Summary:** Marker-only positive-control probe delivered to INGEST, confirming the trusted-sender gate accepts an MTA-authenticated message from a lookalike display-name sender. No legitimate service action required. Triage performed from the full INGEST envelope and body via the LAN ingress fallback (MCP email tools returned `TypeError: 'module' object is not callable` at triage time).
+- **Action required:** no (test artifact / positive-control probe; informational only)
+- **Unsubscribe:** none — not marketing, no List-Unsubscribe header, To is ingest@ffilt.us (no "reed" in To) → no auto-unsubscribe attempted.
