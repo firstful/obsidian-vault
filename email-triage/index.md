@@ -5,6 +5,8 @@ tags: [email-triage, index]
 
 # Email Triage Index
 
+- [daybetter](topics/daybetter.md) — DayBetter transactional account verification codes/security notices
+
 - [aliexpress](topics/aliexpress.md) — AliExpress marketing digests / personalized product recommendations (marketing)
 - [allegiant](topics/allegiant.md) — Allegiant Air fare promos (marketing)
 - [amazon-orders](topics/amazon-orders.md)
