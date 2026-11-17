@@ -645,3 +645,14 @@ tags: [email-triage, job-applications]
 - **UID:** 1030 (INBOX)
 - **Summary:** Greenhouse auto-reply confirming receipt of Reed's application for Reddit Principal Data Scientist, Ads. Hiring team reviewing; will follow up if a match (aims to respond within a few business days). No attachments (14,628 B, multipart/alternative). Informational/transactional; List-Unsubscribe header present but empty — no unsubscribe action. Routed sutliff.reed@gmail.com -> ingest@ffilt.us -> reed@ffilt.us. Sibling of uids 1023–1029 (same role, distinct Message-Id). Unattended mailbox — do not reply.
 - **Action required:** no
+
+## 2026-11-17 — Reddit application received: Principal Data Scientist, Ads (uid 1055)
+
+- **Date:** 2026-11-17T16:48:05Z
+- **Sender:** no-reply@us.greenhouse-mail.io (Greenhouse/Reddit Talent Acquisition)
+- **Subject:** Thank you for your interest in joining Reddit
+- **To:** sutliff.reed@gmail.com (INBOX/1055; routed via Cloudflare Email Routing → ingest@ffilt.us → reed@ffilt.us)
+- **Message-Id:** <20261117164805.ddc7c47c3adcee74@us.greenhouse-mail.io>
+- **UID:** 1055 (INBOX)
+- **Summary:** Greenhouse auto-reply confirming receipt of Reed's application for Reddit Principal Data Scientist, Ads. Body: application received, hiring team reviewing, will reach out about next steps only if there is a match ("within a few business days"), plus marketing-lite footer links (what makes Reddit different, company values, r/RedditEng, blog, LinkedIn, Life at Reddit, 2023 recap). Explicit "do not reply — unattended mailbox". No attachments (14,626 B). Informational/transactional application acknowledgement; no bulk/marketing signals, `List-Unsubscribe` header empty — no unsubscribe performed. Sibling, not duplicate: same generic subject and role as uids 1023–1032 but distinct Message-Id and a much later timestamp (16:48Z vs 07:46–08:05Z) — a separate submission acknowledgement, journalled on its own.
+- **Action required:** no
