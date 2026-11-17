@@ -104,3 +104,14 @@ tags: [email-triage, huntington-bank]
 - **Action required:** yes
 - **Summary:** Change-in-terms legal notice: Huntington updated the Huntington Online Services Agreement effective 2026-11-20, to reflect changes the bank implemented on 2026-10-19. Continuing to use Online Services after the effective date constitutes acceptance. Reed should read the summary of changes carefully and save a copy for records (Change in Terms link in email, or Online Banking → Service Center and Disclosures; mobile app → More → Learn More → Disclosures). Carries a Salesforce Marketing Cloud `Feedback-ID` bulk signal and DKIM from s1.y.mc.salesforce.com, but content is a mandatory account/legal notice, NOT marketing — do not unsubscribe. Authentic: DKIM/SPF/ARC/DMARC pass (email.huntington.com + salesforce). No account number, balance, or last-4 disclosed.
 - **Related:** [[Huntington Bank]] (money/institutions); effective-date reminder [[2026-11-20 - Huntington Online Services Agreement update effective]].
+
+## 2026-11-17 — Important updates to your Huntington Online Services Agreement (duplicate notice)
+
+- **Date:** 2026-11-17T17:06:48Z (email dated 2026-11-17 11:06:48 -0600)
+- **Sender:** Huntington Bank <HuntingtonOnline@email.huntington.com>
+- **To:** emileesutliff@gmail.com (Delivered-To reed@ffilt.us via Cloudflare Email Routing)
+- **Subject:** Important updates to your Huntington Online Services Agreement
+- **UID:** 1067 (INBOX, message-id `<8b04cb90-3765-472f-93a8-36cb17d23857@ind1s01mta0114.xt.local>`)
+- **Summary:** Duplicate of UID 1047 — same change-in-terms legal notice delivered to emileesutliff@gmail.com ~1.5h later. Huntington Online Services Agreement updated effective 2026-11-20 to reflect changes implemented 2026-10-19; continuing to use Online Services after the effective date = acceptance. Read the summary of changes and save a copy (Online Banking → Service Center and Disclosures; mobile app → More → Learn More → Disclosures). No new facts vs UID 1047. Carries SFMC bulk signal (`Feedback-ID: …:sfmktgcld`, DKIM `s1.y.mc.salesforce.com`, `X-SFMC-Stack: 1`), but it is a mandatory legal notice, NOT marketing — no `List-Unsubscribe` header, never unsubscribe. Authentic: DKIM/SPF pass (email.huntington.com + salesforce). No account number, balance, or last-4 disclosed.
+- **Action required:** no — duplicate of UID 1047; review/save-copy action already tracked there.
+- **Related:** [[Huntington Bank]] (money/institutions); duplicate of UID 1047; effective-date reminder [[2026-11-20 - Huntington Online Services Agreement update effective]].
