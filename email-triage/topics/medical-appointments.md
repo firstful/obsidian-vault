@@ -231,3 +231,15 @@ tags: [email-triage, medical-appointments]
 - **Summary:** OSU Wexner Medical Center MyChart message addressed to Reed ("Dear Reed") with subject "MyChart - New Message" but the body is a login one-time security code: **991738**, to be entered on the Additional Security Verification screen. Code expires at **11:56 AM EST** (2026-11-17, ~10 minutes after send). No message content, appointment, or billing detail in the body; login to https://mychart.osu.edu/osumc/ to read any actual MyChart message. Subject is never decisive for OSU MyChart — body read to classify. Third OSU MyChart OTP this cycle: UID 977 (2026-11-16, code 635127), UID 1050 (2026-11-17 11:42 EST, Emilee, code 918500) — this UID 1053 is the Reed copy sent 4 minutes later. No List-Unsubscribe header; To is Reed's mailbox. Support: 614-366-6975 / 1-866-966-6975.
 - **Action required:** yes, time-sensitive (enter code 991738 at MyChart if Reed initiated the login — valid only until 11:56 AM EST; request a new code if expired; if the login was not initiated by Reed, treat as a security concern)
 - **Related notes:** [[medical-appointments]]
+
+## 2026-11-17 — New MyChart portal notice (OSU Wexner, Reed; UID 1054)
+
+- **Date:** 2026-11-17T16:47:26Z (Tue 11:47:26 -0500)
+- **UID:** 1054 (INBOX) · message-id: <c62464e8-5f31-4e21-b099-4addcf403d17@SVR-EXCH19-VP01.OSUMC.EDU>
+- **Sender:** MyChart_DoNotReply@osumc.edu (OSU Wexner Medical Center MyChart)
+- **Subject:** New Link to your MyChart Account
+- **To:** reedsut@gmail.com
+- **Classification:** relevant (transactional MyChart portal notice; no List-Unsubscribe, no bulk/marketing signals)
+- **Summary:** OSU Wexner Medical Center MyChart notice addressed to Reed ("Reed C Sutliff you have additional information in your MyChart account"): log in at https://mychart.osu.edu with username/password to retrieve the information. Body is a plain portal notice with no message content, verification code, appointment, or billing detail — subject is never decisive for OSU MyChart. Distinct from the same-day OSU MyChart variants (proxy-access invite 1049; login OTPs 1050/1053; the 2026-11-16 video-visit/billing/new-message series). DKIM/SPF/DMARC pass; no List-Unsubscribe header; To is Reed's mailbox. Support: 614-366-6975 / 1-866-966-6975.
+- **Action required:** yes (log in to MyChart to read the new information; no code to enter / no dated event in the notice)
+- **Related notes:** [[medical-appointments]]
