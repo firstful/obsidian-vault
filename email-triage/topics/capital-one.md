@@ -151,3 +151,14 @@ tags: [email-triage, capital-one]
 - **Summary:** CreditWise from Capital One credit-summary review for Emilee. Monitoring window October 18, 2026 to November 15, 2026: payment history 11/11 accounts paid on time, 0 new accounts, and credit usage dropped 25% → 3% of total credit used. Score model is FICO® Score 8 based on TransUnion data; no absolute score value stated in the body (only a "See your score" smart.link). Footer states these CreditWise emails require unenrolling from CreditWise to stop; no List-Unsubscribe header — transactional account notice, not marketing. Important financial fact; the steep utilization drop is a genuine positive signal, consistent with the on-time payment record in this window.
 - **Action required:** no (informational; sign in to CreditWise to view the actual score)
 - **Related notes:** [[capital-one]] — Emilee's CreditWise review; distinct from Reed's Quicksilver ...4809 past-due/collections sequence also tracked here. Follows Emilee's CreditWise score-change alert (uid 1019, 2026-11-17). Compare [[credit-karma]] third-party monitoring alerts.
+
+## 2026-11-17 — Your payment of $3,751.74 is scheduled for Nov. 17, 2026
+
+- **Date:** 2026-11-17T21:59:31Z
+- **Sender:** Capital One | Quicksilver <capitalone@notification.capitalone.com>
+- **To:** reedsut@gmail.com (Delivered-To reed@ffilt.us via Gmail forwarding / Cloudflare Email Routing)
+- **Subject:** Your payment of $3,751.74 is scheduled for Nov. 17, 2026
+- **UID:** 1088 (INBOX, message-id `<B7.C6.14404.34ECCFA6@i-011893e90698e4fff.mta2vrest.sd.prd.sparkpost>`)
+- **Summary:** Capital One Quicksilver Credit Card ...4809 (Reed) confirmation of a scheduled one-time payment set up in the mobile app on Nov. 17, 2026: **$3,751.74**, scheduled date **Nov. 17, 2026**, paid from **Huntington National Bank ******3792**, confirmation number **U5U9L283**. Payment was still in the scheduled (pre-processing) state and could be cancelled by signing in. This is a large payment against the ...4809 trade line that has been in Collections with a $157.00 minimum due Nov. 16 (UIDs 652/701/831) — the amount far exceeds that minimum, so it appears intended to catch the account fully up; verify posting and resulting balance in the Capital One app. No List-Unsubscribe header; transactional confirmation, not marketing — no unsubscribe performed despite the Reed mailbox.
+- **Action required:** no (informational scheduling confirmation; verify posting/balance in Capital One app and confirm the Huntington funding account)
+- **Related notes:** [[capital-one]] — Quicksilver ...4809 collections/past-due sequence; [[calendar/2026-11-17 - Quicksilver payment 3751.74 scheduled]] for the dated payment; [[money/Debt Catalog]] for the trade-line context.
