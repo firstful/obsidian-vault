@@ -22,3 +22,4 @@ tags: [calendar, bills, capital-one]
 - Source: email UID 1089 (INBOX, 2026-11-17T22:00:31Z, to reedsut@gmail.com) in [[capital-one]].
 - Distinct from the sibling scheduled payment UID 1088 ($3,751.74 to card ...4809, confirmation U5U9L283).
 - Note: $1,262.41 equals the ...4809 statement balance (UID 834, [[money/Debt Catalog]]) but this notice names card ...9998 — verify the target card and posted balance in the Capital One app.
+- Cross-mailbox sibling: email UID 1090 (Emilee's Gmail, message-id `<82.31.39372.F7ECCFA6@i-092ea41f4fa76cf64.mta2vrest.sd.prd.sparkpost>`, same confirmation U0U0L2Q1, same 2026-11-17T22:00:31Z) — the SAME payment delivered to a second household mailbox; no separate calendar note.
