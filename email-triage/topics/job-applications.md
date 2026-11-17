@@ -5,7 +5,6 @@ tags: [email-triage, job-applications]
 
 # Job Applications
 
-
 ## 2026-11-17 — Reddit application received: Principal Data Scientist, Ads (uid 1026)
 
 - **Date:** 2026-11-17T07:49:04Z
@@ -15,6 +14,16 @@ tags: [email-triage, job-applications]
 - **Message-Id:** <20261117074904.e5588b3eb2ef1cf1@us.greenhouse-mail.io>
 - **Summary:** Greenhouse auto-reply confirming receipt of Reed's application for Reddit Principal Data Scientist, Ads. Hiring team reviewing; will follow up if a match (aims to respond within a few business days). No attachments. Informational/transactional; no unsubscribe action (List-Unsubscribe header empty). Routed sutliff.reed@gmail.com -> ingest@ffilt.us -> reed@ffilt.us. Note: separate submission from uid 1023 (07:46:03Z, different Message-Id) for the same role.
 - **Action required:** no
+
+## 2026-11-17 — Security code for Reddit application (uid 1027)
+
+- **Date:** 2026-11-17T07:49:10Z
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **Subject:** Security code for your application to Reddit
+- **To:** sutliff.reed@gmail.com (INBOX/1027)
+- **Message-Id:** <6afc06f68ffbb_3be7084c78869bb@prod-jben-web-89c676c4b-9nlhd.mail>
+- **Summary:** Greenhouse security verification code for Reed's Reddit application (Principal Data Scientist, Ads). Code: 65122233. Copy/paste it into the security code field on the application, then resubmit. Time-sensitive. Routed sutliff.reed@gmail.com -> ingest@ffilt.us -> reed@ffilt.us. Transactional; no unsubscribe action.
+- **Action required:** yes
 
 ## 2026-11-17 — Reddit application received: Principal Data Scientist, Ads (uid 1023)
 
