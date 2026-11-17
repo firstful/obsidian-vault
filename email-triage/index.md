@@ -63,6 +63,7 @@ tags: [email-triage, index]
 - [microsoft-azure](topics/microsoft-azure.md) — Microsoft Azure marketing promos (App Service plan offers, discounts; Microsoft/Azure bills stay in billing)
 - [namecheap](topics/namecheap.md) — Namecheap Private Email product announcements and mobile-app marketing (marketing)
 - [nextdoor](topics/nextdoor.md) — Nextdoor notifications on the household's own posts (e.g. new comments on a lost-pet post)
+- [oracle](topics/oracle.md) — Oracle security notices (Critical Patch Updates / Critical Security Patch Updates; transactional/security, not marketing)
 - [notion](topics/notion.md) — Notion dormant-account deletion notice (free account unused 5+ years; deleted 2027-02-13 unless logged in)
 - [openai](topics/openai.md) — OpenAI / ChatGPT product marketing (feature promos, e.g. ChatGPT Images style presets; marketing)
 - [paypal](topics/paypal.md) — PayPal account notices (negative balance / collections reminders, failed automatic payments, account statements)
