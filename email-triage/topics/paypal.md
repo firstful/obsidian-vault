@@ -47,3 +47,12 @@ tags: [email-triage, paypal]
 - action-required: no (informational; view October statement online if desired)
 - ledger-note: no unsubscribe performed (transactional account statement notice). Not related to the outstanding $522.00 negative balance (UID 555/952).
 - message-id: <48b51e1c-6c53-352a-be90-41e5ec7bc358@service.paypal.com>
+
+## 2026-11-17 - PayPal autopay to Patreon failed ($5.35) - UID 1021
+- date: 2026-11-17T02:58:03Z
+- sender: service@paypal.com (to reedsut@gmail.com)
+- subject: Your payment didn't go through to Patreon
+- summary: Genuine PayPal payment-failure notice (SPF, DKIM and DMARC all pass, p=REJECT, From paypal.com; template RT002977). Says the automatic payment of $5.35 USD to Patreon did not go through, headline "Keep your plan going", and the only next step offered is to add a payment method to the PayPal wallet. Autopay billing agreement B-9JE2842230868490X. Repeat of prior notices UID 623 (2026-11-09) and UID 798 (2026-11-13). No attachments; no unsubscribe link (transactional system-triggered mail). To address contains "reed" but message is transactional, so no unsubscribe performed.
+- action-required: yes (add/repair a funding source in PayPal, or the Patreon auto-renew lapses)
+- ledger-note: no unsubscribe performed (transactional billing notice). Recurring failure — PayPal wallet still has no working funding source. Third notice for the same $5.35 Patreon autopay (UID 623, 798, 1021).
+- message-id: <1B.FF.28963.BB2CBFA6@ccg01mail01>
