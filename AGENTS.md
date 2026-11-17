@@ -26,7 +26,7 @@ This directory is an [Obsidian](https://obsidian.md) vault. Treat every `.md` fi
 ## Structure
 
 - `bills/` — recurring bill notes, `Bills Tracker`, and `Paid Log`.
-- `calendar/` — one note per dated event (see `calendar/AGENTS.md` for the frontmatter schema) plus `Calendar.base` and the `Calendar` index.
+- `calendar/` — **single source of truth for all dates**: one note per dated event (see `calendar/AGENTS.md` for the frontmatter schema and ownership rules) plus `Calendar.base` and the `Calendar` index. Bill notes link here instead of copying due dates.
 - `purchases/` — research/purchase notes.
 - `attachments/` — PDFs, receipts, and other binary attachments.
 - `.obsidian/` — app config and the local `calendar-frontmatter` plugin.

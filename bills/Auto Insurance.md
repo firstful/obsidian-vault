@@ -17,27 +17,21 @@ autopay: false
 - **Payee:** Branch Insurance
 - **Cadence:** Monthly (6-month policy; 6 installments)
 - **Autopay:** No (manual)
-- **Status:** Oct 19, 2026 installment paid late on 2026-11-03 ($99.99)
-- **Last paid:** 2026-11-03 ($99.99, Mastercard •••• 4772)
-- **Next due:** 2026-11-19 ($119.98)
+- **Installment:** $119.98 (first installment $99.99)
+- **Due:** 19th of each month, 6 installments per 6-month term
+- **Status:** Active — manual payment required
 - **Contact:** support@ourbranch.com / 833-427-2624
 
-## Payment Plan (6 installments)
+## Payment Plan
 
-| Date | Amount | Status |
-| --- | --- | --- |
-| 2026-10-19 | $99.99 | Paid 2026-11-03 (late) |
-| 2026-11-19 | $119.98 | Upcoming |
-| 2026-12-19 | $119.98 | Upcoming |
-| 2027-01-19 | $119.98 | Upcoming |
-| 2027-02-19 | $119.98 | Upcoming |
-| 2027-03-19 | $119.98 | Upcoming |
+Each installment is a separate due item in [[Calendar]] (notes named
+`YYYY-MM-DD - Auto insurance installment`). Add a new one when a term renews;
+do not keep a second schedule here.
 
 ## Payment History
 
-| Date Paid | Amount | Method | Confirmation # | Notes |
-| --- | --- | --- | --- | --- |
-| 2026-11-03 | $99.99 | Mastercard •••• 4772 | 192B-95A7-1C5D-A439-5842 | Branch Insurance; covers 2026-10-19 installment (paid late); txn ch_3UXkb1JV8kXX0g4x0IGDAX9L |
+See [[Paid Log]] for payments made against this policy (most recently the
+2026-11-03 late payment of $99.99, receipt #192B-95A7-1C5D-A439-5842).
 
 ## Payment
 
@@ -70,6 +64,6 @@ autopay: false
 
 ## Notes
 
-- Oct 19, 2026 scheduled installment was not paid on time; paid manually 2026-11-03.
-- Update [[Bills Tracker]] row after each installment.
-- Remaining installments $119.98 due on the 19th of each month through 2027-03-19.
+- Oct 19, 2026 scheduled installment was not paid on time; paid manually 2026-11-03 (see [[Paid Log]]).
+- Payment dates and status live in [[Calendar]]; this note keeps policy terms and history only.
+- Previous term (334509302-auto-002-BX) is listed below for reference.

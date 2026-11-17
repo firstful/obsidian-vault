@@ -21,8 +21,6 @@ autopay: true
 - **Installment:** ≈$16.18/mo (annual premium $170.16 ÷ 12 = $14.18, + $2.00 transaction fee)
 - **Due date:** 31st of each month (or last day of shorter months); policy anniversary 08/31
 - **Status:** Active — first term, opened 2026-08-31
-- **Last paid:** unknown (not recorded)
-- **Next due:** 2026-11-30 (est.)
 - **Contact:** 1-844-738-3446 / support@figopetinsurance.com
 
 ## Payment Plan (2026-2027 term)
@@ -42,9 +40,7 @@ autopay: true
 
 ## Payment History
 
-| Date Paid | Amount | Method | Confirmation # | Notes |
-| --- | --- | --- | --- | --- |
-|  |  |  |  | No payment records captured yet |
+No payments recorded yet. Log each autopay charge in [[Paid Log]].
 
 ## Policy
 
@@ -76,7 +72,7 @@ autopay: true
 
 - Policy documents were downloaded from MyPetCloud (zip: `MyPetCloud_download_2026-11-03(1).zip`) on 2026-11-03.
 - The monthly installment is calculated from the annual premium plus the $2.00 transaction fee; confirm against the first Figo invoice.
-- Update [[Bills Tracker]] and [[Paid Log]] after each installment.
+- Update the installment row above and add a line to [[Paid Log]] after each charge.
 - See also [[Pet Insurance]] (index of policies) and [[Pet Insurance - Maxine]].
 
 ## See also

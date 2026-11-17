@@ -69,9 +69,10 @@ amount: 1203.04
 
 ## Follow-up
 
-- Recheck exam with family vet within 2–3 days of discharge (by ~2026-11-05).
-- Penrose drain removal in 3–4 days (~2026-11-06).
-- Suture removal in 10–14 days (~2026-11-16).
+Tracked as calendar notes (single source of dates):
+
+- Recheck exam and drain removal — [[2026-11-05 - Maxine vet recheck and drain removal]]
+- Suture removal — [[2026-11-16 - Maxine suture removal]]
 - Any recheck/invoice for these visits can be added to the same claim (same incident) if not yet submitted.
 
 ## Status Log

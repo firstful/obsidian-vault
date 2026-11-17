@@ -43,4 +43,3 @@ Two Bosch 300 Series built-in dishwashers referenced in email (INGEST uid 1007 &
 
 - Both are 24" built-in 300 Series dishwashers; SHE43DM5N is front-control (48 dBA, 12 settings), SHP53EM5N is top-control (46 dBA, 15 settings, Zone Wash, Home Connect).
 - Details sourced via web search (Bosch product pages, retailers). Verify final specs/price with seller.
-- Registration confirmed 2026-11-15 via Bosch product care email (UID 930): model SHE43DM5N registered, purchase date 11/13/2026. See [[email-triage/topics/bosch]].

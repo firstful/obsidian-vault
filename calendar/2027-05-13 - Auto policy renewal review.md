@@ -6,6 +6,7 @@ status: upcoming
 bill: "[[Auto Insurance]]"
 source: "[[Auto Insurance]]"
 payee: Branch Insurance
+recurrence: annual
 created: 2026-11-03
 tags: [calendar, insurance]
 ---

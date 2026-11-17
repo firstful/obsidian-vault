@@ -44,3 +44,21 @@ queried (e.g. with Dataview) or read by agents.
 - Keep `date` and filename date in sync.
 - Amounts are numbers only (e.g. `119.98`), currency in `currency`.
 - Prefer wikilinks for `bill`/`source`.
+
+## Single source of truth
+
+Dates must exist in exactly one place, so that nothing drifts:
+
+| Fact | Owner |
+| --- | --- |
+| A specific due date, deadline, or appointment, and its `status` | the note here |
+| Policy terms, premium, cadence, autopay, contact | the `bills/<Bill>` note |
+| Which bills exist (roster, no dates/amounts) | `Bills Tracker` |
+| Payments actually made | `Paid Log` |
+
+- Do not copy this folder's dates/amounts into bill notes or `Bills Tracker`;
+  link to [[Calendar]] instead.
+- Exception: a recurring **autopay** series that needs no reminder (e.g. the
+  Figo pet policies) is kept as a table inside its bill note. Never itemize the
+  same series here *and* there.
+- Manual-pay series (auto insurance installments) are itemized here.

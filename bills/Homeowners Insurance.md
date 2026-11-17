@@ -59,4 +59,4 @@ Electronic Data Recovery, Increased Fire Department Charges, Fair Rental Income,
 ## Notes
 
 - Renewal term effective 2026-11-13; prior term expired 2026-11-13.
-- Update [[Bills Tracker]] row as payments occur.
+- Due date and payment status live in [[Calendar]]; payments in [[Paid Log]].

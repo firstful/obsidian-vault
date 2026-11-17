@@ -10,7 +10,7 @@ Index of Figo pet insurance policies (underwritten by Independence American Insu
 
 | Policy | Pet | Term | Annual premium | Monthly | Due | Status |
 | --- | --- | --- | --- | --- | --- | --- |
-| [[Pet Insurance - Maxine\|FPI30000290453]] | Maxine (Yorkshire Terrier) | 2026-05-07 → 2027-05-07 | $353.40 | $31.45 | 7th | paid 2026-10-15; next due 2026-11-07 |
+| [[Pet Insurance - Maxine\|FPI30000290453]] | Maxine (Yorkshire Terrier) | 2026-05-07 → 2027-05-07 | $353.40 | $31.45 | 7th | cancellation cured 2026-10-15 |
 | [[Pet Insurance - Suki\|FPI30000627035]] | Suki (Bichon Frise mix) | 2026-08-31 → 2027-08-31 | $170.16 | ≈$16.18 | 31st | active |
 
 ## Notes

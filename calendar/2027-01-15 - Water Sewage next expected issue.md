@@ -8,6 +8,7 @@ currency: USD
 bill: "[[Water Sewage]]"
 source: "[[Water Sewage]]"
 payee: Fairfield County Utilities, OH
+recurrence: quarterly
 created: 2026-11-03
 tags: [calendar, bills, utility]
 ---

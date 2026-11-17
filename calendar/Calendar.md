@@ -8,7 +8,9 @@ is_calendar: true
 # Calendar
 
 Live view of dated notes in `calendar/`, sourced from their frontmatter.
-See `calendar/AGENTS.md` for the field schema.
+This folder is the **single source of truth for dates** — bill notes and
+`Bills Tracker` link here instead of copying due dates.
+See `calendar/AGENTS.md` for the field schema and ownership rules.
 
 ![[calendar/Calendar.base]]
 

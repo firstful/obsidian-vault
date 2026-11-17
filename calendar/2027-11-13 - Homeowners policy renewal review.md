@@ -6,6 +6,7 @@ status: upcoming
 bill: "[[Homeowners Insurance]]"
 source: "[[Homeowners Insurance]]"
 payee: Branch Insurance
+recurrence: annual
 created: 2026-11-03
 tags: [calendar, insurance]
 ---

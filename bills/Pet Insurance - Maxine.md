@@ -20,9 +20,7 @@ autopay: true
 - **Autopay:** Yes (credit card on file)
 - **Installment:** $31.45/mo (annual premium $353.40)
 - **Due date:** 7th of each month (policy anniversary 05/07)
-- **Status:** Paid — the past-due $31.45 was paid 2026-10-15, satisfying the 2026-11-06 cancellation notice
-- **Last paid:** 2026-10-15 ($31.45, MasterCard)
-- **Next due:** 2026-11-07 ($31.45)
+- **Status:** Active — the 2026-11-06 cancellation notice was cured by the 2026-10-15 payment
 - **Contact:** 1-844-738-3446 / support@figopetinsurance.com
 
 ## Payment Plan (2026-2027 term)
@@ -30,7 +28,7 @@ autopay: true
 | Date | Amount | Status |
 | --- | --- | --- |
 | 2026-10-07 | $31.45 | Paid 2026-10-15 (late; cancellation notice cured) |
-| 2026-11-07 | $31.45 | Upcoming |
+| 2026-11-07 | $31.45 | Autopay — confirm charge posted |
 | 2026-12-07 | $31.45 | Upcoming |
 | 2027-01-07 | $31.45 | Upcoming |
 | 2027-02-07 | $31.45 | Upcoming |
@@ -40,9 +38,8 @@ autopay: true
 
 ## Payment History
 
-| Date Paid | Amount | Method | Confirmation # | Notes |
-| --- | --- | --- | --- | --- |
-| 2026-10-15 | $31.45 | Credit Card – MasterCard |  | Covers the past-due installment referenced in the 2026-10-07 cancellation notice |
+See [[Paid Log]] (entries tagged "Insurance (Pet – Maxine)"). The 2026-10-15
+payment of $31.45 cleared the past-due installment behind the cancellation notice.
 
 ## Policy
 
@@ -93,7 +90,7 @@ autopay: true
 
 - Cancellation notice: ![[Figo Notice of Cancellation 2026-11-06.pdf]] — issued 2026-10-07 for non-payment of $31.45. **Resolved:** paid 2026-10-15, so coverage should continue without a lapse.
 - Policy documents were downloaded from MyPetCloud (zip: `MyPetCloud_download_2026-11-03.zip`) on 2026-11-03.
-- Update [[Bills Tracker]] and [[Paid Log]] after each installment.
+- Update the installment row above and add a line to [[Paid Log]] after each charge.
 - See also [[Pet Insurance]] (index of policies) and [[Pet Insurance - Suki]].
 
 ## See also
