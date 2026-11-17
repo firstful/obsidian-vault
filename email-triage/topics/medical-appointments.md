@@ -279,3 +279,15 @@ tags: [email-triage, medical-appointments]
 - **Summary:** Nationwide Children's MyChart notice addressed to Emilee ("Hello Emilee"): "Your information from Nationwide Children's Hospital can now be accessed from your other linked account. Review this change: [mychart.nationwidechildrens.org/MyChart/s/Y7MXCWCF6QXIB6P3IBNNBIT56U/]". Footer notes MyChart is available on the go and that notification preferences can be changed via Communication Preferences in MyChart. No verification code, appointment, billing, or dated event in the body. HTML (7,733 bytes) + plain-text (219 bytes) parts, no attachments. NCH sender matches prior entries (937 autopay, 768/847 new message, 1056 OTP); analogous to the OSU "New Link to your MyChart Account" portal notices (UIDs 1054/1059) but from Nationwide Children's and specifically about account linking. No `List-Unsubscribe` header; To is Emilee's mailbox (non-Reed) → no unsubscribe action. Questions: 614-938-3000.
 - **Action required:** no (informational account-link change notice — review/verify the linking in NCH MyChart if desired; no code, deadline, or dated event. If the account linking was not initiated by Emilee, treat as a security concern)
 - **Related notes:** [[medical-appointments]]
+
+## 2026-11-17 — NCH eCheck-in reminder for Elijah's upcoming visit (Emilee; UID 1072)
+
+- **Date:** 2026-11-17T18:53:18Z (Tue 13:53:18 -0500)
+- **UID:** 1072 (INBOX) · message-id: <ccee341e-2f94-4b92-82d8-b632bac0f353@H2PWEXCHSVR02.childrensroot.net>
+- **Sender:** donotreply@nationwidechildrens.org (Nationwide Children's Hospital MyChart)
+- **Subject:** Check In for Upcoming Visits
+- **To:** emileesutliff@gmail.com (Delivered-To reed@ffilt.us via forwarding)
+- **Classification:** relevant (medical appointment eCheck-in reminder; transactional, no List-Unsubscribe, no bulk/marketing signals)
+- **Summary:** Nationwide Children's MyChart message addressed to Emilee ("Hello Emilee"): "Check in online before Elijah's upcoming visits." Lists one concrete appointment — **11/18 at 1:30 PM EST with Kristen Crabtree** (patient Elijah) — with an eCheck-in link (mychart.nationwidechildrens.org/MyChart/s/.../echeckin). Questions: call **614-355-7500**. Matches the existing calendar note `2026-11-18 - Dbp Follow Up (Kristen Crabtree, Elijah).md` (13:30 EST, 187 West Schrock Road, Westerville OH); this email is the check-in reminder for that same visit, so the calendar note is linked/extended rather than duplicated. Plain-text part (250 bytes) + HTML (7,697 bytes); 0 attachments. NCH sender matches prior entries (937 autopay, 768/847 new message, 1056 OTP, 1060 account-link). No `List-Unsubscribe` header; To is Emilee's mailbox (non-Reed) → no unsubscribe action.
+- **Action required:** yes (complete online eCheck-in for Elijah's 11/18 1:30 PM EST visit with Kristen Crabtree via the NCH MyChart link before the appointment; call 614-355-7500 with questions)
+- **Related notes:** [[medical-appointments]], [[2026-11-18 - Dbp Follow Up (Kristen Crabtree, Elijah)]]
