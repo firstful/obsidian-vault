@@ -255,3 +255,15 @@ tags: [email-triage, medical-appointments]
 - **Summary:** Nationwide Children's MyChart message addressed to Emilee Sutliff: "Please enter the code shown below on the Additional Security Verification screen. This code expires at 11:58 AM EST." One-time code **849198** (~10-minute validity; expired by triage time). No message content, appointment, or billing detail in the body (footer links: Send a Message to Your Doctor / View Upcoming Appointments / View-Refill Medication Prescriptions / Participate in Research). HTML (30,209 bytes) + plain-text (193 bytes) parts, no attachments; no `List-Unsubscribe`, no bulk/marketing signals. NCH sender matches prior Nationwide Children's entries (937 autopay, 768 new message, 847 new message); distinct from the OSU Wexner MyChart login OTPs (UIDs 977, 1050, 1053) — this is Nationwide Children's, not OSU. To is Emilee's mailbox (non-Reed) → no unsubscribe action.
 - **Action required:** yes, time-sensitive (enter code 849198 at NCH MyChart if Emilee initiated the login — valid only until 11:58 AM EST, now expired; request a new code if expired; if the login was not initiated by Emilee, treat as a security concern)
 - **Related notes:** [[medical-appointments]]
+
+## 2026-11-17 — MyChart new-information portal notice (Emilee; UID 1059)
+
+- **Date:** 2026-11-17T16:53:46Z (Tue 11:53:46 -0500)
+- **UID:** 1059 (INBOX) · message-id: <3d07b6da-0451-4ce9-949b-ffabed4aa900@SVR-EXCH19-VP02.OSUMC.EDU>
+- **Sender:** MyChart_DoNotReply@osumc.edu (OSU Wexner Medical Center MyChart)
+- **Subject:** New Link to your MyChart Account
+- **To:** emileesutliff@gmail.com
+- **Classification:** relevant (transactional MyChart portal notice; no List-Unsubscribe, no bulk/marketing signals)
+- **Summary:** OSU Wexner Medical Center MyChart notice addressed to Emilee ("Emilee Sutliff you have additional information in your MyChart account"): log in at https://mychart.osu.edu with username/password to retrieve the information. Plain portal notice with no message content, verification code, appointment, or billing detail — subject is never decisive for OSU MyChart. Distinct from the same-day OSU MyChart entries (Reed's identical-subject notice UID 1054, proxy-access invite 1049, login OTPs 1050/1053) and from NCH MyChart OTP 1056 — this one is OSU Wexner to Emilee. DKIM/SPF/DMARC pass; no List-Unsubscribe header; To is Emilee's mailbox (non-Reed) → no unsubscribe action. Support: 614-366-6975 / 1-866-966-6975.
+- **Action required:** yes (log in to MyChart to read the new information; no code to enter / no dated event in the notice)
+- **Related notes:** [[medical-appointments]]
