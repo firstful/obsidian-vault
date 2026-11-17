@@ -195,3 +195,15 @@ tags: [email-triage, medical-appointments]
 - **Summary:** Google Calendar `eventCreated` invitation (with 2,798-byte invite.ics; METHOD:REQUEST, STATUS:CONFIRMED) for an **Established Patient Visit with Iziegbe Ehiorobo, MBBS** on **2027-01-19 13:45–15:00 EST (Tue)**. Location: **6100 N Hamilton Rd Suite 4C, Westerville OH 43081** — arrive to 1st Floor Registration; arrive by 1:45 PM, appointment starts 2:00 PM; phone **614-293-4837**. Optional Google Meet: https://meet.google.com/ivd-cbqa-gtd; 10-minute display reminder. calendar@ffilt.us is a required participant with RSVP needed; organizer Reed already accepted; attendance marked optional.
 - **Action required:** yes (add to calendar / RSVP on Google Calendar as desired; note the 2027-01-19 13:45 EST appointment and 1:45 PM arrival)
 - **Related:** [[calendar/2027-01-19 - Established Patient Visit (Iziegbe Ehiorobo, MBBS)]], [[medical-appointments]]
+
+## 2026-11-17 — MyChart proxy access invitation (OSU Wexner, Reed→Emilee; UID 1049)
+
+- **Date:** 2026-11-17T16:34:38Z (Tue 11:34:38 -0500)
+- **UID:** 1049 (INBOX) · message-id: <6e670952-06d2-4d4c-a49c-1b2c0a6a1b0a@SVR-EXCH19-VP02.OSUMC.EDU>
+- **Sender:** MyChart_DoNotReply@osumc.edu (OSU Wexner Medical Center MyChart)
+- **Subject:** Reed invited you to have access to their MyChart account!
+- **To:** emilee.sutliff@gmail.com (forwarded to ingest@ffilt.us, Delivered-To reed@ffilt.us)
+- **Classification:** relevant (transactional MyChart proxy-access invitation; no List-Unsubscribe)
+- **Summary:** OSU Wexner MyChart proxy-access invitation addressed to Emilee Sutliff: "Reed invited you to have access to their MyChart account." To confirm she knows Reed, Emilee must sign into her own MyChart account via the emailed link; the link expires in 30 days (~2026-12-17). HTML-only body with no appointment/billing detail and no verification code. DKIM/SPF/DMARC/ARC pass; no List-Unsubscribe header. Distinct from the standard OSU MyChart variants (new-message notices 819/994/1010, login OTP 977, payment-plan overdue 995, and the 2026-11-16 video-visit series) — this is an account proxy-access grant. Support: 866-966-6975.
+- **Action required:** yes (Emilee: sign into MyChart via the link to confirm/accept proxy access to Reed's account before it expires in 30 days; if unexpected, verify with Reed first)
+- **Related notes:** [[medical-appointments]]
