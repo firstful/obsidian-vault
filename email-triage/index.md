@@ -42,6 +42,7 @@ tags: [email-triage, index]
 - [github-security](topics/github-security.md) — GitHub security alerts and notifications
 - [google-account](topics/google-account.md) — Google Account security alerts and verification notices
 - [google-fi](topics/google-fi.md) — Google Fi Wireless rejoin/win-back offers and plan promos (marketing)
+- [google-gemini](topics/google-gemini.md) — Google Gemini mandatory privacy/settings service announcements (e.g. Keep Activity split into history-retention + AI-training settings; informational, not marketing)
 - [google-health](topics/google-health.md) — Automated Google Health weekly fitness/activity digests (steps, floors) with Google Health Premium upsell (marketing)
 - [google-merchant-center](topics/google-merchant-center.md) — Google Merchant Center onboarding/feature-adoption nudges (conversion tracking etc.; marketing)
 - [google-pixel](topics/google-pixel.md) — Google Pixel device / Google AI feature marketing (Gemini, Circle to Search promos; marketing)
