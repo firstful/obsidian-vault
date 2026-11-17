@@ -98,3 +98,4 @@ tags: [email-triage, index]
 - [what-to-expect](topics/what-to-expect.md) — What To Expect / Everyday Health parenting & pregnancy marketing newsletters (product promos, sponsored deals; marketing)
 
 - [robinhood](topics/robinhood.md) — Robinhood Credit Card / Gold Card rewards & credit-card application marketing (promo)
+- [advance-auto-parts](topics/advance-auto-parts.md) — Advance Auto Parts marketing win-back ("We Miss You!") (marketing; unsubscribe attempted, not completed)
