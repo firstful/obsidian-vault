@@ -42,4 +42,34 @@ tags: [todos, tasks]
 - [ ] Dumpster for basement?
 - [ ] Can you acknowledge you saw *(acknowledgment request, not a task)*
 
-Note: message also included a photo of faint pink handwritten notes that were too blurry to transcribe.
+### Accounts / bills inventory (from the handwritten photo in the same message)
+
+**Bills / Expenses**
+- Gas
+- Water
+- Power
+- Trash
+- Pet insurance
+- OT
+- Speech
+- Best Egg 1+2
+- Rocket Money
+- Student Loan 1+2
+
+**Financial Accounts**
+- Chase
+- Capital One ×3
+- Amex
+- US Bank
+- BOA
+- Blueberry
+- Walmart
+- COPC ×3
+- Vet ×2
+- Sam's Club
+- Google
+
+**Other**
+- Prime
+- OSU Bills ×3
+- Nationwide ×2
