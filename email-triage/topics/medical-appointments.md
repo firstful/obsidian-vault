@@ -243,3 +243,15 @@ tags: [email-triage, medical-appointments]
 - **Summary:** OSU Wexner Medical Center MyChart notice addressed to Reed ("Reed C Sutliff you have additional information in your MyChart account"): log in at https://mychart.osu.edu with username/password to retrieve the information. Body is a plain portal notice with no message content, verification code, appointment, or billing detail — subject is never decisive for OSU MyChart. Distinct from the same-day OSU MyChart variants (proxy-access invite 1049; login OTPs 1050/1053; the 2026-11-16 video-visit/billing/new-message series). DKIM/SPF/DMARC pass; no List-Unsubscribe header; To is Reed's mailbox. Support: 614-366-6975 / 1-866-966-6975.
 - **Action required:** yes (log in to MyChart to read the new information; no code to enter / no dated event in the notice)
 - **Related notes:** [[medical-appointments]]
+
+## 2026-11-17 — NCH MyChart verification code / login OTP (Emilee; UID 1056)
+
+- **Date:** 2026-11-17T16:48:33Z (Tue 11:48:33 -0500)
+- **UID:** 1056 (INBOX) · message-id: <7a5a3ada-0fa3-47de-be18-1352d23aa25a@H2PWEXCHSVR02.childrensroot.net>
+- **Sender:** donotreply@nationwidechildrens.org (Nationwide Children's Hospital MyChart)
+- **To:** emileesutliff@gmail.com (Delivered-To reed@ffilt.us via forwarding)
+- **Subject:** NCH MyChart Verification Code
+- **Classification:** relevant (MyChart login one-time security code / OTP; transactional, no List-Unsubscribe)
+- **Summary:** Nationwide Children's MyChart message addressed to Emilee Sutliff: "Please enter the code shown below on the Additional Security Verification screen. This code expires at 11:58 AM EST." One-time code **849198** (~10-minute validity; expired by triage time). No message content, appointment, or billing detail in the body (footer links: Send a Message to Your Doctor / View Upcoming Appointments / View-Refill Medication Prescriptions / Participate in Research). HTML (30,209 bytes) + plain-text (193 bytes) parts, no attachments; no `List-Unsubscribe`, no bulk/marketing signals. NCH sender matches prior Nationwide Children's entries (937 autopay, 768 new message, 847 new message); distinct from the OSU Wexner MyChart login OTPs (UIDs 977, 1050, 1053) — this is Nationwide Children's, not OSU. To is Emilee's mailbox (non-Reed) → no unsubscribe action.
+- **Action required:** yes, time-sensitive (enter code 849198 at NCH MyChart if Emilee initiated the login — valid only until 11:58 AM EST, now expired; request a new code if expired; if the login was not initiated by Emilee, treat as a security concern)
+- **Related notes:** [[medical-appointments]]
