@@ -129,3 +129,14 @@ tags: [email-triage, capital-one]
 - **Summary:** CreditWise/Capital One account-status alert (Emilee). Body is link-driven (“Please visit the Alerts section of CreditWise…”) with no specific creditor, account ending, amount, or due date exposed; links to CreditWise/Capital One alerts. Transactional-style alert (no List-Unsubscribe header). Review in CreditWise/Capital One app to confirm which account and what changed; not a marketing promo. Follows prior similar alert (uid 913, 2026-11-14).
 - **Action required:** yes (review CreditWise alerts / sign in to confirm which account and what changed)
 - **Related notes:** [[capital-one]] (ongoing Reed/Quicksilver ...4809 sequence also tracked here; this alert is addressed to Emilee — verify account context in Capital One/CreditWise)
+
+## 2026-11-17 — Your credit score has changed-here's how (Emilee, UID 1019)
+
+- **Date:** 2026-11-17T00:03:52Z
+- **Sender:** Capital One <capitalone@notification.capitalone.com>
+- **To:** emileesutliff@gmail.com (delivered to reed@ffilt.us via Cloudflare Email Routing / ingest)
+- **Subject:** Your credit score has changed-here's how
+- **UID:** 1019 (INBOX, message-id `<F2.77.24930.8E99BFA6@i-0bee1b9403d24fc0c.mta6vrest.sd.prd.sparkpost>`)
+- **Summary:** CreditWise from Capital One score-change alert for Emilee. Covers monitoring window November 05, 2026 to November 15, 2026; score is FICO® Score 8 based on TransUnion data. Body is link-driven: a bare image alt value "[50]" appears next to "Credit score change" (likely a point delta), but no absolute score and no explicit direction (increase vs decrease) is stated in the text — the actual value/direction require signing in via "Show me my new score" (smart.link). No List-Unsubscribe header; footer states these alerts require unenrolling from CreditWise to stop — transactional account alert, not marketing. To is Emilee's mailbox (no "reed") => no auto-unsubscribe. A credit-score change is an important financial fact, hence relevant; with no direction/amount exposed and no concrete account action, there is nothing to do from the email itself.
+- **Action required:** no (informational; sign in to CreditWise if Emilee wants the new score/direction)
+- **Related notes:** [[capital-one]] — Emilee's CreditWise score alert; distinct from Reed's Quicksilver ...4809 past-due/collections sequence also tracked in this topic. Compare [[credit-karma]] third-party monitoring alerts.
