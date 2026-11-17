@@ -24,3 +24,13 @@ Automated "LIVE INCIDENT" breaking-alert mail from `noreply@mail.citizen.com` (C
 - Summary: Automated Citizen live incident alert: "Smoke Rising From House Fire" at 2258 Brentnell Ave. Firefighters reported opening up walls to access and extinguish remaining flames (≈1.6K views, 6 comments at send time). Bulk geo/incident notification (Iterable/Mailgun; List-Unsubscribe present) — informational local alert, not household-directed action.
 - Action required: no
 - Notes: Triaged from email event 965 (envelope/body fetched via email.ffilt.us ingress; MCP email tools unavailable with TypeError in this session). No unsubscribe performed.
+
+## 2026-11-17 — Citizen: "Truck Submerged in Retention Pond"
+
+- UID: 1036 (INBOX) · message-id: <20261117125758.a6d975cb6806ceec@mail.citizen.com>
+- Date: 2026-11-17T12:57:58Z
+- From: Citizen <noreply@mail.citizen.com>
+- To: sutliff.reed@gmail.com (routed sutliff.reed+caf_=ingest=ffilt.us@gmail.com → ingest@ffilt.us → reed@ffilt.us)
+- Summary: Automated Citizen "LIVE INCIDENT" breaking-alert: "Truck Submerged in Retention Pond" at 1921 Belcher Dr. A water rescue response has been dispatched; live video link (https://citizen.com/-P6dYe8gl8PV4cLYUYZU). Bulk geo/incident notification (Iterable/Mailgun; List-Unsubscribe present) — informational local alert, not household-directed action.
+- Action required: no
+- Notes: Triaged from email event 1036 (envelope/body fetched via email.ffilt.us ingress). No unsubscribe performed (incident alert classified as relevant safety fact, not promo).
