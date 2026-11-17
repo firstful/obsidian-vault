@@ -99,3 +99,16 @@ tags: [email-triage, personal-blog]
 - **Run:** https://github.com/firstful/personal-blog/actions/runs/43821413415
 - **Action required:** yes
 - **Classification:** relevant — CI failure (Azure Static Web Apps deploy, staging step)
+
+## 2026-11-17 — Run failed: Deploy to Azure Static Web Apps - main (72bedb7)
+
+- **Date:** 2026-11-17T08:29:22Z
+- **Sender:** notifications@github.com (Reed Sutliff)
+- **To:** personal-blog@noreply.github.com (routed via sutliff.reed@gmail.com -> ingest@ffilt.us)
+- **Subject:** [firstful/personal-blog] Run failed: Deploy to Azure Static Web Apps - main (72bedb7)
+- **UID:** 1033
+- **Message-ID:** <firstful/personal-blog/check-suites/CS_kwDOUWGd288AAAAbwwAVdw/1794904141@github.com>
+- **Summary:** GitHub Actions workflow "Deploy to Azure Static Web Apps" in firstful/personal-blog failed on main (commit 72bedb7, run #30, display title "recent-work: 2026-11-17 update"). Job "Build & Deploy" failed; step "Deploy to staging" failed with "Process completed with exit code 1." at .github line 18. Downstream "Wait for staging to be healthy" and "Deploy to production" skipped; "PR Test" skipped. Annotations: Node.js 20 deprecation warning (actions/checkout@v4, actions/setup-node@v4); ubuntu-latest -> Ubuntu 26 migration notice. Duration 35.0s, finished 2026-11-17 08:29:01 UTC. SPF/DKIM/DMARC pass. Raw job logs require repo admin rights.
+- **Run:** https://github.com/firstful/personal-blog/actions/runs/44047012873
+- **Action required:** yes
+- **Classification:** relevant — CI failure (Azure Static Web Apps deploy, staging step)
