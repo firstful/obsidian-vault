@@ -95,6 +95,7 @@ tags: [email-triage, index]
 - [unitedhealthcare](topics/unitedhealthcare.md) — UnitedHealthcare member benefit marketing (Real Appeal/Wellos weight-loss promos)
 - [unsubscribes](topics/unsubscribes.md) — Unsubscribe actions ledger (marketing/promo senders, To noted; also records unsubscribe confirmations)
 - [usps-informed-delivery](topics/usps-informed-delivery.md) — USPS Informed Delivery daily digests (mailpiece/package previews, informational)
+- [wendys](topics/wendys.md) — Wendy's Digital Order receipts (transactional; order confirmations, item totals, card last-4)
 - [westerville-library](topics/westerville-library.md) — Westerville Public Library newsletters (events, collection news; marketing)
 - [what-to-expect](topics/what-to-expect.md) — What To Expect / Everyday Health parenting & pregnancy marketing newsletters (product promos, sponsored deals; marketing)
 
