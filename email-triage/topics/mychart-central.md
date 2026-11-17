@@ -30,3 +30,15 @@ Transactional authentication / verification-code emails from MyChart Central (`n
 - **Classification:** relevant (transactional account-creation/welcome notice; not marketing/promo). HTML-only welcome with account identifier, no promotional creative, no `List-Unsubscribe`, no `Precedence: bulk`. To address is Emilee's Gmail (no "reed") — no auto-unsubscribe gate either way.
 - **Summary:** MyChart Central (Epic) account-creation confirmation for Emilee. Body: "welcome to MyChart Central!", "Here is your Epic ID: emileesutliff@gmail.com", and guidance that the Epic ID is used to log in to MyChart Central and any linked MyChart accounts. No action beyond saving the Epic ID; no OTP, billing, appointment, or dates. No attachments.
 - **Action required:** no (informational account welcome; save the Epic ID for future logins if Emilee needs it).
+
+## 2026-11-17 - MyChart Central account deactivated / pending deletion (UID 1057)
+
+- **Date:** 2026-11-17T16:51:59Z (Tue 11:51:59 EST)
+- **Sender:** MyChart Central <noreply@mychart.org>
+- **To:** reedsut@gmail.com (forwarded to ingest@ffilt.us; Delivered-To reed@ffilt.us)
+- **Subject:** Reed, your account will be deleted in a few days
+- **UID / Message-Id:** 1057 / <20261117165159.841c566f04d6e60a@mychart.org>
+- **Classification:** relevant (transactional account-lifecycle / security notice; not marketing/promo). No `List-Unsubscribe`, no `Precedence: bulk`, no marketing footer — no unsubscribe action (classification gates unsubscribes, not recipient, even though To contains "reed").
+- **Summary:** MyChart Central (Epic cloud) notice: "Your account has been deactivated and will be deleted in a few days." A follow-up email will be sent after deletion, at which point a new MyChart Central account can be created. Body offers a "contact us" link (https://mchrt.io/BURVJoyodoss-bL4xSc): "If you didn't request this deletion, please contact us for help." Hidden preheader: "Your account has been deactivated and will be deleted". Auth clean: DKIM pass (`d=mychart.org s=pdk1`, plus Mailgun `d=mailgun.org s=mg`), SPF pass, DMARC pass (`p=reject`), ARC pass. `X-Feedback-Id: noreply@mychart.org::...:mailgun` is a bulk-send signal, not decisive — content is transactional. HTML-only (33,118 bytes), no attachments. Context: arrives ~5 minutes after MyChart Central verification-code emails UIDs 1052 (16:45:55Z) and 1053 (16:46:54Z) — if those sign-in attempts weren't Reed's, treat the deletion as potentially unauthorized.
+- **Action required:** yes (confirm with MyChart Central whether Reed requested this deletion — if not, use the contact-us link / MyChart support immediately; account data is lost once deleted). No concrete deletion date given ("a few days"), so no calendar note.
+- **Related notes:** [[mychart-central]]
