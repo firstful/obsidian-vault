@@ -613,3 +613,14 @@ tags: [email-triage, job-applications]
 - **UID:** 1028 (INBOX)
 - **Summary:** Greenhouse auto-reply confirming receipt of Reed's application for Reddit Principal Data Scientist, Ads. Hiring team reviewing; will follow up if a match (aims to respond within a few business days). No attachments. Informational/transactional; List-Unsubscribe header present but empty — no unsubscribe action. Routed sutliff.reed@gmail.com -> ingest@ffilt.us -> reed@ffilt.us. Sibling of uids 1023-1027 (same role, distinct Message-Id). Unattended mailbox — do not reply.
 - **Action required:** no
+
+## 2026-11-17 — Reddit application received: Principal Data Scientist, Ads (uid 1029)
+
+- **Date:** 2026-11-17T08:02:04Z
+- **Sender:** no-reply@us.greenhouse-mail.io (Greenhouse/Reddit Talent Acquisition)
+- **To:** sutliff.reed@gmail.com (INBOX/1029)
+- **Subject:** Thank you for your interest in joining Reddit
+- **Message-Id:** <20261117080204.e0096a5585d5989b@us.greenhouse-mail.io>
+- **UID:** 1029 (INBOX)
+- **Summary:** Greenhouse auto-reply confirming receipt of Reed's application for Reddit Principal Data Scientist, Ads. Hiring team reviewing; will follow up if a match (aims to respond within a few business days). No attachments. Informational/transactional; List-Unsubscribe header present but empty — no unsubscribe action. Routed sutliff.reed@gmail.com -> ingest@ffilt.us -> reed@ffilt.us. Sibling of uids 1023–1028 (same role, distinct Message-Id). Unattended mailbox — do not reply.
+- **Action required:** no
