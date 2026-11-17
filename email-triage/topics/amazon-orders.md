@@ -140,3 +140,15 @@ tags: [email-triage, amazon-orders]
 - **Action required:** no — informational delivery confirmation; verify the package contents on arrival.
 - **Message-ID:** <010001a1e5f9218a-5c7f4d27-8b72-42d9-af99-a635f0724ff4-000000@email.amazonses.com>
 - **UID:** 1003
+
+
+## 2026-11-17 — Amazon order confirmation: 1 item (Seasonal Décor) (UID 1073)
+
+- **Date:** 2026-11-17T19:09:24Z
+- **Sender:** "Amazon.com" <auto-confirm@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded, raw Delivered-To reed@ffilt.us)
+- **Subject:** Ordered 1 item: Seasonal Décor
+- **Summary:** Transactional Amazon order confirmation. Order #112-3121601-2478667, Grand Total $43.76 USD, "Arriving tomorrow" (Emilee, PICKERINGTON, OH). Category Seasonal Décor (1 item); item-level details not extracted from HTML. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed"), so no auto-unsubscribe performed (transactional regardless). Distinct from UID 916 (same category, different order/amount). Body includes an inline ICS that is a Black Friday promo reminder, not the delivery date.
+- **Action required:** no — informational order confirmation; monitor delivery/contents on arrival and review order details in Amazon if needed.
+- **Message-ID:** <010001a1eae9f887-aa6287ef-ebf0-4af8-b19c-d5643084395e-000000@email.amazonses.com>
+- **UID:** 1073
+- **Related notes:** [[amazon-orders]] (see UID 916 for prior Seasonal Décor order)
