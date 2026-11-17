@@ -5,7 +5,7 @@ tags: [email-triage, topic, mychart, epic, account, otp]
 
 # MyChart Central (Epic)
 
-Transactional authentication / verification-code emails from MyChart Central (`noreply@mychart.org`, Epic MyChart cloud), sent via Mailgun. Distinct from the OSU Wexner MyChart portal (`MyChart_DoNotReply@osumc.edu`) filed under [[medical-appointments]]. Login OTPs only so far; no marketing sends recorded.
+Transactional authentication / verification-code emails from MyChart Central (`noreply@mychart.org`, Epic MyChart cloud), sent via Mailgun. Distinct from the OSU Wexner MyChart portal (`MyChart_DoNotReply@osumc.edu`) filed under [[medical-appointments]]. Authentication/verification-code emails and account-welcome notices so far; no marketing sends recorded.
 
 ## Entries
 
