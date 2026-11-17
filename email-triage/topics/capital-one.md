@@ -140,3 +140,14 @@ tags: [email-triage, capital-one]
 - **Summary:** CreditWise from Capital One score-change alert for Emilee. Covers monitoring window November 05, 2026 to November 15, 2026; score is FICO® Score 8 based on TransUnion data. Body is link-driven: a bare image alt value "[50]" appears next to "Credit score change" (likely a point delta), but no absolute score and no explicit direction (increase vs decrease) is stated in the text — the actual value/direction require signing in via "Show me my new score" (smart.link). No List-Unsubscribe header; footer states these alerts require unenrolling from CreditWise to stop — transactional account alert, not marketing. To is Emilee's mailbox (no "reed") => no auto-unsubscribe. A credit-score change is an important financial fact, hence relevant; with no direction/amount exposed and no concrete account action, there is nothing to do from the email itself.
 - **Action required:** no (informational; sign in to CreditWise if Emilee wants the new score/direction)
 - **Related notes:** [[capital-one]] — Emilee's CreditWise score alert; distinct from Reed's Quicksilver ...4809 past-due/collections sequence also tracked in this topic. Compare [[credit-karma]] third-party monitoring alerts.
+
+## 2026-11-17 — See your latest review from CreditWise
+
+- **Date:** 2026-11-17T20:56:54Z
+- **Sender:** Capital One <capitalone@notification.capitalone.com>
+- **To:** emileesutliff@gmail.com (Delivered-To reed@ffilt.us, emileesutliff@gmail.com via Gmail forwarding / Cloudflare Email Routing)
+- **Subject:** See your latest review from CreditWise
+- **UID:** 1082 (INBOX, message-id `<C0.5E.47515.69FBCFA6@i-0efac7b6490481ba9.mta2vrest.sd.prd.sparkpost>`)
+- **Summary:** CreditWise from Capital One credit-summary review for Emilee. Monitoring window October 18, 2026 to November 15, 2026: payment history 11/11 accounts paid on time, 0 new accounts, and credit usage dropped 25% → 3% of total credit used. Score model is FICO® Score 8 based on TransUnion data; no absolute score value stated in the body (only a "See your score" smart.link). Footer states these CreditWise emails require unenrolling from CreditWise to stop; no List-Unsubscribe header — transactional account notice, not marketing. Important financial fact; the steep utilization drop is a genuine positive signal, consistent with the on-time payment record in this window.
+- **Action required:** no (informational; sign in to CreditWise to view the actual score)
+- **Related notes:** [[capital-one]] — Emilee's CreditWise review; distinct from Reed's Quicksilver ...4809 past-due/collections sequence also tracked here. Follows Emilee's CreditWise score-change alert (uid 1019, 2026-11-17). Compare [[credit-karma]] third-party monitoring alerts.
