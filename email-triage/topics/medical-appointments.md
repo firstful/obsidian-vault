@@ -183,3 +183,15 @@ tags: [email-triage, medical-appointments]
 - **Summary:** Plain "new message" portal notice addressed to Emilee ("Dear Emilee"): "You have a new message in your MyChart account. Visit https://mychart.osu.edu and enter your MyChart ID and password to retrieve your information." Body contains no message content, no verification code, and no appointment/billing detail — it directs the patient to log in to read the message. Support: 614-366-6975 / 1-866-966-6975 (Mon-Fri 9 a.m.-6 p.m., excluding holidays). Distinct from same-day OSU MyChart UIDs 977 (login OTP), 994 (Reed new-message notice), 995 (payment-plan overdue), and the 15:15 EST video-visit series (892/953/1000/1002/1004/1006) — this is a generic new-message notice to Emilee. No List-Unsubscribe header.
 - **Action required:** yes (log in to OSU MyChart to read/respond to the new message)
 - **Related notes:** [[medical-appointments]]
+
+## 2027-01-19 — Established Patient Visit invitation (Google Calendar, UID 1045)
+
+- **Date:** 2026-11-17T16:07:12Z (invitation received; event DTSTAMP same)
+- **UID:** 1045 (INBOX) · message-id: <calendar-7082d243-6d0c-472a-8cfa-96ba65596046@google.com>
+- **Sender:** Reed Sutliff <reedsut@gmail.com>, sent via Google Calendar (calendar-notification@google.com; X-Google-Calendar-Notification: eventCreated)
+- **Subject:** Invitation: Established Patient Visit with Iziegbe Ehiorobo, MBBS @ Tue Jan 19, 2027 1:45pm - 3pm (EST) (calendar@ffilt.us)
+- **To:** calendar@ffilt.us (Delivered-To reed@ffilt.us via forwarding)
+- **Classification:** relevant (calendar invitation for a concrete dated medical appointment; no List-Unsubscribe, DKIM/SPF/DMARC pass)
+- **Summary:** Google Calendar `eventCreated` invitation (with 2,798-byte invite.ics; METHOD:REQUEST, STATUS:CONFIRMED) for an **Established Patient Visit with Iziegbe Ehiorobo, MBBS** on **2027-01-19 13:45–15:00 EST (Tue)**. Location: **6100 N Hamilton Rd Suite 4C, Westerville OH 43081** — arrive to 1st Floor Registration; arrive by 1:45 PM, appointment starts 2:00 PM; phone **614-293-4837**. Optional Google Meet: https://meet.google.com/ivd-cbqa-gtd; 10-minute display reminder. calendar@ffilt.us is a required participant with RSVP needed; organizer Reed already accepted; attendance marked optional.
+- **Action required:** yes (add to calendar / RSVP on Google Calendar as desired; note the 2027-01-19 13:45 EST appointment and 1:45 PM arrival)
+- **Related:** [[calendar/2027-01-19 - Established Patient Visit (Iziegbe Ehiorobo, MBBS)]], [[medical-appointments]]
