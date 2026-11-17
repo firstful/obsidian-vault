@@ -1,0 +1,24 @@
+---
+title: Quicksilver payment $1,262.41 scheduled (card ...9998)
+date: 2026-11-17
+type: payment
+status: upcoming
+amount: 1262.41
+currency: USD
+source: "[[capital-one]]"
+payee: Capital One Quicksilver ...9998
+confirmation: U0U0L2Q1
+created: 2026-11-17
+tags: [calendar, bills, capital-one]
+---
+
+# Quicksilver payment $1,262.41 scheduled (card ...9998)
+
+## Details
+
+- One-time payment of **$1,262.41** scheduled for **2026-11-17** via the Capital One mobile app.
+- Card: Quicksilver Credit Card ...9998 (Reed). Paid from Huntington National Bank ******3792.
+- Confirmation number: `U0U0L2Q1`. At notification time the payment was still scheduled (pre-processing) and cancellable by signing in.
+- Source: email UID 1089 (INBOX, 2026-11-17T22:00:31Z, to reedsut@gmail.com) in [[capital-one]].
+- Distinct from the sibling scheduled payment UID 1088 ($3,751.74 to card ...4809, confirmation U5U9L283).
+- Note: $1,262.41 equals the ...4809 statement balance (UID 834, [[money/Debt Catalog]]) but this notice names card ...9998 — verify the target card and posted balance in the Capital One app.
