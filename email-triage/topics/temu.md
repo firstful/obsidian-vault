@@ -1,9 +1,9 @@
 ---
-title: Temu - order receipts, reshipments and refunds
+title: Temu - orders, refunds and legal notices
 tags: [email-triage, temu]
 ---
 
-# Temu - order receipts, reshipments and refunds
+# Temu - orders, refunds and legal notices
 
 ## 2026-11-09 - Your Temu reshipment request was canceled and a refund has been automatically issued (#PO-211-02183788728953398) (UID 608)
 - date: 2026-11-09T21:31:07Z (original message date; backfilled 2026-11-11)
