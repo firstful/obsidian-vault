@@ -93,3 +93,14 @@ tags: [email-triage, huntington-bank]
 - **Summary:** Security/account-change notice: Touch ID / Fingerprint Login or Face ID was successfully enabled for Reed's username on the Huntington Mobile app. No action requested if this was Reed; if not, call (800) 480-2265 and ask for Online Banking Support (M-F 7a-11p ET, Sat 8a-8p ET, Sun 9a-6p ET). Sent because of changes to alert devices/settings; auto-generated, do not reply. Carries a Salesforce Marketing Cloud `Feedback-ID` bulk/marketing signal, but content is a transactional security alert, NOT marketing — do not unsubscribe. Authentic: from email.huntington.com; no account number/balance or last-4 disclosed. No concrete date/time of the change beyond the email date.
 - **Action required:** no (informational) — verify the biometric-login change was Reed's own; if unrecognized, call (800) 480-2265.
 - **Related:** [[Huntington Bank]] (money/institutions); bank account security notice.
+
+## 2026-11-17 — Important updates to your Huntington Online Services Agreement
+
+- **Date:** 2026-11-17T15:32:58Z (email dated 2026-11-17 09:32:58 -0600)
+- **Sender:** Huntington Bank <HuntingtonOnline@email.huntington.com>
+- **To:** reedsut@gmail.com
+- **Subject:** Important updates to your Huntington Online Services Agreement
+- **UID:** 1047 (INBOX, message-id `<3d01977c-0a4d-43fe-b4c2-dfeb4b9e3f81@ind1s01mta0117.xt.local>`)
+- **Action required:** yes
+- **Summary:** Change-in-terms legal notice: Huntington updated the Huntington Online Services Agreement effective 2026-11-20, to reflect changes the bank implemented on 2026-10-19. Continuing to use Online Services after the effective date constitutes acceptance. Reed should read the summary of changes carefully and save a copy for records (Change in Terms link in email, or Online Banking → Service Center and Disclosures; mobile app → More → Learn More → Disclosures). Carries a Salesforce Marketing Cloud `Feedback-ID` bulk signal and DKIM from s1.y.mc.salesforce.com, but content is a mandatory account/legal notice, NOT marketing — do not unsubscribe. Authentic: DKIM/SPF/ARC/DMARC pass (email.huntington.com + salesforce). No account number, balance, or last-4 disclosed.
+- **Related:** [[Huntington Bank]] (money/institutions); effective-date reminder [[2026-11-20 - Huntington Online Services Agreement update effective]].
