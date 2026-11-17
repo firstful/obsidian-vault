@@ -219,3 +219,15 @@ tags: [email-triage, medical-appointments]
 - **Summary:** OSU Wexner Medical Center MyChart message addressed to Emilee ("Dear Emilee") with subject "MyChart - New Message" but the body is a login one-time security code: **918500**, to be entered on the Additional Security Verification screen. Code expires at **11:52 AM EST** (2026-11-17, ~10 minutes after send). No message content, appointment, or billing detail in the body; login to https://mychart.osu.edu/osumc/ to read any actual MyChart message. Distinct from prior OSU MyChart OTP UID 977 (2026-11-16, code 635127) and the 2026-11-16 video-visit/billing/new-message variants. No List-Unsubscribe header; To is Emilee's mailbox (non-Reed). Support: 614-366-6975 / 1-866-966-6975.
 - **Action required:** yes, time-sensitive (enter code 918500 at MyChart if Emilee initiated the login — valid only until 11:52 AM EST; request a new code if expired; if the login was not initiated by Emilee, treat as a security concern)
 - **Related notes:** [[medical-appointments]]
+
+## 2026-11-17 — OSU Wexner MyChart login security code (UID 1050 sibling, Reed; UID 1053)
+
+- **Date:** 2026-11-17T16:46:54Z (Tue 11:46:54 —0500)
+- **UID:** 1053 (INBOX) · message-id: <d39d143a-a3e2-40e2-ad1a-627047cf1281@SVR-EXCH19-VP01.OSUMC.EDU>
+- **Sender:** MyChart_DoNotReply@osumc.edu (OSU Wexner Medical Center MyChart)
+- **Subject:** MyChart - New Message
+- **To:** reedsut@gmail.com
+- **Classification:** relevant (MyChart login security verification code / OTP; transactional, no List-Unsubscribe)
+- **Summary:** OSU Wexner Medical Center MyChart message addressed to Reed ("Dear Reed") with subject "MyChart - New Message" but the body is a login one-time security code: **991738**, to be entered on the Additional Security Verification screen. Code expires at **11:56 AM EST** (2026-11-17, ~10 minutes after send). No message content, appointment, or billing detail in the body; login to https://mychart.osu.edu/osumc/ to read any actual MyChart message. Subject is never decisive for OSU MyChart — body read to classify. Third OSU MyChart OTP this cycle: UID 977 (2026-11-16, code 635127), UID 1050 (2026-11-17 11:42 EST, Emilee, code 918500) — this UID 1053 is the Reed copy sent 4 minutes later. No List-Unsubscribe header; To is Reed's mailbox. Support: 614-366-6975 / 1-866-966-6975.
+- **Action required:** yes, time-sensitive (enter code 991738 at MyChart if Reed initiated the login — valid only until 11:56 AM EST; request a new code if expired; if the login was not initiated by Reed, treat as a security concern)
+- **Related notes:** [[medical-appointments]]
