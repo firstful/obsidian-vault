@@ -560,3 +560,14 @@ tags: [email-triage, job-applications]
 - **Message-Id:** <20261116072803.545d17d3724009e7@us.greenhouse-mail.io>
 - **Summary:** Greenhouse auto-reply confirming receipt of Reed's application for the Engineering Manager, Machine Learning (Safety) role at Discord. Hiring team reviewing; will be in touch if experiences are a fit. No attachments (multipart/alternative text+html). Unattended mailbox — do not reply. Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass. List-Unsubscribe header present but empty — no unsubscribe mechanism; transactional mail, no unsubscribe performed.
 - **Action required:** no
+
+## 2026-11-17 — Reddit application received: Principal Data Scientist, Ads (uid 1024)
+
+- **Date:** 2026-11-17T07:47:03Z
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **Subject:** Thank you for your interest in joining Reddit
+- **To:** sutliff.reed@gmail.com (INBOX/1024)
+- **Message-Id:** <20261117074703.2c568969444feb20@us.greenhouse-mail.io>
+- **UID:** 1024 (INBOX)
+- **Summary:** Greenhouse auto-reply confirming receipt of Reed's application for Reddit Principal Data Scientist, Ads. Hiring team reviewing; will follow up if a match (aims to respond within a few business days). No attachments. Informational/transactional; List-Unsubscribe header empty — no unsubscribe action. Sibling of uid 1023 (same role, one minute earlier; distinct Message-Id). Routed sutliff.reed@gmail.com -> ingest@ffilt.us -> reed@ffilt.us. Unattended mailbox — do not reply.
+- **Action required:** no
