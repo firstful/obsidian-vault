@@ -86,7 +86,7 @@ tags: [email-triage, index]
 - [t-mobile](topics/t-mobile.md) — T-Mobile wireless account notices: payment receipts and billing
 - [starbucks](topics/starbucks.md) — Starbucks Card auto-reload confirmations (transactional)
 - [tacobell](topics/tacobell.md) — Taco Bell pickup order confirmations and receipts (transactional)
-- [temu](topics/temu.md) — Temu order/reshipment notices and automatic refunds (transactional)
+- [temu](topics/temu.md) — Temu order/reshipment notices, automatic refunds and Terms/Privacy legal notices (transactional)
 - [ticketmaster](topics/ticketmaster.md) — Ticketmaster event-marketing newsletters (new onsales / upcoming concert, comedy, family-show listings; marketing)
 - [tinybeans](topics/tinybeans.md) — Tinybeans parenting-app marketing/newsletters (gift guides, Little Tikes promos; marketing)
 - [uber-eats](topics/uber-eats.md) — Uber Eats order receipts (Wendy's, etc.) plus Uber / Uber One marketing blasts: 30%-off delivery promos, hotel-credit and premium airport-ride member deals (marketing)
