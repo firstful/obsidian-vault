@@ -115,3 +115,14 @@ tags: [email-triage, huntington-bank]
 - **Summary:** Duplicate of UID 1047 — same change-in-terms legal notice delivered to emileesutliff@gmail.com ~1.5h later. Huntington Online Services Agreement updated effective 2026-11-20 to reflect changes implemented 2026-10-19; continuing to use Online Services after the effective date = acceptance. Read the summary of changes and save a copy (Online Banking → Service Center and Disclosures; mobile app → More → Learn More → Disclosures). No new facts vs UID 1047. Carries SFMC bulk signal (`Feedback-ID: …:sfmktgcld`, DKIM `s1.y.mc.salesforce.com`, `X-SFMC-Stack: 1`), but it is a mandatory legal notice, NOT marketing — no `List-Unsubscribe` header, never unsubscribe. Authentic: DKIM/SPF pass (email.huntington.com + salesforce). No account number, balance, or last-4 disclosed.
 - **Action required:** no — duplicate of UID 1047; review/save-copy action already tracked there.
 - **Related:** [[Huntington Bank]] (money/institutions); duplicate of UID 1047; effective-date reminder [[2026-11-20 - Huntington Online Services Agreement update effective]].
+
+## 2026-11-17 — Huntington Verification Code Requested
+
+- **Date:** 2026-11-17T20:57:10Z (email dated 2026-11-17 14:57:10 -0600)
+- **Sender:** Huntington Bank <HuntingtonOnline@email.huntington.com>
+- **To:** REEDSUT@gmail.com (routed to reed@ffilt.us via Cloudflare Email Routing)
+- **Subject:** Huntington Verification Code Requested
+- **UID:** 1083 (INBOX, message-id `<d7a6164a-8d13-48d6-a77d-53c31753d145@ind1s01mta0114.xt.local>`)
+- **Summary:** Transactional security notice: a verification code was requested using Reed's Huntington username and password as an additional security step for an unregistered device. No code is included in the email itself. If the request was Reed's, disregard; if unaware of it, call (800) 480-2265. Carries a Salesforce Marketing Cloud `Feedback-ID: ...:sfmktgcld` bulk signal but content is an account security alert, NOT marketing — no `List-Unsubscribe` header (only `List-Help`), never unsubscribe. Authentic: DKIM/SPF/ARC/DMARC pass (email.huntington.com `s=200608` + salesforce `s=fbldkim1`). No account number, balance, last-4, or code disclosed.
+- **Action required:** no (informational) — verify the code request was Reed's; if unrecognized, call (800) 480-2265.
+- **Related:** [[Huntington Bank]] (money/institutions); same security-notice family as UID 1046 (biometric-login alert).
