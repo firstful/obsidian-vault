@@ -62,3 +62,16 @@ Dates must exist in exactly one place, so that nothing drifts:
   Figo pet policies) is kept as a table inside its bill note. Never itemize the
   same series here *and* there.
 - Manual-pay series (auto insurance installments) are itemized here.
+
+## Data model
+
+Each calendar note is an atomic fact: dates, `type`, and `status` live in its
+frontmatter. `Calendar.base` is the **only** index/rollup over this folder and
+defines the named views (All, Upcoming, Payments, Renewals, Issues, By bill).
+
+- Do not create or maintain a hand-written table of calendar events in any note;
+  base views are generated from frontmatter and cannot drift.
+- Keep the frontmatter schema in this file authoritative. Add a field here when
+  a new structured fact is introduced, and expose it in `Calendar.base` if useful.
+- Completion is a state change (`status: paid`/`done`) on the atomic note — never
+  a deletion or a separate "completed" table.

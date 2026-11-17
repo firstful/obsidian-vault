@@ -1,0 +1,54 @@
+filters:
+  and:
+    - file.inFolder("bills/paid")
+    - type == "payment"
+properties:
+  date:
+    displayName: Date
+  title:
+    displayName: Payment
+  bill:
+    displayName: Bill
+  amount:
+    displayName: Amount
+  currency:
+    displayName: Currency
+  method:
+    displayName: Method
+  confirmation:
+    displayName: Confirmation
+views:
+  - type: table
+    name: All
+    order:
+      - date
+      - title
+      - bill
+      - amount
+      - currency
+      - method
+      - confirmation
+    sort:
+      - property: date
+        direction: DESC
+  - type: table
+    name: By bill
+    order:
+      - bill
+      - date
+      - amount
+      - method
+      - confirmation
+    sort:
+      - property: bill
+        direction: ASC
+  - type: table
+    name: By month
+    order:
+      - date
+      - title
+      - bill
+      - amount
+    sort:
+      - property: date
+        direction: DESC

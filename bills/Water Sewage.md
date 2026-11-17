@@ -2,13 +2,17 @@
 title: Water / Sewage
 created: 2026-11-03
 tags: [bills, utility, water]
+type: bill
+premium: 349.99
+currency: USD
+status: active
 category: Utility
 payee: Water/Sewage Utility
 account_number: "162151"
 jurisdiction_code: "4585"
 payee_code: "11326"
 onepassword_item: "qzy3orgh55woww5xrmcuib64we"
-cadence: Quarterly (tentative — confirm)
+cadence: Quarterly
 autopay: false
 ---
 

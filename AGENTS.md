@@ -35,3 +35,18 @@ This directory is an [Obsidian](https://obsidian.md) vault. Treat every `.md` fi
 
 - List notes: `find . -name '*.md' -not -path './.obsidian/*'`
 - Search content: `grep -rn "term" --include='*.md' .`
+
+## Data model
+
+Structured facts live in a note's YAML frontmatter; notes are the atomic source
+of truth. Indexes and rollups live **only** in `.base` files (e.g. `Bills.base`,
+`Paid.base`, `Calendar.base`, `Money.base`) and are embedded with
+`![[path/to/File.base]]`.
+
+- Do not hand-maintain a table in a note when a `.base` can query the same data.
+  Replace such tables with a base embed and add the needed fields to the
+  underlying notes' frontmatter.
+- Dates remain the single source of truth in `calendar/` (see
+  `calendar/AGENTS.md`); other notes link to [[Calendar]] rather than copying dates.
+- When adding a fact, put the machine-readable value in frontmatter first, then
+  let the relevant base surface it. Keep prose notes for narrative only.

@@ -1,0 +1,61 @@
+filters:
+  and:
+    - file.inFolder("bills")
+    - type == "bill"
+properties:
+  title:
+    displayName: Bill
+  payee:
+    displayName: Payee
+  account_number:
+    displayName: Account
+  premium:
+    displayName: Premium
+  currency:
+    displayName: Currency
+  cadence:
+    displayName: Cadence
+  status:
+    displayName: Status
+  autopay:
+    displayName: Autopay
+views:
+  - type: table
+    name: All bills
+    order:
+      - title
+      - payee
+      - premium
+      - currency
+      - cadence
+      - status
+      - autopay
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: By payee
+    order:
+      - payee
+      - title
+      - premium
+      - cadence
+      - status
+    sort:
+      - property: payee
+        direction: ASC
+  - type: table
+    name: Renewals
+    filters:
+      or:
+        - cadence == "Annual"
+        - cadence == "Semiannual"
+    order:
+      - title
+      - cadence
+      - premium
+      - status
+      - payee
+    sort:
+      - property: cadence
+        direction: ASC

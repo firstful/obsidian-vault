@@ -20,7 +20,7 @@ properties:
     displayName: Payee
 views:
   - type: table
-    name: Calendar
+    name: All
     order:
       - date
       - title
@@ -29,3 +29,77 @@ views:
       - type
       - bill
       - payee
+    sort:
+      - property: date
+        direction: ASC
+  - type: table
+    name: Upcoming
+    filters:
+      or:
+        - status == "upcoming"
+        - status == "overdue"
+    order:
+      - date
+      - title
+      - status
+      - type
+      - amount
+      - bill
+    sort:
+      - property: date
+        direction: ASC
+  - type: table
+    name: Payments
+    filters:
+      and:
+        - type == "payment"
+    order:
+      - date
+      - title
+      - amount
+      - status
+      - bill
+      - payee
+    sort:
+      - property: date
+        direction: ASC
+  - type: table
+    name: Renewals
+    filters:
+      and:
+        - type == "renewal"
+    order:
+      - date
+      - title
+      - status
+      - bill
+    sort:
+      - property: date
+        direction: ASC
+  - type: table
+    name: Issues
+    filters:
+      and:
+        - type == "issue"
+    order:
+      - date
+      - title
+      - status
+      - bill
+    sort:
+      - property: date
+        direction: ASC
+  - type: table
+    name: By bill
+    filters:
+      and:
+        - bill
+    order:
+      - bill
+      - date
+      - title
+      - amount
+      - status
+    sort:
+      - property: bill
+        direction: ASC

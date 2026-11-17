@@ -2,6 +2,10 @@
 title: Pet Insurance - Maxine
 created: 2026-11-03
 tags: [bills, insurance, pet]
+type: bill
+premium: 31.45
+currency: USD
+status: active
 category: Insurance
 payee: Figo Pet Insurance
 account_number: "FPI30000290453"

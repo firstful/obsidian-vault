@@ -2,10 +2,14 @@
 title: Auto Insurance
 created: 2026-11-03
 tags: [bills, insurance, auto]
+type: bill
+premium: 119.98
+currency: USD
+status: active
 category: Insurance
 payee: Branch Insurance
 account_number: "334509302-auto-003-BX"
-cadence: Monthly (6-month policy)
+cadence: Monthly
 autopay: false
 ---
 

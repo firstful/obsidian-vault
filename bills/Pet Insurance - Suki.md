@@ -2,6 +2,10 @@
 title: Pet Insurance - Suki
 created: 2026-11-03
 tags: [bills, insurance, pet]
+type: bill
+premium: 16.18
+currency: USD
+status: active
 category: Insurance
 payee: Figo Pet Insurance
 account_number: "FPI30000627035"

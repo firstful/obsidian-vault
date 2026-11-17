@@ -2,6 +2,10 @@
 title: Homeowners Insurance
 created: 2026-11-03
 tags: [bills, insurance, home]
+type: bill
+premium: 2067.24
+currency: USD
+status: active
 category: Insurance
 payee: Branch Insurance
 account_number: "334509302-home-002-BX"

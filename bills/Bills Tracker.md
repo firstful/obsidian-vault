@@ -10,24 +10,13 @@ Roster of recurring bills. **This note holds no dates or amounts** — those liv
 one place only:
 
 - Upcoming due dates, deadlines, and their status → [[Calendar]]
-- Amounts, cadence, autopay, and terms → the bill note
-- Payments already made → [[Paid Log]]
+- Amounts, cadence, autopay, and terms → the bill note (surfaced by [[Bills.base]])
+- Payments already made → [[Paid Log]] (surfaced by [[Paid.base]])
 
-## Active Bills
+The table below is a live view over the bill notes' frontmatter — do not maintain
+a duplicate roster by hand here.
 
-| Bill | Payee / Account | Cadence | Autopay |
-| --- | --- | --- | --- |
-| Rent/Mortgage |  | Monthly |  |
-| Electric |  | Monthly |  |
-| [[Water Sewage\|Water/Sewage]] | Fairfield County Utilities, OH / 162151 | Quarterly (tentative) | No |
-| Internet |  | Monthly |  |
-| Phone |  | Monthly |  |
-| [[Auto Insurance\|Insurance (Auto)]] | Branch Insurance / 334509302-auto-003-BX | Monthly (6-mo policy) | No |
-| [[Homeowners Insurance\|Insurance (Home/Renters)]] | Branch Insurance / 334509302-home-002-BX | Annual |  |
-| [[Pet Insurance - Maxine\|Insurance (Pet – Maxine)]] | Figo Pet Insurance / FPI30000290453 | Monthly | Yes |
-| [[Pet Insurance - Suki\|Insurance (Pet – Suki)]] | Figo Pet Insurance / FPI30000627035 | Monthly | Yes |
-| Credit Card |  | Monthly |  |
-| Subscriptions |  | Monthly/Annual |  |
+![[bills/Bills.base]]
 
 ## Notes
 
@@ -35,8 +24,11 @@ one place only:
 - When a bill is paid: log it in [[Paid Log]] and update the due item's `status`
   in [[Calendar]]. Do not retype the date or amount here.
 - Policy numbers, premiums, and coverage belong in the bill note.
+- The "Renewals" view above shows bills with an Annual or Semiannual cadence.
+  The specific renewal *dates* live in [[Calendar]], not in the bill notes.
 
 ## See also
 
 - [[Calendar]]
 - [[Paid Log]]
+- [[Bills.base]]
