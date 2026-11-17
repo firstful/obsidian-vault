@@ -2,7 +2,7 @@
 title: Elijah OT session (Playful Pathways, Tonia Messmer)
 date: 2026-11-18
 type: reminder
-status: upcoming
+status: cancelled
 source: "[[playful-pathways]]"
 created: 2026-11-17
 tags: [calendar, medical, therapy, occupational-therapy]
@@ -20,3 +20,7 @@ tags: [calendar, medical, therapy, occupational-therapy]
 - **Contact / reschedule:** +1 (614) 419-4005 · tonia@ohioplayfulpathways.com
 - **Context:** Rescheduled slot after the Nov 4 session was cancelled (email UID 812). Reminder received via Therabyte (email UID 1077).
 - **Source:** [[playful-pathways]] (email-triage topic), [[medical-appointments]]
+
+## Cancellation
+
+- Cancelled on 2026-11-17 (per Reed). Appointment will not occur.
