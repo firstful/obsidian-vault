@@ -5,6 +5,19 @@ tags: [email-triage, best-egg, bills, loans]
 
 # Best Egg
 
+## 2026-11-17 — Reed, we received your scheduled payment (UID 1092)
+
+- **Date:** 2026-11-17 22:02:43 +0000 (Tue)
+- **Sender:** Best Egg <bestegg@notification.bestegg.com>
+- **To:** reedsut@gmail.com (Delivered-To reed@ffilt.us via ingest forward)
+- **Subject:** Reed, we received your scheduled payment
+- **UID:** 1092 (INBOX)
+- **Message-ID:** <1A.05.07153.30FCCFA6@i-07fc8adbc7dc0e6ae.mta1vrest.sd.prd.sparkpost>
+- **Summary:** Payment confirmation for Best Egg personal loan (account **45680281**): a payment of **$13,586.00** was received on **2026-11-17**, confirmation **MBA07616EF025**. May take 2-3 business days to reflect on the bank account. Note: much larger than the **$362** autopay previously scheduled for 2026-11-26 (UID 985) — likely a one-time/extra payment; verify in the Best Egg dashboard.
+- **Action required:** no (confirmation only; verify the debit posted and check resulting loan balance)
+- **Related notes:** [[calendar/2026-11-17 - Best Egg personal loan payment received]], [[bills/paid/2026-11-17 - Best Egg - 13586.00]]
+
+
 ## 2026-11-16 — Reed, you have an automatic payment scheduled soon
 
 - **Date:** 2026-11-16 11:02:18 +0000 (Mon)
