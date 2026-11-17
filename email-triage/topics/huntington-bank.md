@@ -82,3 +82,14 @@ tags: [email-triage, huntington-bank]
 - **Summary:** Transactional notice: a new electronic statement is available for the Huntington account ending in ...7670; statement may contain important information including account changes. Review via the Huntington Mobile app or huntington.com. Auto-generated; do not reply. Authenticated (DKIM/SPF/DMARC pass, email.huntington.com/salesforce). No balance or statement period disclosed in the message.
 - **Action required:** yes — log in and review the new statement (account ending ...7670) for changes.
 - **Related:** [[Huntington Bank]] (money/institutions)
+
+## 2026-11-17 — You Successfully Enabled Touch ID/Fingerprint Login or Face ID!
+
+- **Date:** 2026-11-17T16:01:09Z (email dated 2026-11-17 10:01:09 -0600)
+- **Sender:** Huntington Bank <HuntingtonOnline@email.huntington.com>
+- **To:** REEDSUT@gmail.com
+- **Subject:** You Successfully Enabled Touch ID/Fingerprint Login or Face ID!
+- **UID:** 1046 (INBOX, message-id `<e42c2e0b-38de-4eca-a77d-f2c4636177cb@ind1s01mta0115.xt.local>`)
+- **Summary:** Security/account-change notice: Touch ID / Fingerprint Login or Face ID was successfully enabled for Reed's username on the Huntington Mobile app. No action requested if this was Reed; if not, call (800) 480-2265 and ask for Online Banking Support (M-F 7a-11p ET, Sat 8a-8p ET, Sun 9a-6p ET). Sent because of changes to alert devices/settings; auto-generated, do not reply. Carries a Salesforce Marketing Cloud `Feedback-ID` bulk/marketing signal, but content is a transactional security alert, NOT marketing — do not unsubscribe. Authentic: from email.huntington.com; no account number/balance or last-4 disclosed. No concrete date/time of the change beyond the email date.
+- **Action required:** no (informational) — verify the biometric-login change was Reed's own; if unrecognized, call (800) 480-2265.
+- **Related:** [[Huntington Bank]] (money/institutions); bank account security notice.
