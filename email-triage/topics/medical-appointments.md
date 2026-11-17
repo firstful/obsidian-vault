@@ -267,3 +267,15 @@ tags: [email-triage, medical-appointments]
 - **Summary:** OSU Wexner Medical Center MyChart notice addressed to Emilee ("Emilee Sutliff you have additional information in your MyChart account"): log in at https://mychart.osu.edu with username/password to retrieve the information. Plain portal notice with no message content, verification code, appointment, or billing detail — subject is never decisive for OSU MyChart. Distinct from the same-day OSU MyChart entries (Reed's identical-subject notice UID 1054, proxy-access invite 1049, login OTPs 1050/1053) and from NCH MyChart OTP 1056 — this one is OSU Wexner to Emilee. DKIM/SPF/DMARC pass; no List-Unsubscribe header; To is Emilee's mailbox (non-Reed) → no unsubscribe action. Support: 614-366-6975 / 1-866-966-6975.
 - **Action required:** yes (log in to MyChart to read the new information; no code to enter / no dated event in the notice)
 - **Related notes:** [[medical-appointments]]
+
+## 2026-11-17 — NCH MyChart "New Link to Your Account" notice (Emilee; UID 1060)
+
+- **Date:** 2026-11-17T16:54:50Z (Tue 11:54:50 -0500)
+- **UID:** 1060 (INBOX) · message-id: <a483d52a-910f-431c-adcc-bc8948a956c0@H2PWEXCHSVR02.childrensroot.net>
+- **Sender:** donotreply@nationwidechildrens.org (Nationwide Children's Hospital MyChart)
+- **Subject:** New Link to Your Account
+- **To:** emileesutliff@gmail.com
+- **Classification:** relevant (transactional MyChart account-linking / new-information portal notice; no List-Unsubscribe, no bulk/marketing signals)
+- **Summary:** Nationwide Children's MyChart notice addressed to Emilee ("Hello Emilee"): "Your information from Nationwide Children's Hospital can now be accessed from your other linked account. Review this change: [mychart.nationwidechildrens.org/MyChart/s/Y7MXCWCF6QXIB6P3IBNNBIT56U/]". Footer notes MyChart is available on the go and that notification preferences can be changed via Communication Preferences in MyChart. No verification code, appointment, billing, or dated event in the body. HTML (7,733 bytes) + plain-text (219 bytes) parts, no attachments. NCH sender matches prior entries (937 autopay, 768/847 new message, 1056 OTP); analogous to the OSU "New Link to your MyChart Account" portal notices (UIDs 1054/1059) but from Nationwide Children's and specifically about account linking. No `List-Unsubscribe` header; To is Emilee's mailbox (non-Reed) → no unsubscribe action. Questions: 614-938-3000.
+- **Action required:** no (informational account-link change notice — review/verify the linking in NCH MyChart if desired; no code, deadline, or dated event. If the account linking was not initiated by Emilee, treat as a security concern)
+- **Related notes:** [[medical-appointments]]
