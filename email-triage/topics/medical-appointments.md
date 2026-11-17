@@ -207,3 +207,15 @@ tags: [email-triage, medical-appointments]
 - **Summary:** OSU Wexner MyChart proxy-access invitation addressed to Emilee Sutliff: "Reed invited you to have access to their MyChart account." To confirm she knows Reed, Emilee must sign into her own MyChart account via the emailed link; the link expires in 30 days (~2026-12-17). HTML-only body with no appointment/billing detail and no verification code. DKIM/SPF/DMARC/ARC pass; no List-Unsubscribe header. Distinct from the standard OSU MyChart variants (new-message notices 819/994/1010, login OTP 977, payment-plan overdue 995, and the 2026-11-16 video-visit series) — this is an account proxy-access grant. Support: 866-966-6975.
 - **Action required:** yes (Emilee: sign into MyChart via the link to confirm/accept proxy access to Reed's account before it expires in 30 days; if unexpected, verify with Reed first)
 - **Related notes:** [[medical-appointments]]
+
+## 2026-11-17 — OSU Wexner MyChart login security code (UID 1050)
+
+- **Date:** 2026-11-17T16:42:39Z (Tue 11:42:39 -0500)
+- **UID:** 1050 (INBOX) · message-id: <d5314dde-4fd5-470e-aa99-5cd69b364e80@SVR-EXCH19-VP01.OSUMC.EDU>
+- **Sender:** MyChart_DoNotReply@osumc.edu (OSU Wexner Medical Center MyChart)
+- **Subject:** MyChart - New Message
+- **To:** emileesutliff@gmail.com
+- **Classification:** relevant (MyChart login security verification code / OTP; transactional, no List-Unsubscribe)
+- **Summary:** OSU Wexner Medical Center MyChart message addressed to Emilee ("Dear Emilee") with subject "MyChart - New Message" but the body is a login one-time security code: **918500**, to be entered on the Additional Security Verification screen. Code expires at **11:52 AM EST** (2026-11-17, ~10 minutes after send). No message content, appointment, or billing detail in the body; login to https://mychart.osu.edu/osumc/ to read any actual MyChart message. Distinct from prior OSU MyChart OTP UID 977 (2026-11-16, code 635127) and the 2026-11-16 video-visit/billing/new-message variants. No List-Unsubscribe header; To is Emilee's mailbox (non-Reed). Support: 614-366-6975 / 1-866-966-6975.
+- **Action required:** yes, time-sensitive (enter code 918500 at MyChart if Emilee initiated the login — valid only until 11:52 AM EST; request a new code if expired; if the login was not initiated by Emilee, treat as a security concern)
+- **Related notes:** [[medical-appointments]]
