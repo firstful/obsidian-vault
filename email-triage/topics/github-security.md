@@ -32,3 +32,15 @@ tags: [email-triage, github-security]
 - uid: 42
 - summary: GitHub notified account reedsutliff that third-party OAuth application "Nextzen Developers" (client/app id ea211812d6e801244903, scope user:email) was authorized. Review: https://github.com/settings/connections/applications/ea211812d6e801244903 ; security log: https://github.com/settings/security-log
 - action-required: yes (verify this OAuth app authorization was intentional; revoke access if unexpected or no longer needed)
+
+## 2026-11-17 - Dependabot vulnerability digest: Newtonsoft.Json in AgilityPartners (UID 1044)
+- date: 2026-11-17T15:21:27Z (Tue, 17 Nov 2026 07:21:27 -0800)
+- sender: GitHub <noreply@github.com>
+- to: Reed Sutliff <sutliff.reed@gmail.com> (Delivered-To reed@ffilt.us)
+- subject: [GitHub] Your Dependabot alerts for the week of Nov 10 - Nov 17
+- message_id: <6afc70f77bda6_1181228401a6@sharedworker-6f698fb65c-vcxlk.mail>
+- uid: 1044
+- folder: INBOX
+- summary: GitHub Dependabot weekly vulnerability digest (X-GitHub-Reason: security_alert) for personal account reedsutliff. One vulnerable dependency flagged in repo [[reedsutliff/AgilityPartners]]: Newtonsoft.Json, vulnerable versions < 13.0.1, upgrade to 13.0.1, defined in packages.config; CVE-2024-21907 (High severity, listed 3x). View all: https://github.com/reedsutliff/AgilityPartners/security/dependabot
+- action-required: yes (review the high-severity CVE in AgilityPartners and bump Newtonsoft.Json to 13.0.1; assess whether that old personal repo is still maintained)
+- notes: Genuine GitHub security mail (dkim=pass d=github.com, dmarc=pass, spf=pass, arc=pass). Carries an RFC 8058 one-click List-Unsubscribe plus an unsubscribe footer, but this is transactional security mail — intentionally NOT unsubscribed per policy (suppressing would hide future security alerts). Digest itself is informational; the underlying actionable item is the vulnerable dependency.
