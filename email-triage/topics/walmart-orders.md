@@ -81,3 +81,15 @@ tags: [email-triage, walmart-orders, purchases]
 - **Message-ID:** <db4515941d9fb89d5160ba02c6cc7c2131bd8918769ef470e1b40fc637af9343@walmart.com>
 - **UID:** 986
 - **Folder:** INBOX
+
+## 2026-11-17 — Walmart package arrived (UID 1079, Order 2000157-84565479)
+
+- **Date:** 2026-11-17T20:19:22Z
+- **Sender:** Walmart.com <help@walmart.com> (to emilee.sutliff@gmail.com)
+- **Subject:** Arrived: Your Command Broom and Mop...
+- **Summary:** Transactional Walmart delivery-completion notice. Order #2000157-84565479 (order date Sun, Nov 15, 2026). "Your package has arrived, emilee!" — 1 item arrived ("Command Broom and Mop…", item name truncated in subject). Payment method ending 4780 charged for the final total; temporary hold to be removed within ~7 days. Delivery-proof photo (attachment) and return/refund option available from order details. Terminal event in the sequence: [[email-triage/topics/walmart-orders|order confirmed UID 947]] → shipping/tracking UID 986 (tracking 55559216630496125815) → arrived UID 1079. To: emilee.sutliff@gmail.com.
+- **Action required:** no — informational delivery confirmation; verify the item and start a return from order details if needed.
+- **Message-ID:** <20261117201922.f7493445ee0635b5@prod.walmart.com>
+- **UID:** 1079
+- **Folder:** INBOX
+- **Calendar:** [[calendar/2026-11-17 - Walmart order 2000157-84565479 delivered]]
