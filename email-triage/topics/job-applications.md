@@ -634,3 +634,14 @@ tags: [email-triage, job-applications]
 - **Message-Id:** <20261117080505.ba72f7b564f1a99c@us.greenhouse-mail.io>
 - **Summary:** Application-received auto-reply (Greenhouse/Mailgun, `X-Mailgun-Tag: CandidateAutoReply`, org_id 2781, person_id 511340655) for the Principal Data Scientist, Ads role at Reddit (uid 1032, to sutliff.reed@gmail.com). Body: application received, hiring team reviewing; will reach out about next steps only if there is a match, "within a few business days". Marketing-lite footer links (what makes Reddit different, company values, r/RedditEng, blog, LinkedIn, Life at Reddit, 2023 recap). Explicit "do not reply — unattended mailbox". No attachments (14,622 B, multipart/alternative). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass. `List-Unsubscribe` header present but empty — no unsubscribe performed (transactional application acknowledgement, not marketing). Sibling, not duplicate: same generic subject as other Reddit application acknowledgements but different role and different message-id ⇒ distinct acknowledgement, journalled separately. No action required beyond waiting.
 - **Action required:** no
+
+## 2026-11-17 — Reddit application received: Principal Data Scientist, Ads (uid 1030)
+
+- **Date:** 2026-11-17T08:03:04Z
+- **Sender:** no-reply@us.greenhouse-mail.io (Greenhouse/Reddit Talent Acquisition)
+- **To:** sutliff.reed@gmail.com (INBOX/1030)
+- **Subject:** Thank you for your interest in joining Reddit
+- **Message-Id:** <20261117080304.4c5b710382df4f50@us.greenhouse-mail.io>
+- **UID:** 1030 (INBOX)
+- **Summary:** Greenhouse auto-reply confirming receipt of Reed's application for Reddit Principal Data Scientist, Ads. Hiring team reviewing; will follow up if a match (aims to respond within a few business days). No attachments (14,628 B, multipart/alternative). Informational/transactional; List-Unsubscribe header present but empty — no unsubscribe action. Routed sutliff.reed@gmail.com -> ingest@ffilt.us -> reed@ffilt.us. Sibling of uids 1023–1029 (same role, distinct Message-Id). Unattended mailbox — do not reply.
+- **Action required:** no
