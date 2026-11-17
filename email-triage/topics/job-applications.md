@@ -5,6 +5,16 @@ tags: [email-triage, job-applications]
 
 # Job Applications
 
+## 2026-11-17 — Reddit application received: Principal Data Scientist, Ads (uid 1023)
+
+- **Date:** 2026-11-17T07:46:03Z
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **Subject:** Thank you for your interest in joining Reddit
+- **To:** sutliff.reed@gmail.com (INBOX/1023)
+- **Message-Id:** <20261117074603.a7234ec0e39dd6bf@us.greenhouse-mail.io>
+- **Summary:** Greenhouse auto-reply confirming receipt of Reed's application for Reddit Principal Data Scientist, Ads. Hiring team reviewing; will follow up if a match (aims to respond within a few business days). No attachments. Informational/transactional; no unsubscribe action (List-Unsubscribe header empty). Routed sutliff.reed@gmail.com -> ingest@ffilt.us -> reed@ffilt.us.
+- **Action required:** no
+
 ## 2026-11-15 — Reddit application received: Software Engineer, Ad Signals (uid 958)
 
 - **Date:** 2026-11-15T22:59:03Z
