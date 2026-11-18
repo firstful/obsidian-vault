@@ -93,6 +93,7 @@ tags: [email-triage, index]
 - [t-mobile](topics/t-mobile.md) — T-Mobile wireless account notices: payment receipts and billing
 - [starbucks](topics/starbucks.md) — Starbucks Card auto-reload confirmations (transactional)
 - [tacobell](topics/tacobell.md) — Taco Bell pickup order confirmations and receipts (transactional)
+- [tax-documents](topics/tax-documents.md) — Personal tax forms (W-2, 1095-C, tip/compensation reports) from Foxen; important documents filed to vault
 - [temu](topics/temu.md) — Temu order/reshipment notices, automatic refunds and Terms/Privacy legal notices (transactional)
 - [ticketmaster](topics/ticketmaster.md) — Ticketmaster event-marketing newsletters (new onsales / upcoming concert, comedy, family-show listings; marketing)
 - [tinybeans](topics/tinybeans.md) — Tinybeans parenting-app marketing/newsletters (gift guides, Little Tikes promos; marketing)
