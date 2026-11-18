@@ -17,6 +17,17 @@ tags: [email-triage, billing]
 - **Action required:** no (autopay succeeded; review remaining balance and the $770.47 not on the plan in MyChart if needed)
 - **Related notes:** [[medical-appointments]]
 
+## 2026-11-18 - Payment issue notice: Slowdive Premium $29.99 (UID 1101)
+
+- date: 2026-11-18T03:49:37Z
+- sender: support@slowdive.app (Ascetix inc) — to emileesutliff@gmail.com, forwarded via Cloudflare Email Routing to reed@ffilt.us
+- subject: [Action required] Issue with your recent payment for Ascetix inc
+- summary: Fifth repeat of the identical Slowdive dunning notice (same Invoice #392381, $29.99, "Slowdive Premium Upgrade – 1 Month", Nov 2 – Dec 2, 2026; billing address 12703 Stonecreek Drive, Pickerington OH 43147; OH tax 6.75% ($0.00); Paid $0.00 / Total Due $29.99). Same SendGrid click-tracking links and support@slowdive.app reply address. No attachments, no List-Unsubscribe header. Prior repeats: UID 415 (2026-11-06, not in ledger), UID 571 (2026-11-09, journaled), UID 733 (2026-11-12, journaled), UID 920 (2026-11-15, journaled). Message-id differs from UID 920; same slowdive.app sender, SPF/DKIM/ARC pass — consistent with the app's own billing system. Addressed to Emilee's mailbox, not Reed's.
+- account: last-4 not stated anywhere in the message
+- action-required: yes (Emilee: update the payment method or cancel — the premium subscription lapses otherwise. Do not click links unless the Slowdive subscription is actually wanted.)
+- ledger-note: no unsubscribe performed (none offered; transactional billing notice)
+- message-id: <6afd20513b07c_124c82269602@emaily-consumer-7694b9759d-wps4n.mail>
+
 ## 2026-11-15 - Payment issue notice: Slowdive Premium $29.99 (UID 920)
 
 - date: 2026-11-15T03:49:33Z
