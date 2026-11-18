@@ -5,6 +5,17 @@ tags: [email-triage, job-applications]
 
 # Job Applications
 
+## 2026-11-18 — Affirm application decision: not moving forward (uid 1145)
+
+- **Date:** 2026-11-18T20:44:22Z
+- **Sender:** no-reply@affirm.com (Greenhouse / Affirm Talent Team; per-employer `gh-mail.affirm.com`)
+- **To:** sutliff.reed@gmail.com (INBOX/1145; routed via Cloudflare Email Routing → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Your Application to Affirm
+- **Message-Id:** <20261118204422.69f25b18d40ac368@gh-mail.affirm.com>
+- **UID:** 1145 (INBOX)
+- **Summary:** Greenhouse (Mailgun) hiring DECISION / rejection notice for Reed's application for **Staff Software Engineer, Backend (Ledger Engineering)** at Affirm — "thank you for your interest ... unfortunately, we are not moving forward with your application at this time ... genuinely value your interest ... wishing you the best of luck on your job search." Notes the update applies only to the Ledger Engineering role if Reed applied to multiple positions at Affirm. Same decision-notice subtype as the [[job-applications|Discord decision, uid 1122]]: `X-Mailgun-Tag: ScheduledCandidateEmail` (NOT CandidateAutoReply), `X-Feedback-Id: ...:ScheduledCandidateEmail:...:mailgun`, `X-Gh-Mailer-Variables-Transport: mailgun`, `X-Gh-Email-Transport: mailgun`, `X-Jellyfish-No-Auto-Response: 1`, no attachments (13,796 B, multipart/alternative). Authentic: DKIM pass (gh-mail.affirm.com s=krs, mailgun.org s=mg), SPF pass, DMARC pass (p=quarantine), ARC pass. `List-Unsubscribe` header present but EMPTY → no unsubscribe (transactional application decision; auto-unsubscribe gate does not apply to relevant/transactional mail even though To contains "reed"). Dedupe: Message-Id hex tail `69f25b18d40ac368` and `14-digit` prefix `20261118204422` not previously in topic → distinct event, own section. Do not reply (unattended mailbox).
+- **Action required:** no — informational hiring decision (no code, deadline, or next step). Follow-up: this closes the Affirm Staff SWE Backend (Ledger Engineering) track; earlier Affirm applications (e.g. [[job-applications|uid 1109/850]]) are separate roles.
+
 ## 2026-11-18 — Discord application decision: not moving forward (uid 1122)
 
 - **Date:** 2026-11-18T14:53:45Z
