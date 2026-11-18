@@ -5,6 +5,17 @@ tags: [email-triage, job-applications]
 
 # Job Applications
 
+## 2026-11-18 — Discord application decision: not moving forward (uid 1122)
+
+- **Date:** 2026-11-18T14:53:45Z
+- **Sender:** no-reply@us.greenhouse-mail.io (Greenhouse)
+- **To:** sutliff.reed@gmail.com (INBOX/1122; routed via Cloudflare Email Routing → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Thanks for your interest in Discord!
+- **Message-Id:** <20261118145345.d9388b4bcfa42d18@us.greenhouse-mail.io>
+- **UID:** 1122 (INBOX)
+- **Summary:** Greenhouse (Mailgun) hiring decision notice for Reed's Engineering Manager, Machine Learning (Safety) application at Discord — "Thanks for applying... we've decided not to move forward with your candidacy ... love to reach back out if another role comes up." A NEW 4th Greenhouse subtype: decision/rejection notice, distinct from the CandidateAutoReply "Thank you for your interest in joining <company>" receipt ack, the security-code interstitial, and the "We've received your application" confirmation. `X-Mailgun-Tag: ScheduledCandidateEmail` (NOT CandidateAutoReply), `X-Feedback-Id: no-reply@us.greenhouse-mail.io:ScheduledCandidateEmail:...:mailgun`, org_id 4000123002, person_id 293502362002, silo_id 2. No attachments (11,024 B, multipart/alternative). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass. `List-Unsubscribe` header present but empty → no unsubscribe (transactional application decision). Dedupe: Message-Id hex tail `d9388b4bcfa42d18` not previously in topic → distinct event, own section. `X-Jellyfish-No-Auto-Response: 1`; do not reply.
+- **Action required:** no — informational hiring decision (no code, deadline, or next step; unattended mailbox)
+
 ## 2026-11-18 — Application received: Senior Software Engineer II - Agentic Intelligence at Honeycomb (uid 1110)
 
 - **Date:** 2026-11-18T09:52:02Z
