@@ -194,3 +194,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a1ef9e1e26-7d7c3f5e-7124-45fc-900c-4b4c3c3a24d1-000000@email.amazonses.com>
 - **UID:** 1130
 - **Related notes:** [[amazon-orders]] (see UID 1128 — earlier decline for the same order; UID 1127 — batch confirmation containing #112-3414340-3763451)
+
+## 2026-11-18 — Amazon delivery update: String Lights, order delayed (UID 1129)
+
+- **Date:** 2026-11-18T17:01:59Z
+- **Sender:** "amazon.com" <order-update@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded, raw Return-Path emileesutliff+caf_=ingest=ffilt.us@gmail.com)
+- **Subject:** Delivery update: String Lights
+- **Summary:** Amazon delivery-status notification (order-update) for Order #112-3121601-2478667: "Your package is delayed — Now arriving tomorrow. Previously expected November 18. We're sorry for the delay." Recipient Emilee, PICKERINGTON, OH. This is the Seasonal Décor order from sibling UID 1073 ($43.76 USD, "Arriving tomorrow" = Nov 18); the item is identified here as String Lights. Shipping/status notification → promo/marketing, not a transactional order fact; logged for paper trail per household convention. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed") and no `List-Unsubscribe` header present → no auto-unsubscribe. Soft ETA ("tomorrow", relative to the 11-18 email) → no calendar/purchase note.
+- **Action required:** no — informational delay update; monitor delivery/contents on arrival. No household or Rook action.
+- **Message-ID:** <010001a1ef9bab79-e7ee96a8-0bd7-4b32-8290-d77d4ee9a37c-000000@email.amazonses.com>
+- **UID:** 1129
+- **Related notes:** [[amazon-orders]] (original order confirmation UID 1073 — Seasonal Décor, #112-3121601-2478667)
