@@ -183,3 +183,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a1ef95f4cc-625d43ca-bee5-40a5-8a36-eb3c9f582602-000000@email.amazonses.com>
 - **UID:** 1128
 - **Related notes:** [[amazon-orders]] (see UID 1127 — order #112-3414340-3763451 appears in that batch confirmation)
+
+## 2026-11-18 — Amazon payment declined / payment revision needed (repeat, UID 1130)
+
+- **Date:** 2026-11-18T17:04:39Z
+- **Sender:** "Amazon.com" <payments-update@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via Google → ffilt.us ingest)
+- **Subject:** Payment declined: Update your information so we can ship your order.
+- **Summary:** Repeat transactional Amazon payment-declined notice for the SAME order as sibling UID 1128: #112-3414340-3763451, Total $38.42 USD (Emilee, PICKERINGTON, OH); "Your order is on hold because your payment was declined" / "Payment revision needed — please update your payment method" / "View or edit order." Distinct delivery (new Message-ID, ~9 min after UID 1128's 16:55:44Z) — both owe entries, but the underlying held order is unchanged; do not treat as a second order. This order is one of the four in sibling UID 1127's batch confirmation. TeleCheck FCRA notice + Amazon Store Card (Synchrony) contact numbers included. Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass bounces.amazon.com (54.240.13.7), ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES, all links to amazon.com/m.media-amazon.com. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed") → no auto-unsubscribe gating; transactional and no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk header present.
+- **Action required:** yes — Emilee must update/repair the payment method (verify card details with bank, or resolve TeleCheck/Synchrony issue) to release the held order; no action for Rook.
+- **Message-ID:** <010001a1ef9e1e26-7d7c3f5e-7124-45fc-900c-4b4c3c3a24d1-000000@email.amazonses.com>
+- **UID:** 1130
+- **Related notes:** [[amazon-orders]] (see UID 1128 — earlier decline for the same order; UID 1127 — batch confirmation containing #112-3414340-3763451)
