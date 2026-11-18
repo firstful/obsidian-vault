@@ -315,3 +315,15 @@ tags: [email-triage, medical-appointments]
 - **Summary:** MyChart appointment reminder addressed to Reed ("Dear Reed") for a **telehealth (video) visit on 2026-11-25 11:35 AM EST with Jeffrey Schord, MD** at OSU Wexner Medical Center. Body states it is a video visit — do NOT go to the doctor's office; join online using a computer. Requests completing online preregistration before the visit via https://mychart.osu.edu/osumc/s/V37DDGAFS5S3NFD2K5BBLWVNXQ/echeckin (also https://mychart.osu.edu/osumc/). Includes five video-visit tips (enable Telehealth alerts, quiet/well-lit location with strong internet, charged device on a stable surface, check camera/mic at check-in, keep medications nearby). Telehealth billing: 614-293-8008; MyChart Technical Support 614-366-6975 / MyChartTechSupport@osumc.edu (Mon–Fri 7 a.m.–6 p.m. ET). Distinct from the Emilee 2026-11-16 neurology video-visit series (UIDs 892/953/1000/1002/1004/1006) — this is a new 2026-11-25 telehealth appointment for Reed with a different provider. DKIM/SPF/DMARC/ARC pass; no List-Unsubscribe header. To is Reed's mailbox, but classification is relevant/transactional → never auto-unsubscribe (no `unsubscribes.md` row).
 - **Action required:** yes (complete MyChart preregistration/eCheck-in before the 2026-11-25 11:35 AM EST telehealth visit; test camera/mic and join online at visit time)
 - **Related:** [[calendar/2026-11-25 - Reed telehealth visit (Jeffrey Schord, MD)]], [[medical-appointments]]
+
+## 2026-11-18 — New MyChart message for Elijah (Nationwide Children's, Emilee; UID 1142)
+
+- **Date:** 2026-11-18T20:02:42Z (Wed 15:02:42 -0500)
+- **UID:** 1142 (INBOX) · message-id: <f71199c8-486f-4101-8d6a-d5e4f7820125@H2PWEXCHSVR01.childrensroot.net>
+- **Sender:** donotreply@nationwidechildrens.org (Nationwide Children's Hospital MyChart)
+- **Subject:** New Message
+- **To:** emileesutliff@gmail.com (original recipient; forwarded via Gmail ingest to ingest@ffilt.us, Delivered-To reed@ffilt.us)
+- **Classification:** relevant (transactional healthcare portal notification; no List-Unsubscribe, no bulk/marketing signals; DKIM/SPF/DMARC/ARC pass)
+- **Summary:** Nationwide Children's MyChart notification addressed to Emilee Sutliff ("Hello Emilee Sutliff"): "There is a new message for Elijah in MyChart." Body contains no message content, verification code, appointment, billing, or dated event — it provides a "View message" login link (mychart.nationwidechildrens.org/MyChart/.../Messaging) directing the recipient to log in to read the message. Questions: 614-938-3000. Patient is Elijah (proxy access under Emilee). Same family as prior NCH "New Message" notices (UIDs 768/847 for Elijah) and analogous to OSU plain new-message notices (UIDs 994/1010/1054/1059). Plain-text + HTML parts, 0 attachments. No `List-Unsubscribe` header; To is Emilee's mailbox (non-Reed) → no unsubscribe action.
+- **Action required:** yes (log in to Nationwide Children's MyChart to read/respond to Elijah's new message)
+- **Related notes:** [[medical-appointments]]
