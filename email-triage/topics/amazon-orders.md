@@ -162,3 +162,13 @@ tags: [email-triage, amazon-orders]
 - **Action required:** no — informational order confirmation; monitor delivery/contents on arrival and review order details in Amazon if needed.
 - **Message-ID:** <010001a1ef6a0266-51181f78-e926-4f03-9ef5-b2bfb954b0f3-000000@email.amazonses.com>
 - **UID:** 1126
+
+## 2026-11-18 — Amazon order confirmation: 5 items (Hearing Protection, Toys & Games, and more) (UID 1127)
+
+- **Date:** 2026-11-18T16:20:04Z
+- **Sender:** "Amazon.com" <auto-confirm@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded, raw Return-Path emileesutliff+caf_=ingest=ffilt.us@gmail.com)
+- **Subject:** Ordered 5 items: Hearing Protection, Toys & Games, and more
+- **Summary:** Transactional Amazon order confirmation covering 5 items across 4 order numbers: #112-9779836-3767423 ($10.66 USD), #112-3414340-3763451 ($38.42 USD), #112-0337557-9738668 ($26.40 USD), #112-2983352-0481806 ($16.54 USD) — combined Grand Total $92.02 USD. All "Arriving today 8 PM – 11 PM" (soft same-day ETA, Emilee, PICKERINGTON, OH). Categories from subject (Hearing Protection, Toys & Games, and more); item-level details not fully extracted from HTML. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed") → no auto-unsubscribe gating; transactional regardless, and no List-Unsubscribe header present. Distinct from sibling UID 1126 (Baby Products, different orders/amounts). Soft same-day ETA ⇒ no calendar/purchase note. Body includes an inline ICS that is a promo reminder, not the delivery date.
+- **Action required:** no — informational order confirmation; monitor delivery/contents on arrival and review order details in Amazon if needed.
+- **Message-ID:** <010001a1ef754b43-86007c50-8bd6-4354-a066-946eb68c510a-000000@email.amazonses.com>
+- **UID:** 1127
