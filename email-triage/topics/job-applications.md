@@ -5,6 +5,16 @@ tags: [email-triage, job-applications]
 
 # Job Applications
 
+## 2026-11-18 — Application received: Senior Software Engineer II - Agentic Intelligence at Honeycomb (uid 1110)
+
+- **Date:** 2026-11-18T09:52:02Z
+- **Sender:** no-reply@honeycomb.io (Honeycomb Talent Acquisition; Greenhouse `CandidateAutoReply` via Mailgun)
+- **Subject:** Thank you for applying to Honeycomb!
+- **To:** sutliff.reed@gmail.com (INBOX/1110; routed via Cloudflare Email Routing → ingest@ffilt.us → reed@ffilt.us)
+- **Message-Id:** <20261118095202.3f9d446a1a052eff@gh-mail.honeycomb.io>
+- **Summary:** Greenhouse `CandidateAutoReply` confirming receipt of Reed's application for Senior Software Engineer II - Agentic Intelligence at Honeycomb. Body: thanks for applying, hiring team will review and be in touch if qualifications match, otherwise keep an eye on the careers page. Marketing-lite footer (Honeycomb product blurb, X/LinkedIn/YouTube links, ToS/AUP/Privacy) but the message is transactional — a submission acknowledgement, not a newsletter. Explicit "do not reply — unattended mailbox". No attachments (14,629 B, multipart/alternative). Authentic: DKIM pass (gh-mail.honeycomb.io s=krs, mailgun.org s=mg), SPF pass, DMARC pass (p=quarantine), ARC pass. `List-Unsubscribe` header present but empty — no unsubscribe performed (transactional, not marketing; gating would not apply regardless). Distinct Message-Id (Mailgun 14-digit timestamp prefix `20261118095202`) → own entry, deduped by Message-Id not subject. First Honeycomb application ack in this topic (job-application family: Affirm, Reddit, Cresta, Descript, ZoomInfo, now Honeycomb). No calendar/bills note — no date, deadline, or next step.
+- **Action required:** no — confirmation only; wait for recruiter follow-up.
+
 ## 2026-11-18 — Application received: Senior Software Engineer, Backend (Continuous Delivery) at Affirm (uid 1109)
 
 - **Date:** 2026-11-18T09:49:04Z
