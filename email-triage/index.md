@@ -9,6 +9,7 @@ tags: [email-triage, index]
 - [daybetter](topics/daybetter.md) — DayBetter transactional account verification codes/security notices
 
 - [aliexpress](topics/aliexpress.md) — AliExpress marketing digests / personalized product recommendations (marketing)
+- [american-express](topics/american-express.md) — American Express website Terms of Service / account legal & servicing notices (transactional, not marketing)
 - [allegiant](topics/allegiant.md) — Allegiant Air fare promos (marketing)
 - [amazon-orders](topics/amazon-orders.md)
 - [walmart-orders](topics/walmart-orders.md) — Walmart.com transactional order/payment, delivery, and cancellation notices
