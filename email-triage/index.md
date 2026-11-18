@@ -70,6 +70,7 @@ tags: [email-triage, index]
 - [notion](topics/notion.md) — Notion dormant-account deletion notice (free account unused 5+ years; deleted 2027-02-13 unless logged in)
 - [openai](topics/openai.md) — OpenAI / ChatGPT product marketing (feature promos, e.g. ChatGPT Images style presets; marketing)
 - [paypal](topics/paypal.md) — PayPal account notices (negative balance / collections reminders, failed automatic payments, account statements)
+- [paystubs](topics/paystubs.md) — Reed's paystubs / income-payroll documents emailed in from Foxen Solutions for ingest (personal, action required)
 - [personal-blog](topics/personal-blog.md) — Personal blog (firstful/personal-blog) GitHub Actions CI failures
 - [pet-cloud](topics/pet-cloud.md) — My PetCloud / Independence Pet Group (mypetinsurer.com) transactional account notices: login verification codes
 - [pickerington-schools](topics/pickerington-schools.md) — Pickerington Local School District (PLSD) communications (Project 256 video, school closures, Student Opportunity Fund, etc.)
