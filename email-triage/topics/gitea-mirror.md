@@ -223,3 +223,14 @@ tags: [email-triage, gitea-mirror]
 - **Summary:** GitHub Actions workflow "Gitea mirror" in firstful/gitea-mirror failed on main (commit 9d37763). Job "mirror" failed with 3 annotations; workflow duration 26m44s, finished 2026-11-17 21:31:37 UTC. Run: https://github.com/firstful/gitea-mirror/actions/runs/44176016022. Recurring failure — same workflow/commit has failed repeatedly since 2026-11-08 (see prior entries in this topic); mirror workflow itself is broken rather than a transient flake. Failed-step/annotation detail not enriched: repo is private, so unauthenticated GitHub REST endpoints return 404 and job logs require admin rights; the email body's annotation count is the best-available detail. No List-Unsubscribe header (GitHub notification-management link only); To is a noreply GitHub address with no "reed", so no auto-unsubscribe.
 - **Action required:** yes — investigate Gitea mirror workflow failure on firstful/gitea-mirror main (9d37763), review the failing step/annotations in GitHub Actions, and restore successful mirroring.
 - **Classification:** relevant — CI failure, recurring mirror breakage
+
+## 2026-11-18 — Run failed: Gitea mirror - main (9d37763) (UID 1107)
+
+- **UID / Message-ID:** 1107 / `<firstful/gitea-mirror/check-suites/CS_kwDOTzxDUc8AAAAb5WRCRA/1794989026@github.com>`
+- **Date:** 2026-11-18T08:04:06Z (email; run finished 2026-11-18 08:03:46 UTC)
+- **From:** Reed Sutliff <notifications@github.com>
+- **To:** "firstful/gitea-mirror" <gitea-mirror@noreply.github.com>
+- **Subject:** [firstful/gitea-mirror] Run failed: Gitea mirror - main (9d37763)
+- **Summary:** GitHub Actions workflow "Gitea mirror" in firstful/gitea-mirror failed on main (commit 9d37763). Job "mirror" failed with 3 annotations; workflow duration 21m40s, finished 2026-11-18 08:03:46 UTC. Run: https://github.com/firstful/gitea-mirror/actions/runs/44260928243. Recurring failure — this is the 21st recorded failure on the unchanged commit 9d37763 (same workflow failing repeatedly since 2026-11-08; see prior entries in this topic); the mirror workflow itself is broken rather than a transient flake, and the mirror is not updating. Failed-step/annotation detail not enriched: repo is private, so the unauthenticated GitHub REST endpoints return 404 and job logs require admin rights; the email body's annotation count is the best-available detail. No List-Unsubscribe header (GitHub List-Id/List-Post/List-Archive + notification-management link only); To is a noreply GitHub address with no "reed", so no auto-unsubscribe.
+- **Action required:** yes — investigate Gitea mirror workflow failure on firstful/gitea-mirror main (9d37763), review the failing step/annotations in GitHub Actions, and restore successful mirroring. Given 21 consecutive failures on an unchanged commit, treat the mirror workflow itself as broken.
+- **Classification:** relevant — CI failure, recurring mirror breakage
