@@ -42,6 +42,7 @@ tags: [email-triage, index]
 - [gift-exchange](topics/gift-exchange.md) — Gift exchange / Secret Santa (drawnames.com)
 - [gitea-mirror](topics/gitea-mirror.md) — Gitea mirror GitHub Actions CI failures
 - [github-security](topics/github-security.md) — GitHub security alerts and notifications
+- [github-dependabot-pr](topics/github-dependabot-pr.md) — GitHub Dependabot pull-request activity notifications (PR comments/state changes; transactional, informational)
 - [google-account](topics/google-account.md) — Google Account security alerts and verification notices
 - [google-fi](topics/google-fi.md) — Google Fi Wireless rejoin/win-back offers and plan promos (marketing)
 - [google-gemini](topics/google-gemini.md) — Google Gemini mandatory privacy/settings service announcements (e.g. Keep Activity split into history-retention + AI-training settings; informational, not marketing)
