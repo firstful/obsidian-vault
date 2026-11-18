@@ -152,3 +152,13 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a1eae9f887-aa6287ef-ebf0-4af8-b19c-d5643084395e-000000@email.amazonses.com>
 - **UID:** 1073
 - **Related notes:** [[amazon-orders]] (see UID 916 for prior Seasonal Décor order)
+
+## 2026-11-18 — Amazon order confirmation: 1 item (Baby Products) (UID 1126)
+
+- **Date:** 2026-11-18T16:07:44Z
+- **Sender:** "Amazon.com" <auto-confirm@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded, raw Return-Path emileesutliff+caf_=ingest=ffilt.us@gmail.com)
+- **Subject:** Ordered 1 item: Baby Products
+- **Summary:** Transactional Amazon order confirmation. Order #112-2811727-7669049, Grand Total $53.36 USD, "Arriving today 8 PM – 11 PM" (Emilee, PICKERINGTON, OH). Category Baby Products (1 item); item-level details not fully extracted from HTML. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed"), so no auto-unsubscribe performed (transactional regardless). Soft same-day ETA ⇒ no calendar/purchase note. Body includes an inline ICS that is a promo reminder, not the delivery date.
+- **Action required:** no — informational order confirmation; monitor delivery/contents on arrival and review order details in Amazon if needed.
+- **Message-ID:** <010001a1ef6a0266-51181f78-e926-4f03-9ef5-b2bfb954b0f3-000000@email.amazonses.com>
+- **UID:** 1126
