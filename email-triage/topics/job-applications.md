@@ -5,6 +5,16 @@ tags: [email-triage, job-applications]
 
 # Job Applications
 
+## 2026-11-18 — Security code for Affirm application (uid 1108)
+
+- **Date:** 2026-11-18T09:44:49Z
+- **Sender:** Greenhouse <no-reply@us.greenhouse-mail.io>
+- **Subject:** Security code for your application to Affirm
+- **To:** sutliff.reed@gmail.com (INBOX/1108)
+- **Message-Id:** <6afd7391526ee_9c7b44d20892bc@prod-jben-web-5f67897745-d6dnd.mail>
+- **Summary:** Greenhouse security verification code for Reed's Affirm job application (uid 1108). Body instructs to copy/paste the 8-digit code into the security code field on the application, then resubmit. Code: 23451724. Time-sensitive transactional/application verification (not marketing). 1 inline image attachment (Greenhouse Recruiting logo, image/png, 6756 B). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass. Routed sutliff.reed@gmail.com -> ingest@ffilt.us -> reed@ffilt.us. No unsubscribe action taken (transactional, no List-Unsubscribe). Distinct from earlier Affirm codes (38425863 on 2026-11-08, 55074233 on 2026-11-09 uid 578, 87703637 on 2026-11-13 uid 804).
+- **Action required:** yes — enter code 23451724 in the Affirm application security-code field and resubmit (if still pending)
+
 ## 2026-11-18 — Security code for Reddit application (uid 1098)
 
 - **Date:** 2026-11-18T01:27:34Z
