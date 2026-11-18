@@ -19,3 +19,15 @@ Transactional GitHub notifications for Dependabot pull-request activity (comment
 - summary: Dependabot left a canned comment on PR [[firstful/quartz#1]] (dev-dependency bump: typescript 5.9.3 → 7.0.2). The comment states the PR was built from a group rule, that closing it will not ignore these versions in future PRs, and points to `ignore` rules in dependabot.yml if the dependency should be excluded. Trigger was a PR open/close state change (`X-GitHub-Reason: state_change`), not a request for action. Link: https://github.com/firstful/quartz/pull/1#issuecomment-6991634342
 - action-required: no (informational bot comment; no review, approval, or code action requested)
 - notes: Transactional GitHub mail (`X-GitHub-Reason: state_change`, `Precedence: list`). Carries an RFC 8058 one-click `List-Unsubscribe` + mailto header, but this is a dev notification, not marketing; To address is `quartz@noreply.github.com` (no "reed") so the auto-unsubscribe gate does not apply — intentionally NOT unsubscribed. Note the TS 5.9.3 → 7.0.2 bump is a major-version dev-dependency change in a repo Reed appears to maintain; no ledger/calendar bill or event implied.
+
+## 2026-11-18 — Dependabot bot comment on ci-dependencies group PR #2 (UID 1146)
+
+- date: 2026-11-18T21:06:33Z (Wed, 18 Nov 2026 13:06:33 -0800)
+- sender: "dependabot[bot]" <notifications@github.com>
+- to: firstful/quartz <quartz@noreply.github.com>
+- subject: Re: [firstful/quartz] chore(deps): bump the ci-dependencies group with 6 updates (PR #2)
+- uid: 1146 (INBOX)
+- message_id: <firstful/quartz/pull/2/c6991633749@github.com>
+- summary: Dependabot left a canned comment on PR [[firstful/quartz#2]] (chore(deps): bump the `ci-dependencies` group with 6 updates). Same canned group-rule text as the [[github-dependabot-pr|PR #1 TypeScript bump]] comment 3 seconds earlier — PR was built from a group rule, closing it will not ignore these versions, configure `ignore` rules in dependabot.yml to exclude them. Trigger was a PR state change (`X-GitHub-Reason: state_change`), not a request for action. No build/CI failure, no vulnerability/CVE, no review/approval request. Link: https://github.com/firstful/quartz/pull/2#issuecomment-6991633749
+- action-required: no (informational bot comment; no review, approval, or code action requested)
+- notes: Transactional GitHub mail (`X-GitHub-Reason: state_change`, `Precedence: list`). Carries RFC 8058 one-click `List-Unsubscribe` + mailto header, but this is a dev notification, not marketing; To is `quartz@noreply.github.com` (no "reed") so the auto-unsubscribe gate does not apply — intentionally NOT unsubscribed. Sibling to UID 1147 (PR #1) — same repo/sender/class seconds apart, distinct PR (PR #2, ci-dependencies 6-update group), so a separate entry. No concrete household date/event → no `calendar/` note.
