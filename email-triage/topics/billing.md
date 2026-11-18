@@ -5,6 +5,18 @@ tags: [email-triage, billing]
 
 # Billing / Invoices
 
+## 2026-11-18 — Columbia Gas of Ohio bill ready: $265.00 due 2026-12-10 (UID 1105, sibling of 1106)
+
+- **Date:** 2026-11-18T08:01:26Z
+- **UID:** 1105 (INBOX) · message-id: <734014120.168234.1794988887042@107f9da8a0ef>
+- **Sender:** Columbia Gas <myaccount@columbiagasohio.com>
+- **To:** REEDSUT+CGOO@gmail.com (Gmail alias; forwarded via Cloudflare Email Routing / Namecheap to reed@ffilt.us)
+- **Subject:** Columbia Gas of Ohio Bill Ready
+- **Classification:** relevant (utility bill notice — concrete amount + due date)
+- **Summary:** Distinct delivery of the same Columbia Gas bill as sibling UID 1106, to the `REEDSUT+CGOO@gmail.com` alias instead of `REEDSUT@gmail.com` (different message-id, same date/amount/account). **Current charges due: $265.00**, **due 12/10/2026**, account ****02850010006**. "Do Not Reply" sender; transactional billing notice — no `List-Unsubscribe` header, no marketing content, no attachments. SPF/DKIM/DMARC/ARC pass, sender domain `columbiagasohio.com` — consistent with the utility's own billing system.
+- **Action required:** yes — same bill as UID 1106; review and pay $265.00 by 2026-12-10 via the Columbia Gas online account (open the site directly, do not reply to the sender). Due date tracked in [[calendar/2026-12-10 - Columbia Gas of Ohio bill due]]; account/cadence details in [[Columbia Gas of Ohio]]. One payment covers both notices — do not pay twice.
+- **ledger-note:** no unsubscribe (transactional bill; not marketing). Distinct message-id from UID 1106 → logged as a sibling entry, not a duplicate.
+
 ## 2026-11-18 — Columbia Gas of Ohio bill ready: $265.00 due 2026-12-10 (UID 1106)
 
 - **Date:** 2026-11-18T08:01:26Z
