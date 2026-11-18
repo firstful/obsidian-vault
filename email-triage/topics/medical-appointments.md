@@ -291,3 +291,15 @@ tags: [email-triage, medical-appointments]
 - **Summary:** Nationwide Children's MyChart message addressed to Emilee ("Hello Emilee"): "Check in online before Elijah's upcoming visits." Lists one concrete appointment — **11/18 at 1:30 PM EST with Kristen Crabtree** (patient Elijah) — with an eCheck-in link (mychart.nationwidechildrens.org/MyChart/s/.../echeckin). Questions: call **614-355-7500**. Matches the existing calendar note `2026-11-18 - Dbp Follow Up (Kristen Crabtree, Elijah).md` (13:30 EST, 187 West Schrock Road, Westerville OH); this email is the check-in reminder for that same visit, so the calendar note is linked/extended rather than duplicated. Plain-text part (250 bytes) + HTML (7,697 bytes); 0 attachments. NCH sender matches prior entries (937 autopay, 768/847 new message, 1056 OTP, 1060 account-link). No `List-Unsubscribe` header; To is Emilee's mailbox (non-Reed) → no unsubscribe action.
 - **Action required:** yes (complete online eCheck-in for Elijah's 11/18 1:30 PM EST visit with Kristen Crabtree via the NCH MyChart link before the appointment; call 614-355-7500 with questions)
 - **Related notes:** [[medical-appointments]], [[2026-11-18 - Dbp Follow Up (Kristen Crabtree, Elijah)]]
+
+## 2026-11-18 — MyChart appointment reminder, preregister (OSU Wexner, Reed; UID 1123)
+
+- **Date:** 2026-11-18T15:01:36Z (Tue 10:01:36 -0500)
+- **UID:** 1123 (INBOX) · message-id: <34b492cd-8ffa-437b-9670-fd2b90f4e357@SVR-EXCH19-VP02.OSUMC.EDU>
+- **Sender:** MyChart_DoNotReply@osumc.edu (OSU Wexner Medical Center MyChart)
+- **Subject:** MyChart - New Appointment Reminder.  Please preregister.
+- **To:** emileesutliff@gmail.com (original recipient; forwarded to ingest@ffilt.us, Delivered-To reed@ffilt.us)
+- **Classification:** relevant (transactional healthcare appointment reminder; no List-Unsubscribe)
+- **Summary:** New OSU Wexner MyChart appointment reminder addressed to Emilee ("You have a new check-in reminder for Reed in MyChart"): **patient is Reed**, scheduled for a **telehealth / video visit on 2026-11-25 at 11:35 AM EST with Jeffrey Schord, MD**. Emilee should not go to the doctor's office if joining — Reed's visit is joined online ("using your computer or mobile device"). Requests completing online **preregistration** in MyChart. Newest eCheck-in link: https://mychart.osu.edu/osumc/s/NI2ARKXE25QTZPFLEKBSGGTQ5M/echeckin (also https://mychart.osu.edu/osumc/). Telehealth billing 614-293-8008; MyChart Tech Support 614-366-6975. Distinct NEW appointment — different provider (Schord vs. Jordan Bulcher PA-C), date (11-25 vs. 11-16), and patient (Reed vs. Emilee) from the 2026-11-16 video-visit reminder series (UIDs 892/953/1000/1002/1004/1006). DKIM/SPF/DMARC/ARC pass; no List-Unsubscribe; To is Emilee's mailbox (non-Reed) → no unsubscribe action.
+- **Action required:** yes (complete MyChart preregistration before the 2026-11-25 11:35 AM EST telehealth visit; join online, do not travel to the office)
+- **Related:** [[calendar/2026-11-25 - Reed telehealth visit (Jeffrey Schord, MD)]], [[medical-appointments]]
