@@ -172,3 +172,14 @@ tags: [email-triage, amazon-orders]
 - **Action required:** no — informational order confirmation; monitor delivery/contents on arrival and review order details in Amazon if needed.
 - **Message-ID:** <010001a1ef754b43-86007c50-8bd6-4354-a066-946eb68c510a-000000@email.amazonses.com>
 - **UID:** 1127
+
+## 2026-11-18 — Amazon payment declined / payment revision needed (UID 1128)
+
+- **Date:** 2026-11-18T16:55:44Z
+- **Sender:** "Amazon.com" <payments-update@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded, raw Return-Path emileesutliff+caf_=ingest=ffilt.us@gmail.com)
+- **Subject:** Payment declined: Update your information so we can ship your order.
+- **Summary:** Transactional Amazon payment-declined notice. Order #112-3414340-3763451, Total $38.42 USD (Emilee, PICKERINGTON, OH); "Your order is on hold because your payment was declined" / "Payment revision needed — please update your payment method." This order is one of the four in sibling UID 1127's batch confirmation (#112-3414340-3763451, $38.42 USD). TeleCheck FCRA notice + Amazon Store Card (Synchrony) contact numbers included; guidance to verify card details with bank and retry the order. Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass bounces.amazon.com (54.240.13.74), ARC pass google.com, all links to www.amazon.com / m.media-amazon.com, Message-ID @email.amazonses.com. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed") → no auto-unsubscribe gating; transactional and no List-Unsubscribe header present.
+- **Action required:** yes — Emilee must update/repair the payment method (verify card details with bank, or resolve TeleCheck/Synchrony issue) to release the held order; no action for Rook.
+- **Message-ID:** <010001a1ef95f4cc-625d43ca-bee5-40a5-8a36-eb3c9f582602-000000@email.amazonses.com>
+- **UID:** 1128
+- **Related notes:** [[amazon-orders]] (see UID 1127 — order #112-3414340-3763451 appears in that batch confirmation)
