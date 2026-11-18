@@ -23,3 +23,7 @@ The email stated the payment could still be cancelled before processing began; s
 ## Payment hold / funds availability (2026-11-18 update)
 
 A follow-up Capital One notice (uid 1117, [[capital-one]]) says the credit for this $3,751.74 payment is **held for a security check until 2026-11-22** (5 days from the payment date). The payment is still applied toward the ...4809 balance and minimum due, but available credit is not yet restored. Funds release 2026-11-22 unless Reed confirms sooner by connecting the Huntington ...3792 account via Mastercard Data Connect or calling the number on the back of the card. Payment amount/balance posting is unchanged; this affects only funds-availability timing.
+
+## Posting confirmation (2026-11-18, uid 1152)
+
+A "We've received your payment" receipt (uid 1152, [[capital-one]]) confirms the $3,751.74 payment **posted to card ...4809 on 2026-11-17** (matched to confirmation U5U9L283 / this note's payment). Status remains `paid`; no date or amount change. The 2026-11-22 funds-availability hold from uid 1117 is unaffected — available credit typically updates within a day of the posted date; verify final balance/available credit in the Capital One app.
