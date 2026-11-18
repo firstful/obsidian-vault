@@ -5,6 +5,16 @@ tags: [email-triage, job-applications]
 
 # Job Applications
 
+## 2026-11-18 — Security code for Reddit application (uid 1098)
+
+- **Date:** 2026-11-18T01:27:34Z
+- **Sender:** no-reply@us.greenhouse-mail.io
+- **Subject:** Security code for your application to Reddit
+- **To:** sutliff.reed@gmail.com (INBOX/1098)
+- **Message-Id:** <6afcff06658c_5fb3c4d40175e@prod-jben-web-5f67897745-rt9bn.mail>
+- **Summary:** Greenhouse security verification code for Reed's Reddit job application (uid 1098). Body instructs to copy/paste the 8-digit code into the security code field on the application, then resubmit. Code: 45772485. Time-sensitive transactional/application verification (not marketing). 1 inline image attachment (Greenhouse Recruiting logo, image/png, 6756 B). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass. Routed sutliff.reed@gmail.com -> ingest@ffilt.us -> reed@ffilt.us. No unsubscribe action taken (transactional).
+- **Action required:** yes — enter code 45772485 in the Reddit application security-code field and resubmit (if still pending)
+
 ## 2026-11-18 — Security code for Reddit application (uid 1097)
 
 - **Date:** 2026-11-18T01:20:12Z
