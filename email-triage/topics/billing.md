@@ -5,6 +5,18 @@ tags: [email-triage, billing]
 
 # Billing / Invoices
 
+## 2026-11-18 — Columbia Gas of Ohio bill ready: $265.00 due 2026-12-10 (UID 1106)
+
+- **Date:** 2026-11-18T08:01:26Z
+- **UID:** 1106 (INBOX) · message-id: <330709835.177256.1794988887008@6b3ffe30ffa5>
+- **Sender:** Columbia Gas <myaccount@columbiagasohio.com>
+- **To:** REEDSUT@gmail.com
+- **Subject:** Columbia Gas of Ohio Bill Ready
+- **Classification:** relevant (utility bill notice — concrete amount + due date)
+- **Summary:** Columbia Gas of Ohio notified Reed that a new bill is ready to view and pay online. **Current charges due: $265.00**, **due 12/10/2026**, for account ending **02850010006** (full account shown in email as `****02850010006`). Greeting: "Hi Reed Sutliff." "Do Not Reply" sender; contact via ColumbiaGasOhio.com or 1-800-344-4077. Transactional billing notice — no `List-Unsubscribe` header, no marketing content, no attachments. HTML-only body.
+- **Action required:** yes — review and pay the $265.00 bill by 2026-12-10 via the Columbia Gas online account (open the site directly rather than clicking the email link). Due date tracked in [[calendar/2026-12-10 - Columbia Gas of Ohio bill due]]; account/cadence details in [[Columbia Gas of Ohio]].
+- **ledger-note:** no unsubscribe (transactional bill; not marketing)
+
 ## 2026-11-15 — OSU Wexner Medical Center MyChart automatic payment processed (UID 933)
 
 - **Date:** 2026-11-15T13:02:12Z
