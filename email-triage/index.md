@@ -20,7 +20,7 @@ tags: [email-triage, index]
 - [best-egg](topics/best-egg.md) — Best Egg personal loan autopay notices (transactional)
 - [bible-gateway](topics/bible-gateway.md) — Bible Gateway Deals promos and editorial/devotional newsletters (marketing)
 - [book-review-requests](topics/book-review-requests.md) — Personalized one-to-one book/manuscript review requests (publishers, editors, authors)
-- [capital-one](topics/capital-one.md) — Capital One credit card: collections/late-payment notices, payment confirmations and CreditWise credit-score alerts
+- [capital-one](topics/capital-one.md) — Capital One credit card: collections/late-payment notices, payment confirmations/holds & funds-availability alerts, and CreditWise credit-score alerts
 - [chase-credit-journey](topics/chase-credit-journey.md) — Chase Credit Journey credit-report alerts (e.g. past-due balance notices; review in Credit Journey for account-specific details)
 - [cheaper-inference](topics/cheaper-inference.md) — Cheaper Inference (Keak AI) model launch / discount announcements
 - [citizen](topics/citizen.md) — Citizen app local incident alerts (automated geo notifications)
