@@ -5,6 +5,16 @@ tags: [email-triage, job-applications]
 
 # Job Applications
 
+## 2026-11-18 — Application received: Senior Software Engineer, Backend (Continuous Delivery) at Affirm (uid 1109)
+
+- **Date:** 2026-11-18T09:49:04Z
+- **Sender:** Greenhouse <no-reply@us.greenhouse-mail.io>
+- **Subject:** We've received your application for Senior Software Engineer, Backend (Continuous Delivery) at Affirm
+- **To:** sutliff.reed@gmail.com (INBOX/1109)
+- **Message-Id:** <20261118094904.00f6b67a2e763a8d@us.greenhouse-mail.io>
+- **Summary:** Greenhouse `CandidateAutoReply` confirming receipt of Reed's Affirm application for Senior Software Engineer, Backend (Continuous Delivery). Pure acknowledgement — thanks for applying, notes high application volume and a thoughtful review process, links to Affirm investor/recruiter/culture/CEO material, and a recruiting-scam warning (legit mail only from @affirm.com or @us.greenhouse-mail.io). Time-sensitive? No — no code, deadline, or next step requested. Attachment: `GM___Immi_one_pager.pdf` (application/pdf, ~114 KB) — Affirm immigration/sponsorship info one-pager. Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass. Routed sutliff.reed@gmail.com -> ingest@ffilt.us -> reed@ffilt.us. Distinct Message-Id -> own entry (dedupe by Message-Id, not subject). Sibling of uid 1108 (Affirm security code 23451724 at 09:44:49Z, 5 min earlier) — this is the post-code submission confirmation; also distinct from the 2026-11-08/11-09/11-13 Affirm codes. No unsubscribe action (transactional, no List-Unsubscribe).
+- **Action required:** no — confirmation only; wait for recruiter follow-up (if still pending, confirm the uid 1108 security code was entered and application resubmitted)
+
 ## 2026-11-18 — Security code for Affirm application (uid 1108)
 
 - **Date:** 2026-11-18T09:44:49Z
