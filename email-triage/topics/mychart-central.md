@@ -42,3 +42,15 @@ Transactional authentication / verification-code emails from MyChart Central (`n
 - **Summary:** MyChart Central (Epic cloud) notice: "Your account has been deactivated and will be deleted in a few days." A follow-up email will be sent after deletion, at which point a new MyChart Central account can be created. Body offers a "contact us" link (https://mchrt.io/BURVJoyodoss-bL4xSc): "If you didn't request this deletion, please contact us for help." Hidden preheader: "Your account has been deactivated and will be deleted". Auth clean: DKIM pass (`d=mychart.org s=pdk1`, plus Mailgun `d=mailgun.org s=mg`), SPF pass, DMARC pass (`p=reject`), ARC pass. `X-Feedback-Id: noreply@mychart.org::...:mailgun` is a bulk-send signal, not decisive — content is transactional. HTML-only (33,118 bytes), no attachments. Context: arrives ~5 minutes after MyChart Central verification-code emails UIDs 1052 (16:45:55Z) and 1053 (16:46:54Z) — if those sign-in attempts weren't Reed's, treat the deletion as potentially unauthorized.
 - **Action required:** yes (confirm with MyChart Central whether Reed requested this deletion — if not, use the contact-us link / MyChart support immediately; account data is lost once deleted). No concrete deletion date given ("a few days"), so no calendar note.
 - **Related notes:** [[mychart-central]]
+
+## 2026-11-18 - MyChart Central account deleted (UID 1099)
+
+- **Date:** 2026-11-18 02:34:08Z
+- **Sender:** MyChart Central <noreply@mychart.org>
+- **To:** reedsut@gmail.com (delivered reed@ffilt.us)
+- **Subject:** Reed, your account has been deleted
+- **UID / Message-Id:** 1099 / <20261118023408.b3c712dc485591d5@mychart.org>
+- **Classification:** relevant (transactional account-lifecycle notice; not marketing/promo). No `List-Unsubscribe`, no `Precedence: bulk`, no marketing footer — no unsubscribe action (classification gates unsubscribes, not recipient, even though To contains "reed").
+- **Summary:** Follow-up to UID 1057 ("Reed, your account will be deleted in a few days"): MyChart Central (Epic cloud) confirms Reed's account has been deleted. If Reed uses his Epic ID to log in to any MyChart accounts, he will no longer be able to do so; for login help, contact that organization's patient support. A new MyChart Central account can be created at any time. Auth clean: DKIM pass (`d=mychart.org s=pdk1`, plus Mailgun `d=mailgun.org s=mg`), SPF pass, DMARC pass (`p=reject`), ARC pass. HTML-only (32,093 bytes), no attachments.
+- **Action required:** no (informational deletion confirmation; create a new MyChart Central account only if Reed wants one). If Reed did NOT request the deletion (see UID 1057 context), contact MyChart support — account data is already gone.
+- **Related notes:** [[mychart-central]]
