@@ -205,3 +205,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a1ef9bab79-e7ee96a8-0bd7-4b32-8290-d77d4ee9a37c-000000@email.amazonses.com>
 - **UID:** 1129
 - **Related notes:** [[amazon-orders]] (original order confirmation UID 1073 — Seasonal Décor, #112-3121601-2478667)
+
+## 2026-11-18 — Amazon order confirmation: 1 item (Seasonal Décor) (UID 1133)
+
+- **Date:** 2026-11-18T18:20:31Z
+- **Sender:** "Amazon.com" <auto-confirm@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via Google → ffilt.us ingest, raw Return-Path emileesutliff+caf_=ingest=ffilt.us@gmail.com)
+- **Subject:** Ordered 1 item: Seasonal Décor
+- **Summary:** Transactional Amazon order confirmation. Order #112-5238060-2074632, Grand Total $28.81 USD, "Arriving tomorrow" (Emilee, PICKERINGTON, OH). Category Seasonal Décor (1 item); item-level details not fully extracted from HTML. Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass bounces.amazon.com (client-ip 54.240.13.141), ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES, all links to amazon.com/m.media-amazon.com. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed") → no auto-unsubscribe gating; transactional and no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk header present. Distinct from sibling Seasonal Décor orders UID 1073 (#112-3121601-2478667, $43.76) and UID 916 — different order/amount. Soft ETA ("tomorrow" relative to the 11-18 email) ⇒ no calendar/purchase note. Body includes an inline ICS that is a promo reminder, not the delivery date.
+- **Action required:** no — informational order confirmation; monitor delivery/contents on arrival and review order details in Amazon if needed.
+- **Message-ID:** <010001a1efe391ad-02553aea-2fff-4fec-b93e-677f420cc604-000000@email.amazonses.com>
+- **UID:** 1133
+- **Related notes:** [[amazon-orders]] (other Seasonal Décor orders: UID 1073, UID 916)
