@@ -60,6 +60,7 @@ tags: [email-triage, index]
 - [mcdonalds](topics/mcdonalds.md) — McDonald's Mobile Order & Pay receipts (order/store, item totals, card last-4)
 - [mychart-central](topics/mychart-central.md) — MyChart Central (Epic) account-welcome and authentication/verification-code notices (noreply@mychart.org)
 - [medical-appointments](topics/medical-appointments.md) — Medical appointments, check-ins, and MyChart billing/payment-plan notices (Nationwide Children's, OSU Wexner)
+- [vet-appointments](topics/vet-appointments.md) — Veterinary appointment notifications for household pets (Cross Creeks Animal Hospital / IDEXX Vello; Suki, Maxine)
 - [meta-for-developers](topics/meta-for-developers.md) — Meta for Developers product/model launch announcements (Muse Ember, Meta Model API; marketing)
 - [microsoft-azure](topics/microsoft-azure.md) — Microsoft Azure marketing promos (App Service plan offers, discounts; Microsoft/Azure bills stay in billing)
 - [namecheap](topics/namecheap.md) — Namecheap Private Email product announcements and mobile-app marketing (marketing)
