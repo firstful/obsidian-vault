@@ -145,3 +145,12 @@ Informational only; never action-required.
 - Summary: Daily Informed Delivery digest for Wednesday 18 November 2026 — 3 mailpieces, 0 inbound packages arriving soon; "Expected Today 3 item(s) FROM: Valvoline Instant Oil Change". Five mailpiece-scan JPEG attachments (2877323131-010.jpg 37 KB, content-1202113029.jpg 66 KB, 2877364178-010.jpg 45 KB, content-1202193277.jpg 38 KB, 2877364117-010.jpg 28 KB; 354 KB message). "No packages are available to display." No package exceptions, bills, deadlines, or account actions referenced.
 - Action required: no
 - Notes: Live triage (event id 1114). Sibling of UID 1113 (Emilee's copy, 12:48:03Z) — separate envelope, separate message-id, different household mailbox, byte-identical subject; a subject-only dedupe would have wrongly skipped it. To is Reed's mailbox (contains "reed"), but USPS digests are never marketing and never unsubscribed — no unsubscribe performed. Body fetched via HTTP LAN fallback (email_status/meta hit the known TypeError via MCP). Triage summary posted to #email-triage per inbound trigger.
+
+## 2026-11-19 12:55 — USPS Informed Delivery: "Your Daily Digest for Thu, 11/19 is ready to view"
+
+- UID: 1173 (INBOX) · message-id: <20261119125524.51e366605b8e8145@email.informeddelivery.usps.com>
+- To: reedsut@gmail.com (greeting "Hi , Reed !" — merge-field artifact); forwarded into ingest via Cloudflare Email Routing (Delivered-To: reed@ffilt.us)
+- Date: 2026-11-19T12:55:24Z
+- Summary: Daily Informed Delivery digest for Thursday 19 November 2026 — 2 mailpieces, 0 inbound packages arriving soon; "Expected Today 2 item(s)". Two mailpiece-scan JPEG attachments (1037638352-022.jpg 38 KB, 1037710922-022.jpg 37 KB; 159 KB message). "No packages are available to display." No mailer/sender name extractable from the dashboard (generic "USPS" only). No package exceptions, bills, deadlines, or account actions referenced.
+- Action required: no
+- Notes: Live triage (event id 1173). To is Reed's mailbox (contains "reed"), but USPS digests are never marketing and never unsubscribed — no unsubscribe performed. No List-Unsubscribe action taken. Body fetched via email-sync MCP (email_fetch_body with reason; counted via QP-decode of whole raw message). Triage summary posted to #email-triage per inbound trigger.
