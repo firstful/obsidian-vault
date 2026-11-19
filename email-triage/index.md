@@ -112,3 +112,4 @@ tags: [email-triage, index]
 
 - [robinhood](topics/robinhood.md) — Robinhood Credit Card / Gold Card rewards & credit-card application marketing (promo)
 - [advance-auto-parts](topics/advance-auto-parts.md) — Advance Auto Parts marketing win-back ("We Miss You!") (marketing; unsubscribe attempted, not completed)
+- [lottiefiles](topics/lottiefiles.md) — LottieFiles product marketing (Lottie AI & Creator MCP launch) (marketing)
