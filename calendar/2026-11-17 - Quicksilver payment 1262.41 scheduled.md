@@ -2,7 +2,7 @@
 title: Quicksilver payment $1,262.41 scheduled (card ...9998)
 date: 2026-11-17
 type: payment
-status: upcoming
+status: paid
 amount: 1262.41
 currency: USD
 source: "[[capital-one]]"
