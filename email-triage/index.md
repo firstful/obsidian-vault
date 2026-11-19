@@ -13,6 +13,7 @@ tags: [email-triage, index]
 - [allegiant](topics/allegiant.md) — Allegiant Air fare promos (marketing)
 - [amazon-orders](topics/amazon-orders.md)
 - [walmart-orders](topics/walmart-orders.md) — Walmart.com transactional order/payment, delivery, and cancellation notices
+  - 2026-11-19 — Walmart login verification code 862372 for Emilee (action YES, 15-min expiry) → [[security-alerts#2026-11-19 — Walmart verification code / login OTP (Emilee; UID 1203)]]
 - [apple-developer](topics/apple-developer.md) — Apple Developer "Hello Developer" newsletter issues (Developer Center events, platform/tooling news; marketing)
 - [appliance-factory](topics/appliance-factory.md) — Appliance Factory & Mattress Kingdom purchase receipts and card refunds
 - [bibibop](topics/bibibop.md) — Bibibop Rewards transactional emails (verification codes, account notices)
@@ -43,6 +44,7 @@ tags: [email-triage, index]
 - [gift-exchange](topics/gift-exchange.md) — Gift exchange / Secret Santa (drawnames.com)
 - [gitea-mirror](topics/gitea-mirror.md) — Gitea mirror GitHub Actions CI failures
 - [github-security](topics/github-security.md) — GitHub security alerts and notifications
+- [security-alerts](topics/security-alerts.md) — Cross-service account-security alerts & one-time verification codes (Google, Battle.net, eBay, Huntington, Walmart, etc.)
 - [github-dependabot-pr](topics/github-dependabot-pr.md) — GitHub Dependabot pull-request activity notifications (PR comments/state changes; transactional, informational)
 - [google-account](topics/google-account.md) — Google Account security alerts and verification notices
 - [google-fi](topics/google-fi.md) — Google Fi Wireless rejoin/win-back offers and plan promos (marketing)
