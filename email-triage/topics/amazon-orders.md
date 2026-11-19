@@ -271,3 +271,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a1f4928918-987a635f-18c5-41ce-b32f-bef910903069-000000@email.amazonses.com>
 - **UID:** 1180
 - **Related notes:** [[amazon-orders]] (see UID 1157 — shipped; UID 1176 — out for delivery; UID 1127 — batch confirmation; UID 1128/1130 — payment-declined, all order #112-3414340-3763451)
+
+## 2026-11-19 — Amazon order confirmation: 1 item (Pet Supplies) (UID 1184)
+
+- **Date:** 2026-11-19T16:42:58Z
+- **Sender:** "Amazon.com" <auto-confirm@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded, raw Delivered-To reed@ffilt.us)
+- **Subject:** Ordered 1 item: Pet Supplies
+- **Summary:** Amazon order confirmation (`auto-confirm@amazon.com`) for Order #112-4101541-3070660, Grand Total 19.20 USD, 1 item in category "Pet Supplies" (item-level detail not present in the body). Recipient Emilee - PICKERINGTON, OH. ETA prose "Arriving tomorrow" (soft, relative to 2026-11-19) — no hard date, so no calendar/purchase note (cf. UID 916/1126 soft-ETA rule). Relevant/transactional order confirmation → `topics/amazon-orders.md`. Genuine Amazon mail: Feedback-ID ...:AmazonSES, Message-ID @email.amazonses.com, forwarded via caf_=ingest=ffilt.us; no List-Unsubscribe header. Envelope to_addr is emilee.sutliff@gmail.com (no "reed") → no auto-unsubscribe. No sibling status/payment notices found for this order number yet.
+- **Action required:** no — informational order confirmation; monitor for shipment/delivery follow-ups.
+- **Message-ID:** <010001a1f4b0a1a0-2c1d4f36-5afb-4624-8ca2-050484b81939-000000@email.amazonses.com>
+- **UID:** 1184
+- **Related notes:** [[amazon-orders]]
