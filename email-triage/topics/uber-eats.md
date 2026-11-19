@@ -64,12 +64,22 @@ UID 671) — all share `List-Id: <uber-eats.2936635940.uber.com>`; those entries
 - message-id: <7bbebc2d-5123-5bff-a5e6-027fdddd1ac6@mail.uber.com>
 - related: UID 711/716 (Wendy's receipts, same card ending 9145)
 
-## 2026-11-18 - Uber Eats receipt: IHOP $53.10 (UID 1166)
+## 2026-11-18 - Uber Eats receipt: IHOP (Reynoldsburg) $41.02 (UID 1165)
+- date: 2026-11-19T04:29:14Z
+- sender: Uber Receipts <noreply@uber.com> (to emileesutliff@gmail.com)
+- subject: Your Wednesday evening order with Uber Eats
+- summary: Uber Eats receipt for Emilee's IHOP order (2413 Taylor Square Dr, Reynoldsburg, OH). Total $41.02 paid with Huntington Bank card ending 9145 (charged 11/18/26 11:29 PM). Ordered 11:10 PM, pickup 11:21 PM, delivered 11:28 PM on Nov 18, 2026 by courier EL to 12703 Stonecreek Dr NW, Pickerington, OH 43147. HTML-only receipt (no itemized list in email), no attachments. Transactional; no unsubscribe.
+- classification: relevant (transactional receipt / purchase)
+- action-required: no
+- message-id: <0c5401ff-c7a5-5211-a93f-f4231ae61236@mail.uber.com>
+- related: UID 1166 (post-tip receipt, $53.10), UID 711/716 (Wendy's receipts), UID 974/975 (Five Guys receipts), same card ending 9145
+
+## 2026-11-18 - Uber Eats receipt (tip-inclusive re-send): IHOP $53.10 (UID 1166)
 - date: 2026-11-19T04:29:22Z
 - sender: Uber Receipts <noreply@uber.com> (to emileesutliff@gmail.com)
 - subject: Your Wednesday evening order with Uber Eats
-- summary: Uber Eats receipt for Emilee's IHOP order (2413 Taylor Square Dr, Reynoldsburg, OH). Total $53.10. Payments: Huntington Bank card ending 9145 charged $41.02 and $12.08 on 11/18/26 11:29 PM (tip included). Ordered/pickup 11:21 PM, delivered 11:28 PM Nov 18, 2026 by courier EL to 12703 Stonecreek Dr NW, Pickerington, OH 43147. HTML-only (no text/plain part), no attachments, no List-Unsubscribe (transactional).
+- summary: Second receipt for the same IHOP order (2413 Taylor Square Dr, Reynoldsburg, OH) already logged as UID 1165, this copy issued after the tip was added: total $53.10 vs $41.02 on the earlier copy. Payments shown as two Huntington Bank card 9145 charges - $41.02 and $12.08 on 11/18/26 11:29 PM (tip $12.08). Ordered/pickup 11:21 PM, delivered 11:28 PM Nov 18, 2026 by courier EL to 12703 Stonecreek Dr NW, Pickerington, OH 43147. HTML-only (no text/plain part), no attachments, no List-Unsubscribe (transactional).
 - classification: relevant (purchase receipt)
 - action-required: no
 - message-id: <cc81abf0-55dc-566b-8c95-c3159c8b9b0d@mail.uber.com>
-- related: UID 711/716 (Wendy's), UID 974/975 (Five Guys) — same card ending 9145
+- related: UID 1165 (pre-tip receipt, $41.02)
