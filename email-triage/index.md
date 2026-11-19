@@ -18,7 +18,7 @@ tags: [email-triage, index]
 - [appliance-factory](topics/appliance-factory.md) — Appliance Factory & Mattress Kingdom purchase receipts and card refunds
 - [bibibop](topics/bibibop.md) — Bibibop Rewards transactional emails (verification codes, account notices)
 - [bosch](topics/bosch.md) — Bosch appliance registration confirmations and product care (transactional)
-- [billing](topics/billing.md) — Bills and invoices (Microsoft/Azure, Columbia Gas and other utilities, etc.)
+- [billing](topics/billing.md) — Bills and invoices (Microsoft/Azure, Columbia Gas and South Central Power electric, other utilities, etc.)
 - [bandcamp](topics/bandcamp.md) — Bandcamp fan release notifications (marketing)
 - [best-egg](topics/best-egg.md) — Best Egg personal loan autopay notices (transactional)
 - [bible-gateway](topics/bible-gateway.md) — Bible Gateway Deals promos and editorial/devotional newsletters (marketing)

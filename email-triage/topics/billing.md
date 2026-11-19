@@ -5,6 +5,18 @@ tags: [email-triage, billing]
 
 # Billing / Invoices
 
+## 2026-11-19 — South Central Power electric bill available: $331.00 due 2026-12-04 (UID 1213)
+
+- **Date:** 2026-11-19T23:12:54Z
+- **UID:** 1213 (INBOX) · message-id: <9K3Dr_FjQwCMh8RSTasLow@geopod-ismtpd-17>
+- **Sender:** South Central Power <southcentralpower@smarthub.coop> (reply-to southcentralpower-no-reply@southcentralpower.com)
+- **To:** reedsut@gmail.com
+- **Subject:** Your Electric Bill is Available
+- **Classification:** relevant (utility bill notice — concrete amount + due date)
+- **Summary:** South Central Power notified Reed that a new electric bill is available. **Amount: $331.00**, **due 2026-12-04**, account **1069805**, service location 12703 Stonecreek Dr LT 373. Body states "Paid With: drafted" / "Draft Date: Dec 4, 2026" — the bill is set up on bank draft, so payment is scheduled for the due date rather than requiring a manual payment. Greeting: "REED SUTLIFF". Transactional billing notice — HTML-only, no attachments, no `List-Unsubscribe`/`Precedence: bulk`/bulk headers, "Unsubscribe" text is a footer link only. Auth clean: `Received-SPF: pass` (bounces+…@em9967.smarthub.coop, 50.31.62.250), `dkim=pass header.d=smarthub.coop` (also ARC pass via Google), Reply-To at southcentralpower.com — genuine utility billing system, not a promo/phish. Distinct from the South Central Power promo survey (UID 1209, NRECA/Qualtrics, already unsubscribed): different sender domain and payload.
+- **Action required:** yes — review the bill and ensure funds are available for the 2026-12-04 draft; no manual payment needed if the bank draft clears. Due date tracked in [[calendar/2026-12-04 - South Central Power electric bill due]]; account/cadence/payment details in [[Electric]]. Open the South Central Power site directly rather than clicking mail links.
+- **ledger-note:** no unsubscribe (transactional bill; not marketing). Auto-unsubscribe gate does not apply to relevant mail even though To contains "reed".
+
 ## 2026-11-18 — Columbia Gas of Ohio bill ready: $265.00 due 2026-12-10 (UID 1105, sibling of 1106)
 
 - **Date:** 2026-11-18T08:01:26Z
