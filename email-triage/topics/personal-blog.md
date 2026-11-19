@@ -125,3 +125,16 @@ tags: [email-triage, personal-blog]
 - **Run:** https://github.com/firstful/personal-blog/actions/runs/44263260969
 - **Action required:** yes
 - **Classification:** relevant — CI failure (Azure Static Web Apps deploy, staging step)
+
+## 2026-11-19 — Run failed: Deploy to Azure Static Web Apps - main (07cf173)
+
+- **Date:** 2026-11-19T21:04:25Z
+- **Sender:** notifications@github.com (Reed Sutliff)
+- **To:** personal-blog@noreply.github.com
+- **Subject:** [firstful/personal-blog] Run failed: Deploy to Azure Static Web Apps - main (07cf173)
+- **UID:** 1205
+- **Message-ID:** <firstful/personal-blog/check-suites/CS_kwDOUWGd288AAAAcHnWcFQ/1795122245@github.com>
+- **Summary:** GitHub Actions workflow "Deploy to Azure Static Web Apps" in firstful/personal-blog failed on main (commit 07cf173, run #32, display title "recent-work: 2026-11-19 update"). Job "Build & Deploy" failed; step "Deploy to staging" failed with "Process completed with exit code 1." at .github line 18. Downstream "Wait for staging to be healthy" and "Deploy to production" skipped; "PR Test" skipped. Annotation: Node.js 20 deprecation warning (actions/checkout@v4, actions/setup-node@v4). Duration 52.0s, started 21:03:13 UTC, finished 21:04:05 UTC. Raw job logs require repo admin rights.
+- **Run:** https://github.com/firstful/personal-blog/actions/runs/44614851792
+- **Action required:** yes
+- **Classification:** relevant — CI failure (Azure Static Web Apps deploy, staging step). 11th consecutive daily failure at the same "Deploy to staging" step (runs #22-32, 2026-11-09 -> 2026-11-19) on a fresh commit each day; broken deploy pipeline, not a flake.
