@@ -63,3 +63,13 @@ UID 671) — all share `List-Id: <uber-eats.2936635940.uber.com>`; those entries
 - action-required: no
 - message-id: <7bbebc2d-5123-5bff-a5e6-027fdddd1ac6@mail.uber.com>
 - related: UID 711/716 (Wendy's receipts, same card ending 9145)
+
+## 2026-11-18 - Uber Eats receipt: IHOP $53.10 (UID 1166)
+- date: 2026-11-19T04:29:22Z
+- sender: Uber Receipts <noreply@uber.com> (to emileesutliff@gmail.com)
+- subject: Your Wednesday evening order with Uber Eats
+- summary: Uber Eats receipt for Emilee's IHOP order (2413 Taylor Square Dr, Reynoldsburg, OH). Total $53.10. Payments: Huntington Bank card ending 9145 charged $41.02 and $12.08 on 11/18/26 11:29 PM (tip included). Ordered/pickup 11:21 PM, delivered 11:28 PM Nov 18, 2026 by courier EL to 12703 Stonecreek Dr NW, Pickerington, OH 43147. HTML-only (no text/plain part), no attachments, no List-Unsubscribe (transactional).
+- classification: relevant (purchase receipt)
+- action-required: no
+- message-id: <cc81abf0-55dc-566b-8c95-c3159c8b9b0d@mail.uber.com>
+- related: UID 711/716 (Wendy's), UID 974/975 (Five Guys) — same card ending 9145
