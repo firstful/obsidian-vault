@@ -249,3 +249,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a1f1a1797e-723477b8-b216-4f4f-9025-34138ccab42b-000000@email.amazonses.com>
 - **UID:** 1160
 - **Related notes:** [[amazon-orders]] (see UID 1127 - order #112-2983352-0481806 appears in that batch confirmation)
+
+## 2026-11-19 — Amazon out-for-delivery notification: 1 item (Hearing Protection) (UID 1176)
+
+- **Date:** 2026-11-19T14:38:23Z
+- **Sender:** "Amazon.com" <shipment-tracking@amazon.com> (to emilee.sutliff@gmail.com)
+- **Subject:** Out for delivery 1 item: Hearing Protection
+- **Summary:** Amazon out-for-delivery notification (shipment-tracking) for Order #112-3414340-3763451 (Hearing Protection, $38.42 USD in UID 1127's batch confirmation). "Emilee, your package is out for delivery!" / "Now expected today by 8 PM" (Emilee, PICKERINGTON, OH). Shipping/status notification → promo/marketing, action-required no; logged as a compact paper-trail entry per household convention (same treatment as UID 1157 "Shipped" and the "Delivered" notifications UID 1159/1160). This is the next status step after sibling UID 1157 (Shipped) for the same order, which itself traced to the UID 1127 batch confirmation and the UID 1128/1130 payment-declined notices. Genuine Amazon mail: Feedback-ID ...:AmazonSES, Message-ID @email.amazonses.com, Gmail-forwarded via caf_=ingest=ffilt.us. Envelope to_addr is emilee.sutliff@gmail.com (no "reed"), no List-Unsubscribe header → no auto-unsubscribe. Soft "today by 8 PM" ETA ⇒ no calendar/purchase note.
+- **Action required:** no — informational out-for-delivery notification; monitor delivery and verify contents on arrival.
+- **Message-ID:** <010001a1f43e91a9-a44156a1-f53b-40da-9d93-9ab48553f8ad-000000@email.amazonses.com>
+- **UID:** 1176
+- **Related notes:** [[amazon-orders]] (see UID 1157 — shipped; UID 1127 — batch confirmation; UID 1128/1130 — payment-declined, all order #112-3414340-3763451)
