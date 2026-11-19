@@ -49,6 +49,7 @@ tags: [email-triage, index]
 - [google-gemini](topics/google-gemini.md) — Google Gemini mandatory privacy/settings service announcements (e.g. Keep Activity split into history-retention + AI-training settings; informational, not marketing)
 - [google-health](topics/google-health.md) — Automated Google Health weekly fitness/activity digests (steps, floors) with Google Health Premium upsell (marketing)
 - [google-home](topics/google-home.md) — Google Home hardware/feature marketing (Nest Thermostat 4th gen updates, Gemini Live improvements, Google Wallet home key) (marketing)
+  - 2026-11-19 — Google Home "Black Friday savings start today" promo → [[google-home#2026-11-19 — Google Home: "Black Friday savings start today" (uid 1196)]]
 - [google-merchant-center](topics/google-merchant-center.md) — Google Merchant Center onboarding/feature-adoption nudges (conversion tracking etc.; marketing)
 - [google-pixel](topics/google-pixel.md) — Google Pixel device / Google AI feature marketing (Gemini, Circle to Search promos; marketing)
 - [google-play](topics/google-play.md) — Google Play account/security and purchase settings notices
