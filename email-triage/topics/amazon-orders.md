@@ -339,3 +339,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a1f4cfcab3-7d5faaf2-4867-4d81-ae38-e750321dcf64-000000@email.amazonses.com>
 - **UID:** 1188
 - **Related notes:** [[amazon-orders]]
+
+## 2026-11-19 — Amazon delivery confirmation: 1 item (String Lights) (UID 1190)
+
+- **Date:** 2026-11-19T18:39:11Z
+- **Sender:** "Amazon.com" <order-update@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Delivered 1 item: String Lights
+- **Summary:** Amazon delivery confirmation (order-update) for Order #112-3121601-2478667 (String Lights — the Seasonal Décor order from UID 1073, $43.76 USD). "Emilee, your package was delivered!" / "Delivered today" / "Package was left in a secure location" (Emilee - PICKERINGTON, OH). Final status step in this order's chain: order confirmation UID 1073 → delivery-delay notice UID 1129 ("Delivery update: String Lights") → out-for-delivery UID 1181 → delivered (this UID). Shipping/delivery notification → promo/marketing, action-required no; logged as a compact paper-trail entry per household convention (same treatment as Delivered entries UID 811/1003/1160). Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, DMARC pass (quarantine) header.from=amazon.com, ARC pass google.com, Feedback-ID ...:AmazonSES, Message-ID @email.amazonses.com, all links to amazon.com. Envelope to_addr is emilee.sutliff@gmail.com (no "reed"), no List-Unsubscribe header → no auto-unsubscribe. Soft "Delivered today" status ⇒ no calendar/purchase note; inline ICS is a canned promo reminder, not a delivery date.
+- **Action required:** no — informational delivery confirmation; verify contents on arrival if needed.
+- **Message-ID:** <010001a1f51b07f3-89aa44cd-8275-483c-b76c-cafcc5dab7e1-000000@email.amazonses.com>
+- **UID:** 1190
+- **Related notes:** [[amazon-orders]] (see UID 1073 — original Seasonal Décor order #112-3121601-2478667, $43.76; UID 1129 — String Lights delay notice; UID 1181 — out for delivery; all same order)
