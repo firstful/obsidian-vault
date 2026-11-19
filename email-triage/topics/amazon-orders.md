@@ -228,7 +228,6 @@ tags: [email-triage, amazon-orders]
 - **Related notes:** [[amazon-orders]] (see UID 1127 batch confirmation; UID 1128/1130 payment-declined for same order #112-3414340-3763451)
 
 
-
 ## 2026-11-19 — Amazon delivery confirmation: 1 item (Baby Products) (UID 1159)
 
 - **Date:** 2026-11-19T02:27:33Z
@@ -239,3 +238,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a1f1a1794c-c10e9e36-917f-4858-a10f-65f46027ba9e-000000@email.amazonses.com>
 - **UID:** 1159
 - **Related notes:** [[amazon-orders]] (see UID 1126 — original Baby Products order confirmation)
+
+## 2026-11-19 — Amazon delivery confirmation: 1 item (Toys & Games) (UID 1160)
+
+- **Date:** 2026-11-19T02:27:33Z
+- **Sender:** "Amazon.com" <order-update@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded, raw Delivered-To reed@ffilt.us)
+- **Subject:** Delivered 1 item: Toys & Games
+- **Summary:** Amazon delivery notification (order-update) reporting 1 item delivered, category "Toys & Games", Order #112-2983352-0481806. Package delivered today, left in a secure location (Emilee, PICKERINGTON, OH). Shipping/marketing notification, not an order status change requiring action; logged as a compact paper-trail entry per household convention (cf. UID 811, UID 1003). Tracking link available. Order #112-2983352-0481806 is one of the four orders in sibling UID 1127's batch confirmation ($16.54 USD, "Toys & Games", soft ETA "Arriving today 8 PM - 11 PM"). Envelope to_addr is emilee.sutliff@gmail.com (no "reed"); no List-Unsubscribe header, so no auto-unsubscribe.
+- **Action required:** no - informational delivery confirmation; verify the package contents on arrival.
+- **Message-ID:** <010001a1f1a1797e-723477b8-b216-4f4f-9025-34138ccab42b-000000@email.amazonses.com>
+- **UID:** 1160
+- **Related notes:** [[amazon-orders]] (see UID 1127 - order #112-2983352-0481806 appears in that batch confirmation)
