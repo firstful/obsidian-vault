@@ -56,3 +56,12 @@ tags: [email-triage, paypal]
 - action-required: yes (add/repair a funding source in PayPal, or the Patreon auto-renew lapses)
 - ledger-note: no unsubscribe performed (transactional billing notice). Recurring failure — PayPal wallet still has no working funding source. Third notice for the same $5.35 Patreon autopay (UID 623, 798, 1021).
 - message-id: <1B.FF.28963.BB2CBFA6@ccg01mail01>
+
+## 2026-11-19 - PayPal terms and conditions + privacy notice update - UID 1168
+- date: 2026-11-19T05:09:01Z
+- sender: no_reply@communications.paypal.com (PayPal Communications; to reedsut@gmail.com)
+- subject: We're updating our terms and conditions
+- summary: Genuine PayPal legal/policy notice (SPF, DKIM and DMARC all pass, p=REJECT, From communications.paypal.com; template RT003698). Notifies updates to PayPal's terms and conditions and Privacy Statement: details, when they apply, and how to decline on the Policy Updates page (paypal.com Legal -> Policy Updates). States "no action needed from you today." Privacy Statement (US Consumer Privacy Notice + Supplemental Notice for CA/ND/VT) effective since September 28, 2026; affiliate-sharing updates; privacy preferences available in data/privacy settings. No attachments; no List-Unsubscribe / Precedence: bulk headers (transactional/legal notice). To address contains "reed" but message is legal/transactional, so no unsubscribe performed.
+- action-required: no (informational legal notice; review Policy Updates page if desired; continued use = acceptance)
+- ledger-note: no unsubscribe performed (legal/transactional, not marketing). No effective date stated for the terms changes -> no calendar note (contrast Temu UID 1041).
+- message-id: <03.6F.09025.D648EFA6@ccg13mail08>
