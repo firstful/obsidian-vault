@@ -304,3 +304,15 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a1f4b0a1a0-2c1d4f36-5afb-4624-8ca2-050484b81939-000000@email.amazonses.com>
 - **UID:** 1184
 - **Related notes:** [[amazon-orders]]
+
+
+## 2026-11-19 — Amazon payment declined / payment revision needed (UID 1185)
+
+- **Date:** 2026-11-19T16:47:54Z
+- **Sender:** "Amazon.com" <payments-update@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Payment declined: Update your information so we can ship your order.
+- **Summary:** Transactional Amazon payment-declined notice. Order #112-9187917-4535404, Total $17.07 USD (Emilee - PICKERINGTON, OH); "Your order is on hold because your payment was declined" / "Payment revision needed" / "Please update your payment method" / "View or edit order." TeleCheck FCRA notice (800-366-2425) included — normal boilerplate for genuine declines. Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass bounces.amazon.com (client-ip 54.240.13.110), DMARC pass, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES. Envelope to_addr is emilee.sutliff@gmail.com (no "reed") → no auto-unsubscribe gating; transactional and no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk header present. No sibling confirmation/status/payment entries found for this order number yet → new standalone decline. No calendar/purchase note (held order, no hard date or shipping event).
+- **Action required:** yes — Emilee must update/repair the payment method with Amazon (verify card details with bank, or resolve the TeleCheck issue) to release the held order; no action for Rook.
+- **Message-ID:** <010001a1f4b523e0-fe6d7710-cb47-4d60-a6c0-cc561ee562c7-000000@email.amazonses.com>
+- **UID:** 1185
+- **Related notes:** [[amazon-orders]]
