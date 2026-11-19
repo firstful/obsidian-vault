@@ -260,3 +260,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a1f43e91a9-a44156a1-f53b-40da-9d93-9ab48553f8ad-000000@email.amazonses.com>
 - **UID:** 1176
 - **Related notes:** [[amazon-orders]] (see UID 1157 — shipped; UID 1127 — batch confirmation; UID 1128/1130 — payment-declined, all order #112-3414340-3763451)
+
+## 2026-11-19 — Amazon delivery confirmation: 1 item (Hearing Protection) (UID 1180)
+
+- **Date:** 2026-11-19T16:10:06Z
+- **Sender:** "Amazon.com" <order-update@amazon.com> (to emilee.sutliff@gmail.com)
+- **Subject:** Delivered 1 item: Hearing Protection
+- **Summary:** Amazon delivery notification (order-update) reporting 1 item delivered, category "Hearing Protection", Order #112-3414340-3763451. "Your package was delivered!" / "Delivered today" — "Your package was left near the front door or porch." (Emilee, PICKERINGTON, OH). Shipping/marketing notification, not an order status change requiring action; logged as a compact paper-trail entry per household convention (cf. UID 811, UID 1003, UID 1159, UID 1160). Completes the delivery chain for this order: UID 1157 (Shipped), UID 1176 (Out for delivery), now delivered. Order #112-3414340-3763451 is one of the four orders in sibling UID 1127's batch confirmation ($38.42 USD, "Hearing Protection"); see also UID 1128/1130 (payment-declined notices, same order). Genuine Amazon mail: DKIM pass amazon.com + amazonses.com, SPF pass bounces.amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES. Envelope to_addr is emilee.sutliff@gmail.com (no "reed"); no List-Unsubscribe header, so no auto-unsubscribe. Soft "Delivered today" status ⇒ no calendar/purchase note.
+- **Action required:** no — informational delivery confirmation; verify the package contents on arrival.
+- **Message-ID:** <010001a1f4928918-987a635f-18c5-41ce-b32f-bef910903069-000000@email.amazonses.com>
+- **UID:** 1180
+- **Related notes:** [[amazon-orders]] (see UID 1157 — shipped; UID 1176 — out for delivery; UID 1127 — batch confirmation; UID 1128/1130 — payment-declined, all order #112-3414340-3763451)
