@@ -283,6 +283,17 @@ tags: [email-triage, amazon-orders]
 - **UID:** 1181
 - **Related notes:** [[amazon-orders]] (see UID 1073 — original Seasonal Décor order #112-3121601-2478667; UID 1129 — String Lights delay notice, same order)
 
+## 2026-11-19 — Amazon order confirmation: 1 item (Pet Supplies) (UID 1182)
+
+- **Date:** 2026-11-19T16:36:47Z
+- **Sender:** "Amazon.com" <auto-confirm@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Ordered 1 item: Pet Supplies
+- **Summary:** Amazon order confirmation (`auto-confirm@amazon.com`) for Order #112-9187917-4535404, Grand Total 17.07 USD, 1 item in category "Pet Supplies" (item-level detail not present in the body). Recipient Emilee - PICKERINGTON, OH. ETA prose "Arriving tomorrow" (soft, relative to 2026-11-19) — no hard date, so no calendar/purchase note (cf. UID 916/1126 soft-ETA rule). Relevant/transactional order confirmation → `topics/amazon-orders.md`. Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass (bounces.amazon.com), DMARC pass (quarantine), ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES. Envelope to_addr is emilee.sutliff@gmail.com (no "reed"), no List-Unsubscribe header → no auto-unsubscribe. Distinct from sibling UID 1184 (same subject, but different order #112-4101541-3070660 / $19.20 / different Message-ID) — separate delivery, each owes its own entry. No sibling status/payment notices found for this order number yet.
+- **Action required:** no — informational order confirmation; monitor for shipment/delivery follow-ups.
+- **Message-ID:** <010001a1f4aaf678-9e1901d3-95ba-4adb-9c06-bb70a6de3c2d-000000@email.amazonses.com>
+- **UID:** 1182
+- **Related notes:** [[amazon-orders]] (see UID 1184 — separate Pet Supplies confirmation, same subject, different order)
+
 ## 2026-11-19 — Amazon order confirmation: 1 item (Pet Supplies) (UID 1184)
 
 - **Date:** 2026-11-19T16:42:58Z
