@@ -227,3 +227,15 @@ tags: [email-triage, amazon-orders]
 - **UID:** 1157
 - **Related notes:** [[amazon-orders]] (see UID 1127 batch confirmation; UID 1128/1130 payment-declined for same order #112-3414340-3763451)
 
+
+
+## 2026-11-19 — Amazon delivery confirmation: 1 item (Baby Products) (UID 1159)
+
+- **Date:** 2026-11-19T02:27:33Z
+- **Sender:** "Amazon.com" <order-update@amazon.com> (to emilee.sutliff@gmail.com)
+- **Subject:** Delivered 1 item: Baby Products
+- **Summary:** Amazon delivery notification (order-update) reporting 1 item delivered, category "Baby Products". Shipping/marketing notification, not an order status change requiring action; logged as a compact paper-trail entry per household convention (cf. UID 1003, UID 811, same sender/pattern). Likely delivery of order #112-2811727-7669049 from UID 1126 (Baby Products, $53.36 USD). To address is emilee.sutliff@gmail.com (no "reed"), so no auto-unsubscribe performed; these carry no List-Unsubscribe header anyway.
+- **Action required:** no — informational delivery confirmation; verify the package contents on arrival.
+- **Message-ID:** <010001a1f1a1794c-c10e9e36-917f-4858-a10f-65f46027ba9e-000000@email.amazonses.com>
+- **UID:** 1159
+- **Related notes:** [[amazon-orders]] (see UID 1126 — original Baby Products order confirmation)
