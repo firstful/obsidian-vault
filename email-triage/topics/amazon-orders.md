@@ -328,3 +328,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a1f4c186ff-4b71e016-b060-418d-9784-da24e753f954-000000@email.amazonses.com>
 - **UID:** 1186
 - **Related notes:** [[amazon-orders]] (repeat of UID 1185's decline; original order confirmation UID 1182 — order #112-9187917-4535404, Pet Supplies $17.07; underlying held order unchanged)
+
+## 2026-11-19 — Amazon order confirmation: 1 item (Activewear) (UID 1188)
+
+- **Date:** 2026-11-19T17:17:00Z
+- **Sender:** "Amazon.com" <auto-confirm@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Ordered 1 item: Activewear
+- **Summary:** Amazon order confirmation (`auto-confirm@amazon.com`) for Order #112-7966247-0160200, Grand Total 8.53 USD, 1 item in category "Activewear" (item-level detail not present in the body). Recipient Emilee - PICKERINGTON, OH. ETA prose "Arriving Saturday" (soft, relative to 2026-11-19) — no hard date, so no calendar/purchase note (cf. UID 916/1126 soft-ETA rule). Relevant/transactional order confirmation → `topics/amazon-orders.md`. Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass, DMARC pass (quarantine) header.from=amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES. Envelope to_addr is emilee.sutliff@gmail.com (no "reed"), no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk header → no auto-unsubscribe. Distinct from sibling Pet Supplies order confirmations UID 1182/1184 (different order/category/amount). No sibling status/payment notices found for this order number yet.
+- **Action required:** no — informational order confirmation; monitor for shipment/delivery follow-ups.
+- **Message-ID:** <010001a1f4cfcab3-7d5faaf2-4867-4d81-ae38-e750321dcf64-000000@email.amazonses.com>
+- **UID:** 1188
+- **Related notes:** [[amazon-orders]]
