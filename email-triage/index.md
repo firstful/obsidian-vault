@@ -100,6 +100,7 @@ tags: [email-triage, index]
 - [tax-documents](topics/tax-documents.md) — Personal tax forms (W-2, 1095-C, tip/compensation reports) from Foxen; important documents filed to vault
 - [temu](topics/temu.md) — Temu order/reshipment notices, automatic refunds and Terms/Privacy legal notices (transactional)
 - [ticketmaster](topics/ticketmaster.md) — Ticketmaster event-marketing newsletters (new onsales / upcoming concert, comedy, family-show listings; marketing)
+- [tim-hortons](topics/tim-hortons.md) — Tim Hortons delivery order receipts (transactional; order confirmations, item totals)
 - [tinybeans](topics/tinybeans.md) — Tinybeans parenting-app marketing/newsletters (gift guides, Little Tikes promos; marketing)
 - [uber-eats](topics/uber-eats.md) — Uber Eats order receipts (Wendy's, etc.) plus Uber / Uber One marketing blasts: 30%-off delivery promos, hotel-credit and premium airport-ride member deals (marketing)
 - [uber-one](topics/uber-one.md) — Uber One membership account notices (payment-method failures, renewal/billing) (transactional)
