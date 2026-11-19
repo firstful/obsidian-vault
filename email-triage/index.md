@@ -57,6 +57,7 @@ tags: [email-triage, index]
 - [intel-web](topics/intel-web.md) — Intel-web Playwright Tests GitHub Actions CI failures
 - [job-alerts](topics/job-alerts.md) — Marketing job-board alerts (ZipRecruiter, etc.)
 - [job-applications](topics/job-applications.md) — Job applications and confirmations (Affirm, Reddit, Cresta, Descript, ZoomInfo)
+  - 2026-11-19 — DataGrail Greenhouse CandidateAutoReply submission ack → [[job-applications#2026-11-19 — DataGrail application submission acknowledgement (uid 1194)]]
 - [lykn](topics/lykn.md) — LYKN (lykn.io) AI agent/business marketing blasts (marketing)
 - [lendingclub](topics/lendingclub.md) — LendingClub / Happen (formerly LendingClub) personal-loan invitations and win-back promos (marketing)
 - [link-payments](topics/link-payments.md) -- Link (Stripe) payment-wallet account notices (email verification, etc.)
