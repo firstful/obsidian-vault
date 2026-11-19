@@ -350,3 +350,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a1f51b07f3-89aa44cd-8275-483c-b76c-cafcc5dab7e1-000000@email.amazonses.com>
 - **UID:** 1190
 - **Related notes:** [[amazon-orders]] (see UID 1073 — original Seasonal Décor order #112-3121601-2478667, $43.76; UID 1129 — String Lights delay notice; UID 1181 — out for delivery; all same order)
+
+## 2026-11-19 — Amazon delivery confirmation: 1 item (Seasonal Décor) (UID 1191)
+
+- **Date:** 2026-11-19T18:39:11Z
+- **Sender:** "Amazon.com" <order-update@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us)
+- **Subject:** Delivered 1 item: Seasonal Décor
+- **Summary:** Amazon delivery confirmation (`order-update@amazon.com`): "Emilee, your package was delivered! Delivered today — Package was left in a secure location" (Emilee - PICKERINGTON, OH). Order #112-5238060-2074632 (1 item, category Seasonal Décor). Shipping/delivery notification → promo/marketing, action-required no; logged as a compact paper-trail entry per household convention (same treatment as other "Delivered N items" notices). Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass bounces.amazon.com (client-ip 54.240.13.172), ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES, all links to amazon.com. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed") and no `List-Unsubscribe` / `List-Unsubscribe-Post` / `Precedence: bulk` header → no auto-unsubscribe. Soft "Delivered today" status ⇒ no calendar/purchase note. Order traces to original order confirmation UID 1133 (Seasonal Décor, $28.81 USD, "Arriving tomorrow" = 2026-11-18); no other status siblings found. Track-package link is informational.
+- **Action required:** no — informational delivery confirmation.
+- **Message-ID:** <010001a1f51b068e-cd24fb98-a5bf-4b95-99b9-3228119e5622-000000@email.amazonses.com>
+- **UID:** 1191
+- **Related notes:** [[amazon-orders]] (see UID 1133 — original order confirmation for #112-5238060-2074632, Seasonal Décor $28.81)
