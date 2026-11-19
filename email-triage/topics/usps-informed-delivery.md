@@ -154,3 +154,12 @@ Informational only; never action-required.
 - Summary: Daily Informed Delivery digest for Thursday 19 November 2026 — 2 mailpieces, 0 inbound packages arriving soon; "Expected Today 2 item(s)". Two mailpiece-scan JPEG attachments (1037638352-022.jpg 38 KB, 1037710922-022.jpg 37 KB; 159 KB message). "No packages are available to display." No mailer/sender name extractable from the dashboard (generic "USPS" only). No package exceptions, bills, deadlines, or account actions referenced.
 - Action required: no
 - Notes: Live triage (event id 1173). To is Reed's mailbox (contains "reed"), but USPS digests are never marketing and never unsubscribed — no unsubscribe performed. No List-Unsubscribe action taken. Body fetched via email-sync MCP (email_fetch_body with reason; counted via QP-decode of whole raw message). Triage summary posted to #email-triage per inbound trigger.
+
+## 2026-11-19 12:56 — USPS Informed Delivery: "Your Daily Digest for Thu, 11/19 is ready to view" (Emilee copy)
+
+- UID: 1174 (INBOX) · message-id: <20261119125611.3bd82f5e8dfa70b0@email.informeddelivery.usps.com>
+- To: emileesutliff@gmail.com — forwarded into ingest via Cloudflare Email Routing (Delivered-To: reed@ffilt.us); greeting "Hi , EMILEE !" (merge-field artifact)
+- Date: 2026-11-19T12:56:11Z
+- Summary: Daily Informed Delivery digest for Thursday 19 November 2026 — 2 mailpieces, 0 inbound packages arriving soon; "Expected Today 2 item(s)". Two mailpiece-scan JPEG attachments (1037638352-022.jpg 38 KB, 1037710922-022.jpg 37 KB; 163 KB message). "No packages are available to display." Dashboard sender name extractable only as "USPS" (no specific mailer named). No package exceptions, bills, deadlines, or account actions referenced.
+- Action required: no
+- Notes: Live triage (event id 1174). To is Emilee's mailbox (no "reed"), and USPS digests are never marketing in any case — no unsubscribe performed. Body fetched via HTTP LAN fallback (email-sync in-cluster DNS unresolvable from host). Sibling Reed copy (expected ~13:04Z, reedsut@gmail.com) not yet observed at triage time; if it arrives it will be a distinct entry keyed on its own message-id. Triage summary posted to #email-triage per inbound trigger.
