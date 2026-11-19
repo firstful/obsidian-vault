@@ -32,3 +32,17 @@ tags: [email-triage, synchrony, account-servicing]
 - **Action required:** no — informational; the payment was already scheduled by Reed. Verify the debit posts and the resulting balance in the Synchrony / Sam's Club account in 1–4 business days and watch for the "payment posted" follow-up email.
 - **Auto-unsubscribe:** NOT performed. Carries RFC 8058 one-click `List-Unsubscribe` + `List-Unsubscribe-Post` and a `mailto:` fallback, and To contains "reed", but content is transactional account servicing (unmonitored box, explicit servicing-vs-marketing footer) so recipient-gating does not apply. No `unsubscribes.md` row.
 - **Related notes:** [[calendar/2026-11-17 - Synchrony Sam's Club payment 1011.19 scheduled]], [[samsclub]], [[billing]]; [[money/Debt Catalog]] notes Sam's Club is "likely Synchrony co-brand card" — this confirms the Synchrony issuer.
+
+
+## 2026-11-19 — Your Sam's Club® World Elite Mastercard® payment has processed (UID 1183)
+
+- **Date:** 2026-11-19T16:39:11Z
+- **Sender:** Synchrony for your Sam's Club® World Elite Mastercard® <customer.service@servicing.synchrony.com>
+- **To:** reedsut@gmail.com (Gmail `caf_=ingest=ffilt.us` forwarding → reed@ffilt.us)
+- **Subject:** Your Sam's Club® World Elite Mastercard® payment has processed
+- **UID / Message-ID:** 1183 (INBOX) / `<mid-1795106339452ce822b117eb1@servicing.synchrony.com>`
+- **Classification:** relevant (transactional account-servicing / payment-posted confirmation)
+- **Summary:** Synchrony confirms a payment **processed** on Reed's Sam's Club® World Elite Mastercard® account ending **2390**: **$1,011.19**, processed date **2026-11-17**. This is the follow-up to the scheduled-payment email UID 1093 (same account, same amount, same date) — the payment has now posted. No confirmation number was given. HTML-only substance (plain part is a view-in-browser wrapper); no attachments. Authentic: DKIM pass (`d=servicing.synchrony.com` + `d=fbl.zetaglobal.net`), SPF pass, DMARC pass (reject), ARC pass. Footer explicitly states this is "important account servicing information" sent even after marketing opt-out and that "This is an unmonitored email box." Note: `Feedback-ID: ...:syf-servicing-prod:broadcast:bme` here (vs `:trigger:` on UID 1093), but content is unambiguously transactional payment servicing.
+- **Action required:** no — informational confirmation that the payment posted. Verify the debit and resulting balance in the Synchrony / Sam's Club account.
+- **Auto-unsubscribe:** NOT performed. Carries RFC 8058 one-click `List-Unsubscribe` + `List-Unsubscribe-Post` and a `mailto:` fallback, and To contains "reed", but content is transactional account servicing (unmonitored box, explicit servicing-vs-marketing footer) so recipient-gating does not apply. No `unsubscribes.md` row.
+- **Related notes:** [[calendar/2026-11-17 - Synchrony Sam's Club payment 1011.19 scheduled]] (now status: paid), [[bills/paid/2026-11-17 - Synchrony Sam's Club - 1011.19]], [[synchrony]] (scheduled-payment sibling UID 1093), [[samsclub]], [[billing]]
