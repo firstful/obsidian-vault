@@ -272,6 +272,17 @@ tags: [email-triage, amazon-orders]
 - **UID:** 1180
 - **Related notes:** [[amazon-orders]] (see UID 1157 — shipped; UID 1176 — out for delivery; UID 1127 — batch confirmation; UID 1128/1130 — payment-declined, all order #112-3414340-3763451)
 
+## 2026-11-19 — Amazon out-for-delivery notification: 1 item (String Lights) (UID 1181)
+
+- **Date:** 2026-11-19T16:13:29Z
+- **Sender:** "Amazon.com" <shipment-tracking@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Out for delivery 1 item: String Lights
+- **Summary:** Amazon out-for-delivery notification (shipment-tracking) for Order #112-3121601-2478667 (String Lights — the Seasonal Décor order from UID 1073, $43.76 USD, and the delayed item in UID 1129's "Delivery update: String Lights"). "Emilee, your package is out for delivery!" / "Arriving today" (Emilee, PICKERINGTON, OH). Shipping/status notification → promo/marketing, action-required no; logged as a compact paper-trail entry per household convention (same treatment as UID 1176 "Out for delivery" and the "Delivered" notifications). Next status step after the UID 1129 delay notice for this order. Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass bounces.amazon.com, ARC pass google.com, DMARC pass, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES. Envelope to_addr is emilee.sutliff@gmail.com (no "reed"), no List-Unsubscribe header → no auto-unsubscribe. Soft "Arriving today" ETA ⇒ no calendar/purchase note.
+- **Action required:** no — informational out-for-delivery notification; monitor delivery and verify contents on arrival.
+- **Message-ID:** <010001a1f495a1ca-96156674-de52-4804-8394-d723b609c36d-000000@email.amazonses.com>
+- **UID:** 1181
+- **Related notes:** [[amazon-orders]] (see UID 1073 — original Seasonal Décor order #112-3121601-2478667; UID 1129 — String Lights delay notice, same order)
+
 ## 2026-11-19 — Amazon order confirmation: 1 item (Pet Supplies) (UID 1184)
 
 - **Date:** 2026-11-19T16:42:58Z
