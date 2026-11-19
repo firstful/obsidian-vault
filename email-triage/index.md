@@ -45,6 +45,9 @@ tags: [email-triage, index]
 - [gitea-mirror](topics/gitea-mirror.md) — Gitea mirror GitHub Actions CI failures
 - [github-security](topics/github-security.md) — GitHub security alerts and notifications
 - [security-alerts](topics/security-alerts.md) — Cross-service account-security alerts & one-time verification codes (Google, Battle.net, eBay, Huntington, Walmart, etc.)
+  - 2026-11-19 — Sam's Club sign-in from new device (Firefox/Linux, Columbus OH; action conditional) → [[security-alerts#2026-11-19 — Sam's Club sign-in from new device (UID 1204)]]
+- [samsclub](topics/samsclub.md) — Sam's Club member marketing, transactional order confirmations, verification codes & new-device sign-in notices
+  - 2026-11-19 — Sign-in from new device (UID 1204) → [[samsclub#2026-11-19 — Sign-in from new device (UID 1204)]]
 - [github-dependabot-pr](topics/github-dependabot-pr.md) — GitHub Dependabot pull-request activity notifications (PR comments/state changes; transactional, informational)
 - [google-account](topics/google-account.md) — Google Account security alerts and verification notices
 - [google-fi](topics/google-fi.md) — Google Fi Wireless rejoin/win-back offers and plan promos (marketing)

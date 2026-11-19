@@ -7,6 +7,15 @@ tags: [email-triage, samsclub]
 
 Sam's Club emails: member marketing blasts and transactional order confirmations.
 
+## 2026-11-19 — Sign-in from new device (UID 1204)
+
+- **From:** Sam's Club <transaction@info.samsclub.com> · **To:** reedsut@gmail.com · **Date:** 2026-11-19T20:58:14Z
+- **Message-ID:** <c310837f-d454-4f71-ad37-61908c0d339b@dfw1s10mta1976.xt.local>
+- **Classification:** relevant (transactional account-security new-device sign-in notice; not marketing). No `List-Unsubscribe` / `List-Unsubscribe-Post` / `List-Id` / `Precedence: bulk` headers (only `List-Help`), no promo content. Auth clean: DKIM pass (d=info.samsclub.com s=10dkim1; d=s10.y.mc.salesforce.com s=fbldkim10), SPF pass, DMARC pass (p=reject), ARC pass — sent via Salesforce Marketing Cloud (`Feedback-ID: 100027498:232627:...:sfmktgcld`, MTA dfw1s10mta1976). To contains "reed" but transactional security mail + no unsubscribe mechanism ⇒ no unsubscribe action.
+- **Summary:** Sam's Club new-device sign-in notice: **Device: Firefox on Linux**; **Date and time: November 19, 12:58 PM PST** (body label; send header -0600 → 20:58:14Z, so the "PM PST" label is unreliable as with the Nov 13 notices); **Location: Columbus, Ohio, US** (approximate, IP-derived — Columbus metro includes the household in Pickerington). Distinct fingerprint from the Nov 13 cluster (Chrome on Windows / Reynoldsburg OH, UIDs 791/793/795/797): this is a Firefox/Linux session in the home metro, consistent with a household device/browser. Body remedy: if unrecognized, change the Sam's Club password at account personal-info. No attachments, no charge/order content. Full detail: [[security-alerts]].
+- **Action required:** no (if this was a household Firefox/Linux sign-in), yes (if unrecognized — change the Sam's Club password immediately and review account/payment settings)
+- **Related notes:** [[security-alerts]]
+
 ## 2026-11-13 — Give us the scoop on your recent purchase (UID 821)
 
 - **From:** Sam's Club <no-reply-ugc@samsclub.com>
