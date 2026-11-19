@@ -59,6 +59,7 @@ tags: [email-triage, index]
 - [job-applications](topics/job-applications.md) — Job applications and confirmations (Affirm, Reddit, Cresta, Descript, ZoomInfo)
   - 2026-11-19 — DataGrail Greenhouse CandidateAutoReply submission ack → [[job-applications#2026-11-19 — DataGrail application submission acknowledgement (uid 1194)]]
   - 2026-11-19 — PlanetScale Greenhouse security code (45477767, action YES) → [[job-applications#2026-11-19 — Security code for PlanetScale application (uid 1195)]]
+  - 2026-11-19 — PlanetScale Greenhouse security code (72859400, action YES) → [[job-applications#2026-11-19 — Security code for PlanetScale application (uid 1197)]]
 - [lykn](topics/lykn.md) — LYKN (lykn.io) AI agent/business marketing blasts (marketing)
 - [lendingclub](topics/lendingclub.md) — LendingClub / Happen (formerly LendingClub) personal-loan invitations and win-back promos (marketing)
 - [link-payments](topics/link-payments.md) -- Link (Stripe) payment-wallet account notices (email verification, etc.)
