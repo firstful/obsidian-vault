@@ -216,3 +216,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a1efe391ad-02553aea-2fff-4fec-b93e-677f420cc604-000000@email.amazonses.com>
 - **UID:** 1133
 - **Related notes:** [[amazon-orders]] (other Seasonal Décor orders: UID 1073, UID 916)
+## 2026-11-19 — Amazon shipping notification: 1 item (Hearing Protection) (UID 1157)
+
+- **Date:** 2026-11-19T01:03:08Z
+- **Sender:** "Amazon.com" <shipment-tracking@amazon.com> (to emilee.sutliff@gmail.com)
+- **Subject:** Shipped 1 item: Hearing Protection
+- **Summary:** Amazon shipping notification (shipment-tracking) for Order #112-3414340-3763451 (Hearing Protection, $38.42 USD). Package shipped; arriving today 8 PM – 11 PM (Emilee, PICKERINGTON, OH). Tracking link available. Transactional shipping notification; To address is emilee.sutliff@gmail.com (no "reed"), so no auto-unsubscribe performed.
+- **Action required:** no — informational shipping notification; monitor delivery and verify contents on arrival.
+- **Message-ID:** <010001a1f1542f29-498953ec-7630-4921-80c7-003282b74717-000000@email.amazonses.com>
+- **UID:** 1157
+- **Related notes:** [[amazon-orders]] (see UID 1127 batch confirmation; UID 1128/1130 payment-declined for same order #112-3414340-3763451)
+
