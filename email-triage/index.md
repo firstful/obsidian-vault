@@ -57,6 +57,7 @@ tags: [email-triage, index]
 - [insurance](topics/insurance.md) — Insurance & benefits documents (employer health/dental/vision plan docs, SBCs, policies)
 - [intel-web](topics/intel-web.md) — Intel-web Playwright Tests GitHub Actions CI failures
 - [job-alerts](topics/job-alerts.md) — Marketing job-board alerts (ZipRecruiter, etc.)
+- [unsubscribes](topics/unsubscribes.md) — Unsubscribe action ledger for marketing/promo senders (per-message attempts, method, result)
 - [job-applications](topics/job-applications.md) — Job applications and confirmations (Affirm, Reddit, Cresta, Descript, ZoomInfo)
   - 2026-11-19 — DataGrail Greenhouse CandidateAutoReply submission ack → [[job-applications#2026-11-19 — DataGrail application submission acknowledgement (uid 1194)]]
   - 2026-11-19 — PlanetScale Greenhouse security code (45477767, action YES) → [[job-applications#2026-11-19 — Security code for PlanetScale application (uid 1195)]]
