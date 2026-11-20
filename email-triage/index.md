@@ -12,6 +12,7 @@ tags: [email-triage, index]
 - [american-express](topics/american-express.md) — American Express website Terms of Service / account legal & servicing notices (transactional, not marketing)
 - [allegiant](topics/allegiant.md) — Allegiant Air fare promos (marketing)
 - [amazon-orders](topics/amazon-orders.md)
+  - 2026-11-20 — Amazon order confirmation: 1 item (Soldering Equipment), $10.66, order #112-0810705-5611445, action no (UID 1237) → [[amazon-orders#2026-11-20 — Amazon order confirmation: 1 item (Soldering Equipment) (UID 1237)]]
 - [walmart-orders](topics/walmart-orders.md) — Walmart.com transactional order/payment, delivery, and cancellation notices
   - 2026-11-19 — Walmart login verification code 862372 for Emilee (action YES, 15-min expiry) → [[security-alerts#2026-11-19 — Walmart verification code / login OTP (Emilee; UID 1203)]]
 - [apple-developer](topics/apple-developer.md) — Apple Developer "Hello Developer" newsletter issues (Developer Center events, platform/tooling news; marketing)

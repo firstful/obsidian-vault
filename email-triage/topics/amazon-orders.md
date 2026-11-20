@@ -394,3 +394,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a1f6fba347-13e11e64-f59c-4200-bc41-e69c663cf762-000000@email.amazonses.com>
 - **UID:** 1221
 - **Related notes:** [[amazon-orders]] (see UID 1184 — original order confirmation for #112-4101541-3070660, Pet Supplies $19.20)
+
+## 2026-11-20 — Amazon order confirmation: 1 item (Soldering Equipment) (UID 1237)
+
+- **Date:** 2026-11-20T15:53:55Z
+- **Sender:** "Amazon.com" <auto-confirm@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us)
+- **Subject:** Ordered 1 item: Soldering Equipment
+- **Summary:** Amazon order confirmation (`auto-confirm@amazon.com`) for Order #112-0810705-5611445, Grand Total 10.66 USD, 1 item in category "Soldering Equipment" (item-level detail not present in the body). Recipient Emilee - PICKERINGTON, OH. ETA prose "Arriving tomorrow" (soft, relative to 2026-11-20) — no hard date, so no calendar/purchase note (cf. UID 916/1126/1188/1193 soft-ETA rule). Relevant/transactional order confirmation → `topics/amazon-orders.md`. Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass bounces.amazon.com (client-ip 54.240.13.27), DMARC pass header.from=amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES. Envelope to_addr is emilee.sutliff@gmail.com (no "reed"), no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk header → no auto-unsubscribe. Inline "Black Friday Deals" nav links are site chrome, not an order fact. No sibling status/payment notices found for this order number yet.
+- **Action required:** no — informational order confirmation; monitor for shipment/delivery follow-ups.
+- **Message-ID:** <010001a1f9aa1442-741ea7be-4e7b-4800-90f2-b1228b1b0b0c-000000@email.amazonses.com>
+- **UID:** 1237
+- **Related notes:** [[amazon-orders]]
