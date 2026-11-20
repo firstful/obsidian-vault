@@ -85,3 +85,4 @@ tags: [email-triage, index]
 
 - [usps-informed-delivery](topics/usps-informed-delivery.md) — USPS Informed Delivery daily mail/package preview digests (informational, not marketing; never unsubscribed)
   - 2026-11-20 — Fri 11/20 digest, Reed mailbox: 0 mailpieces, 1 inbound package (Amazon awaiting from sender), action no (UID 1231) → [[usps-informed-delivery#2026-11-20 12:57 — USPS Informed Delivery: "Your Daily Digest for Fri, 11/20 is ready to view"]]
+  - 2026-11-20 — Fri 11/20 digest, Emilee mailbox: 0 mailpieces, 1 inbound package (Amazon awaiting from sender), action no (UID 1230) → [[usps-informed-delivery#2026-11-20 12:56 — USPS Informed Delivery: "Your Daily Digest for Fri, 11/20 is ready to view" (Emilee copy)]]
