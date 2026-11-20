@@ -1,0 +1,28 @@
+filters:
+  and:
+    - file.inFolder("documents")
+    - file.ext == "md"
+    - type == "document"
+properties:
+  file.name:
+    displayName: Document
+  title:
+    displayName: Title
+  created:
+    displayName: Scanned
+  source:
+    displayName: Source
+  pages:
+    displayName: Pages
+views:
+  - type: table
+    name: All documents
+    order:
+      - file.name
+      - title
+      - created
+      - source
+      - pages
+    sort:
+      - property: created
+        direction: DESC
