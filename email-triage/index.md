@@ -74,6 +74,8 @@ tags: [email-triage, index]
 - [intel-web](topics/intel-web.md) — Intel-web Playwright Tests GitHub Actions CI failures
   - 2026-11-20 — Run failed: Playwright Tests - main (4018ba5) (UID 1226) → [[intel-web#2026-11-20 — Run failed: Playwright Tests - main (4018ba5) (UID 1226)]]
 - [job-alerts](topics/job-alerts.md) — Marketing job-board alerts (ZipRecruiter, etc.)
+- [recruiter-outreach](topics/recruiter-outreach.md) — Person-to-person recruiter InMails, connection requests/reminders with a real hiring conversation (LinkedIn, Robert Half, etc.)
+  - 2026-11-20 — LinkedIn InMail: Wesley King (Stafford Technology), software engineering roles, action YES (UID 1247) → [[recruiter-outreach#2026-11-20 — LinkedIn InMail: Wesley King (Stafford Technology) — software engineering roles]]
 - [unsubscribes](topics/unsubscribes.md) — Unsubscribe action ledger for marketing/promo senders (per-message attempts, method, result)
 - [job-applications](topics/job-applications.md) — Job applications and confirmations (Affirm, Reddit, Cresta, Descript, ZoomInfo)
   - 2026-11-19 — DataGrail Greenhouse CandidateAutoReply submission ack → [[job-applications#2026-11-19 — DataGrail application submission acknowledgement (uid 1194)]]
