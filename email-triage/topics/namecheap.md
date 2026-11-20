@@ -6,6 +6,16 @@ tags: [email-triage, namecheap]
 
 # Namecheap — account, domain verification, order/billing & Private Email mail
 
+## 2026-11-20 — Verify contact information for domain(s) — arewefucked.xyz (UID 1266, re-send of UID 1265)
+
+- Date: 2026-11-20 23:17 UTC
+- UID: 1266 (INBOX) · message-id: <qYTStSllTQeILOC3St_zCw@geopod-ismtpd-56>
+- Sender: Namecheap Support <support@namecheap.com>
+- To: Reed <reedsut+namecheap@gmail.com>
+- Subject: Action required: Verify your contact information for your domain(s)
+- Summary: Re-send of the ICANN registrar contact-verification notice tracked in full at [[namecheap#2026-11-20 — Verify contact information for domain(s) — arewefucked.xyz (UID 1265)]] — same domain (**arewefucked.xyz**), same contact info (Reed Sutliff / `reedsut+namecheap@gmail.com`), same **2026-12-05** suspension deadline, and the SAME verification key (`f0179ccf…`) as UID 1265. Arrived ~20 min later with a different MTA queue id (`ismtpd-56` vs `ismtpd-82`); body wording identical. No new information or new deadline — one underlying event, no second calendar note (deadline tracked in [[calendar/2026-12-05 - Verify Namecheap domain contact information (arewefucked.xyz)]]). No `List-Unsubscribe`/`Precedence: bulk` headers, auth clean (DKIM namecheap.com + sendgrid.info, SPF/DMARC pass) — transactional account notice, so the auto-unsubscribe gate does NOT apply despite the "reed" To address.
+- Action required: yes — the same verification remains due by 2026-12-05, already tracked on UID 1265 and the calendar note; this re-send adds no new action beyond the pending verification (Reed must click the verification link — no Rook action).
+
 ## 2026-11-20 — Verify contact information for domain(s) — arewefucked.xyz (UID 1265)
 
 - Date: 2026-11-20 22:57 UTC
