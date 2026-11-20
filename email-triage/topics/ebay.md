@@ -52,3 +52,11 @@ tags: [email-triage, ebay]
 - **Subject:** Your offer has been retracted
 - **Summary:** eBay notice that the $300.00 counteroffer to buyer `chubs230` for the Narwal Freo Z Ultra — Manufacture Restore / Open Box listing (item 267822716429; Buy It Now $350.00) was retracted — terminal event closing the chubs230 thread ([[ebay#2026-11-20 — eBay new offer: $200.00 for Narwal Freo Z Ultra (item 267822716429) (UID 1245)|UID 1245]] $200 offer → [[ebay#2026-11-20 — eBay counteroffer submitted: $300.00 to buyer for Narwal Freo Z Ultra (item 267822716429) (UID 1259)|UID 1259]] $300 counteroffer → this retraction). No sale, no money changed hands; listing still active (ends in 3 days 16 hours, 4 watchers). Transactional seller notice with no List-Unsubscribe header (only Feedback-ID); no unsubscribe action (also not marketing, so recipient gate does not apply).
 - **Action required:** no — informational; listing remains active, await new offers only if Reed wants to pursue the sale.
+
+## 2026-11-20 — eBay listing live: Narwal Freo Z Ultra (Manufacture Restore) listed at $150.00 (UID 1263)
+- **Date:** 2026-11-20T22:40:53Z
+- **Sender:** eBay <ebay@ebay.com>
+- **To:** reedsut@gmail.com
+- **Subject:** 🏷️ Narwal Freo Z... has been listed
+- **Summary:** eBay seller-side confirmation that Reed's OWN listing is live — "Reed, your listing is live" for "Narwal Freo Z Ultra - Manufacture Restore -..." at item price $150.00. Listed Fri, Nov 20, 2026; renews Sun, Dec 20, 2026; duration 29d 23h. Email Reference ID #64c77ba4-d475-3565-9536-22f22f978cc5 (dedupe token 22f22f978cc5). Auth clean (dkim/spf/dmarc p=reject/arc pass), 0 attachments. Auto-renewal is informational, not a household obligation — no calendar/bills/purchases note. This is transactional seller mail, NOT the offers thread on item 267822716429 ([[ebay#2026-11-20 — eBay offer retracted: $300.00 counteroffer to chubs230 for Narwal Freo Z Ultra (item 267822716429) (UID 1262)|UID 1262]] and siblings): no sale, no money moved. Although To contains "reed" and the mail carries an RFC 8058 one-click List-Unsubscribe header, this is transactional — no unsubscribe action.
+- **Action required:** no — informational; listing is live and auto-renews Sun, Dec 20, 2026.
