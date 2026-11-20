@@ -15,6 +15,7 @@ tags: [email-triage, index]
   - 2026-11-20 — Amazon order confirmation: 1 item (Soldering Equipment), $10.66, order #112-0810705-5611445, action no (UID 1237) → [[amazon-orders#2026-11-20 — Amazon order confirmation: 1 item (Soldering Equipment) (UID 1237)]]
   - 2026-11-20 — Amazon payment declined (repeat), order #112-9187917-4535404, $17.07, action YES (Emilee, no Rook action) (UID 1241) → [[amazon-orders#2026-11-20 — Amazon payment declined (repeat) / payment revision needed (UID 1241)]]
   - 2026-11-20 — Amazon cancellation failed (Soldering Iron Kits), order #112-0810705-5611445, action YES (Emilee retry cancel, no Rook action) (UID 1250) → [[amazon-orders#2026-11-20 — Amazon cancellation failed: item could not be cancelled (Soldering Iron Kits) (UID 1250)]]
+  - 2026-11-20 — Amazon shipping notification: 1 item (Soldering Iron Kits), order #112-0810705-5611445, $10.66, action no (UID 1253) → [[amazon-orders#2026-11-20 — Amazon shipping notification: 1 item (Soldering Iron Kits) (UID 1253)]]
 - [walmart-orders](topics/walmart-orders.md) — Walmart.com transactional order/payment, delivery, and cancellation notices
   - 2026-11-19 — Walmart login verification code 862372 for Emilee (action YES, 15-min expiry) → [[security-alerts#2026-11-19 — Walmart verification code / login OTP (Emilee; UID 1203)]]
 - [apple-developer](topics/apple-developer.md) — Apple Developer "Hello Developer" newsletter issues (Developer Center events, platform/tooling news; marketing)

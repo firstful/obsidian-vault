@@ -427,3 +427,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a1fa7ea80a-6618e458-a0ad-49b2-89fb-59bbfab22d05-000000@email.amazonses.com>
 - **UID:** 1250
 - **Related notes:** [[amazon-orders]] (same order #112-0810705-5611445 as UID 1237 — order confirmation "Soldering Equipment", $10.66; cancellation failed here, item still arriving)
+
+## 2026-11-20 — Amazon shipping notification: 1 item (Soldering Iron Kits) (UID 1253)
+
+- **Date:** 2026-11-20T20:46:59Z
+- **Sender:** "Amazon.com" <shipment-tracking@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Shipped 1 item: Soldering Iron Kits
+- **Summary:** Amazon shipping notification (`shipment-tracking@amazon.com`): "Emilee, your package was shipped!" for Order #112-0810705-5611445, Total 10.66 USD, recipient Emilee - PICKERINGTON, OH. ETA prose "Arriving tomorrow" (soft, relative to 2026-11-20) — no hard date, so no calendar/purchase note. This is the "Shipped" status step for the same order as the original confirmation UID 1237 ("Ordered 1 item: Soldering Equipment", $10.66 USD) and the cancellation-failure notice UID 1250 (whose subject named the concrete item "Soldering Iron Kits") — the item shipped despite the failed cancellation attempt. Shipping/status notification → promo/marketing, action-required no; logged as a compact paper-trail entry per household convention (same treatment as other Shipped / Out-for-delivery / Delivered notices). Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass bounces.amazon.com (client-ip 54.240.13.158), DMARC pass (quarantine) header.from=amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES. Envelope to_addr is emilee.sutliff@gmail.com (no "reed") and no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk / List-Id header → no auto-unsubscribe.
+- **Action required:** no — informational shipping notification; monitor for out-for-delivery/delivery follow-ups. (Cancellation-retry context lives in UID 1250.)
+- **Message-ID:** <010001a1fab66516-d37ba24b-6278-4516-b1fb-6e8fbddff4af-000000@email.amazonses.com>
+- **UID:** 1253
+- **Related notes:** [[amazon-orders]] (same order #112-0810705-5611445 as UID 1237 — original confirmation "Soldering Equipment", $10.66, and UID 1250 — cancellation failed; item nonetheless shipped)
