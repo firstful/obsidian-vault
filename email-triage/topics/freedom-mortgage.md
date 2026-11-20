@@ -53,3 +53,16 @@ tags: [email-triage, freedom-mortgage]
 - **Action required:** no
 - **Classification:** promo/marketing (bulk marketing; unsubscribe-eligible). To contains "reed" (reedsut+fmort@gmail.com) — auto-unsubscribe policy applies.
 - **Unsubscribe:** attempted logging only — RFC 8058 one-click HTTPS URL present but JWT token was truncated in fetched envelope/body data, so exact POST could not be executed safely; recorded in [[unsubscribes]] (INBOX/897). Mailto present but not sent.
+
+## 2026-11-20 — Freedom Mortgage: mortgage/billing statement now available (UID 1240)
+
+- **Date:** 2026-11-20T16:54:00Z (header: Fri, 20 Nov 2026 16:54:00 +0000)
+- **Sender:** noreply@email.freedommortgagepaperless.com ("Freedom Mortgage No Reply")
+- **To:** REEDSUT@gmail.com (forwarded: Return-Path `reedsut+caf_=ingest=ffilt.us@gmail.com` → `Delivered-To: reed@ffilt.us`)
+- **Folder/UID:** INBOX/1240
+- **Message-ID:** <eX2qE5XoRdmbLeTKIpgSOg@geopod-ismtpd-113>
+- **Subject:** REED, your mortgage statement is ready
+- **Summary:** Transactional notice that the monthly billing statement is now available to review. Body: "Please log in to review" / "Your Billing Statement is Now Available", with FAQ / UPDATE MY INFO / LOGIN CTAs (SendGrid tracking links). No amount, due date, escrow figure, account-specific ask, or promo content stated. Auth clean (DKIM pass `header.d=email.freedommortgagepaperless.com` + sendgrid.info, SPF, DMARC pass); SendGrid relay (`geopod-ismtpd-113`). No `List-Unsubscribe`, `List-Unsubscribe-Post`, `Precedence: bulk`, `List-Id`, or footer unsubscribe link anywhere in the message.
+- **Action required:** yes (log in to the Freedom Mortgage portal to review the statement)
+- **Classification:** relevant (transactional statement-available notice, important financial fact) — not promo. Auto-unsubscribe gate does NOT apply: although To contains "reed", this is servicing mail with no unsubscribe mechanism and no marketing payload.
+- **Related notes:** [[freedom-mortgage]]
