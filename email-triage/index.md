@@ -54,6 +54,7 @@ tags: [email-triage, index]
 - [gift-exchange](topics/gift-exchange.md) — Gift exchange / Secret Santa (drawnames.com)
 - [gitea-mirror](topics/gitea-mirror.md) — Gitea mirror GitHub Actions CI failures
   - 2026-11-20 — Run failed: Gitea mirror - main (9d37763) (UID 1229) → [[gitea-mirror#2026-11-20 — Run failed: Gitea mirror - main (9d37763) (UID 1229)]]
+  - 2026-11-20 — Run failed: Gitea mirror - main (9d37763) (UID 1256) → [[gitea-mirror#2026-11-20 — Run failed: Gitea mirror - main (9d37763) (UID 1256)]]
 - [github-security](topics/github-security.md) — GitHub security alerts and notifications
 - [security-alerts](topics/security-alerts.md) — Cross-service account-security alerts & one-time verification codes (Google, Battle.net, eBay, Huntington, Walmart, etc.)
   - 2026-11-19 — Sam's Club sign-in from new device (Firefox/Linux, Columbus OH; action conditional) → [[security-alerts#2026-11-19 — Sam's Club sign-in from new device (UID 1204)]]
