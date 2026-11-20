@@ -65,3 +65,12 @@ tags: [email-triage, paypal]
 - action-required: no (informational legal notice; review Policy Updates page if desired; continued use = acceptance)
 - ledger-note: no unsubscribe performed (legal/transactional, not marketing). No effective date stated for the terms changes -> no calendar note (contrast Temu UID 1041).
 - message-id: <03.6F.09025.D648EFA6@ccg13mail08>
+
+## 2026-11-19 - PayPal payment to Patreon $5.35 (UID 1220)
+- date: 2026-11-19T18:56:53-08:00 (stored 2026-11-20T02:56:53Z)
+- sender: service@paypal.com (PayPal; to reedsut@gmail.com)
+- subject: Patreon: $5.35 USD
+- summary: Genuine PayPal payment receipt (SPF, DKIM and DMARC all pass, p=REJECT, From paypal.com; template RT001736). Confirms successful payment of $5.35 USD to Patreon (Patreon* Membership, qty 1) via PayPal, funded by MasterCard ending 4809. Transaction date Nov 19, 2026. Order ID charge1630185746. Transaction ID 4S121040T91663001. Charge appears on credit card statement as "PAYPAL *PATREON MEMBE". No attachments; transactional receipt, no List-Unsubscribe. Resolves the earlier Patreon autopay-failure notices (UID 623, 798, 1021) — a working funding source is now on file.
+- action-required: no (informational receipt; payment succeeded)
+- ledger-note: no unsubscribe performed (transactional). Resolves UID 623/798/1021 autopay failures.
+- message-id: <B7.47.10427.5F6BFFA6@ccg14mail02>

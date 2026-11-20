@@ -73,4 +73,5 @@ tags: [email-triage, index]
   - 2026-11-19 — Reddit hiring decision, not moving forward (Staff SWE, DevPlatform; uid 1212) → [[job-applications#2026-11-19 — Reddit hiring decision (not moving forward): Staff Software Engineer, DevPlatform (uid 1212)]]
 - [mhs-assessments](topics/mhs-assessments.md) — MHS (mhs.com) online assessment invitations/reminders (e.g. Conners EC)
   - 2026-11-19 — Conners EC assessment reminder for Emilee (action YES, ~25 min) → [[mhs-assessments#2026-11-19 — Conners EC assessment reminder (uid 1202)]]
+- [paypal](topics/paypal.md) — PayPal account notices: negative balance/collections, autopay failures, statements, legal/terms updates, payment receipts (transactional)
 - [shop-app](topics/shop-app.md) — Shop app (Shopify) gift-guide and product-recommendation marketing promos (marketing)
