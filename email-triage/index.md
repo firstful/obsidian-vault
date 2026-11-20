@@ -78,4 +78,6 @@ tags: [email-triage, index]
   - 2026-11-19 — Conners EC assessment reminder for Emilee (action YES, ~25 min) → [[mhs-assessments#2026-11-19 — Conners EC assessment reminder (uid 1202)]]
 - [pickerington-schools](topics/pickerington-schools.md) — Pickerington Local School District (PLSD) superintendent/district communications + BusRight school-bus service notices (transactional, important)
 - [paypal](topics/paypal.md) — PayPal account notices: negative balance/collections, autopay failures, statements, legal/terms updates, payment receipts (transactional)
+- [personal-blog](topics/personal-blog.md) — firstful/personal-blog GitHub Actions "Deploy to Azure Static Web Apps" CI failures
+  - 2026-11-20 — Run failed: Deploy to Azure Static Web Apps - main (68a0887) (UID 1227) → [[personal-blog#2026-11-20 — Run failed: Deploy to Azure Static Web Apps - main (68a0887)]]
 - [shop-app](topics/shop-app.md) — Shop app (Shopify) gift-guide and product-recommendation marketing promos (marketing)
