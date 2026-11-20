@@ -28,3 +28,11 @@ tags: [email-triage, ebay]
 - **Subject:** Offer expired for Narwal Freo Z Ultra ...
 - **Summary:** eBay notice that Reed's $250.00 counteroffer to buyer ri_543132 expired without a sale — "Unfortunately you did not make a sale this time... your counteroffer was unsuccessful." Listing Buy It Now $350.00. Terminal event in the offer thread ([[ebay|UID 762]] new $230 offer → [[ebay|UID 780]] $250 counteroffer expiring Nov 16 → this expiry). No sale, no money changed hands. Transactional notice with no List-Unsubscribe header; no unsubscribe action.
 - **Action required:** no — informational; relist or await new offers only if Reed wants to pursue the sale.
+
+## 2026-11-20 — eBay new offer: $200.00 for Narwal Freo Z Ultra (item 267822716429) (UID 1245)
+- **Date:** 2026-11-20T18:55:32Z
+- **Sender:** eBay <ebay@ebay.com>
+- **To:** reedsut@gmail.com
+- **Subject:** 📩 You have a new offer: $200.00 for Narwal Freo Z Ultra ... (267822716429)
+- **Summary:** Buyer `chubs230` (15 feedback, 100% positive) submitted a new offer of $200.00 for the Narwal Freo Z Ultra — Manufacture Restore / Open Box listing (eBay item 267822716429; Buy It Now $350.00). Offer valid 23 hours, expires Sat, Nov 21 10:55 AM; listing ends in 4 days 20 hours. New buyer and new offer in the same listing thread as [[ebay|UID 762]] $230 offer → [[ebay|UID 780]] $250 counteroffer → [[ebay|UID 1005]] expired (that thread closed with no sale) — this is a fresh offer, not a resend. Transactional seller notice with no List-Unsubscribe header; no unsubscribe action (also action-relevant, so recipient gate does not apply).
+- **Action required:** yes — review the offer in eBay and accept, decline, or counter before it expires Sat, Nov 21 10:55 AM.

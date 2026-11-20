@@ -37,6 +37,7 @@ tags: [email-triage, index]
 - [donatos](topics/donatos.md) — Donatos Pizza pickup order confirmations and receipts
 - [tim-hortons](topics/tim-hortons.md) — Tim Hortons itemized delivery-order receipts (Tims Rewards; transactional)
 - [ebay](topics/ebay.md) — eBay account/listing notices: offers, messages, transactions, and alerts
+  - 2026-11-20 — New buyer offer $200.00 for Narwal Freo Z Ultra (item 267822716429) from chubs230, expires Sat Nov 21 10:55 AM, action YES (UID 1245) → [[ebay#2026-11-20 — eBay new offer: $200.00 for Narwal Freo Z Ultra (item 267822716429) (UID 1245)]]
 - [email-delivery](topics/email-delivery.md) — Delivery status notifications, bounces, and mail routing failures
 - [experian](topics/experian.md) — Experian credit-report change and FICO-score alert emails (account-activation teasers; marketing)
 - [transunion-creditview](topics/transunion-creditview.md) — TransUnion CreditView Dashboard credit-report alerts (e.g. delinquency notices, score decreases; via financial institution)
