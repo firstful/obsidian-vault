@@ -438,3 +438,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a1fab66516-d37ba24b-6278-4516-b1fb-6e8fbddff4af-000000@email.amazonses.com>
 - **UID:** 1253
 - **Related notes:** [[amazon-orders]] (same order #112-0810705-5611445 as UID 1237 — original confirmation "Soldering Equipment", $10.66, and UID 1250 — cancellation failed; item nonetheless shipped)
+
+## 2026-11-20 — Amazon out-for-delivery notification: 1 item (Pet Supplies) (UID 1261)
+
+- **Date:** 2026-11-20T22:13:11Z
+- **Sender:** "Amazon.com" <shipment-tracking@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Out for delivery 1 item: Pet Supplies
+- **Summary:** Amazon out-for-delivery notification (`shipment-tracking@amazon.com`) for Order #112-4101541-3070660 (Pet Supplies). "Emilee, your package is out for delivery!" / "Arriving today" (Emilee - PICKERINGTON, OH); recipient and city present. This out-for-delivery body carries no Total line — the $19.20 USD amount comes from the sibling order confirmation UID 1184 (auto-confirm, #112-4101541-3070660, Pet Supplies). Next status step in this order's chain: UID 1184 order confirmation → UID 1221 "Shipped" notice → UID 1261 out for delivery. Shipping/status notification → promo/marketing, action-required no; logged as a compact paper-trail entry per household convention (same treatment as UID 1181 "Out for delivery" and other shipping notices). Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass bounces.amazon.com (client-ip 54.240.13.31), DMARC pass (quarantine), ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES. Envelope to_addr is emilee.sutliff@gmail.com (no "reed") and no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk header → no auto-unsubscribe. Soft "Arriving today" ETA ⇒ no calendar/purchase note.
+- **Action required:** no — informational out-for-delivery notification; monitor delivery and verify contents on arrival.
+- **Message-ID:** <010001a1fb054dd5-f120f345-7b10-4358-9b8d-ab6b0304f457-000000@email.amazonses.com>
+- **UID:** 1261
+- **Related notes:** [[amazon-orders]] (see UID 1184 — original order confirmation for #112-4101541-3070660, Pet Supplies $19.20; UID 1221 — "Shipped" notice, same order)
