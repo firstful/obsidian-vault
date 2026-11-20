@@ -101,6 +101,8 @@ tags: [email-triage, index]
   - 2026-11-20 — New NCH MyChart message for Elijah (Emilee; UID 1239, action YES) → [[medical-appointments#2026-11-20 — New MyChart message for Elijah (Nationwide Children's, Emilee; UID 1239)]]
 - [mhs-assessments](topics/mhs-assessments.md) — MHS (mhs.com) online assessment invitations/reminders (e.g. Conners EC)
   - 2026-11-19 — Conners EC assessment reminder for Emilee (action YES, ~25 min) → [[mhs-assessments#2026-11-19 — Conners EC assessment reminder (uid 1202)]]
+- [namecheap](topics/namecheap.md) — Namecheap account/order/billing mail (transactional receipts + Private Email marketing)
+  - 2026-11-20 — Order summary: domain registration arewebfucked.xyz, $1.70, order #220122484, action no (UID 1264) → [[namecheap#2026-11-20 — Namecheap order summary: domain registration, order #220122484]]
 - [pickerington-schools](topics/pickerington-schools.md) — Pickerington Local School District (PLSD) superintendent/district communications + BusRight school-bus service notices (transactional, important)
 - [paypal](topics/paypal.md) — PayPal account notices: negative balance/collections, autopay failures, statements, legal/terms updates, payment receipts (transactional)
 - [personal-blog](topics/personal-blog.md) — firstful/personal-blog GitHub Actions "Deploy to Azure Static Web Apps" CI failures
