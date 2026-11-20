@@ -1,9 +1,20 @@
 ---
-title: Namecheap — account, billing, order & Private Email mail
+title: Namecheap — account, domain verification, order/billing & Private Email mail
+description: Namecheap domain-registrar account/contact-verification and billing/order notices plus Private Email product/marketing mail
 tags: [email-triage, namecheap]
 ---
 
-# Namecheap — account, billing, order & Private Email mail
+# Namecheap — account, domain verification, order/billing & Private Email mail
+
+## 2026-11-20 — Verify contact information for domain(s) — arewefucked.xyz (UID 1265)
+
+- Date: 2026-11-20 22:57 UTC
+- UID: 1265 (INBOX) · message-id: <XgHpWv5yRv23PBIJPSt49Q@geopod-ismtpd-82>
+- Sender: Namecheap Support <support@namecheap.com>
+- To: reedsut+namecheap@gmail.com (delivered to reed@ffilt.us via ingest)
+- Subject: Action required: Verify your contact information for your domain(s)
+- Summary: Namecheap (ICANN registrar contact-data verification) asks Reed to confirm the registrant contact info on file for domain **arewefucked.xyz** — name "Reed Sutliff", email `reedsut+namecheap@gmail.com`. If not verified by **2026-12-05**, the domain will be **suspended**. Action: open the "Verify your contact information" link in the email (raa.namecheap.com `ConfirmProfile.aspx`; verification key redacted here — public vault) or paste the URL into a browser to confirm; no further action after that. Auth is clean (DKIM pass namecheap.com + sendgrid.info, SPF/DMARC pass, policy=reject). No `List-Unsubscribe`/`Precedence: bulk`/bulk-ESP marketing payload — transactional/account notice, so the auto-unsubscribe gate does NOT apply. Deadline tracked in [[calendar/2026-12-05 - Verify Namecheap domain contact information (arewefucked.xyz)]].
+- Action required: yes (verify domain contact info by 2026-12-05 or the domain is suspended; Reed/Rook must click the verification link — no Rook action beyond flagging)
 
 ## 2026-11-20 — Namecheap order summary: domain registration, order #220122484
 
