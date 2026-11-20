@@ -241,3 +241,15 @@ tags: [email-triage, security-alerts]
 - **Summary:** Sam's Club noticed a sign-in from a different device: **Device: Firefox on Linux**; **Date and time: November 19, 12:58 PM PST**; **Location: Columbus, Ohio, US** (approximate, IP-derived — Columbus metro includes the household in Pickerington). Body: "If this looks familiar, please ignore this message"; if not, "go to SamsClub.com and change your password as soon as possible." Distinct fingerprint from the Nov 13 new-device cluster (UIDs 791/793/795/797: Chrome on Windows / Reynoldsburg OH) — this is a Firefox/Linux session in the home metro, consistent with a household device rather than a recurrence of that sitting. No concrete code to enter, no charge/order content, no attachments.
 - **Action required:** no (recognized household Firefox/Linux sign-in), yes (if unrecognized — change the Sam's Club password immediately at account personal-info and review account/payment settings)
 - **Related notes:** [[samsclub|Sam's Club]] (UID 1204 summary + Nov 13 code/new-device cluster), [[security-alerts|Security alerts]]
+
+## 2026-11-20 — Instagram login verification code (UID 1218)
+
+- **Date:** 2026-11-20T01:14:09Z (email Date 2026-11-20 01:14:09 UTC)
+- **UID:** 1218 (INBOX, message-id <0e4ee90d-82c8-4bf8-8e7b-9cf1906324a1@account.meta.com>, 29,484 B, no attachments)
+- **Sender:** Meta <noreply@account.meta.com> (Instagram / Meta account security)
+- **To:** reedsut@gmail.com
+- **Subject:** Use 8764024907 to log into Instagram
+- **Classification:** relevant — transactional account-security login one-time verification code (not marketing). No List-Unsubscribe / List-Unsubscribe-Post / List-Id / Precedence: bulk headers expected; transactional security mail.
+- **Summary:** Meta/Instagram sent a one-time login verification code **8764024907** to reedsut@gmail.com for an Instagram sign-in attempt. Code is time-sensitive (short expiry, typically ~10 minutes). Body is the standard Meta account-security verification notice. If Reed did not initiate the Instagram sign-in, treat as a potential account-takeover attempt and secure the Instagram/Meta account (change password, review active sessions, enable 2FA). To contains "reed" but there is no unsubscribe mechanism and the message is transactional security mail → no auto-unsubscribe.
+- **Action required:** yes (time-sensitive) — enter the code at Instagram if Reed initiated the sign-in; if not requested, change the Instagram/Meta account password immediately and review account security / active sessions.
+- **Related notes:** [[security-alerts|Security alerts]]
