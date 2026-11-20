@@ -86,6 +86,7 @@ tags: [email-triage, index]
   - 2026-11-19 — PlanetScale Greenhouse security code resubmission (44158183, action YES) → [[job-applications#2026-11-19 — Security code for PlanetScale application (uid 1198)]]
   - 2026-11-19 — Reddit hiring decision, not moving forward (Staff SWE, DevPlatform; uid 1212) → [[job-applications#2026-11-19 — Reddit hiring decision (not moving forward): Staff Software Engineer, DevPlatform (uid 1212)]]
   - 2026-11-20 — Elastic application received (Principal, Agentic Engineering Platform; uid 1225) → [[job-applications#2026-11-20 — Application received: Principal, Agentic Engineering Platform at Elastic (uid 1225)]]
+  - 2026-11-20 — Tebra Greenhouse CandidateAutoReply submission ack (Staff SWE, AI Engineering; uid 1254) → [[job-applications#2026-11-20 — Application submission acknowledgement: Staff Software Engineer, AI Engineering at Tebra (uid 1254)]]
 - [medical-appointments](topics/medical-appointments.md) — Medical appointment reminders, MyChart portal notices & OTPs (Nationwide Children's, OSU Wexner; transactional)
   - 2026-11-20 — New NCH MyChart message for Elijah (Emilee; UID 1239, action YES) → [[medical-appointments#2026-11-20 — New MyChart message for Elijah (Nationwide Children's, Emilee; UID 1239)]]
 - [mhs-assessments](topics/mhs-assessments.md) — MHS (mhs.com) online assessment invitations/reminders (e.g. Conners EC)
