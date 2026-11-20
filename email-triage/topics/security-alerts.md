@@ -277,3 +277,15 @@ tags: [email-triage, security-alerts]
 - **Summary:** Meta/Instagram sent a third one-time login verification code **5161922522** to reedsut@gmail.com for an Instagram sign-in attempt, ~2h46m after UID 1219 (5906356821). Code is time-sensitive (short expiry, typically ~10 minutes). Body is the standard Meta account-security verification notice ("Log back into Instagram", account _ginger_snapz_, Meta Account _ginger_snapz_ and 2 more). If Reed did not initiate the Instagram sign-in, treat as a potential account-takeover attempt and secure the Instagram/Meta account (change password, review active sessions, enable 2FA). To contains "reed" but the message is transactional security mail → no auto-unsubscribe.
 - **Action required:** yes (time-sensitive) — enter the code at Instagram if Reed initiated the sign-in; if not requested, change the Instagram/Meta account password immediately and review account security / active sessions.
 - **Related notes:** [[security-alerts|Security alerts]]
+
+## 2026-11-20 — New remembered device added to Venmo account (UID 1234)
+
+- **Date:** 2026-11-20T14:00:16Z (email Date Fri, 20 Nov 2026 14:00:16 +0000; device event listed as Friday, November 20 at 06:00 AM PST)
+- **UID:** 1234 (INBOX, message-id <010001a1f9420717-b246b1b4-8168-402e-93bd-02b1c4b939a5-000000@email.amazonses.com>, 32,910 B, no attachments)
+- **Sender:** Venmo <venmo@venmo.com> (Reply-To no-reply@venmo.com; Venmo is a PayPal service)
+- **To:** reedsut@gmail.com (forwarded via Gmail ingest → reed@ffilt.us)
+- **Subject:** New remembered device added to your account
+- **Classification:** relevant — transactional account-security notice. Clean auth: DKIM pass d=venmo.com (s=yzlavq3ml4jl4lt6dltbgmnoftxftkly) + d=amazonses.com, SPF pass, DMARC pass (p=REJECT), ARC pass (google.com i=2). No List-Unsubscribe / List-Unsubscribe-Post / List-Id / Precedence: bulk. Feedback-ID `:AmazonSES` is an ESP relay tell, not a marketing signal.
+- **Summary:** Venmo reports a new remembered device added to the account: "Generic Smartphone via Venmo App" on Friday, November 20 at 06:00 AM PST (14:00Z). If it was Reed, no action needed; if not, reset the Venmo password immediately (Forgot your password? in-app or venmo.com) and contact Venmo Support (help.venmo.com/hc/en-us/requests/new?ticket_form_id=624807) to confirm the account is secure. To contains "reed" but the message is transactional security mail → no auto-unsubscribe.
+- **Action required:** yes (if unrecognized) — verify the new "Generic Smartphone via Venmo App" device was Reed's; if not, reset password + contact Venmo Support. no (if recognized).
+- **Related notes:** [[security-alerts|Security alerts]]
