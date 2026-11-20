@@ -72,6 +72,7 @@ tags: [email-triage, index]
   - 2026-11-19 — PlanetScale Greenhouse security code (72859400, action YES) → [[job-applications#2026-11-19 — Security code for PlanetScale application (uid 1197)]]
   - 2026-11-19 — PlanetScale Greenhouse security code resubmission (44158183, action YES) → [[job-applications#2026-11-19 — Security code for PlanetScale application (uid 1198)]]
   - 2026-11-19 — Reddit hiring decision, not moving forward (Staff SWE, DevPlatform; uid 1212) → [[job-applications#2026-11-19 — Reddit hiring decision (not moving forward): Staff Software Engineer, DevPlatform (uid 1212)]]
+  - 2026-11-20 — Elastic application received (Principal, Agentic Engineering Platform; uid 1225) → [[job-applications#2026-11-20 — Application received: Principal, Agentic Engineering Platform at Elastic (uid 1225)]]
 - [mhs-assessments](topics/mhs-assessments.md) — MHS (mhs.com) online assessment invitations/reminders (e.g. Conners EC)
   - 2026-11-19 — Conners EC assessment reminder for Emilee (action YES, ~25 min) → [[mhs-assessments#2026-11-19 — Conners EC assessment reminder (uid 1202)]]
 - [pickerington-schools](topics/pickerington-schools.md) — Pickerington Local School District (PLSD) superintendent/district communications + BusRight school-bus service notices (transactional, important)
