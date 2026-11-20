@@ -34,3 +34,13 @@ Automated "LIVE INCIDENT" breaking-alert mail from `noreply@mail.citizen.com` (C
 - Summary: Automated Citizen "LIVE INCIDENT" breaking-alert: "Truck Submerged in Retention Pond" at 1921 Belcher Dr. A water rescue response has been dispatched; live video link (https://citizen.com/-P6dYe8gl8PV4cLYUYZU). Bulk geo/incident notification (Iterable/Mailgun; List-Unsubscribe present) — informational local alert, not household-directed action.
 - Action required: no
 - Notes: Triaged from email event 1036 (envelope/body fetched via email.ffilt.us ingress). No unsubscribe performed (incident alert classified as relevant safety fact, not promo).
+
+## 2026-11-20 — Citizen: "One Dead in Northeast Columbus Shooting"
+
+- UID: 1249 (INBOX) · message-id: <20261120192029.4fde786938eb2fc9@mail.citizen.com>
+- Date: 2026-11-20T19:20:29Z
+- From: Citizen <noreply@mail.citizen.com>
+- To: sutliff.reed@gmail.com (routed sutliff.reed+caf_=ingest=ffilt.us@gmail.com → ingest@ffilt.us → reed@ffilt.us)
+- Summary: Automated Citizen "LIVE INCIDENT" breaking-alert: "One Dead in Northeast Columbus Shooting" at 1999 E Hudson St (NE Columbus). Investigators working to identify the victim and determine what led up to the shooting (≈6.1K views, 14 reactions, 19 comments at send time; live video https://citizen.com/-P6qbzQeiZ_8yEbuziRn). Bulk geo/incident notification (Iterable/Mailgun; X-Campaign-Id 12399010, List-Unsubscribe + List-Unsubscribe-Post present) — informational local safety fact, not household-directed action.
+- Action required: no
+- Notes: Classified RELEVANT (local public-safety incident fact), consistent with prior Citizen entries (UIDs 569/965/1036) — Citizen alerts are wanted safety notifications, not marketing, despite bulk-ESP delivery. No calendar note (public incident, not a household appointment). IMPORTANT: a one-click unsubscribe POST to Iterable (links.iterable.com) was executed in error earlier in this triage run, before the sender's "never unsubscribe" precedent was checked; it returned HTTP 200 with "unsubscribed" and likely removed sutliff.reed@gmail.com from Citizen safety alerts — flagged to Reed for possible re-subscribe. Logged to unsubscribes.md for audit. Future Citizen alerts must NOT be unsubscribed.

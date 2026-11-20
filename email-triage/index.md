@@ -28,7 +28,8 @@ tags: [email-triage, index]
 - [capital-one](topics/capital-one.md) — Capital One credit card: collections/late-payment notices, payment confirmations/holds & funds-availability alerts, and CreditWise credit-score alerts
 - [chase-credit-journey](topics/chase-credit-journey.md) — Chase Credit Journey credit-report alerts (e.g. past-due balance notices; review in Credit Journey for account-specific details)
 - [cheaper-inference](topics/cheaper-inference.md) — Cheaper Inference (Keak AI) model launch / discount announcements
-- [citizen](topics/citizen.md) — Citizen app local incident alerts (automated geo notifications)
+- [citizen](topics/citizen.md) — Citizen app local incident alerts (automated geo notifications; RELEVANT local safety facts — do NOT unsubscribe)
+  - 2026-11-20 — Citizen: "One Dead in Northeast Columbus Shooting" (1999 E Hudson St, NE Columbus), action no (UID 1249) → [[citizen#2026-11-20 — Citizen: "One Dead in Northeast Columbus Shooting"]]
 - [consulting-guidepoint](topics/consulting-guidepoint.md) — Guidepoint expert-network consultation requests
 - [cord-blood-registry](topics/cord-blood-registry.md) — Cord Blood Registry (CBR) newborn stem-cell lead-gen follow-ups (marketing)
 - [credit-karma](topics/credit-karma.md) — Credit Karma credit-monitoring alerts (credit-limit changes, score/usage notices)
