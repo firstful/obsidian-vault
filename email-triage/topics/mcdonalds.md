@@ -50,3 +50,15 @@ tags: [email-triage, mcdonalds]
 - **Message-ID:** `<010001a1e28fd9d1-4cb2b5d6-bf70-41be-bab7-e057b93aec85-000000@email.amazonses.com>`
 - **Auth:** DKIM pass (us.mcdonalds.com, amazonses.com), SPF pass, DMARC pass (p=quarantine) header.from=us.mcdonalds.com, ARC pass.
 - **Related notes:** [[mcdonalds]]
+
+## 2026-11-20 — McDonald's mobile order receipt: $16.26 (UID 1260)
+
+- **UID:** 1260 (INBOX)
+- **Date:** 2026-11-20T22:12:18Z (order placed 11/20/2026 05:12:07 PM local)
+- **Sender:** McDonald's Account Services <DoNotReply_US@us.mcdonalds.com> (To: reedsut@gmail.com; forwarded via Cloudflare Email Routing → ingest@ffilt.us)
+- **Subject:** Thanks for placing a mobile order!
+- **Summary:** Mobile Order & Pay receipt (transactional), Order# RC63 / Check-In# RC63-RM59MO, placed 11/20/2026 05:12:07 PM at REYNOLDSBURG 13885, 13885 Reynoldsburg Baltimore Rd, Reynoldsburg, OH 43068 (614-866-0318) — a different store from the earlier Pickerington/S.R. 256 orders. Items: Double Hamburger qty 2 $5.98 (NO mustard / NO diced onions / NO pickle), 6 pc. Chicken McNuggets Happy Meal qty 2 $11.98 (ketchup packet, kids fry, extra kids fry, Pokémon toy, Honest Kids Organic Apple Juice), Large Coke qty 1 $2.19; 20%-off-$10+ offer applied as Discount $4.03. Subtotal $16.12, Tax $0.14 (7.75% on $1.76 base), **Total $16.26**, Total Savings $4.03. Paid by MasterCard ending 4772, approved $16.26, auth/sequence GHKRDRVPWSS78HB9, Merchant ID MCD-US-20080, balance $0.00. No attachments/List-Unsubscribe. System-generated email ("please do not reply"); receipt notes it will not reflect drive-thru check-in changes. Sibling of UIDs 640/673/849/979 — same sender/template, distinct order number + message-id, not a duplicate.
+- **Action required:** no (receipt only; no order issue, refund or follow-up requested)
+- **Message-ID:** `<010001a1fb047f28-2963eb4b-9125-40bf-a044-3667c38b5ce4-000000@email.amazonses.com>`
+- **Auth:** DKIM pass (us.mcdonalds.com, amazonses.com), SPF pass, DMARC pass (p=quarantine) header.from=us.mcdonalds.com, ARC pass. AmazonSES relay Feedback-ID present — ESP tell, not a marketing signal. No auto-unsubscribe (transactional; gate is promo-only).
+- **Related notes:** [[mcdonalds]]

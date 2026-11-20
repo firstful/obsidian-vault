@@ -40,6 +40,8 @@ tags: [email-triage, index]
 - [cvs-pharmacy](topics/cvs-pharmacy.md) — CVS Pharmacy prescription order confirmations (pickup/payment)
 - [donations](topics/donations.md) — Charitable donations and receipts (World Team, etc.)
 - [donatos](topics/donatos.md) — Donatos Pizza pickup order confirmations and receipts
+- [mcdonalds](topics/mcdonalds.md) — McDonald's Mobile Order & Pay receipts (transactional)
+  - 2026-11-20 — McDonald's mobile order receipt: $16.26, Order# RC63 (Reynoldsburg), action no (UID 1260) → [[mcdonalds#2026-11-20 — McDonald's mobile order receipt: $16.26 (UID 1260)]]
 - [tim-hortons](topics/tim-hortons.md) — Tim Hortons itemized delivery-order receipts (Tims Rewards; transactional)
 - [ebay](topics/ebay.md) — eBay account/listing notices: offers, messages, transactions, and alerts
   - 2026-11-20 — New buyer offer $200.00 for Narwal Freo Z Ultra (item 267822716429) from chubs230, expires Sat Nov 21 10:55 AM, action YES (UID 1245) → [[ebay#2026-11-20 — eBay new offer: $200.00 for Narwal Freo Z Ultra (item 267822716429) (UID 1245)]]
