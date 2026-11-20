@@ -5,6 +5,18 @@ tags: [email-triage, intel-web]
 
 # Intel Web
 
+## 2026-11-20 — Run failed: Playwright Tests - main (4018ba5) (UID 1226)
+
+- **UID / Message-ID:** 1226 / `<reedsutliff/intel-web/check-suites/CS_kwDOHov5u88AAAAcJ_K7LQ/1795149761@github.com>`
+- **Date:** 2026-11-20T04:43:01Z (run finished 2026-11-20T04:42:41Z UTC)
+- **From:** Reed Sutliff <notifications@github.com>
+- **To:** "reedsutliff/intel-web" <intel-web@noreply.github.com>
+- **Subject:** [reedsutliff/intel-web] Run failed: Playwright Tests - main (4018ba5)
+- **Summary:** GitHub Actions workflow "Playwright Tests" in reedsutliff/intel-web failed on main (commit 4018ba5). playwright_tests (16.x) failed with 2 annotations; (18.x) and (14.x) cancelled with 3 annotations each. Duration 1 minute and 25.0 seconds. Run: https://github.com/reedsutliff/intel-web/actions/runs/44676067724. Recurring failure — same commit 4018ba5 failing across multiple runs since 2026-11-03.
+- **Action required:** yes — fix the Playwright test suite / pin the commit
+- **Classification:** relevant — CI failure, recurring Playwright breakage
+
+
 ## 2026-11-19 — Run failed: Playwright Tests - main (4018ba5) (UID 1167)
 
 - **UID / Message-ID:** 1167 / `<reedsutliff/intel-web/check-suites/CS_kwDOHov5u88AAAAcBY6u7g/1795063941@github.com>`

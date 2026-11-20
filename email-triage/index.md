@@ -64,6 +64,7 @@ tags: [email-triage, index]
 - [huntington-bank](topics/huntington-bank.md) — Huntington Bank notices (debit card expiration/replacement, statement available, biometric Touch ID/Face ID security alerts, verification-code requests, agreement updates) (transactional)
 - [insurance](topics/insurance.md) — Insurance & benefits documents (employer health/dental/vision plan docs, SBCs, policies)
 - [intel-web](topics/intel-web.md) — Intel-web Playwright Tests GitHub Actions CI failures
+  - 2026-11-20 — Run failed: Playwright Tests - main (4018ba5) (UID 1226) → [[intel-web#2026-11-20 — Run failed: Playwright Tests - main (4018ba5) (UID 1226)]]
 - [job-alerts](topics/job-alerts.md) — Marketing job-board alerts (ZipRecruiter, etc.)
 - [unsubscribes](topics/unsubscribes.md) — Unsubscribe action ledger for marketing/promo senders (per-message attempts, method, result)
 - [job-applications](topics/job-applications.md) — Job applications and confirmations (Affirm, Reddit, Cresta, Descript, ZoomInfo)
