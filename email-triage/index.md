@@ -24,6 +24,8 @@ tags: [email-triage, index]
 - [bosch](topics/bosch.md) — Bosch appliance registration confirmations and product care (transactional)
 - [billing](topics/billing.md) — Bills and invoices (Microsoft/Azure, Columbia Gas and South Central Power electric, other utilities, etc.)
 - [bandcamp](topics/bandcamp.md) — Bandcamp fan release notifications (marketing)
+- [backblaze](topics/backblaze.md) — Backblaze Privacy Notice / DPA / Cookie Notice / Subprocessor List legal policy updates (transactional, not marketing)
+  - 2026-11-20 — Updates to Backblaze's Privacy Notice and Related Policies (effective 2026-12-01), action no (UID 1255) → [[backblaze#2026-11-20 — Updates to Backblaze's Privacy Notice and Related Policies (UID 1255)]]
 - [best-egg](topics/best-egg.md) — Best Egg personal loan autopay notices (transactional)
 - [bible-gateway](topics/bible-gateway.md) — Bible Gateway Deals promos and editorial/devotional newsletters (marketing)
 - [book-review-requests](topics/book-review-requests.md) — Personalized one-to-one book/manuscript review requests (publishers, editors, authors)
