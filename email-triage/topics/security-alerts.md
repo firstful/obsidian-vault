@@ -265,3 +265,15 @@ tags: [email-triage, security-alerts]
 - **Summary:** Meta/Instagram sent a second one-time login verification code **5906356821** to reedsut@gmail.com for an Instagram sign-in attempt, ~5 minutes after UID 1218 (8764024907). Code is time-sensitive (short expiry, typically ~10 minutes). Body is the standard Meta account-security verification notice. If Reed did not initiate the Instagram sign-in, treat as a potential account-takeover attempt and secure the Instagram/Meta account (change password, review active sessions, enable 2FA). To contains "reed" but there is no unsubscribe mechanism and the message is transactional security mail → no auto-unsubscribe.
 - **Action required:** yes (time-sensitive) — enter the code at Instagram if Reed initiated the sign-in; if not requested, change the Instagram/Meta account password immediately and review account security / active sessions.
 - **Related notes:** [[security-alerts|Security alerts]]
+
+## 2026-11-20 — Instagram login verification code (UID 1224)
+
+- **Date:** 2026-11-20T04:05:39Z (email Date 2026-11-19 20:05:39 -0800)
+- **UID:** 1224 (INBOX, message-id <64b8d260-e778-4bf9-9d70-d7298a28e919@account.meta.com>, 29,483 B, no attachments)
+- **Sender:** Meta <noreply@account.meta.com> (Instagram / Meta account security)
+- **To:** reedsut@gmail.com
+- **Subject:** Use 5161922522 to log into Instagram
+- **Classification:** relevant — transactional account-security login one-time verification code (not marketing). Carries an RFC 8058 one-click List-Unsubscribe (Meta security-mail footer) but the message is transactional security mail → no auto-unsubscribe (suppressing would hide future security alerts).
+- **Summary:** Meta/Instagram sent a third one-time login verification code **5161922522** to reedsut@gmail.com for an Instagram sign-in attempt, ~2h46m after UID 1219 (5906356821). Code is time-sensitive (short expiry, typically ~10 minutes). Body is the standard Meta account-security verification notice ("Log back into Instagram", account _ginger_snapz_, Meta Account _ginger_snapz_ and 2 more). If Reed did not initiate the Instagram sign-in, treat as a potential account-takeover attempt and secure the Instagram/Meta account (change password, review active sessions, enable 2FA). To contains "reed" but the message is transactional security mail → no auto-unsubscribe.
+- **Action required:** yes (time-sensitive) — enter the code at Instagram if Reed initiated the sign-in; if not requested, change the Instagram/Meta account password immediately and review account security / active sessions.
+- **Related notes:** [[security-alerts|Security alerts]]
