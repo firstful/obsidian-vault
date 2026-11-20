@@ -44,3 +44,11 @@ tags: [email-triage, ebay]
 - **Subject:** Counteroffer submitted to buyer: $300.00 for Narwal Freo Z Ultra ... (267822716429)
 - **Summary:** eBay confirmation that a counteroffer of $300.00 was submitted to buyer `chubs230` (15 feedback, 100% positive, shipping to LA) for the Narwal Freo Z Ultra — Manufacture Restore / Open Box listing (eBay item 267822716429; Buy It Now $350.00, $50 below listing). Reed's message to buyer: "Shipping 43lb robot vac from ohio to LA is 200 min." Counteroffer expires Tue, Nov 24 06:28 AM; listing ends in 4 days 17 hours. This is Reed's counter to [[ebay#2026-11-20 — eBay new offer: $200.00 for Narwal Freo Z Ultra (item 267822716429) (UID 1245)|UID 1245's $200 offer]] from the same buyer chubs230 — no sale yet, awaiting buyer response. Transactional seller notice with no List-Unsubscribe header; no unsubscribe action (also action-relevant, so recipient gate does not apply).
 - **Action required:** yes — monitor buyer response (accept/decline/counter) before the counteroffer expires Tue, Nov 24 06:28 AM.
+
+## 2026-11-20 — eBay offer retracted: $300.00 counteroffer to chubs230 for Narwal Freo Z Ultra (item 267822716429) (UID 1262)
+- **Date:** 2026-11-20T22:27:01Z
+- **Sender:** eBay <ebay@ebay.com>
+- **To:** reedsut@gmail.com
+- **Subject:** Your offer has been retracted
+- **Summary:** eBay notice that the $300.00 counteroffer to buyer `chubs230` for the Narwal Freo Z Ultra — Manufacture Restore / Open Box listing (item 267822716429; Buy It Now $350.00) was retracted — terminal event closing the chubs230 thread ([[ebay#2026-11-20 — eBay new offer: $200.00 for Narwal Freo Z Ultra (item 267822716429) (UID 1245)|UID 1245]] $200 offer → [[ebay#2026-11-20 — eBay counteroffer submitted: $300.00 to buyer for Narwal Freo Z Ultra (item 267822716429) (UID 1259)|UID 1259]] $300 counteroffer → this retraction). No sale, no money changed hands; listing still active (ends in 3 days 16 hours, 4 watchers). Transactional seller notice with no List-Unsubscribe header (only Feedback-ID); no unsubscribe action (also not marketing, so recipient gate does not apply).
+- **Action required:** no — informational; listing remains active, await new offers only if Reed wants to pursue the sale.
