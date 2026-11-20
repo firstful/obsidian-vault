@@ -327,3 +327,15 @@ tags: [email-triage, medical-appointments]
 - **Summary:** Nationwide Children's MyChart notification addressed to Emilee Sutliff ("Hello Emilee Sutliff"): "There is a new message for Elijah in MyChart." Body contains no message content, verification code, appointment, billing, or dated event — it provides a "View message" login link (mychart.nationwidechildrens.org/MyChart/.../Messaging) directing the recipient to log in to read the message. Questions: 614-938-3000. Patient is Elijah (proxy access under Emilee). Same family as prior NCH "New Message" notices (UIDs 768/847 for Elijah) and analogous to OSU plain new-message notices (UIDs 994/1010/1054/1059). Plain-text + HTML parts, 0 attachments. No `List-Unsubscribe` header; To is Emilee's mailbox (non-Reed) → no unsubscribe action.
 - **Action required:** yes (log in to Nationwide Children's MyChart to read/respond to Elijah's new message)
 - **Related notes:** [[medical-appointments]]
+
+## 2026-11-20 — New MyChart message for Elijah (Nationwide Children's, Emilee; UID 1239)
+
+- **Date:** 2026-11-20T16:52:57Z (Fri 11:52:57 -0500)
+- **UID:** 1239 (INBOX) · message-id: <2c85606d-da5a-40cd-a427-f846aeaaa661@H2PWEXCHSVR02.childrensroot.net>
+- **Sender:** donotreply@nationwidechildrens.org (Nationwide Children's Hospital MyChart)
+- **Subject:** New Message
+- **To:** emileesutliff@gmail.com (original recipient; forwarded via Gmail ingest to ingest@ffilt.us)
+- **Classification:** relevant (transactional healthcare portal notification; no List-Unsubscribe, no bulk/marketing signals)
+- **Summary:** Nationwide Children's MyChart notification addressed to Emilee Sutliff ("Hello Emilee Sutliff"): "There is a new message for Elijah in MyChart." Body contains no message content, verification code, appointment, billing, or dated event — it provides a "View message" login link (mychart.nationwidechildrens.org/MyChart/Home/LogOut?postloginurl=/s/4NMDANG66RZPDODFS24OCKULJM/Messaging) directing the recipient to log in to read the message. Patient is Elijah (proxy access under Emilee). Same family as prior NCH "New Message" notices (UIDs 768/847/1142 for Elijah). Plain-text part (200 bytes) + HTML (7,822 bytes), 0 attachments. No `List-Unsubscribe` header; To is Emilee's mailbox (non-Reed) → no unsubscribe action.
+- **Action required:** yes (log in to Nationwide Children's MyChart to read/respond to Elijah's new message)
+- **Related notes:** [[medical-appointments]]
