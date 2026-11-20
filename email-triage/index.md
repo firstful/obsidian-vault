@@ -68,6 +68,7 @@ tags: [email-triage, index]
 - [google-account](topics/google-account.md) — Google Account security alerts and verification notices
 - [google-fi](topics/google-fi.md) — Google Fi Wireless rejoin/win-back offers and plan promos (marketing)
 - [google-gemini](topics/google-gemini.md) — Google Gemini mandatory privacy/settings service announcements (e.g. Keep Activity split into history-retention + AI-training settings; informational, not marketing)
+  - 2026-11-20 — Important updates in Gemini Apps / Keep Activity → two settings (UID 1257, action no, Emilee) → [[google-gemini#2026-11-20 — Important updates in Gemini Apps (UID 1257)]]
 - [google-health](topics/google-health.md) — Automated Google Health weekly fitness/activity digests (steps, floors) with Google Health Premium upsell (marketing)
 - [google-home](topics/google-home.md) — Google Home hardware/feature marketing (Nest Thermostat 4th gen updates, Gemini Live improvements, Google Wallet home key) (marketing)
   - 2026-11-19 — Google Home "Black Friday savings start today" promo → [[google-home#2026-11-19 — Google Home: "Black Friday savings start today" (uid 1196)]]
