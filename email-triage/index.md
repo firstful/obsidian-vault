@@ -33,6 +33,7 @@ tags: [email-triage, index]
 - [cvs-pharmacy](topics/cvs-pharmacy.md) — CVS Pharmacy prescription order confirmations (pickup/payment)
 - [donations](topics/donations.md) — Charitable donations and receipts (World Team, etc.)
 - [donatos](topics/donatos.md) — Donatos Pizza pickup order confirmations and receipts
+- [tim-hortons](topics/tim-hortons.md) — Tim Hortons itemized delivery-order receipts (Tims Rewards; transactional)
 - [ebay](topics/ebay.md) — eBay account/listing notices: offers, messages, transactions, and alerts
 - [email-delivery](topics/email-delivery.md) — Delivery status notifications, bounces, and mail routing failures
 - [experian](topics/experian.md) — Experian credit-report change and FICO-score alert emails (account-activation teasers; marketing)
