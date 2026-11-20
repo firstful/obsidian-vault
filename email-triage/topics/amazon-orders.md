@@ -383,3 +383,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a1f63e5e36-d6d1966c-fb1b-4b8a-87e8-726682757b44-000000@email.amazonses.com>
 - **UID:** 1216
 - **Related notes:** [[amazon-orders]] (see UID 1188 — original order confirmation for #112-7966247-0160200, Activewear $8.53)
+
+## 2026-11-20 — Amazon shipping notification: 1 item (Pet Supplies) (UID 1221)
+
+- **Date:** 2026-11-20T03:24:08Z
+- **Sender:** "Amazon.com" <shipment-tracking@amazon.com> (to emilee.sutliff@gmail.com)
+- **Subject:** Shipped 1 item: Pet Supplies
+- **Summary:** Amazon shipping notification (shipment-tracking) for Order #112-4101541-3070660 (Pet Supplies, $19.20 USD; cf. UID 1184 order confirmation). Package shipped; ETA prose "Arriving tomorrow" (soft, relative to 2026-11-20), recipient Emilee - PICKERINGTON, OH. Tracking link available. Shipping/status notification → promo/marketing, action-required no. Envelope to_addr is emilee.sutliff@gmail.com (no "reed"), no List-Unsubscribe header → no auto-unsubscribe.
+- **Action required:** no — informational shipping notification; monitor delivery and verify contents on arrival.
+- **Message-ID:** <010001a1f6fba347-13e11e64-f59c-4200-bc41-e69c663cf762-000000@email.amazonses.com>
+- **UID:** 1221
+- **Related notes:** [[amazon-orders]] (see UID 1184 — original order confirmation for #112-4101541-3070660, Pet Supplies $19.20)
