@@ -253,3 +253,15 @@ tags: [email-triage, security-alerts]
 - **Summary:** Meta/Instagram sent a one-time login verification code **8764024907** to reedsut@gmail.com for an Instagram sign-in attempt. Code is time-sensitive (short expiry, typically ~10 minutes). Body is the standard Meta account-security verification notice. If Reed did not initiate the Instagram sign-in, treat as a potential account-takeover attempt and secure the Instagram/Meta account (change password, review active sessions, enable 2FA). To contains "reed" but there is no unsubscribe mechanism and the message is transactional security mail → no auto-unsubscribe.
 - **Action required:** yes (time-sensitive) — enter the code at Instagram if Reed initiated the sign-in; if not requested, change the Instagram/Meta account password immediately and review account security / active sessions.
 - **Related notes:** [[security-alerts|Security alerts]]
+
+## 2026-11-20 — Instagram login verification code (UID 1219)
+
+- **Date:** 2026-11-20T01:19:09Z (email Date 2026-11-20 01:19:09 UTC)
+- **UID:** 1219 (INBOX, message-id <38e7f0f3-56fd-49ca-9d7e-7085458a4191@account.meta.com>, 29,372 B, no attachments)
+- **Sender:** Meta <noreply@account.meta.com> (Instagram / Meta account security)
+- **To:** reedsut@gmail.com
+- **Subject:** Use 5906356821 to log into Instagram
+- **Classification:** relevant — transactional account-security login one-time verification code (not marketing). No List-Unsubscribe / List-Unsubscribe-Post / List-Id / Precedence: bulk headers expected; transactional security mail.
+- **Summary:** Meta/Instagram sent a second one-time login verification code **5906356821** to reedsut@gmail.com for an Instagram sign-in attempt, ~5 minutes after UID 1218 (8764024907). Code is time-sensitive (short expiry, typically ~10 minutes). Body is the standard Meta account-security verification notice. If Reed did not initiate the Instagram sign-in, treat as a potential account-takeover attempt and secure the Instagram/Meta account (change password, review active sessions, enable 2FA). To contains "reed" but there is no unsubscribe mechanism and the message is transactional security mail → no auto-unsubscribe.
+- **Action required:** yes (time-sensitive) — enter the code at Instagram if Reed initiated the sign-in; if not requested, change the Instagram/Meta account password immediately and review account security / active sessions.
+- **Related notes:** [[security-alerts|Security alerts]]
