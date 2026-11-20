@@ -405,3 +405,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a1f9aa1442-741ea7be-4e7b-4800-90f2-b1228b1b0b0c-000000@email.amazonses.com>
 - **UID:** 1237
 - **Related notes:** [[amazon-orders]]
+
+## 2026-11-20 — Amazon payment declined (repeat) / payment revision needed (UID 1241)
+
+- **Date:** 2026-11-20T17:20:50Z
+- **Sender:** "Amazon.com" <payments-update@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Payment declined: Update your information so we can ship your order.
+- **Summary:** Repeat transactional Amazon payment-declined notice. Order #112-9187917-4535404, Total $17.07 USD (Emilee - PICKERINGTON, OH); "Your order is on hold because your payment was declined" / "Payment revision needed" / "Please update your payment method" / "View or edit order." TeleCheck FCRA notice (800-366-2425) included — normal boilerplate for genuine declines. This is a RE-SEND of the SAME order declined earlier at UID 1185 (2026-11-19 16:47:54Z) and UID 1186 (2026-11-19 17:01:26Z) — ~2 days later, new Message-ID, SPF client-ip 54.240.13.177 (vs 54.240.13.110 / 54.240.13.165 on the earlier deliveries) — all legit SES relays; underlying held order unchanged. Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass bounces.amazon.com, DMARC pass (quarantine) header.from=amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES. Envelope to_addr is emilee.sutliff@gmail.com (no "reed") → no auto-unsubscribe gating; transactional and no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk header present. No calendar/purchase note (held order, no hard date or shipping event).
+- **Action required:** yes — Emilee must update/repair the payment method with Amazon (verify card details with bank, or resolve the TeleCheck issue) to release the held order; no action for Rook. Repeat delivery does not change the required action.
+- **Message-ID:** <010001a1f9f9a73b-f6848112-f4d3-466e-823c-87a0b4552eee-000000@email.amazonses.com>
+- **UID:** 1241
+- **Related notes:** [[amazon-orders]] (repeat of UID 1185/1186 declines; original order confirmation UID 1182 — order #112-9187917-4535404, Pet Supplies $17.07; underlying held order unchanged)
