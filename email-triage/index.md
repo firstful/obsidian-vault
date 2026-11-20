@@ -82,3 +82,6 @@ tags: [email-triage, index]
 - [personal-blog](topics/personal-blog.md) — firstful/personal-blog GitHub Actions "Deploy to Azure Static Web Apps" CI failures
   - 2026-11-20 — Run failed: Deploy to Azure Static Web Apps - main (68a0887) (UID 1227) → [[personal-blog#2026-11-20 — Run failed: Deploy to Azure Static Web Apps - main (68a0887)]]
 - [shop-app](topics/shop-app.md) — Shop app (Shopify) gift-guide and product-recommendation marketing promos (marketing)
+
+- [usps-informed-delivery](topics/usps-informed-delivery.md) — USPS Informed Delivery daily mail/package preview digests (informational, not marketing; never unsubscribed)
+  - 2026-11-20 — Fri 11/20 digest, Reed mailbox: 0 mailpieces, 1 inbound package (Amazon awaiting from sender), action no (UID 1231) → [[usps-informed-delivery#2026-11-20 12:57 — USPS Informed Delivery: "Your Daily Digest for Fri, 11/20 is ready to view"]]
