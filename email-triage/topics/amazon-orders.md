@@ -372,3 +372,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a1f52cddf3-538c8301-8184-4ffa-8d1c-f7e994bd3398-000000@email.amazonses.com>
 - **UID:** 1193
 - **Related notes:** [[amazon-orders]]
+
+## 2026-11-19 — Amazon shipping notification: 1 item (Activewear) (UID 1216)
+
+- **Date:** 2026-11-19T23:57:24Z
+- **Sender:** "Amazon.com" <shipment-tracking@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us)
+- **Subject:** Shipped 1 item: Activewear
+- **Summary:** Amazon shipping notification (`shipment-tracking@amazon.com`): "Emilee, your package was shipped!" for Order #112-7966247-0160200 (1 item, category Activewear), Total 8.53 USD, recipient Emilee - PICKERINGTON, OH. ETA prose "Arriving Saturday" (soft, relative to 2026-11-19) — no hard date, so no calendar/purchase note. This is the "Shipped" status step for the same order as the original order confirmation UID 1188 ("Ordered 1 item: Activewear", $8.53 USD). Shipping/status notification → promo/marketing, action-required no; logged as a compact paper-trail entry per household convention (same treatment as other Shipped / Out-for-delivery / Delivered notices). Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass bounces.amazon.com (client-ip 54.240.13.93), ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed") and no `List-Unsubscribe` / `List-Unsubscribe-Post` / `Precedence: bulk` header → no auto-unsubscribe. Item-level detail not extracted from the HTML body.
+- **Action required:** no — informational shipping notification; monitor for out-for-delivery/delivery follow-ups.
+- **Message-ID:** <010001a1f63e5e36-d6d1966c-fb1b-4b8a-87e8-726682757b44-000000@email.amazonses.com>
+- **UID:** 1216
+- **Related notes:** [[amazon-orders]] (see UID 1188 — original order confirmation for #112-7966247-0160200, Activewear $8.53)
