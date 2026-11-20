@@ -416,3 +416,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a1f9f9a73b-f6848112-f4d3-466e-823c-87a0b4552eee-000000@email.amazonses.com>
 - **UID:** 1241
 - **Related notes:** [[amazon-orders]] (repeat of UID 1185/1186 declines; original order confirmation UID 1182 — order #112-9187917-4535404, Pet Supplies $17.07; underlying held order unchanged)
+
+## 2026-11-20 — Amazon cancellation failed: item could not be cancelled (Soldering Iron Kits) (UID 1250)
+
+- **Date:** 2026-11-20T19:46:06Z
+- **Sender:** "amazon.com" <order-update@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Item could not be cancelled: Soldering Iron Kits
+- **Summary:** Transactional Amazon order-status notice: a cancellation attempt for this order did not succeed — body reads "Unfortunately, your items could not be cancelled." Order #112-0810705-5611445, recipient Emilee - PICKERINGTON, OH, ETA prose "Arriving tomorrow" (soft, relative to 2026-11-20) with a "Track package" link. This is the same order as UID 1237 (order confirmation, "Soldering Equipment", $10.66 USD); this subject names the concrete item "Soldering Iron Kits." The item is still on its way, so a retry of the cancellation (or accepting the shipment) is outstanding. Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass bounces.amazon.com (client-ip 54.240.13.179), DMARC pass (quarantine) header.from=amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES. Envelope to_addr is emilee.sutliff@gmail.com (no "reed"), no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk / List-Id header → no auto-unsubscribe. Soft ETA ⇒ no calendar/purchase note.
+- **Action required:** yes — Emilee should retry the cancellation in Your Orders (or accept the incoming shipment) since the prior cancellation did not go through; no action for Rook.
+- **Message-ID:** <010001a1fa7ea80a-6618e458-a0ad-49b2-89fb-59bbfab22d05-000000@email.amazonses.com>
+- **UID:** 1250
+- **Related notes:** [[amazon-orders]] (same order #112-0810705-5611445 as UID 1237 — order confirmation "Soldering Equipment", $10.66; cancellation failed here, item still arriving)
