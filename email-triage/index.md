@@ -108,7 +108,6 @@ tags: [email-triage, index]
   - 2026-11-20 — Elastic application received (Principal, Agentic Engineering Platform; uid 1225) → [[job-applications#2026-11-20 — Application received: Principal, Agentic Engineering Platform at Elastic (uid 1225)]]
   - 2026-11-20 — Tebra Greenhouse CandidateAutoReply submission ack (Staff SWE, AI Engineering; uid 1254) → [[job-applications#2026-11-20 — Application submission acknowledgement: Staff Software Engineer, AI Engineering at Tebra (uid 1254)]]
   - 2026-11-21 — Pinterest Greenhouse CandidateAutoReply submission ack (Sr. Staff SWE, AI Platform; uid 1280) → [[job-applications#2026-11-21 — Application received: Sr. Staff Software Engineer, AI Platform at Pinterest (uid 1280)]]
-  - 2026-11-21 — Pinterest Greenhouse CandidateAutoReply submission ack (Sr. Staff SWE, AI Platform; uid 1280) → [[job-applications#2026-11-21 — Application received: Sr. Staff Software Engineer, AI Platform at Pinterest (uid 1280)]]
 - [medical-appointments](topics/medical-appointments.md) — Medical appointment reminders, MyChart portal notices & OTPs (Nationwide Children's, OSU Wexner; transactional)
   - 2026-11-20 — New NCH MyChart message for Elijah (Emilee; UID 1239, action YES) → [[medical-appointments#2026-11-20 — New MyChart message for Elijah (Nationwide Children's, Emilee; UID 1239)]]
 - [mhs-assessments](topics/mhs-assessments.md) — MHS (mhs.com) online assessment invitations/reminders (e.g. Conners EC)
