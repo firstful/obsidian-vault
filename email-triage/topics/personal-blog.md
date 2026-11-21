@@ -150,3 +150,16 @@ tags: [email-triage, personal-blog]
 - **Run:** https://github.com/firstful/personal-blog/actions/runs/44697380291
 - **Action required:** yes
 - **Classification:** relevant — CI failure (Azure Static Web Apps deploy). 12th consecutive daily failure at the "Build & Deploy" job (runs #22-33, 2026-11-09 -> 2026-11-20); broken deploy pipeline, not a flake.
+
+## 2026-11-21 — Run failed: Deploy to Azure Static Web Apps - main (9b82c52)
+
+- **Date:** 2026-11-21T07:43:08Z (message date 2026-11-20 23:43:08 -0800; uid 1274)
+- **Sender:** notifications@github.com (Reed Sutliff)
+- **To:** personal-blog@noreply.github.com (Cc ci_activity@noreply.github.com; routed via sutliff.reed@gmail.com -> ingest@ffilt.us)
+- **Subject:** [firstful/personal-blog] Run failed: Deploy to Azure Static Web Apps - main (9b82c52)
+- **UID:** 1274
+- **Message-ID:** <firstful/personal-blog/check-suites/CS_kwDOUWGd288AAAAcSHc7Vw/1795246968@github.com>
+- **Summary:** GitHub Actions workflow "Deploy to Azure Static Web Apps" in firstful/personal-blog failed on main (commit 9b82c52, run #34, display title "recent-work: 2026-11-21 update"). Job "Build & Deploy" failed (2 annotations) in 38s; step "Deploy to staging" failed with "Process completed with exit code 1." at .github line 18. Downstream "Wait for staging to be healthy" and "Deploy to production" skipped; "PR Test" skipped. Annotations: Node.js 20 deprecation warning (actions/checkout@v4, actions/setup-node@v4); ubuntu-latest -> Ubuntu 26 migration notice. Duration 41.0s, started 07:42:07 UTC, finished 07:42:48 UTC. SPF/DKIM/DMARC pass for github.com. Raw job logs require repo admin rights.
+- **Run:** https://github.com/firstful/personal-blog/actions/runs/44881453192
+- **Action required:** yes
+- **Classification:** relevant — CI failure (Azure Static Web Apps deploy). 13th consecutive daily failure at the "Build & Deploy" job (runs #22-34, 2026-11-09 -> 2026-11-21); broken deploy pipeline, not a flake.
