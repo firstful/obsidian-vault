@@ -25,6 +25,7 @@ tags: [email-triage, index]
 - [bibibop](topics/bibibop.md) — Bibibop Rewards transactional emails (verification codes, account notices)
 - [bosch](topics/bosch.md) — Bosch appliance registration confirmations and product care (transactional)
 - [billing](topics/billing.md) — Bills and invoices (Microsoft/Azure, Columbia Gas and South Central Power electric, other utilities, etc.)
+  - 2026-11-21 — Slowdive Premium $29.99 payment issue, 6th repeat, action YES (Emilee) (UID 1271) → [[billing#2026-11-21 - Payment issue notice: Slowdive Premium $29.99 (UID 1271)]]
 - [bandcamp](topics/bandcamp.md) — Bandcamp fan release notifications (marketing)
 - [backblaze](topics/backblaze.md) — Backblaze Privacy Notice / DPA / Cookie Notice / Subprocessor List legal policy updates (transactional, not marketing)
   - 2026-11-20 — Updates to Backblaze's Privacy Notice and Related Policies (effective 2026-12-01), action no (UID 1255) → [[backblaze#2026-11-20 — Updates to Backblaze's Privacy Notice and Related Policies (UID 1255)]]

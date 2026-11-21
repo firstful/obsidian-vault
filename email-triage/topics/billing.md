@@ -5,6 +5,17 @@ tags: [email-triage, billing]
 
 # Billing / Invoices
 
+## 2026-11-21 - Payment issue notice: Slowdive Premium $29.99 (UID 1271)
+
+- date: 2026-11-21T03:49:37Z
+- sender: support@slowdive.app (Ascetix inc) — to emileesutliff@gmail.com, forwarded via Cloudflare Email Routing to reed@ffilt.us
+- subject: [Action required] Issue with your recent payment for Ascetix inc
+- summary: Sixth repeat of the identical Slowdive dunning notice (same Invoice #392381, $29.99, "Slowdive Premium Upgrade – 1 Month", Nov 2 – Dec 2, 2026; billing address 12703 Stonecreek Drive, Pickerington OH 43147; OH tax 6.75% ($0.00); Paid $0.00 / Total Due $29.99). Same SendGrid click-tracking links and support@slowdive.app reply address; greeting is the unpersonalized "Hi ," merge-field artifact. No attachments, no `List-Unsubscribe`/bulk headers. Prior journaled repeats: UID 571 (2026-11-09), UID 733 (2026-11-12), UID 920 (2026-11-15), UID 1101 (2026-11-18); first seen UID 415 (2026-11-06, not in ledger). Message-id differs from UID 1101; same slowdive.app sender, DKIM/DMARC/SPF pass for slowdive.app via SendGrid — consistent with the app's own billing system, not a spoof. Addressed to Emilee's mailbox, not Reed's.
+- account: last-4 not stated anywhere in the message
+- action-required: yes (Emilee: update the payment method or cancel — the premium subscription lapses otherwise. Do not click links unless the Slowdive subscription is actually wanted.)
+- ledger-note: no unsubscribe performed (To is emileesutliff@gmail.com, no "reed", and this is a transactional billing notice with no List-Unsubscribe header).
+- message-id: <6b0114d0df501_125e82075400f9@emaily-consumer-7694b9759d-xj2wt.mail>
+
 ## 2026-11-19 — South Central Power electric bill available: $331.00 due 2026-12-04 (UID 1213)
 
 - **Date:** 2026-11-19T23:12:54Z
