@@ -449,3 +449,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a1fb054dd5-f120f345-7b10-4358-9b8d-ab6b0304f457-000000@email.amazonses.com>
 - **UID:** 1261
 - **Related notes:** [[amazon-orders]] (see UID 1184 — original order confirmation for #112-4101541-3070660, Pet Supplies $19.20; UID 1221 — "Shipped" notice, same order)
+
+## 2026-11-21 — Amazon delivery confirmation: 1 item (Pet Supplies) (UID 1269)
+
+- **Date:** 2026-11-21T00:11:27Z
+- **Sender:** "Amazon.com" <order-update@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Delivered 1 item: Pet Supplies
+- **Summary:** Amazon delivery confirmation (`order-update@amazon.com`): "Emilee, your package was delivered!" / "Delivered today," "Your package was left near the front door or porch," recipient Emilee - PICKERINGTON, OH. Order #112-4101541-3070660 (Pet Supplies). This is the final "Delivered" step completing this order's status chain: UID 1184 original order confirmation ($19.20 USD, Pet Supplies) → UID 1221 "Shipped" → UID 1261 "Out for delivery" → UID 1269 "Delivered." This delivery body carries no amount line — the $19.20 USD comes from the sibling confirmation UID 1184. Delivery/status notification → promo/marketing, action-required no; logged as a compact paper-trail entry per household convention (same treatment as other Delivered/Shipped/Out-for-delivery notices), NOT Discord-only. Genuine Amazon mail: Feedback-ID ...:AmazonSES, Message-ID @email.amazonses.com, forwarded via caf_=ingest=ffilt.us; no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk header. Envelope to_addr is emilee.sutliff@gmail.com (no "reed") → no auto-unsubscribe. Soft "Delivered today" ⇒ no calendar/purchase note.
+- **Action required:** no — informational delivery confirmation; chain complete.
+- **Message-ID:** <010001a1fb7194f6-5dee8915-2553-4a08-a838-6cc3dadcca1b-000000@email.amazonses.com>
+- **UID:** 1269 (INBOX)
+- **Related notes:** [[amazon-orders]] (final delivery step for #112-4101541-3070660 — see UID 1184 original confirmation $19.20, UID 1221 "Shipped", UID 1261 "Out for delivery")
