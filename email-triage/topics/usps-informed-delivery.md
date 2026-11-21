@@ -181,3 +181,12 @@ Informational only; never action-required.
 - Summary: Daily Informed Delivery digest for Friday 20 November 2026 — 0 mailpieces, 1 inbound package arriving soon ("You have 0 mailpiece(s) and 1 inbound package(s) arriving soon"). Dashboard: "Expected Today 0 item(s)", "Expected 1-2 Days 0 item(s)", "Awaiting From Sender 1 item(s) FROM: AMAZON 9361289715870604920180", Outbound 0. "No mailpieces are available to display." No JPEG mailpiece-scan attachments (95 KB message). No package exceptions, bills, deadlines, or account actions referenced.
 - Action required: no
 - Notes: Live triage (event id 1230). To is Emilee's mailbox (no "reed") and USPS digests are never marketing in any case — no unsubscribe performed. No List-Unsubscribe header present. Sibling Reed copy (expected ~12:55Z, reedsut@gmail.com) not yet observed at triage time; if it arrives it will be a distinct entry keyed on its own message-id. Body fetched via email-sync MCP (email_fetch_body with reason; counts parsed via QP-decode of whole raw message). Triage summary posted to #email-triage per inbound trigger.
+
+## 2026-11-21 13:16 — USPS Informed Delivery: "Your Daily Digest for Sat, 11/21 is ready to view"
+
+- UID: 1279 (INBOX) · message-id: <20261121131625.439996ff28bf85da@email.informeddelivery.usps.com>
+- To: reedsut@gmail.com (greeting "Hi , Reed !" — merge-field artifact); forwarded into ingest via Cloudflare Email Routing (Delivered-To: reed@ffilt.us)
+- Date: 2026-11-21T13:16:25Z
+- Summary: Daily Informed Delivery digest for Saturday 21 November 2026 — 2 mailpieces, 1 inbound package arriving soon; "You have 2 mailpiece(s) and 1 inbound package(s) arriving soon". Dashboard: "Expected Today 1 item(s) FROM: AMAZON 9361289715870604920180", "Expected 1-2 Days 0 item(s)", "Awaiting From Sender 0 item(s)", Outbound 0. Three mailpiece-scan JPEG attachments (mailer-13611.jpg 259 KB, content-13611.jpg 73 KB, 2318625373-020.jpg 46 KB; ~511 KB message). No package exceptions, bills, deadlines, or account actions referenced.
+- Action required: no
+- Notes: Live triage (event id 1279). To is Reed's mailbox (contains "reed"), but USPS digests are never marketing and never unsubscribed — no unsubscribe performed (no List-Unsubscribe action). Body fetched via email-sync MCP (email_fetch_body with reason; counts from QP-decode of whole raw message). Sibling Emilee copy (~12:56Z, emileesutliff@gmail.com) not yet observed at triage time; if it arrives it will be a distinct entry keyed on its own message-id. Triage summary posted to #email-triage per inbound trigger.
