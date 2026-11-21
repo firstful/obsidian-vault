@@ -50,6 +50,8 @@ tags: [email-triage, index]
   - 2026-11-20 — Seller counteroffer $300.00 to chubs230 for Narwal Freo Z Ultra (item 267822716429), expires Tue Nov 24 06:28 AM, action YES — monitor response (UID 1259) → [[ebay#2026-11-20 — eBay counteroffer submitted: $300.00 to buyer for Narwal Freo Z Ultra (item 267822716429) (UID 1259)]]
   - 2026-11-20 — $300.00 counteroffer to chubs230 retracted (item 267822716429), no sale — terminal event closing the thread, action NO (UID 1262) → [[ebay#2026-11-20 — eBay offer retracted: $300.00 counteroffer to chubs230 for Narwal Freo Z Ultra (item 267822716429) (UID 1262)]]
   - 2026-11-20 — Own listing live: Narwal Freo Z Ultra (Manufacture Restore) at $150.00, auto-renews Sun Dec 20 2026, action NO — transactional, no unsubscribe (UID 1263) → [[ebay#2026-11-20 — eBay listing live: Narwal Freo Z Ultra (Manufacture Restore) listed at $150.00 (UID 1263)]]
+- [ebay-orders](topics/ebay-orders.md) — eBay buyer-side purchase confirmations and order receipts
+  - 2026-11-21 — eBay order confirmation: SK hynix 16GB (4x4GB) DDR3-1866 ECC UDIMM, order #24-15446-45567, $32.01, action no (UID 1270) → [[ebay-orders#2026-11-21 — eBay order confirmation: SK hynix 16GB (4x4GB) DDR3-1866 ECC UDIMM (UID 1270)]]
 - [email-delivery](topics/email-delivery.md) — Delivery status notifications, bounces, and mail routing failures
 - [experian](topics/experian.md) — Experian credit-report change and FICO-score alert emails (account-activation teasers; marketing)
 - [transunion-creditview](topics/transunion-creditview.md) — TransUnion CreditView Dashboard credit-report alerts (e.g. delinquency notices, score decreases; via financial institution)
