@@ -126,3 +126,14 @@ tags: [email-triage, huntington-bank]
 - **Summary:** Transactional security notice: a verification code was requested using Reed's Huntington username and password as an additional security step for an unregistered device. No code is included in the email itself. If the request was Reed's, disregard; if unaware of it, call (800) 480-2265. Carries a Salesforce Marketing Cloud `Feedback-ID: ...:sfmktgcld` bulk signal but content is an account security alert, NOT marketing — no `List-Unsubscribe` header (only `List-Help`), never unsubscribe. Authentic: DKIM/SPF/ARC/DMARC pass (email.huntington.com `s=200608` + salesforce `s=fbldkim1`). No account number, balance, last-4, or code disclosed.
 - **Action required:** no (informational) — verify the code request was Reed's; if unrecognized, call (800) 480-2265.
 - **Related:** [[Huntington Bank]] (money/institutions); same security-notice family as UID 1046 (biometric-login alert).
+
+## 2026-11-21 — Statement Available (account ...3792, EMILEESUTLIFF@gmail.com)
+
+- **Date:** 2026-11-21T00:04:25Z (email dated 2026-11-20 18:04:25 -0600)
+- **Sender:** Huntington Bank <HuntingtonOnline@email.huntington.com>
+- **To:** EMILEESUTLIFF@gmail.com
+- **Subject:** Statement Available
+- **UID:** 1267 (INBOX, message-id `<08739479-166f-4f00-84fc-7d5cf6792103@ind1s01mta0117.xt.local>`)
+- **Summary:** Transactional notice: a new electronic statement is available for the Huntington account ending in ...3792 (checking); statement may contain important information including account changes. Review via the Huntington Mobile app or huntington.com. Auto-generated; do not reply. Carries Salesforce Marketing Cloud bulk signals (`Feedback-ID: ...:sfmktgcld`, DKIM `s1.y.mc.salesforce.com`, `X-SFMC-Stack: 1`) but content is a transactional account notice, NOT marketing — no `List-Unsubscribe` header (only `List-Help`), never unsubscribe. Authentic: DKIM/SPF/DMARC pass (email.huntington.com `s=200608` + salesforce `s=fbldkim1`). No balance, statement period, or due date disclosed. HTML-only body.
+- **Action required:** yes — log in and review the new statement (account ending ...3792) for changes.
+- **Related:** [[Huntington Bank]] (money/institutions)
