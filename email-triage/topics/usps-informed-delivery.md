@@ -182,6 +182,15 @@ Informational only; never action-required.
 - Action required: no
 - Notes: Live triage (event id 1230). To is Emilee's mailbox (no "reed") and USPS digests are never marketing in any case — no unsubscribe performed. No List-Unsubscribe header present. Sibling Reed copy (expected ~12:55Z, reedsut@gmail.com) not yet observed at triage time; if it arrives it will be a distinct entry keyed on its own message-id. Body fetched via email-sync MCP (email_fetch_body with reason; counts parsed via QP-decode of whole raw message). Triage summary posted to #email-triage per inbound trigger.
 
+## 2026-11-21 13:16 — USPS Informed Delivery: "Your Daily Digest for Sat, 11/21 is ready to view" (Emilee copy)
+
+- UID: 1283 (INBOX) · message-id: <20261121131601.212092e2ac34a8b0@email.informeddelivery.usps.com>
+- To: emileesutliff@gmail.com — forwarded into ingest via Cloudflare Email Routing (Delivered-To: reed@ffilt.us); greeting "Hi , EMILEE !" (merge-field artifact)
+- Date: 2026-11-21T13:16:01Z
+- Summary: Daily Informed Delivery digest for Saturday 21 November 2026 — 2 mailpieces, 1 inbound package arriving soon; "You have 2 mailpiece(s) and 1 inbound package(s) arriving soon". Dashboard: "Expected Today 2 item(s) FROM: USPS Postal Store", "Expected 1-2 Days 0 item(s)", "Awaiting From Sender 0 item(s)", Outbound 0. Three mailpiece-scan JPEG attachments (mailer-13611.jpg 259 KB, content-13611.jpg 73 KB, 2318625373-020.jpg 46 KB; ~511 KB message). No package exceptions, bills, deadlines, or account actions referenced.
+- Action required: no
+- Notes: Live triage (event id 1283). To is Emilee's mailbox (no "reed") and USPS digests are never marketing in any case — no unsubscribe performed. Sibling of UID 1279 (Reed's copy, 13:16:25Z) — separate envelope, separate message-id, different household mailbox, byte-identical subject; a subject-only dedupe would have wrongly skipped it. Body fetched via email-sync MCP (email_fetch_body with reason; counts parsed via QP-decode of whole raw message). Triage summary posted to #email-triage per inbound trigger.
+
 ## 2026-11-21 13:16 — USPS Informed Delivery: "Your Daily Digest for Sat, 11/21 is ready to view"
 
 - UID: 1279 (INBOX) · message-id: <20261121131625.439996ff28bf85da@email.informeddelivery.usps.com>
