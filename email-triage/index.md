@@ -91,6 +91,7 @@ tags: [email-triage, index]
 - [insurance](topics/insurance.md) — Insurance & benefits documents (employer health/dental/vision plan docs, SBCs, policies)
 - [intel-web](topics/intel-web.md) — Intel-web Playwright Tests GitHub Actions CI failures
   - 2026-11-20 — Run failed: Playwright Tests - main (4018ba5) (UID 1226) → [[intel-web#2026-11-20 — Run failed: Playwright Tests - main (4018ba5) (UID 1226)]]
+  - 2026-11-21 — Run failed: Playwright Tests - main (4018ba5) (UID 1273) → [[intel-web#2026-11-21 — Run failed: Playwright Tests - main (4018ba5) (UID 1273)]]
 - [job-alerts](topics/job-alerts.md) — Marketing job-board alerts (ZipRecruiter, etc.)
 - [recruiter-outreach](topics/recruiter-outreach.md) — Person-to-person recruiter InMails, connection requests/reminders with a real hiring conversation (LinkedIn, Robert Half, etc.)
   - 2026-11-20 — LinkedIn InMail: Wesley King (Stafford Technology), software engineering roles, action YES (UID 1247) → [[recruiter-outreach#2026-11-20 — LinkedIn InMail: Wesley King (Stafford Technology) — software engineering roles]]
