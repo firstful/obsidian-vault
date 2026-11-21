@@ -89,6 +89,7 @@ tags: [email-triage, index]
 - [huntington-bank](topics/huntington-bank.md) — Huntington Bank notices (debit card expiration/replacement, statement available, biometric Touch ID/Face ID security alerts, verification-code requests, agreement updates) (transactional)
   - 2026-11-21 — Statement Available (account ...3792, emileesutliff) (UID 1267) → [[huntington-bank#2026-11-21 — Statement Available (account ...3792, EMILEESUTLIFF@gmail.com)]]
   - 2026-11-21 — Statement Available (account ...3792, reedsut) (UID 1268) → [[huntington-bank#2026-11-21 — Statement Available (account ...3792, REEDSUT@gmail.com)]]
+  - 2026-11-21 — New Huntington debit card on the way; activate on arrival + update online retailers/autopay, action YES (UID 1277) → [[huntington-bank#2026-11-21 — Your new Huntington debit card is on the way.]]
 - [insurance](topics/insurance.md) — Insurance & benefits documents (employer health/dental/vision plan docs, SBCs, policies)
 - [intel-web](topics/intel-web.md) — Intel-web Playwright Tests GitHub Actions CI failures
   - 2026-11-20 — Run failed: Playwright Tests - main (4018ba5) (UID 1226) → [[intel-web#2026-11-20 — Run failed: Playwright Tests - main (4018ba5) (UID 1226)]]
