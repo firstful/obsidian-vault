@@ -121,6 +121,7 @@ tags: [email-triage, index]
   - 2026-11-21 — Clover Health Greenhouse CandidateAutoReply submission ack (Senior Data Scientist; uid 1284) → [[job-applications#2026-11-21 — Application received: Senior Data Scientist at Clover Health (uid 1284)]]
   - 2026-11-22 — Tebra hiring decision, not moving forward (Staff SWE, AI Engineering; uid 1310) → [[job-applications#2026-11-22 — Tebra hiring decision (not moving forward): Staff Software Engineer, AI Engineering (uid 1310)]]
   - 2026-11-22 — Cribl Greenhouse CandidateAutoReply submission ack (Staff SWE, Agentic Tools; uid 1324) → [[job-applications#2026-11-22 — Application submission acknowledgement: Staff Software Engineer, Agentic Tools at Cribl (uid 1324)]]
+  - 2026-11-22 — Databricks Greenhouse CandidateAutoReply submission ack (AI Engineer – Forward Deployed Engineering; uid 1325) → [[job-applications#2026-11-22 — Application submission acknowledgement: AI Engineer – Forward Deployed Engineering at Databricks (uid 1325)]]
 - [medical-appointments](topics/medical-appointments.md) — Medical appointment reminders, MyChart portal notices & OTPs (Nationwide Children's, OSU Wexner; transactional)
   - 2026-11-20 — New NCH MyChart message for Elijah (Emilee; UID 1239, action YES) → [[medical-appointments#2026-11-20 — New MyChart message for Elijah (Nationwide Children's, Emilee; UID 1239)]]
 - [mhs-assessments](topics/mhs-assessments.md) — MHS (mhs.com) online assessment invitations/reminders (e.g. Conners EC)
