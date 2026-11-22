@@ -127,6 +127,7 @@ tags: [email-triage, index]
   - 2026-11-20 — Order summary: domain registration arewebfucked.xyz, $1.70, order #220122484, action no (UID 1264) → [[namecheap#2026-11-20 — Namecheap order summary: domain registration, order #220122484]]
 - [pickerington-schools](topics/pickerington-schools.md) — Pickerington Local School District (PLSD) superintendent/district communications + BusRight school-bus service notices (transactional, important)
 - [paypal](topics/paypal.md) — PayPal account notices: negative balance/collections, autopay failures, statements, legal/terms updates, payment receipts (transactional)
+  - 2026-11-22 — Negative balance $522.00 (116 days), 11/26 collections deadline, action YES (UID 1318) → [[paypal#2026-11-22 - PayPal negative balance $522.00 (116 days) - UID 1318]]
 - [personal-blog](topics/personal-blog.md) — firstful/personal-blog GitHub Actions "Deploy to Azure Static Web Apps" CI failures
   - 2026-11-22 — Run failed: Deploy to Azure Static Web Apps - main (26faa0a) (UID 1304) → [[personal-blog#2026-11-22 — Run failed: Deploy to Azure Static Web Apps - main (26faa0a)]]
   - 2026-11-21 — Run failed: Deploy to Azure Static Web Apps - main (9b82c52) (UID 1274) → [[personal-blog#2026-11-21 — Run failed: Deploy to Azure Static Web Apps - main (9b82c52)]]

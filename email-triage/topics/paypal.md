@@ -74,3 +74,12 @@ tags: [email-triage, paypal]
 - action-required: no (informational receipt; payment succeeded)
 - ledger-note: no unsubscribe performed (transactional). Resolves UID 623/798/1021 autopay failures.
 - message-id: <B7.47.10427.5F6BFFA6@ccg14mail02>
+
+## 2026-11-22 - PayPal negative balance $522.00 (116 days) - UID 1318
+- date: 2026-11-22T20:28:36Z
+- sender: service@paypal.com (to reedsut@gmail.com)
+- subject: Attention: Please read this message
+- summary: Genuine PayPal debt-collection notice (SPF, DKIM and DMARC all pass, p=REJECT, From paypal.com; template RT000520). Account tied to reedsut@gmail.com has carried a negative balance of $522.00 USD for 116 days. States that if not paid by 2026-11-26, PayPal may send the account to an outside collection agency. Requests one-time payment via PayPal (balances/resolve) or contact 866-380-1798 (Mon–Fri 9 a.m.–7 p.m. EST). Notes processing may take up to 7 days if already resolved. Contains explicit FDCPA "attempt to collect a debt" language. No attachments; transactional notice, no List-Unsubscribe.
+- action-required: yes (pay $522.00 or contact PayPal before 2026-11-26 to avoid collections referral)
+- ledger-note: follow-up to UID 555 (102 days) and UID 952 (109 days) — same $522.00 balance, same 11/26 collections deadline, now 116 days. No unsubscribe performed (transactional). Calendar note: [[2026-11-26 - PayPal negative balance payment deadline]].
+- message-id: <A6.7D.10151.470530B6@ccg14mail01>
