@@ -18,7 +18,7 @@ Sources: [[Todos]] (handwritten desk inventory 2026-11-17), [[Money]] / money/in
 | Provider | Account / identifier | Last known balance | APR | Payment / due | Source |
 |---|---|---|---|---|---|
 | Chase | credit card (1) | $10,722.16 (08-2026), $20,800 limit | — | past-due alert via Credit Journey (Emilee) | [[Chase]] |
-| Capital One | Quicksilver ...4809 (Reed); inventory says ×3 cards | $1,262.41 statement (due 12-07-2026, min $25); was in Collections | — | $194.57 paid 11-07; min $157 in collections | [[capital-one]] |
+| Capital One | Quicksilver ...4809 (Reed); inventory says ×3 cards | $79.38 statement (due 12-16-2026, min $74.00); paid down from Collections via 11-17 payments | — | $3,751.74 + $1,262.41 paid 11-17; prior min $157 in collections | [[capital-one]] |
 | Best Egg | personal loan #1 acct 45680281 | **PAID IN FULL 2026-11-19** | — | $362 autopay 11-26 cancelled; 0 payments remaining | [[best-egg]] |
 | Best Egg | personal loan #2 | — | — | — (inventory: "Best Egg 1+2") | [[Todos]] |
 | Freedom Mortgage | mortgage loan ...0185 | — | — | $3,209.90 ACH debit 11-16 | [[freedom-mortgage]] |
