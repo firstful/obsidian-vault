@@ -134,3 +134,6 @@ tags: [email-triage, index]
   - 2026-11-21 — Sat 11/21 digest, Reed mailbox: 2 mailpieces, 1 inbound package (Amazon, expected today), action no (UID 1279) → [[usps-informed-delivery#2026-11-21 13:16 — USPS Informed Delivery: "Your Daily Digest for Sat, 11/21 is ready to view"]]
   - 2026-11-21 — Sat 11/21 digest, Emilee mailbox: 2 mailpieces, 1 inbound package (USPS Postal Store / Amazon expected today), action no (UID 1283) → [[usps-informed-delivery#2026-11-21 13:16 — USPS Informed Delivery: "Your Daily Digest for Sat, 11/21 is ready to view" (Emilee copy)]]
   - 2026-11-20 — Fri 11/20 digest, Emilee mailbox: 0 mailpieces, 1 inbound package (Amazon awaiting from sender), action no (UID 1230) → [[usps-informed-delivery#2026-11-20 12:56 — USPS Informed Delivery: "Your Daily Digest for Fri, 11/20 is ready to view" (Emilee copy)]]
+
+- [venmo](topics/venmo.md) — Venmo peer-to-peer payment receipts (money received/sent; transactional, no unsubscribe)
+  - 2026-11-22 — Connor Monday paid you $185.00 (lifting equipment), action no (UID 1311) → [[venmo#2026-11-22 - Connor Monday paid you $185.00 - UID 1311]]
