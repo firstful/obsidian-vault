@@ -36,6 +36,7 @@ tags: [email-triage, index]
 - [book-review-requests](topics/book-review-requests.md) — Personalized one-to-one book/manuscript review requests (publishers, editors, authors)
 - [capital-one](topics/capital-one.md) — Capital One credit card: collections/late-payment notices, payment confirmations/holds & funds-availability alerts, and CreditWise credit-score alerts
 - [chase-credit-journey](topics/chase-credit-journey.md) — Chase Credit Journey credit-report alerts (e.g. past-due balance notices; review in Credit Journey for account-specific details)
+  - 2026-11-22 — Credit Summary: score down, 1 late payment, 47% usage, 0 new accounts, 0 credit checks, window Sep 26–Nov 14; action no (UID 1316) → [[chase-credit-journey#2026-11-22 — Credit Summary: score down, 1 late payment, 47% usage (UID 1316)]]
 - [cheaper-inference](topics/cheaper-inference.md) — Cheaper Inference (Keak AI) model launch / discount announcements
 - [citizen](topics/citizen.md) — Citizen app local incident alerts (automated geo notifications; RELEVANT local safety facts — do NOT unsubscribe)
   - 2026-11-20 — Citizen: "One Dead in Northeast Columbus Shooting" (1999 E Hudson St, NE Columbus), action no (UID 1249) → [[citizen#2026-11-20 — Citizen: "One Dead in Northeast Columbus Shooting"]]
