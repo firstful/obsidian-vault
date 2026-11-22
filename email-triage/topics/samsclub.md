@@ -7,6 +7,16 @@ tags: [email-triage, samsclub]
 
 Sam's Club emails: member marketing blasts and transactional order confirmations.
 
+## 2026-11-22 — In-store purchase receipt (UID 1327)
+
+- **Date:** 2026-11-22T22:20:49Z (receipt time Sun, Nov 22 5:20 pm -0600)
+- **Sender:** Sam's Club <transaction@info.samsclub.com> · **To:** reedsut@gmail.com
+- **Subject:** Here's your Sam's Club receipt
+- **Message-ID:** <05b09551-cd0d-46e6-b5ca-1360aee6110e@dfw1s10mta1789.xt.local>
+- **Summary:** Transactional in-store purchase receipt (not marketing). **Store:** Reynoldsburg Sam's Club #6326, 2675 Taylor Road Ext, Reynoldsburg OH 43068. **Checkout:** Scan & Go. **TC#:** 7738058687663000896056. **99 purchased items** — a household stock-up trip spanning household goods (4× 27-gal totes, batteries AA/AAA, first aid, aluminum foil), personal care (body washes, deodorant, shampoo/conditioner, cetirizine/fexofenadine/acetaminophen, Pepcid, Tums, Olay, Old Spice), and groceries/snacks (M&M's, nuts, cheese, pepperoni, crackers, yeast, crockpot 7 qt, Ghirardelli wafers), with several instant-save discounts noted. **No grand total / payment line is present in the email body** — the itemized list only; the full receipt with totals lives in order history on SamsClub.com. HTML-only (189 KB derived text, 479 KB raw), no attachments. Auth forwarded via Cloudflare Email Routing (`Return-Path: <reedsut+caf_=ingest=ffilt.us@gmail.com>`); sent via Salesforce Marketing Cloud (`Feedback-ID: 100027498:231932:...:sfmktgcld`, MTA dfw1s10mta1789). No `List-Unsubscribe` / `List-Unsubscribe-Post` / `Precedence: bulk` headers; transactional receipt, no unsubscribe action despite To containing "reed". Not a new-device/security event — distinct from the same-day sign-in notice ([[samsclub#2026-11-22 — Sign-in from new device (UID 1321)]]).
+- **Action required:** no (receipt only; no charge dispute, bill, or dated follow-up).
+- **Related notes:** none (no total or dated future event to warrant a calendar/ or purchases/ note; earlier Sam's Club order with total recorded at [[purchases/Sam's Club 8000-0010-8326-586]]).
+
 ## 2026-11-22 — Sign-in from new device (UID 1321)
 
 - **From:** Sam's Club <transaction@info.samsclub.com> · **To:** reedsut@gmail.com · **Date:** 2026-11-22T21:02:37Z

@@ -83,6 +83,7 @@ tags: [email-triage, index]
   - 2026-11-20 — New remembered device added to Venmo account ("Generic Smartphone via Venmo App", 06:00 PST; action conditional) (UID 1234) → [[security-alerts#2026-11-20 — New remembered device added to Venmo account (UID 1234)]]
 - [samsclub](topics/samsclub.md) — Sam's Club member marketing, transactional order confirmations, verification codes & new-device sign-in notices
   - 2026-11-22 — Sign-in from new device (UID 1321) → [[samsclub#2026-11-22 — Sign-in from new device (UID 1321)]]
+  - 2026-11-22 — In-store purchase receipt, Reynoldsburg #6326, 99 items, TC# 7738058687663000896056, action no (UID 1327) → [[samsclub#2026-11-22 — In-store purchase receipt (UID 1327)]]
   - 2026-11-19 — Sign-in from new device (UID 1204) → [[samsclub#2026-11-19 — Sign-in from new device (UID 1204)]]
 - [github-dependabot-pr](topics/github-dependabot-pr.md) — GitHub Dependabot pull-request activity notifications (PR comments/state changes; transactional, informational)
 - [google-account](topics/google-account.md) — Google Account security alerts and verification notices
