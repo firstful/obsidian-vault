@@ -5,6 +5,18 @@ tags: [email-triage, billing]
 
 # Billing / Invoices
 
+## 2026-11-22 — Columbia Gas of Ohio payment confirmed: $265.00 paid 11/22 (UID 1313)
+
+- **Date:** 2026-11-22T20:07:42Z
+- **UID:** 1313 (INBOX) · message-id: <1538704848.37371.1795378062621@5c3ece4c5513>
+- **Sender:** Columbia Gas <myaccount@columbiagasohio.com> (Reply-To same; "Do Not Reply" sender)
+- **To:** reedsut+cgoo@gmail.com (Gmail alias; forwarded via Cloudflare Email Routing / Namecheap to reed@ffilt.us)
+- **Subject:** Columbia Gas of Ohio Payment Confirmation
+- **Classification:** relevant (utility payment confirmation — bill paid, shut-off avoided)
+- **Summary:** Columbia Gas confirmed Reed successfully submitted a payment; the account is "no longer scheduled to be shut off." **Payment amount: $265.00**, **payment date: 11/22/2026**, account ****02850010006**, service address 12703 Stonecreek Dr NW, Pickerington OH 43147, confirmation # **34W6326150740**. This settles the $265.00 bill previously reported as ready in UID 1106/1105 (due 2026-12-10). Body notes payments received after 8 p.m. Eastern post the next business day; the message arrived ~3:07 p.m. ET, so it should post same-day. HTML-only, no attachments, no `List-Unsubscribe`/bulk headers. Auth clean: SPF/DKIM/DMARC/ARC pass for columbiagasohio.com — genuine utility mail.
+- **Action required:** no (payment already submitted and confirmed). Verify the $265.00 debit/posting in the Columbia Gas online account; no second payment needed — one payment covers the UID 1106/1105 bill notices. Payment logged in [[bills/paid/2026-11-22 - Columbia Gas of Ohio - 265.00]] and the due-date note [[calendar/2026-12-10 - Columbia Gas of Ohio bill due]] marked `paid`; account details in [[Columbia Gas of Ohio]].
+- **ledger-note:** no unsubscribe (transactional payment confirmation, not marketing). Auto-unsubscribe gate does not apply to relevant mail even though To contains "reed".
+
 ## 2026-11-21 - Payment issue notice: Slowdive Premium $29.99 (UID 1271)
 
 - date: 2026-11-21T03:49:37Z
