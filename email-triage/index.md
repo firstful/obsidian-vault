@@ -7,6 +7,7 @@ tags: [email-triage, index]
 
 - [aseba-forms](topics/aseba-forms.md) — ASEBA Forms / ASEBA-Informant one-time "access your forms" sign-in links (transactional)
 - [daybetter](topics/daybetter.md) — DayBetter transactional account verification codes/security notices
+- [aerozone](topics/aerozone.md) — Aerozone Pickerington (ROLLER) post-visit guest experience survey requests (marketing; unsubscribed via in-email link)
 
 - [aliexpress](topics/aliexpress.md) — AliExpress marketing digests / personalized product recommendations (marketing)
 - [american-express](topics/american-express.md) — American Express website Terms of Service / account legal & servicing notices (transactional, not marketing)
