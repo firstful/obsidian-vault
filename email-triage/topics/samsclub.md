@@ -7,6 +7,15 @@ tags: [email-triage, samsclub]
 
 Sam's Club emails: member marketing blasts and transactional order confirmations.
 
+## 2026-11-22 — Sign-in from new device (UID 1321)
+
+- **From:** Sam's Club <transaction@info.samsclub.com> · **To:** reedsut@gmail.com · **Date:** 2026-11-22T21:02:37Z
+- **Message-ID:** <6f2b2bc1-1cbc-4936-b960-65677bd3d996@dfw1s10mta1786.xt.local>
+- **Classification:** relevant (transactional account-security new-device sign-in notice; not marketing). No `List-Unsubscribe` / `List-Unsubscribe-Post` / `List-Id` / `Precedence: bulk` headers (only `List-Help`); no promo content. Auth clean: DKIM pass (d=info.samsclub.com s=10dkim1; d=s10.y.mc.salesforce.com s=fbldkim10), SPF pass, DMARC pass (p=reject, header.from=info.samsclub.com), ARC pass — sent via Salesforce Marketing Cloud (`Feedback-ID: 100027498:232627:...:sfmktgcld`, MTA dfw1s10mta1786), Cloudflare Email Routing forward to ingest (`Return-Path: <reedsut+caf_=ingest=ffilt.us@gmail.com>`). To contains "reed" but transactional security mail + no unsubscribe mechanism ⇒ no unsubscribe action.
+- **Summary:** Sam's Club new-device sign-in notice: **Device: Android 17 on Pixel 8a**; **Date and time: November 22, 13:02 PM PST** (body label; send header -0600 → 21:02:37Z, "PM PST" label unreliable as with prior notices); **Location: Detroit, Michigan, US** (approximate, IP-derived). Distinct fingerprint from the Nov 13 cluster (Chrome on Windows / Reynoldsburg OH) and UID 1204 (Firefox on Linux / Columbus OH): this is Android 17 on a Pixel 8a — a Pixel 8a appears in other household sign-ins ([[security-alerts]] Threads UID 703, Google UIDs 704/705/725, Pickerington OH) — but the reported location is **Detroit MI (~330 mi from the Pickerington home)**, which is anomalous and worth confirming. Body remedy: if unrecognized, change the Sam's Club password at account personal-info. No attachments, no charge/order content. Full detail: [[security-alerts]].
+- **Action required:** yes (confirm the Android/Pixel 8a sign-in was the household's given the out-of-state Detroit location — if unrecognized, change the Sam's Club password immediately and review account/payment settings)
+- **Related notes:** [[security-alerts]]
+
 ## 2026-11-19 — Sign-in from new device (UID 1204)
 
 - **From:** Sam's Club <transaction@info.samsclub.com> · **To:** reedsut@gmail.com · **Date:** 2026-11-19T20:58:14Z

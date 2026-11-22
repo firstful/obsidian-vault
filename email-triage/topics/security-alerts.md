@@ -230,6 +230,18 @@ tags: [email-triage, security-alerts]
 - **Action required:** yes (time-sensitive) — enter the code at Walmart if Emilee initiated the sign-in; if not requested, update the Walmart account password and treat as a security event. Code expires ~15 min from receipt.
 - **Related notes:** [[walmart-orders|Walmart Orders]]
 
+## 2026-11-22 — Sam's Club sign-in from new device (UID 1321)
+
+- **Date:** 2026-11-22T21:02:37Z (email Date Sun, 22 Nov 2026 15:02:37 -0600; body clock "November 22, 13:02 PM PST" — label unreliable as with prior Sam's Club notices)
+- **UID:** 1321 (INBOX, message-id <6f2b2bc1-1cbc-4936-b960-65677bd3d996@dfw1s10mta1786.xt.local>, 39,704 B, no attachments)
+- **Sender:** Sam's Club <transaction@info.samsclub.com> (Reply-To reply-*@em.samsclub.com)
+- **To:** reedsut@gmail.com (Cloudflare Email Routing forward to ingest; `Return-Path: <reedsut+caf_=ingest=ffilt.us@gmail.com>`)
+- **Subject:** Sign-in from new device
+- **Classification:** relevant — transactional account-security new-device sign-in notice (not marketing). No List-Unsubscribe / List-Unsubscribe-Post / List-Id / Precedence: bulk (only List-Help). Auth clean: DKIM pass (d=info.samsclub.com s=10dkim1; d=s10.y.mc.salesforce.com s=fbldkim10), SPF pass, DMARC pass (p=reject), ARC pass; Salesforce Marketing Cloud relay (`Feedback-ID: 100027498:232627:...:sfmktgcld`, MTA dfw1s10mta1786) — ESP relay tells, not a classifier. To contains "reed" but transactional security mail → no auto-unsubscribe.
+- **Summary:** Sam's Club reports a sign-in from **Android 17 on Pixel 8a**, approximate location **Detroit, Michigan US** (IP-derived), dated in-body "November 22, 13:02 PM PST" (send header 21:02:37Z). Distinct fingerprint from the Nov 13 cluster (Chrome/Windows, Reynoldsburg OH — UIDs 791/793/795/797) and UID 1204 (Firefox/Linux, Columbus OH). A Pixel 8a is a familiar household device in other sign-ins (Threads UID 703, Google UIDs 704/705/725 — Pickerington OH), so the device itself is plausible; the **Detroit location (~330 mi from home) is the anomalous detail** consistent with either travel/VPN/IP-geolocation drift or an actual unauthorized sign-in. Body remedy: if unrecognized, change the Sam's Club password at account personal-info. No attachments, no charge/order content.
+- **Action required:** yes (confirm the sign-in was household-initiated despite the Detroit location — if unrecognized, change the Sam's Club password immediately and review account activity/payment settings); no (if confirmed as Reed's Pixel 8a)
+- **Related notes:** [[samsclub|Sam's Club]] (UID 1321 summary + prior code/new-device clusters), [[security-alerts|Security alerts]]
+
 ## 2026-11-19 — Sam's Club sign-in from new device (UID 1204)
 
 - **Date:** 2026-11-19T20:58:14Z (email Date Thu, 19 Nov 2026 14:58:14 -0600; body clock "November 19, 12:58 PM PST" — label unreliable as with the Nov 13 notices)

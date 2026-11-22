@@ -75,12 +75,14 @@ tags: [email-triage, index]
   - 2026-11-22 — Run failed: Gitea mirror - main (9d37763) (UID 1314) → [[gitea-mirror#2026-11-22 — Run failed: Gitea mirror - main (9d37763) (UID 1314)]]
 - [github-security](topics/github-security.md) — GitHub security alerts and notifications
 - [security-alerts](topics/security-alerts.md) — Cross-service account-security alerts & one-time verification codes (Google, Battle.net, eBay, Huntington, Walmart, etc.)
+  - 2026-11-22 — Sam's Club sign-in from new device (Android 17 / Pixel 8a, Detroit MI — out-of-state; action conditional) → [[security-alerts#2026-11-22 — Sam's Club sign-in from new device (UID 1321)]]
   - 2026-11-19 — Sam's Club sign-in from new device (Firefox/Linux, Columbus OH; action conditional) → [[security-alerts#2026-11-19 — Sam's Club sign-in from new device (UID 1204)]]
   - 2026-11-20 — Instagram login verification code 8764024907 (UID 1218, action YES) → [[security-alerts#2026-11-20 — Instagram login verification code (UID 1218)]]
   - 2026-11-20 — Instagram login verification code 5906356821 (UID 1219, action YES) → [[security-alerts#2026-11-20 — Instagram login verification code (UID 1219)]]
   - 2026-11-20 — Instagram login verification code 5161922522 (UID 1224, action YES) → [[security-alerts#2026-11-20 — Instagram login verification code (UID 1224)]]
   - 2026-11-20 — New remembered device added to Venmo account ("Generic Smartphone via Venmo App", 06:00 PST; action conditional) (UID 1234) → [[security-alerts#2026-11-20 — New remembered device added to Venmo account (UID 1234)]]
 - [samsclub](topics/samsclub.md) — Sam's Club member marketing, transactional order confirmations, verification codes & new-device sign-in notices
+  - 2026-11-22 — Sign-in from new device (UID 1321) → [[samsclub#2026-11-22 — Sign-in from new device (UID 1321)]]
   - 2026-11-19 — Sign-in from new device (UID 1204) → [[samsclub#2026-11-19 — Sign-in from new device (UID 1204)]]
 - [github-dependabot-pr](topics/github-dependabot-pr.md) — GitHub Dependabot pull-request activity notifications (PR comments/state changes; transactional, informational)
 - [google-account](topics/google-account.md) — Google Account security alerts and verification notices
