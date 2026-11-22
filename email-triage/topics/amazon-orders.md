@@ -460,3 +460,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a1fb7194f6-5dee8915-2553-4a08-a838-6cc3dadcca1b-000000@email.amazonses.com>
 - **UID:** 1269 (INBOX)
 - **Related notes:** [[amazon-orders]] (final delivery step for #112-4101541-3070660 — see UID 1184 original confirmation $19.20, UID 1221 "Shipped", UID 1261 "Out for delivery")
+
+## 2026-11-22 — Amazon item cancelled: LEGEND SANDY Puppy Toys (UID 1308)
+
+- **Date:** 2026-11-22T17:22:34Z
+- **Sender:** "Amazon.com" <payments-update@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded, raw Delivered-To reed@ffilt.us, Return-Path emileesutliff+caf_=ingest=ffilt.us@gmail.com)
+- **Subject:** Item cancelled: "LEGEND SANDY Puppy Toys,..."
+- **Summary:** Amazon cancellation notice (`payments-update@amazon.com`): "Your items were cancelled" — "Your order was cancelled. You have not been charged for this order." Order #112-9187917-4535404, recipient Emilee - PICKERINGTON, OH. Item: LEGEND SANDY Puppy Toys, Squeaky Dog Toys for Small Dogs, 12 Pack Puppy Chew Toys for Teething, Dog Rope Toy and Cute Stuffed Animals Value Bundle — Quantity 1 @ $15.99 USD (order grand total $17.07 USD per UID 1182). Cancellation follows the payment-decline chain for this same order (UID 1185/1186: "Payment declined: Update your information so we can ship your order"); Amazon could not process payment and cancelled rather than ship. Email also advises verifying card details with bank and retrying the order ("We couldn't process your payment... try your order again"). Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass, DMARC pass (quarantine) header.from=amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES; all links to amazon.com. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed"); no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk header, so no auto-unsubscribe. No charge posted, so no purchase/money note; no hard delivery date, so no calendar note.
+- **Action required:** no — order already cancelled and uncharged; retrying the purchase is optional (update/verify payment method with bank then re-place order if wanted). No action for Rook.
+- **Message-ID:** <010001a20447f696-356f25be-e065-4dbf-8102-c0ebe488bf38-000000@email.amazonses.com>
+- **UID:** 1308
+- **Related notes:** [[amazon-orders]] (see UID 1182 — original order confirmation #112-9187917-4535404, Pet Supplies $17.07; UID 1185/1186 — payment-declined notices for same order)
