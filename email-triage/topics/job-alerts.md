@@ -60,3 +60,13 @@ tags: [email-triage, job-alerts]
 - Summary: Marketing job alert email from ZipRecruiter for a “Junior Software Engineer - Remote” role at YO AI Labs (promotional job listing notification).
 - Action required: no
 - Unsubscribe: RFC 8058 one-click POST attempted (2026-11-14, see `email-triage/topics/unsubscribes.md`); result 403 (Cloudflare challenge) — not confirmed unsubscribed.
+
+## 2026-11-23 — Sr. Software Development Engineer opening at Amazon Kuiper Manufacturing Enterprises LLC (UID 1369)
+
+- **Date:** 2026-11-23T20:22:44Z
+- **Sender:** alerts@ziprecruiter.com (ZipRecruiter)
+- **To:** sutliff.reed@gmail.com
+- **Subject:** Sr. Software Development Engineer opening at Amazon Kuiper Manufacturing Enterprises LLC
+- **Summary:** ZipRecruiter job-alert digest featuring "Sr. Software Development Engineer" at Amazon Kuiper Manufacturing Enterprises LLC (Beverly Hills, CA / On-site, $193K-$261K/yr) plus recommended roles (140,564 B HTML, 0 attachments). Marketing/job-board alert, not an application confirmation, recruiter outreach, or offer. No action required.
+- **Action required:** no
+- **Unsubscribe:** RFC 8058 one-click POST attempted (2026-11-23, see [[unsubscribes]]); result 403 (Cloudflare challenge) — not confirmed unsubscribed.
