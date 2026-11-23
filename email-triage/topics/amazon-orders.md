@@ -582,3 +582,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a208e6edc2-73d8d41f-9eec-49bc-96b9-eff5037dc549-000000@email.amazonses.com>
 - **UID:** 1352
 - **Related notes:** [[amazon-orders]] (new order #112-2262393-6845053, $23.58, 3D Printing Supplies — no sibling status entries yet; same-subject but DISTINCT sibling UID 1350, different order #/$19.20)
+
+## 2026-11-23 — Amazon order confirmation: 1 item (Office Supplies) (UID 1354)
+
+- **Date:** 2026-11-23T15:17:34Z
+- **Sender:** "Amazon.com" <auto-confirm@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Ordered 1 item: Office Supplies
+- **Summary:** Transactional Amazon order confirmation (`auto-confirm@amazon.com`): "Emilee, thanks for your order!" Order #112-5029181-6787416, Grand Total 13.6 USD, recipient Emilee - PICKERINGTON, OH. Category "Office Supplies" from Subject; item-level detail not extractable from the HTML body (Amazon renders line items as images). Promo "Black Friday Deals" nav links in body do NOT change class — sender is `auto-confirm@` and body has Order # + Grand Total, so this is RELEVANT/transactional. ETA prose "Arriving Wednesday" (soft, relative to 2026-11-23) — no hard date, so no calendar/purchase note. No sibling status notices found for this order yet (new standalone order). Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass (Gmail forwarder 74.125.224.52; SES client-ip 54.240.13.168), DMARC pass (quarantine) header.from=amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES, all links to amazon.com. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed"); no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk / List-Id header → no auto-unsubscribe.
+- **Action required:** no — informational order confirmation; monitor for shipped/out-for-delivery/delivery follow-ups on order #112-5029181-6787416. No action for Rook.
+- **Message-ID:** <010001a208fbe293-65727d54-acb3-41c1-813a-99aa5c848c1a-000000@email.amazonses.com>
+- **UID:** 1354
+- **Related notes:** [[amazon-orders]] (new order #112-5029181-6787416, $13.60, Office Supplies — no sibling status entries yet; distinct same-day sibling orders UIDs 1345/1346/1347/1348/1349/1350/1352, all different order numbers)
