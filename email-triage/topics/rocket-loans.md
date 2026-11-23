@@ -5,6 +5,18 @@ tags: [email-triage, rocket-loans, bills]
 
 # Rocket Loans
 
+## 2026-11-23 — Payment processed: $153.61 withdrawn (UID 1359)
+
+- **Date:** 2026-11-23 09:40:31 -0600 (Mon)
+- **Sender:** Rocket Loans <servicing@t.rocketloans.com>
+- **To:** emileesutliff@gmail.com (Delivered-To reed@ffilt.us via ingest forward)
+- **Subject:** Your payment is being processed.
+- **UID:** 1359 (INBOX)
+- **Message-ID:** <6ee391ab-ef0f-49e0-a425-7ad171ed1567@dfw1s10mta0105.xt.local>
+- **Summary:** Transactional payment-confirmation notice: Rocket Loans confirms it withdrew **$153.61** from the bank account on file ending **3792**. Email ID `Email_API_Loans_Servicing_PaymentProcessing_PaymentProcessed`; SPF/DKIM/DMARC pass. This settles the modified Nov payment flagged as upcoming in [[2026-11-23 - Rocket Loans payment withdrawal]] (UID 837 reminder quoted $153.61; UID 1094 modification note quoted ~$153.62 — the actual debit was $153.61). Amount matches the $153.61 the reminder predicted; no DocuSign/modification-applied confirmation was ever separately received, but the debit amount is consistent with the modified schedule. No `List-Unsubscribe`; transactional, not marketing — no unsubscribe performed (To has no "reed").
+- **Action required:** no (payment already withdrawn; verify the debit only if it does not clear)
+- **Related notes:** [[2026-11-23 - Rocket Loans payment withdrawal]] (now marked paid), [[2026-11-23 - Rocket Loans - 153.61]] (atomic payment note)
+
 ## 2026-11-13 — Your payment is coming up
 
 - **Date:** 2026-11-13 11:35:27 -0600 (Fri)

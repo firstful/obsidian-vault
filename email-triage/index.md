@@ -46,6 +46,8 @@ tags: [email-triage, index]
 - [backblaze](topics/backblaze.md) — Backblaze Privacy Notice / DPA / Cookie Notice / Subprocessor List legal policy updates (transactional, not marketing)
   - 2026-11-20 — Updates to Backblaze's Privacy Notice and Related Policies (effective 2026-12-01), action no (UID 1255) → [[backblaze#2026-11-20 — Updates to Backblaze's Privacy Notice and Related Policies (UID 1255)]]
 - [best-egg](topics/best-egg.md) — Best Egg personal loan autopay notices (transactional)
+- [rocket-loans](topics/rocket-loans.md) — Rocket Loans personal loan servicing: upcoming-payment reminders, payment-processed confirmations, and forwarded hardship/modification threads (transactional)
+  - 2026-11-23 — Payment processed: $153.61 withdrawn from bank ••••3792, action no (UID 1359) → [[rocket-loans#2026-11-23 — Payment processed: $153.61 withdrawn (UID 1359)]]
 - [bible-gateway](topics/bible-gateway.md) — Bible Gateway Deals promos and editorial/devotional newsletters (marketing)
 - [book-review-requests](topics/book-review-requests.md) — Personalized one-to-one book/manuscript review requests (publishers, editors, authors)
 - [capital-one](topics/capital-one.md) — Capital One credit card: collections/late-payment notices, payment confirmations/holds & funds-availability alerts, and CreditWise credit-score alerts

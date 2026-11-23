@@ -2,8 +2,8 @@
 title: Rocket Loans payment withdrawal (modified)
 date: 2026-11-23
 type: payment
-status: upcoming
-amount: 153.62
+status: paid
+amount: 153.61
 currency: USD
 recurrence: monthly
 payee: Rocket Loans (Cross River Bank servicing)
@@ -31,3 +31,16 @@ forward; the lender said the agreement expires within 24h and confirmation
 follows once signed. Verify the modification actually posted to the account.
 
 Source email: [[rocket-loans]] (UID 1094).
+
+## Completed
+
+- **Date paid:** 2026-11-23
+- **Amount:** $153.61 USD (matches the UID 837 reminder; ~$153.62 quoted in the modification note)
+- **Method:** ACH withdrawal from bank account ending 3792
+- **Source email:** [[rocket-loans]] (UID 1359, "Your payment is being processed.")
+- **Payment note:** [[2026-11-23 - Rocket Loans - 153.61]]
+
+Rocket Loans confirmed the payment was withdrawn on this date. Actual debit
+was $153.61, consistent with the modified Nov–Jan schedule. No separate
+DocuSign/"modification applied" confirmation was received, but the debit
+amount matches the predicted modified payment.
