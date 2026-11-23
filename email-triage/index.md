@@ -67,6 +67,8 @@ tags: [email-triage, index]
   - 2026-11-20 — McDonald's mobile order receipt: $16.26, Order# RC63 (Reynoldsburg), action no (UID 1260) → [[mcdonalds#2026-11-20 — McDonald's mobile order receipt: $16.26 (UID 1260)]]
 - [roosters](topics/roosters.md) — Roosters (Pickerington) Toast pickup-order confirmations and receipts
 - [tim-hortons](topics/tim-hortons.md) — Tim Hortons itemized delivery-order receipts (Tims Rewards; transactional)
+- [t-mobile](topics/t-mobile.md) — T-Mobile wireless account notices (payment receipts, monthly bill-ready notices; transactional billing)
+  - 2026-11-23 — Bill ready: $22.60 due, AutoPay 12/10/2026, acct XXXXX2020, card 4772, action no (UID 1367) → [[t-mobile#2026-11-23 — Your bill is ready (UID 1367)]]
 - [ebay](topics/ebay.md) — eBay account/listing notices: offers, messages, transactions, and alerts
   - 2026-11-20 — New buyer offer $200.00 for Narwal Freo Z Ultra (item 267822716429) from chubs230, expires Sat Nov 21 10:55 AM, action YES (UID 1245) → [[ebay#2026-11-20 — eBay new offer: $200.00 for Narwal Freo Z Ultra (item 267822716429) (UID 1245)]]
   - 2026-11-20 — Seller counteroffer $300.00 to chubs230 for Narwal Freo Z Ultra (item 267822716429), expires Tue Nov 24 06:28 AM, action YES — monitor response (UID 1259) → [[ebay#2026-11-20 — eBay counteroffer submitted: $300.00 to buyer for Narwal Freo Z Ultra (item 267822716429) (UID 1259)]]
