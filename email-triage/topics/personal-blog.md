@@ -175,3 +175,16 @@ tags: [email-triage, personal-blog]
 - **Run:** https://github.com/firstful/personal-blog/actions/runs/44997948507
 - **Action required:** yes
 - **Classification:** relevant — CI failure (Azure Static Web Apps deploy). 14th consecutive daily failure at the "Build & Deploy" job (runs #22-35, 2026-11-09 -> 2026-11-22); broken deploy pipeline, not a flake.
+
+## 2026-11-23 — Run failed: Deploy to Azure Static Web Apps - main (037e892)
+
+- **Date:** 2026-11-23T08:12:16Z (message date 2026-11-23 00:12:16 -0800; uid 1334)
+- **Sender:** notifications@github.com (Reed Sutliff)
+- **To:** personal-blog@noreply.github.com (Cc ci_activity@noreply.github.com; routed via sutliff.reed@gmail.com -> ingest@ffilt.us)
+- **Subject:** [firstful/personal-blog] Run failed: Deploy to Azure Static Web Apps - main (037e892)
+- **Message-ID:** <firstful/personal-blog/check-suites/CS_kwDOUWGd288AAAAccDRy-w/1795421412@github.com>
+- **UID:** 1334
+- **Summary:** GitHub Actions workflow "Deploy to Azure Static Web Apps" in firstful/personal-blog failed on main (commit 037e892). Job "Build & Deploy" failed (2 annotations) in 44s; "PR Test" skipped. Duration 47.0s, finished 2026-11-23 08:10:12 UTC. SPF/DKIM/DMARC pass for github.com. Raw job logs require repo admin rights.
+- **Run:** https://github.com/firstful/personal-blog/actions/runs/45136334164
+- **Action required:** yes
+- **Classification:** relevant — CI failure (Azure Static Web Apps deploy). 15th consecutive daily failure at the "Build & Deploy" job (2026-11-09 -> 2026-11-23); broken deploy pipeline, not a flake.
