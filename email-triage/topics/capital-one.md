@@ -238,3 +238,14 @@ tags: [email-triage, capital-one]
 - **UID:** 1329 (INBOX, message-id `<mwsmaimi.7h8fd64iutyj@express.medallia.com>`)
 - **Summary:** Marketing survey reminder — Capital One (Medallia) invites Emilee to complete a 2-minute feedback survey about her experience. Survey available until 2026-11-25; link https://survey.medallia.com/?e97twxp2tmzzmzykmtpmht. No account/billing content. RFC 8058 one-click List-Unsubscribe present (mailto + HTTPS reject=yes), but no auto-unsubscribe performed because the To address (emileesutliff@gmail.com) does not contain "reed". DKIM/SPF/DMARC pass (experience.capitalone.com / Medallia).
 - **Action required:** no (optional feedback; no household action)
+
+## 2026-11-23 — "You did it, Reed!" — account officially out of Collections (UID 1373)
+
+- **Date:** 2026-11-23T21:14:18Z
+- **Sender:** Capital One | Quicksilver <capitalone@notification.capitalone.com>
+- **To:** reedsut@gmail.com (Delivered-To reed@ffilt.us via Gmail forwarding / Cloudflare Email Routing)
+- **Subject:** You did it, Reed!
+- **UID:** 1373 (INBOX, message-id `<AD.98.24276.AACA40B6@i-0c36e294c77caf93c.mta6vrest.sd.prd.sparkpost>`)
+- **Summary:** Definitive issuer confirmation closing the long-running Quicksilver ...4809 (Reed Sutliff) Collections/past-due saga: "Your account is officially back on track" / "With your most recent payment, your account is officially up to date. This means that you are now out of collections." Capital One advises confirming card spend eligibility by signing in or contacting them, and watching the next statement for the new payment due date (the 2026-12-16 statement already arrived as [[capital-one|UID 1309]], balance $79.38, min $74.00). This is the resolution of the Collections trade line tracked across UIDs 283/544/652/701/831/895 and paid down by the 11-17 payments ([[capital-one|UID 1088]] $3,751.74 and [[capital-one|UID 1089]] $1,262.41, posted UIDs 1152/1153) — an important factual milestone, no payment or action demanded. Transactional account-status notice — no `List-Unsubscribe`/`List-Unsubscribe-Post`/`Precedence`/bulk headers (footer only nudges AutoPay / due-date change / CreditWise); never unsubscribe even to a Reed mailbox. DKIM (`notification.capitalone.com`, s=sp1024sep2015), SPF, DMARC (p=reject) all pass; SparkPost relay.
+- **Action required:** no (informational milestone; optional — sign in to confirm card spend eligibility and keep making on-time payments; next payment $74.00 min due 2026-12-16 per [[calendar/2026-12-16 - Quicksilver payment 79.38 due]])
+- **Related notes:** [[capital-one]] (Collections saga + 11-17 payments + UID 1309 statement); [[money/Debt Catalog]] (…4809 row now confirmed out of Collections); [[calendar/2026-12-16 - Quicksilver payment 79.38 due]]
