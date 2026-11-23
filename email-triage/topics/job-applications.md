@@ -939,3 +939,17 @@ tags: [email-triage, job-applications]
 
 ### Related notes
 - [[job-applications]]
+
+## 2026-11-23 — Security code for CoreWeave application (uid 1380)
+
+- **Date:** 2026-11-23T23:55:26Z
+- **Sender:** no-reply@us.greenhouse-mail.io (Greenhouse; `X-Feedback-Id: no-reply@us.greenhouse-mail.io::5ff5c19deab70c1acacf09a2:mailgun`)
+- **To:** sutliff.reed@gmail.com (INBOX/1380; routed via Gmail forward → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Security code for your application to CoreWeave
+- **Message-Id:** <6b04d26e7f1de_944c50349aa@prod-jben-web-57886f765b-cb8sf.mail>
+- **UID:** 1380 (INBOX)
+- **Summary:** Greenhouse (Mailgun) security verification-code interstitial for Reed's **CoreWeave** job application. Body: "Copy and paste this code into the security code field on your application" / "After you enter the code, resubmit your application." 8-digit code: 52903236. Time-sensitive transactional/application verification (not marketing) — no `X-Mailgun-Tag: CandidateAutoReply` (that tag marks acks, not codes). 1 inline image attachment (Greenhouse Recruiting logo, image/png, 6756 B); 18,301 B, multipart/related. Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass, ARC pass (i=1 and i=2); `X-Jellyfish-No-Auto-Response: 1`. No `List-Unsubscribe` header → no unsubscribe (transactional security code; recipient-based auto-unsubscribe gate does not apply to relevant/transactional mail even though To contains "reed"); no unsubscribes.md row. No calendar/bills/purchases/money note — no concrete date or deadline. Dedupe: Message-Id `6b04d26e7f1de_944c50349aa@prod-jben-web-57886f765b-cb8sf.mail` (prod-jben-web security-code form, hex tail `944c50349aa`), code `52903236`, and `UID 1380` not previously in the topic → distinct event, own section (Greenhouse security-code subtype, action YES; dedupe by Message-Id, never subject). Third of a CoreWeave code cluster: sibling in time to [[job-applications#2026-11-23 — Security code for CoreWeave application (uid 1379)]] (23:52:36Z, ~3 min earlier, code 60362757) and [[job-applications#2026-11-23 — Security code for CoreWeave application (uid 1378)]] (23:51:00Z, ~4 min earlier, code 09740291) — same employer + same campaign hash (`5ff5c19deab70c1acacf09a2`), but a DIFFERENT code and a fresh Message-Id → a new resubmission, not a duplicate (dedupe by Message-Id, never subject/hash). Do not reply (unattended mailbox).
+- **Action required:** yes — enter code 52903236 in the CoreWeave application security-code field and resubmit (if still pending). Do not reply (unattended mailbox).
+
+### Related notes
+- [[job-applications]]
