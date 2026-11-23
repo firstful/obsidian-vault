@@ -28,6 +28,7 @@ tags: [email-triage, index]
   - 2026-11-23 — Amazon order confirmation: 1 item (Supplements), $16.57, order #112-5825406-8859457, action no (UID 1347) → [[amazon-orders#2026-11-23 — Amazon order confirmation: 1 item (Supplements) (UID 1347)]]
   - 2026-11-23 — Amazon order confirmation: 1 item (Activewear), $26.30, order #112-4094759-8624262, action no (UID 1348) → [[amazon-orders#2026-11-23 — Amazon order confirmation: 1 item (Activewear) (UID 1348)]]
   - 2026-11-23 — Amazon order confirmation: 1 item (Lip Care), $11.96, order #112-5192310-6480222, action no (UID 1349) → [[amazon-orders#2026-11-23 — Amazon order confirmation: 1 item (Lip Care) (UID 1349)]]
+  - 2026-11-23 — Amazon order confirmation: 1 item (3D Printing Supplies), $19.20, order #112-2477685-8396267, action no (UID 1350) → [[amazon-orders#2026-11-23 — Amazon order confirmation: 1 item (3D Printing Supplies) (UID 1350)]]
 - [walmart-orders](topics/walmart-orders.md) — Walmart.com transactional order/payment, delivery, and cancellation notices
   - 2026-11-19 — Walmart login verification code 862372 for Emilee (action YES, 15-min expiry) → [[security-alerts#2026-11-19 — Walmart verification code / login OTP (Emilee; UID 1203)]]
 - [apple-developer](topics/apple-developer.md) — Apple Developer "Hello Developer" newsletter issues (Developer Center events, platform/tooling news; marketing)

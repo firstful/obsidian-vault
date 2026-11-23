@@ -549,3 +549,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a208e2577e-1a4155a7-7d6a-4c37-bba3-240b7b459a9b-000000@email.amazonses.com>
 - **UID:** 1349
 - **Related notes:** [[amazon-orders]] (new order #112-5192310-6480222, $11.96, Lip Care — no sibling status entries yet; distinct same-day sibling orders UIDs 1345/1346/1347/1348, all different order numbers)
+
+## 2026-11-23 — Amazon order confirmation: 1 item (3D Printing Supplies) (UID 1350)
+
+- **Date:** 2026-11-23T14:50:27Z
+- **Sender:** "Amazon.com" <auto-confirm@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Ordered 1 item: 3D Printing Supplies
+- **Summary:** Transactional Amazon order confirmation (`auto-confirm@amazon.com`): "Emilee, thanks for your order!" Order #112-2477685-8396267, Grand Total 19.2 USD, recipient Emilee - PICKERINGTON, OH. Category "3D Printing Supplies" from Subject; item-level detail not extractable from the HTML body (Amazon renders line items as images). ETA prose "Arriving December 2 - December 7" (a soft date range, not a single hard date) — no calendar/purchase note. No sibling status notices found for this order yet (new standalone order). Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass bounces.amazon.com, DMARC pass (quarantine) header.from=amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES, all links to amazon.com. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed"); no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk / List-Id header → no auto-unsubscribe.
+- **Action required:** no — informational order confirmation; monitor for shipped/out-for-delivery/delivery follow-ups on order #112-2477685-8396267. No action for Rook.
+- **Message-ID:** <010001a208e30e77-f808efa9-6fb8-4f0d-b946-d58245e05d96-000000@email.amazonses.com>
+- **UID:** 1350
+- **Related notes:** [[amazon-orders]] (new order #112-2477685-8396267, $19.20, 3D Printing Supplies — no sibling status entries yet; distinct same-day sibling orders UIDs 1345/1346/1347/1348/1349, all different order numbers)
