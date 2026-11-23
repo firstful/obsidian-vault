@@ -59,6 +59,8 @@ tags: [email-triage, index]
 - [citizen](topics/citizen.md) — Citizen app local incident alerts (automated geo notifications; RELEVANT local safety facts — do NOT unsubscribe)
   - 2026-11-20 — Citizen: "One Dead in Northeast Columbus Shooting" (1999 E Hudson St, NE Columbus), action no (UID 1249) → [[citizen#2026-11-20 — Citizen: "One Dead in Northeast Columbus Shooting"]]
 - [consulting-guidepoint](topics/consulting-guidepoint.md) — Guidepoint expert-network consultation requests
+  - 2026-11-23 — Guidepoint consultation request: Renters Insurance Technology & Property Management Software (#1853973), action YES (Reed accept/decline) (UID 1374) → [[consulting-guidepoint#2026-11-23 — Guidepoint consultation request: Renters Insurance Technology & Property Management Software (#1853973)]]
+  - 2026-11-09 — Guidepoint consultation request: Property Technology Market (#1831985), action YES (UID 577) → [[consulting-guidepoint#2026-11-09 — Guidepoint consultation request: Property Technology Market (#1831985)]]
 - [cord-blood-registry](topics/cord-blood-registry.md) — Cord Blood Registry (CBR) newborn stem-cell lead-gen follow-ups (marketing)
 - [credit-karma](topics/credit-karma.md) — Credit Karma credit-monitoring alerts (credit-limit changes, score/usage notices)
 - [cvs-pharmacy](topics/cvs-pharmacy.md) — CVS Pharmacy prescription order confirmations (pickup/payment)
