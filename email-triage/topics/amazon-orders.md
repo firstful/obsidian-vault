@@ -538,3 +538,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a208dee69d-1aa7ab1e-0b62-466e-8e7b-169abe7dc025-000000@email.amazonses.com>
 - **UID:** 1348
 - **Related notes:** [[amazon-orders]] (new order #112-4094759-8624262, $26.30, Activewear — no sibling status entries yet; distinct same-day sibling orders UIDs 1345/1346/1347, all different order numbers)
+
+## 2026-11-23 — Amazon order confirmation: 1 item (Lip Care) (UID 1349)
+
+- **Date:** 2026-11-23T14:49:40Z
+- **Sender:** "Amazon.com" <auto-confirm@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Ordered 1 item: Lip Care
+- **Summary:** Transactional Amazon order confirmation (`auto-confirm@amazon.com`): "Emilee, thanks for your order!" Order #112-5192310-6480222, Grand Total 11.96 USD, recipient Emilee - PICKERINGTON, OH. Category "Lip Care" from Subject; item-level detail not extractable from the HTML body (Amazon renders line items as images). ETA prose "Arriving Wednesday" (soft, relative to 2026-11-23) — no hard date, so no calendar/purchase note. No sibling status notices found for this order yet (new standalone order). Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass (Gmail forwarder 74.125.224.45; SES client-ip 54.240.13.34), DMARC pass (quarantine) header.from=amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES, all links to amazon.com. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed"); no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk / List-Id header → no auto-unsubscribe.
+- **Action required:** no — informational order confirmation; monitor for shipped/out-for-delivery/delivery follow-ups on order #112-5192310-6480222. No action for Rook.
+- **Message-ID:** <010001a208e2577e-1a4155a7-7d6a-4c37-bba3-240b7b459a9b-000000@email.amazonses.com>
+- **UID:** 1349
+- **Related notes:** [[amazon-orders]] (new order #112-5192310-6480222, $11.96, Lip Care — no sibling status entries yet; distinct same-day sibling orders UIDs 1345/1346/1347/1348, all different order numbers)
