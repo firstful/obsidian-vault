@@ -571,3 +571,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a208e56034-122d6a72-a2e5-4ce4-9bd3-0d47c8ec12f1-000000@email.amazonses.com>
 - **UID:** 1351
 - **Related notes:** [[amazon-orders]] (successful cancellation of order #112-2827365-7966626, "Printing" — no sibling status entries; same-class precedent UID 1308, different sender/subject form; distinct from cancellation-failure UID 1250)
+
+## 2026-11-23 — Amazon order confirmation: 1 item (3D Printing Supplies) (UID 1352)
+
+- **Date:** 2026-11-23T14:54:41Z
+- **Sender:** "Amazon.com" <auto-confirm@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Ordered 1 item: 3D Printing Supplies
+- **Summary:** Transactional Amazon order confirmation (`auto-confirm@amazon.com`): "Emilee, you scored some great Black Friday Deals!" Order #112-2262393-6845053, Grand Total 23.58 USD, recipient Emilee - PICKERINGTON, OH. Category "3D Printing Supplies" from Subject; item-level detail not extractable from the HTML body (Amazon renders line items as images). Promo "Black Friday Deals" greeting/links do NOT change class — sender is `auto-confirm@` and body has Order # + Grand Total, so this is RELEVANT/transactional. ETA prose "Arriving Wednesday" (soft, relative to 2026-11-23) — no hard date, so no calendar/purchase note. No sibling status notices found for this order yet (new standalone order). Same SUBJECT as sibling UID 1350 ("Ordered 1 item: 3D Printing Supplies") but a DIFFERENT order number (#112-2262393-6845053 vs #112-2477685-8396267) and amount ($23.58 vs $19.20) — distinct orders, not a re-send. Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass (Gmail forwarder 74.125.224.48; SES client-ip 54.240.13.153), DMARC pass (quarantine) header.from=amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES, all links to amazon.com. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed"); no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk / List-Id header → no auto-unsubscribe.
+- **Action required:** no — informational order confirmation; monitor for shipped/out-for-delivery/delivery follow-ups on order #112-2262393-6845053. No action for Rook.
+- **Message-ID:** <010001a208e6edc2-73d8d41f-9eec-49bc-96b9-eff5037dc549-000000@email.amazonses.com>
+- **UID:** 1352
+- **Related notes:** [[amazon-orders]] (new order #112-2262393-6845053, $23.58, 3D Printing Supplies — no sibling status entries yet; same-subject but DISTINCT sibling UID 1350, different order #/$19.20)
