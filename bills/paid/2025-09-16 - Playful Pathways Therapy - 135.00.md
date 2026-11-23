@@ -1,0 +1,32 @@
+---
+title: Playful Pathways Therapy payment 2025-09-16 (TMC222)
+type: payment
+date: 2025-09-16
+bill: "[[Playful Pathways Therapy]]"
+amount: 135.00
+currency: USD
+method: "Therabyte Client Portal"
+confirmation: "TMC222"
+invoice_date: 2025-08-15
+client: "Elijah Sutliff"
+pdf: "[[Therabyte Invoice TMC222 2025-08-15.pdf]]"
+created: 2026-11-23
+tags: [bills, payments, medical, therapy, occupational-therapy, playful-pathways]
+---
+
+# Playful Pathways Therapy payment 2025-09-16 (TMC222)
+
+## Details
+
+- **Payment date:** Sep 16, 2025
+- **Bill:** [[Playful Pathways Therapy]]
+- **Invoice:** TMC222 dated Aug 15, 2025
+- **Client:** Elijah Sutliff — 45 Min OT Session
+- **Amount:** $135.00 USD
+- **Method:** Therabyte Client Portal (shared invoices)
+- **PDF:** ![[Therabyte Invoice TMC222 2025-08-15.pdf]]
+- **Source:** Therabyte client portal, imported 2026-11-23.
+
+## See also
+
+- [[Paid Log]] · [[Playful Pathways Therapy]] · [[playful-pathways]]

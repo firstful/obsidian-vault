@@ -1,0 +1,38 @@
+filters:
+  and:
+    - file.inFolder("bills/paid")
+    - type == "payment"
+    - file.name.contains("Playful Pathways")
+properties:
+  date:
+    displayName: Paid
+  invoice_date:
+    displayName: Invoice date
+  confirmation:
+    displayName: Invoice #
+  amount:
+    displayName: Amount
+  pdf:
+    displayName: PDF
+views:
+  - type: table
+    name: All invoices
+    order:
+      - date
+      - invoice_date
+      - confirmation
+      - amount
+      - pdf
+    sort:
+      - property: date
+        direction: DESC
+  - type: table
+    name: By invoice number
+    order:
+      - confirmation
+      - date
+      - amount
+      - pdf
+    sort:
+      - property: confirmation
+        direction: DESC
