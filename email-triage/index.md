@@ -156,6 +156,7 @@ tags: [email-triage, index]
   - 2026-11-22 — Databricks Greenhouse CandidateAutoReply submission ack (AI Engineer – Forward Deployed Engineering; uid 1325) → [[job-applications#2026-11-22 — Application submission acknowledgement: AI Engineer – Forward Deployed Engineering at Databricks (uid 1325)]]
   - 2026-11-23 — Natera Greenhouse CandidateAutoReply submission ack (uid 1356) → [[job-applications#2026-11-23 — Application received: Natera (uid 1356)]]
   - 2026-11-23 — Thank you for applying to 6sense (UID 1358)
+  - 2026-11-23 — CoreWeave Greenhouse security code (09740291, action YES; uid 1378) → [[job-applications#2026-11-23 — Security code for CoreWeave application (uid 1378)]]
 - [medical-appointments](topics/medical-appointments.md) — Medical appointment reminders, MyChart portal notices & OTPs (Nationwide Children's, OSU Wexner; transactional)
   - 2026-11-20 — New NCH MyChart message for Elijah (Emilee; UID 1239, action YES) → [[medical-appointments#2026-11-20 — New MyChart message for Elijah (Nationwide Children's, Emilee; UID 1239)]]
 - [mhs-assessments](topics/mhs-assessments.md) — MHS (mhs.com) online assessment invitations/reminders (e.g. Conners EC)
