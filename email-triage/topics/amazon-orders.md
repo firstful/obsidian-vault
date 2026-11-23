@@ -593,3 +593,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a208fbe293-65727d54-acb3-41c1-813a-99aa5c848c1a-000000@email.amazonses.com>
 - **UID:** 1354
 - **Related notes:** [[amazon-orders]] (new order #112-5029181-6787416, $13.60, Office Supplies — no sibling status entries yet; distinct same-day sibling orders UIDs 1345/1346/1347/1348/1349/1350/1352, all different order numbers)
+
+## 2026-11-23 — Amazon order confirmation: 1 item (Hair Care) (UID 1357)
+
+- **Date:** 2026-11-23T15:29:32Z
+- **Sender:** "Amazon.com" <auto-confirm@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Ordered 1 item: Hair Care
+- **Summary:** Transactional Amazon order confirmation (`auto-confirm@amazon.com`): "Emilee, you scored some great Black Friday Deals!" Order #112-3213619-4258628, Grand Total 33.57 USD, recipient Emilee - PICKERINGTON, OH. Category "Hair Care" from Subject; item-level detail not extractable from the HTML body (Amazon renders line items as images). Promo "Black Friday Deals" greeting/links do NOT change class — sender is `auto-confirm@` and body has Order # + Grand Total, so this is RELEVANT/transactional. ETA prose "Arriving Wednesday" (soft, relative to 2026-11-23) — no hard date, so no calendar/purchase note. No sibling status notices found for this order yet (new standalone order). Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass (Gmail forwarder 209.85.128.182; SES client-ip 54.240.13.64), DMARC pass (quarantine) header.from=amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES, all links to amazon.com. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed"); no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk / List-Id header → no auto-unsubscribe.
+- **Action required:** no — informational order confirmation; monitor for shipped/out-for-delivery/delivery follow-ups on order #112-3213619-4258628. No action for Rook.
+- **Message-ID:** <010001a20906d704-1ae38841-31ee-44b6-894e-a8f60ba9025d-000000@email.amazonses.com>
+- **UID:** 1357
+- **Related notes:** [[amazon-orders]] (new order #112-3213619-4258628, $33.57, Hair Care — no sibling status entries yet; distinct same-day sibling orders UIDs 1345/1346/1347/1348/1349/1350/1352/1354, all different order numbers)
