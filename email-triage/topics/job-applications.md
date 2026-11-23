@@ -953,3 +953,18 @@ tags: [email-triage, job-applications]
 
 ### Related notes
 - [[job-applications]]
+
+
+## 2026-11-23 — Application submission acknowledgement: Senior Data Platform Engineer - Weights & Biases at CoreWeave (UID 1381)
+
+- **Date:** 2026-11-23T23:57:04Z
+- **Sender:** no-reply@us.greenhouse-mail.io (Greenhouse `CandidateAutoReply` via Mailgun; `X-Feedback-Id: no-reply@us.greenhouse-mail.io:CandidateAutoReply:5ff5c19deab70c1acacf09a2:mailgun`)
+- **To:** sutliff.reed@gmail.com (INBOX/1381; routed via Gmail forward → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Thank you for applying to CoreWeave
+- **Message-Id:** <20261123235704.f5bd7ed8b24c2383@us.greenhouse-mail.io>
+- **UID:** 1381 (INBOX)
+- **Summary:** Greenhouse (Mailgun) `CandidateAutoReply` application-submission acknowledgement for Reed's application to **CoreWeave**, role **Senior Data Platform Engineer - Weights & Biases**. Body: "Hi Reed, Thank you for your interest in CoreWeave! We appreciate you taking the time to complete your application for Senior Data Platform Engineer - Weights & Biases, and we are delighted that you would consider joining our team." + "What Happens Next?" (recruiter review, contact if qualified), a "Stay Up to Date with CoreWeave" newsroom section, and "Please do not reply. This mailbox is not monitored." Pure submission ACK — NOT a security-code interstitial, NOT a hiring decision/rejection; no code, no deadline, no concrete date. No attachments (13,067 B, multipart/alternative). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass; `X-Mailgun-Tag: CandidateAutoReply`, `X-Jellyfish-No-Auto-Response: 1`, `X-Gh-Mailer-Variables-Transport: mailgun`, `X-Gh-Email-Transport: mailgun`, `X-Mailgun-Variables: {"org_id": "4001032006", "person_id": "53658241006", "silo_id": "6", "user_id": ""}`. `List-Unsubscribe` header present but EMPTY → no unsubscribe (transactional submission ack; recipient-based auto-unsubscribe gate does not apply even though To contains "reed"); no unsubscribes.md row. Dedupe: Message-Id hex tail `f5bd7ed8b24c2383`, 14-digit Mailgun timestamp prefix `20261123235704`, and `UID 1381` not previously in the topic → distinct event, own section (dedupe by Message-Id, never subject). Sibling in time to the CoreWeave security-code cluster [[job-applications#2026-11-23 — Security code for CoreWeave application (uid 1380)]] (23:55:26Z, ~2 min earlier, code 52903236), [[job-applications#2026-11-23 — Security code for CoreWeave application (uid 1379)]] and [[job-applications#2026-11-23 — Security code for CoreWeave application (uid 1378)]] — same employer/campaign, but a DIFFERENT sub-type (CandidateAutoReply ack, not code interstitial) and a fresh Message-Id: this is the post-code submission confirmation for that CoreWeave application, not a resend of any code. No calendar/bills/purchases/money note — no concrete date, deadline, or next step ("will be in touch" is not a date). Do not reply (unattended mailbox).
+- **Action required:** no — confirmation only; wait for recruiter follow-up. Do not reply (unattended mailbox).
+
+### Related notes
+- [[job-applications]]
