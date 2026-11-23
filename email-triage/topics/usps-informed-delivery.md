@@ -208,3 +208,12 @@ Informational only; never action-required.
 - Summary: Daily Informed Delivery digest for Monday 23 November 2026 — 3 mailpieces, 0 inbound packages arriving soon; "You have 3 mailpiece(s) and 0 inbound package(s) arriving soon". Dashboard: "Expected Today 3 item(s) FROM: Meijer, Wayfair, JPMorganChase". Six mailpiece-scan JPEG attachments (mailer/content scans; ~641 KB attachments; ~757 KB message). No package exceptions, bills, deadlines, or account actions referenced.
 - Action required: no
 - Notes: Live triage (event id 1339). To is Reed's mailbox (contains "reed"), but USPS digests are never marketing and never unsubscribed — no unsubscribe performed (no List-Unsubscribe action). Body fetched via email-sync MCP (email_fetch_body with reason; counts from QP-decode of whole raw message). Triage summary posted to #email-triage per inbound trigger.
+
+## 2026-11-23 13:03 — USPS Informed Delivery: "Your Daily Digest for Mon, 11/23 is ready to view" (Emilee copy)
+
+- UID: 1341 (INBOX) · message-id: <20261123130334.35ab56dcbc7bd20b@email.informeddelivery.usps.com>
+- To: emileesutliff@gmail.com — forwarded into ingest via Cloudflare Email Routing (Delivered-To: reed@ffilt.us); greeting "Hi, EMILEE!" (merge-field artifact)
+- Date: 2026-11-23T13:03:34Z
+- Summary: Daily Informed Delivery digest for Monday 23 November 2026 — 3 mailpieces, 0 inbound packages arriving soon; "You have 3 mailpiece(s) and 0 inbound package(s) arriving soon". Dashboard: "Expected Today 3 item(s) FROM: Meijer, Wayfair, JPMorganChase". Six mailpiece-scan JPEG attachments (2878758489-010.jpg 102 KB, content-6989.jpg 36 KB, mailer-1888.jpg 124 KB, content-1888.jpg 44 KB, mailer-1202187988.jpg 250 KB, content-1202187988.jpg 71 KB; ~626 KB attachments; ~757 KB message). No package exceptions, bills, deadlines, or account actions referenced.
+- Action required: no
+- Notes: Live triage (event id 1341). To is Emilee's mailbox (no "reed") and USPS digests are never marketing in any case — no unsubscribe performed. No List-Unsubscribe header present. Sibling Reed copy (UID 1339, reedsut@gmail.com, 13:01:58Z) already triaged. Body fetched via email-sync MCP (email_fetch_body with reason; counts from QP-decode of whole raw message). Triage summary posted to #email-triage per inbound trigger.
