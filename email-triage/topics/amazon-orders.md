@@ -494,3 +494,14 @@ tags: [email-triage, amazon-orders]
 - **UID:** 1319
 - **Related notes:** [[amazon-orders]] (new order #112-5592681-2159457, $17.06, Clothing — no sibling status entries yet)
 
+
+## 2026-11-23 — Amazon order confirmation: 1 item (Makeup) (UID 1346)
+
+- **Date:** 2026-11-23T14:41:37Z
+- **Sender:** "Amazon.com" <auto-confirm@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Ordered 1 item: Makeup
+- **Summary:** Transactional Amazon order confirmation (`auto-confirm@amazon.com`): "Emilee, you scored some great Black Friday Deals!" Order #112-9989467-5816226, Grand Total 24.98 USD, recipient Emilee - PICKERINGTON, OH. Category "Makeup" from Subject; item-level detail not extractable. ETA prose "Arriving Wednesday" (soft, relative to 2026-11-23) — no hard date, so no calendar/purchase note. No sibling status notices found for this order yet (new standalone order). Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass bounces.amazon.com (client-ip 54.240.13.53), DMARC pass (quarantine) header.from=amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed"); no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk header → no auto-unsubscribe.
+- **Action required:** no — informational order confirmation; monitor for shipped/out-for-delivery/delivery follow-ups on order #112-9989467-5816226. No action for Rook.
+- **Message-ID:** <010001a208daf767-535c8b10-47ca-4fb2-a5d3-aadd2a53040b-000000@email.amazonses.com>
+- **UID:** 1346
+- **Related notes:** [[amazon-orders]] (new order #112-9989467-5816226, $24.98, Makeup — no sibling status entries yet)
