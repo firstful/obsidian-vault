@@ -10,14 +10,14 @@ _Auto-generated nightly. Urgent items only: urgent-class priority, high-priority
 
 ## Summary
 
-- Urgent open todos: **38** (of 175 open)
+- Urgent open todos: **35** (of 175 open)
 - Urgent claimed todos: **0**
 - Urgent tasks in vault notes: **0**
-- Generated: 2026-11-23T14:15:31+00:00Z
+- Generated: 2026-11-23T14:16:15+00:00Z
 
 ## Urgent open todos (homelab MCP board)
 
-### High (36)
+### High (35)
 
 - [ ] **#1** Inventory node hardware capabilities  ([issue](http://gitea.ffilt.us/reeds/homelab-todos/issues/219))
   - Record per-node hardware facts for the capability matrix: CPU ISA (avx/avx2/sse4a from /proc/cpuinfo on sutliffserver, reed-a320ms2h, wyse5070), GPU/VAAPI device (/dev/dri), RAM, disk type, NIC/egress constraints (RT-N66U bridge cap on .50).
@@ -88,22 +88,10 @@ Steps: (1) create CF Access app home.ffilt.us via pre-create+mirror pattern (all
   - Pull fresh ESPN roster/projections for league 1352500447 (Purdy Slim Pickens), check Week 10(?) matchup, injuries, byes, K/DST streaming, FA grabs. Verdict-first: LINEUP ISSUES, FA GRABS, ROSTER NEWS. Verify artifact slot map before brief.
 - [ ] **#463** Unsubscribe marketing/promo senders (envelope-census 2026-11-10)  ([issue](http://gitea.ffilt.us/reeds/homelab-todos/issues/681))
   - Inventory marketing/promo senders from recent INBOX+INGEST envelopes and delegate unsubscribe actions (RFC 8058 POST / link) per email-triage policy. Report consolidated results.
-- [ ] **#655** Canary dual-host migration (1-2 services) on *.home.ffilt.us via GitOps  ([issue](http://gitea.ffilt.us/reeds/homelab-todos/issues/873))
-  - GitOps (reeds/sutliff-cluster): add Host(<svc>.home.ffilt.us) alongside existing host for 1-2 non-critical services; update ledger hostnames.yaml in same commit (R1-R7). Validate trusted HTTPS (LE wildcard) and end-to-end access from VPN client without breaking existing ffilt.us access. Confirms DNS, certs, Traefik routing, and migration pattern.
 - [ ] **#670** Triage inbound email #862 (Amazon payment declined)  ([issue](http://gitea.ffilt.us/reeds/homelab-todos/issues/888))
   - Fetch envelope/headers/body, classify relevant vs promo, update reeds/obsidian-vault triage notes, post summary to Discord #email-triage (1564353985798869153), handle unsub if promo+To contains reed. Commit with [skip ci].
 - [ ] **#835** Design wakeable pending-replies approval app  ([issue](http://gitea.ffilt.us/reeds/homelab-todos/issues/1053))
   - Design an internal wakeable web app showing pending agent email replies awaiting Reed approval; scope wake pattern, hostname, outbox store, and approval→send gate
-
-### Normal (1)
-
-- [ ] **#20** Longhorn: raise runner volumes to 2 replicas  ([issue](http://gitea.ffilt.us/reeds/homelab-todos/issues/331))
-  - Two Longhorn volumes are single-replica (gitea-runner runner-vol 1Gi, docker-vol 20Gi) — a worker loss loses them. Raise to spec.numberOfReplicas=2 via longhorn UI/kubectl patch or volume class default. CI cache only (non-critical) but cheap to fix.
-
-### Low (1)
-
-- [ ] **#326** Stale TERMINAL_CWD leaks across Hermes profiles via cron workdir override  ([issue](http://gitea.ffilt.us/reeds/homelab-todos/issues/543))
-  - Hermes cron scheduler sets os.environ['TERMINAL_CWD'] process-globally to a job's workdir for the job's duration (scheduler.py:2896-2897) and restores it in a finally block. The terminal tool's persistent shell bakes that env into /tmp/hermes-snap-*.sh via 'export -p', and every later command re-sources it. Result: the default profile's shell reports TERMINAL_CWD=/root/.hermes/profiles/mlops (leaked from the slow-inference-agent job, workdir=/root/.hermes/profiles/mlops, last run 14:38Z) while the actual cwd is correct (/root/.hermes/profiles/default). Impact: hermes_cli.config.warn_deprecated_cwd_env_vars() emits a FALSE POSITIVE 'TERMINAL_CWD=... found in .env' warning, because it checks os.environ rather than the .env file. Verified no .env has an active TERMINAL_CWD (all commented out), and the warning vanishes with 'env -u TERMINAL_CWD'. No misplaced writes found (only mlops/config.yaml modified in 24h, legitimately). Fix options: (a) add explicit terminal.cwd to each profile config.yaml so the env var is set canonically and the check short-circuits, (b) exclude the cron workdir override from the persistent-shell export snapshot, (c) patch warn_deprecated_cwd_env_vars to read the .env file instead of os.environ. Not urgent - cosmetic stderr noise only, does not affect forum tooling sync or verification.
 
 ## Urgent tasks in vault notes
 
