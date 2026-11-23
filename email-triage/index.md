@@ -134,6 +134,8 @@ tags: [email-triage, index]
   - 2026-11-20 — Verify contact info for arewefucked.xyz by 2026-12-05 or domain suspended (re-send of UID 1265, same verification key), action YES (UID 1266) → [[namecheap#2026-11-20 — Verify contact information for domain(s) — arewefucked.xyz (UID 1266, re-send of UID 1265)]]
   - 2026-11-20 — Verify contact info for arewefucked.xyz by 2026-12-05 or domain suspended, action YES (UID 1265) → [[namecheap#2026-11-20 — Verify contact information for domain(s) — arewefucked.xyz (UID 1265)]]
   - 2026-11-20 — Order summary: domain registration arewebfucked.xyz, $1.70, order #220122484, action no (UID 1264) → [[namecheap#2026-11-20 — Namecheap order summary: domain registration, order #220122484]]
+- [opencode](topics/opencode.md) — OpenCode (Anomaly) paid-account billing/tax notices (sales tax/VAT/GST on invoices)
+  - 2026-11-23 — Anomaly | Sales tax and VAT on your invoices (UID 1332) → [[opencode#2026-11-23 — Anomaly | Sales tax and VAT on your invoices (UID 1332)]]
 - [pickerington-schools](topics/pickerington-schools.md) — Pickerington Local School District (PLSD) superintendent/district communications + BusRight school-bus service notices (transactional, important)
 - [paypal](topics/paypal.md) — PayPal account notices: negative balance/collections, autopay failures, statements, legal/terms updates, payment receipts (transactional)
   - 2026-11-22 — Negative balance $522.00 (116 days), 11/26 collections deadline, action YES (UID 1318) → [[paypal#2026-11-22 - PayPal negative balance $522.00 (116 days) - UID 1318]]
