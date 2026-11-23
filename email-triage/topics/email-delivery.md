@@ -22,3 +22,10 @@ tags: [email-triage, email-delivery]
 - To: rook@ffilt.us
 - Summary: Permanent DSN (550 5.1.1 "no such user", gmail-smtp-in.l.google.com) for outbound from rook@ffilt.us to reedsutliff@gmail.com (X-Failed-Recipients). Bounced message: "MCP email_send verification" (Message-ID <179504730394.1.1548349797482734773@ffilt.us>, 2026-11-19T00:15:03Z; DSN Message-ID <a103d8f3-56e8-8697-eaac-87d6c37b4d09@bounces.jellyfish.systems>).
 - Action required: yes - reedsutliff@gmail.com returned 550 5.1.1 NoSuchUser; verify/correct recipient address or resend to a valid address.
+
+
+## 2026-11-23 | Mail Delivery Subsystem <mailer-daemon@googlemail.com> | Delivery Status Notification (Failure)
+- UID: 1343
+- To: ingest@ffilt.us
+- Summary: Reed forwarded a Gmail DSN: a message sent to ingest@ffilt.us was blocked by the receiving server with "554 5.7.1 DMARC policy rejected". The blocked original appears to be an Atlas Obscura newsletter ("The Week in Wonder", info@atlasobscura.com) auto-forwarded from reedsut@gmail.com to ingest@ffilt.us; forwarding broke DMARC alignment for the atlasobscura.com From domain, so the receiver (Namecheap Private Email) rejected under DMARC. Underlying DSN dated Sun 2026-11-22 05:30 ET; forwarded 2026-11-23 09:01 ET. No recipient/alias issue.
+- Action required: yes - fix DMARC rejection on forwarded mail (e.g., disable Gmail auto-forward of third-party newsletters to ingest@ffilt.us, or enable SRS/From rewriting).
