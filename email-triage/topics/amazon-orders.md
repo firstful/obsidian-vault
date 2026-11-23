@@ -560,3 +560,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a208e30e77-f808efa9-6fb8-4f0d-b946-d58245e05d96-000000@email.amazonses.com>
 - **UID:** 1350
 - **Related notes:** [[amazon-orders]] (new order #112-2477685-8396267, $19.20, 3D Printing Supplies — no sibling status entries yet; distinct same-day sibling orders UIDs 1345/1346/1347/1348/1349, all different order numbers)
+
+## 2026-11-23 — Amazon item cancelled successfully: Printing (UID 1351)
+
+- **Date:** 2026-11-23T14:52:59Z
+- **Sender:** "Amazon.com" <order-update@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Item cancelled successfully: Printing
+- **Summary:** Successful-cancellation notice: "Your items were cancelled" — "Your order was cancelled. You have not been charged for this order." Order #112-2827365-7966626, recipient Emilee - PICKERINGTON, OH. Item/category "Printing" from the Subject; no itemized line detail or price in the body ( View order details link to amazon.com/your-orders/order-details?orderID=112-2827365-7966626 ). Note this is the `order-update@amazon.com` sender with the "Item cancelled successfully:" subject — a new variant of the successful-cancellation class (cf. UID 1308, which was `payments-update@amazon.com`, subject `Item cancelled: "<item>"`). It is NOT the cancellation-failure class ("Item could not be cancelled:", e.g. UID 1250, RELEVANT/action-YES): here the cancellation succeeded, the order is dead and uncharged. No sibling status notices (confirmation/decline/shipping) found for order #112-2827365-7966626 in the topic — distinct from the same-day 3D Printing Supplies order #112-2477685-8396267 (UID 1350). Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass (Gmail forwarder 74.125.224.53; SES client-ip 54.240.13.24), DMARC pass (quarantine) header.from=amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES, all links to amazon.com. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed"); no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk / List-Id header → no auto-unsubscribe. No charge posted, so no purchase/money note; no hard date, so no calendar note.
+- **Action required:** no — order already cancelled and uncharged; re-ordering is optional if the item is still wanted. No action for Rook.
+- **Message-ID:** <010001a208e56034-122d6a72-a2e5-4ce4-9bd3-0d47c8ec12f1-000000@email.amazonses.com>
+- **UID:** 1351
+- **Related notes:** [[amazon-orders]] (successful cancellation of order #112-2827365-7966626, "Printing" — no sibling status entries; same-class precedent UID 1308, different sender/subject form; distinct from cancellation-failure UID 1250)
