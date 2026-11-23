@@ -15,7 +15,7 @@ _Auto-generated nightly from the homelab MCP todo board and open tasks found in 
 - Completed: **870**
 - Total: **1045**
 - Open tasks in vault notes: **4**
-- Generated: 2026-11-23T14:00:07+00:00Z
+- Generated: 2026-11-23T14:00:31+00:00Z
 
 ## Open todos (homelab MCP board)
 
