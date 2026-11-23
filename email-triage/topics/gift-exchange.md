@@ -34,3 +34,13 @@ tags: [email-triage, gift-exchange]
 - **Summary:** drawnames.com marketing blast to Emilee Sutliff encouraging re-engagement with the gift-exchange service ("relive last year's magic"). Promo/marketing, no actionable content; recipient is Emilee, not a reed@ address.
 - **Action required:** no
 - **Unsubscribe:** not performed (To address does not contain "reed"; auto-unsubscribe policy not triggered).
+## 2026-11-23 — "Get a head start on your wish list with the best deals" marketing (drawnames.com)
+
+- **Date:** 2026-11-23 05:27 UTC
+- **Sender:** drawnames@drawnames.com (From-name "Drawnames")
+- **To:** emileesutliff@gmail.com
+- **Subject:** Emily, get a head start on your wish list with the best deals
+- **UID:** 1333 (INBOX, message-id <ded501bb-82dd-4d73-845d-5d17d612f0a9@mtasv.net>, 25.4 KB)
+- **Summary:** drawnames.com marketing blast to Emilee Sutliff encouraging early wish-list creation / deal shopping for the gift exchange ("get a head start on your wish list with the best deals"). Promo/marketing, no actionable content; recipient is Emilee, not a reed@ address.
+- **Action required:** no
+- **Unsubscribe:** not performed (To address does not contain "reed"; auto-unsubscribe policy not triggered).
