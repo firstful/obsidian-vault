@@ -23,6 +23,7 @@ tags: [email-triage, index]
   - 2026-11-21 — Amazon delivery confirmation: 1 item (Pet Supplies), order #112-4101541-3070660, $19.20, action no — final delivery step (UID 1269) → [[amazon-orders#2026-11-21 — Amazon delivery confirmation: 1 item (Pet Supplies) (UID 1269)]]
   - 2026-11-22 — Amazon order confirmation: 2 items (Clothing), $17.06, order #112-5592681-2159457, action no (UID 1319) → [[amazon-orders#2026-11-22 — Amazon order confirmation: 2 items (Clothing) (UID 1319)]]
   - 2026-11-22 — Amazon order confirmation: 1 item (Clothing), $17.22, order #112-0374832-6921816, action no (UID 1317) → [[amazon-orders#2026-11-22 — Amazon order confirmation: 1 item (Clothing) (UID 1317)]]
+  - 2026-11-23 — Amazon order confirmation: 1 item (Toys & Games), $16.54, order #112-8806787-5341019, action no (UID 1345) → [[amazon-orders#2026-11-23 — Amazon order confirmation: 1 item (Toys & Games) (UID 1345)]]
   - 2026-11-23 — Amazon order confirmation: 1 item (Makeup), $24.98, order #112-9989467-5816226, action no (UID 1346) → [[amazon-orders#2026-11-23 — Amazon order confirmation: 1 item (Makeup) (UID 1346)]]
 - [walmart-orders](topics/walmart-orders.md) — Walmart.com transactional order/payment, delivery, and cancellation notices
   - 2026-11-19 — Walmart login verification code 862372 for Emilee (action YES, 15-min expiry) → [[security-alerts#2026-11-19 — Walmart verification code / login OTP (Emilee; UID 1203)]]

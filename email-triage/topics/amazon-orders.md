@@ -494,6 +494,17 @@ tags: [email-triage, amazon-orders]
 - **UID:** 1319
 - **Related notes:** [[amazon-orders]] (new order #112-5592681-2159457, $17.06, Clothing — no sibling status entries yet)
 
+## 2026-11-23 — Amazon order confirmation: 1 item (Toys & Games) (UID 1345)
+
+- **Date:** 2026-11-23T14:40:51Z
+- **Sender:** "Amazon.com" <auto-confirm@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Ordered 1 item: Toys & Games
+- **Summary:** Transactional Amazon order confirmation (`auto-confirm@amazon.com`): "Emilee, you scored some great Black Friday Deals!" Order #112-8806787-5341019, Grand Total 16.54 USD, recipient Emilee - PICKERINGTON, OH. Category "Toys & Games" from Subject; item-level detail not extractable. ETA prose "Arriving Sunday" (soft, relative to 2026-11-23) — no hard date, so no calendar/purchase note. No sibling status notices found for this order yet (new standalone order). Note order #112-2983352-0481806 was a separate $16.54 Toys & Games order confirmed in UID 1127 and delivered in UID 1160 — same amount/category but a DIFFERENT order number, not this one. Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass bounces.amazon.com (client-ip 54.240.13.13), DMARC pass (quarantine) header.from=amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed"); no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk / List-Id header → no auto-unsubscribe.
+- **Action required:** no — informational order confirmation; monitor for shipped/out-for-delivery/delivery follow-ups on order #112-8806787-5341019. No action for Rook.
+- **Message-ID:** <010001a208da44b7-4b2dde00-8507-4d5a-9e5a-1c3472e42a74-000000@email.amazonses.com>
+- **UID:** 1345
+- **Related notes:** [[amazon-orders]] (new order #112-8806787-5341019, $16.54, Toys & Games — no sibling status entries yet; distinct same-day sibling UID 1346, Makeup $24.98, different order #112-9989467-5816226)
+
 
 ## 2026-11-23 — Amazon order confirmation: 1 item (Makeup) (UID 1346)
 
