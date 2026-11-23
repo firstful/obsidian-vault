@@ -37,6 +37,7 @@ tags: [email-triage, index]
 - [bible-gateway](topics/bible-gateway.md) — Bible Gateway Deals promos and editorial/devotional newsletters (marketing)
 - [book-review-requests](topics/book-review-requests.md) — Personalized one-to-one book/manuscript review requests (publishers, editors, authors)
 - [capital-one](topics/capital-one.md) — Capital One credit card: collections/late-payment notices, payment confirmations/holds & funds-availability alerts, and CreditWise credit-score alerts
+  - 2026-11-23 — Capital One (Medallia) 2-minute customer survey reminder (Emilee), available until 2026-11-25, action no (UID 1329) → [[capital-one#2026-11-23 — Reminder: Capital One survey - 2 minutes (UID 1329)]]
 - [chase-credit-journey](topics/chase-credit-journey.md) — Chase Credit Journey credit-report alerts (e.g. past-due balance notices; review in Credit Journey for account-specific details)
   - 2026-11-22 — Credit Summary: score down, 1 late payment, 47% usage, 0 new accounts, 0 credit checks, window Sep 26–Nov 14; action no (UID 1316) → [[chase-credit-journey#2026-11-22 — Credit Summary: score down, 1 late payment, 47% usage (UID 1316)]]
 - [cheaper-inference](topics/cheaper-inference.md) — Cheaper Inference (Keak AI) model launch / discount announcements

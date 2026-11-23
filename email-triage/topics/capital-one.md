@@ -228,3 +228,13 @@ tags: [email-triage, capital-one]
 - **Summary:** Capital One Quicksilver Credit Card statement is ready for card ending 4809 (Reed Sutliff). Statement balance **$79.38**; minimum payment **$74.00**; payment due date **December 16, 2026** (cutoff times may vary). Follows the $3,751.74 (UID 1088/1152) and $1,262.41 (UID 1089/1153) payments posted 2026-11-17 that brought the ...4809 trade line out of Collections; the new statement reflects the reduced balance. Review the full statement in the Capital One app/online and confirm AutoPay/payment status. Transactional account notice — no `List-Unsubscribe`/`List-Unsubscribe-Post`/`Precedence` header; no auto-unsubscribe despite the Reed mailbox. DKIM/SPF/DMARC pass (notification.capitalone.com, SparkPost).
 - **Action required:** yes (review statement; pay at least the $74.00 minimum by 2026-12-16 — or full $79.38 — and confirm AutoPay/payment status)
 - **Related notes:** [[capital-one]], [[money/Debt Catalog]]
+
+## 2026-11-23 — Reminder: Capital One survey - 2 minutes (UID 1329)
+
+- **Date:** 2026-11-23T01:58:59Z
+- **Sender:** Capital One <capitalone@experience.capitalone.com> (via Medallia express.medallia.com)
+- **To:** emileesutliff@gmail.com
+- **Subject:** Reminder: Capital One survey - 2 minutes
+- **UID:** 1329 (INBOX, message-id `<mwsmaimi.7h8fd64iutyj@express.medallia.com>`)
+- **Summary:** Marketing survey reminder — Capital One (Medallia) invites Emilee to complete a 2-minute feedback survey about her experience. Survey available until 2026-11-25; link https://survey.medallia.com/?e97twxp2tmzzmzykmtpmht. No account/billing content. RFC 8058 one-click List-Unsubscribe present (mailto + HTTPS reject=yes), but no auto-unsubscribe performed because the To address (emileesutliff@gmail.com) does not contain "reed". DKIM/SPF/DMARC pass (experience.capitalone.com / Medallia).
+- **Action required:** no (optional feedback; no household action)
