@@ -15,7 +15,7 @@ _Auto-generated nightly. Urgent items only, ranked: Tier 1 = explicit urgent pri
 - Tier 2 — high + stalled: **34**
 - Urgent claimed todos: **0**
 - Urgent tasks in vault notes: **0**
-- Generated: 2026-11-23T14:19:28+00:00Z
+- Generated: 2026-11-23T14:21:16+00:00Z
 
 ## Urgent open todos (homelab MCP board)
 
