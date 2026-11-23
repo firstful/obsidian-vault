@@ -8,6 +8,8 @@ tags: [email-triage, index]
 - [aseba-forms](topics/aseba-forms.md) — ASEBA Forms / ASEBA-Informant one-time "access your forms" sign-in links (transactional)
 - [daybetter](topics/daybetter.md) — DayBetter transactional account verification codes/security notices
 - [aerozone](topics/aerozone.md) — Aerozone Pickerington (ROLLER) post-visit guest experience survey requests (marketing; unsubscribed via in-email link)
+- [cloudflare](topics/cloudflare.md) — Cloudflare account notifications — zone activation confirmations, invoices, and service notices (transactional)
+  - 2026-11-23 — arewefucked.xyz is active on Cloudflare (Free plan), action no (UID 1344) → [[cloudflare#2026-11-23 — arewefucked.xyz is active on Cloudflare (Free plan) (UID 1344)]]
 
 - [aliexpress](topics/aliexpress.md) — AliExpress marketing digests / personalized product recommendations (marketing)
 - [american-express](topics/american-express.md) — American Express website Terms of Service / account legal & servicing notices (transactional, not marketing)
