@@ -70,3 +70,14 @@ No unsubscribe performed (backfill run).
 - **UID:** 968 (INBOX, message-id `<20261115183315.742c37f3ce3cde45@mail.creditkarma.com>`, 112,297 B, no attachments)
 - **Summary:** Credit Karma credit-monitoring score-change nudge: body says "Your score went up. Nice work." (direction up) but no numeric score, no delta, no bureau breakdown beyond TransUnion data "as reported on 11/12/26". CTA to check scores in Credit Karma; soft "keep the momentum going" engagement copy. Self-labels "This is a promotional email." Payload is a real direction-of-change fact but minimal detail; no bill, no due date, no required account action. One-click List-Unsubscribe (preferences=CREDIT_MONITORING) present; RFC 8058 unsubscribe POST returned 200 ({"status":"success"}) — see unsubscribes.md.
 - **Action required:** no (informational; read the actual score in Credit Karma if wanted; unsubscribe attempted and accepted)
+
+
+## 2026-11-22 — Congrats on your recent CCU decrease, Reed!
+
+- **Date:** 2026-11-22T18:48:07Z
+- **Sender:** Credit Karma <mail@mail.creditkarma.com> (X-Mailgun-Tag 10184; categories Engagement,US,SubscriptionRequired,Bulk; List-Unsubscribe-Post: List-Unsubscribe=One-Click)
+- **To:** reedsut@gmail.com
+- **Subject:** Congrats on your recent CCU decrease, Reed!
+- **UID:** 1328 (INBOX, message-id `<20261122184807.de0ebc3166b0b23b@mail.creditkarma.com>`, 99,852 B, no attachments)
+- **Summary:** Credit Karma engagement nudge: Reed's scores increased by 32 points since card balance went down, attributed to lower credit card utilization; basis TransUnion credit report as reported 05/16/2026–11/16/2026. CTA to view accounts in Credit Karma. Body self-labels "This is a promotional email." Carries RFC 8058 one-click List-Unsubscribe (preferences=CREDIT_AND_DEBT_GUIDANCE). Auto-unsubscribe performed (POST 200) — see unsubscribes.md.
+- **Action required:** no (informational; read actual score in Credit Karma if wanted; unsubscribe attempted and accepted)
