@@ -159,6 +159,9 @@ tags: [email-triage, index]
   - 2026-11-21 — Run failed: Deploy to Azure Static Web Apps - main (9b82c52) (UID 1274) → [[personal-blog#2026-11-21 — Run failed: Deploy to Azure Static Web Apps - main (9b82c52)]]
 - [shop-app](topics/shop-app.md) — Shop app (Shopify) gift-guide and product-recommendation marketing promos (marketing)
 
+- [unitedhealthcare](topics/unitedhealthcare.md) — UnitedHealthcare: member-benefit marketing (Real Appeal/Wellos), plan notices, and account/verification OTPs (transactional)
+  - 2026-11-23 — "Direct Medical Reimbursement Form" is actually an email-verification OTP (code 613686, 6h expiry), action YES if Reed initiated the form (UID 1353) → [[unitedhealthcare#2026-11-23 — UnitedHealthcare: "Direct Medical Reimbursement Form" (email verification OTP)]]
+
 - [usps-informed-delivery](topics/usps-informed-delivery.md) — USPS Informed Delivery daily mail/package preview digests (informational, not marketing; never unsubscribed)
   - 2026-11-20 — Fri 11/20 digest, Reed mailbox: 0 mailpieces, 1 inbound package (Amazon awaiting from sender), action no (UID 1231) → [[usps-informed-delivery#2026-11-20 12:57 — USPS Informed Delivery: "Your Daily Digest for Fri, 11/20 is ready to view"]]
   - 2026-11-21 — Sat 11/21 digest, Reed mailbox: 2 mailpieces, 1 inbound package (Amazon, expected today), action no (UID 1279) → [[usps-informed-delivery#2026-11-21 13:16 — USPS Informed Delivery: "Your Daily Digest for Sat, 11/21 is ready to view"]]
