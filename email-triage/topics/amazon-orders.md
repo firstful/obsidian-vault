@@ -649,6 +649,17 @@ tags: [email-triage, amazon-orders]
 - **UID:** 1418 (INBOX)
 - **Related notes:** [[amazon-orders]] (new order #112-6993305-1685851, $12.92, Water Bottle Accessories — no sibling status entries yet; distinct from same-day siblings UIDs 1392/1408, all different order numbers)
 
+## 2026-11-24 — Amazon order confirmation: 1 item (Water Bottle Accessories) (UID 1419)
+
+- **Date:** 2026-11-24T16:55:22Z
+- **Sender:** "Amazon.com" <auto-confirm@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Ordered 1 item: Water Bottle Accessories
+- **Summary:** Transactional Amazon order confirmation (`auto-confirm@amazon.com`): "Emilee, you scored some great Black Friday Deals!" Order #112-7547514-8993055, Grand Total 12.92 USD, recipient Emilee - PICKERINGTON, OH. Category "Water Bottle Accessories" from Subject; item-level detail not extractable from the HTML body (Amazon renders line items as images). Promo "Black Friday Deals" greeting/nav links do NOT change class — sender is `auto-confirm@` and body has Order # + Grand Total, so this is RELEVANT/transactional purchase record. ETA prose "Arriving tomorrow" (relative to 2026-11-24, soft) — no hard date, so no calendar/purchase note. No sibling status notices found for THIS order yet (new standalone order). Distinct from same-subject/same-amount/same-category siblings UID 1418 (#112-6993305-1685851, 16:55:12Z), UID 1417 (#112-8398424-0591455) and UID 1420 (#112-3121388-2298647, 16:55:36Z): DIFFERENT order number and Message-ID in each — distinct orders, NOT re-sends; order # + Message-ID are the only sound dedupe keys. Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass (Gmail forwarder 74.125.224.48; SES client-ip 54.240.13.133), DMARC pass (quarantine) header.from=amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES, all links amazon.com. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed"); no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk / List-Id header → no auto-unsubscribe.
+- **Action required:** no — informational order confirmation; monitor for shipped/out-for-delivery/delivery follow-ups on order #112-7547514-8993055. No action for Rook.
+- **Message-ID:** <010001a20e7bc50f-41b0789b-fceb-401c-b3cd-778c0d7f63ab-000000@email.amazonses.com>
+- **UID:** 1419 (INBOX)
+- **Related notes:** [[amazon-orders]] (new order #112-7547514-8993055, $12.92, Water Bottle Accessories — no sibling status entries yet; same subject/amount/category as siblings UIDs 1417/1418/1420 but DIFFERENT order #/Message-ID — distinct order, not a re-send; distinct from same-day siblings UIDs 1392/1408)
+
 ## 2026-11-24 — Amazon order confirmation: 1 item (Water Bottle Accessories) (UID 1420)
 
 - **Date:** 2026-11-24T16:55:36Z
