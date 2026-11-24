@@ -681,3 +681,13 @@ tags: [email-triage, amazon-orders]
 - **UID:** 1424 (INBOX)
 - **Related notes:** [[amazon-orders]]
 
+## 2026-11-24 — Amazon order confirmation: 1 item (Kitchen & Dining) (UID 1425)
+
+- **Date:** 2026-11-24T17:04:53Z
+- **Sender:** "Amazon.com" <auto-confirm@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Ordered 1 item: Kitchen & Dining
+- **Summary:** Transactional Amazon order confirmation (`auto-confirm@amazon.com`): "Emilee, thanks for your order!" Order #112-0739342-5069068, Grand Total 32.03 USD, recipient Emilee - PICKERINGTON, OH. Category "Kitchen & Dining" from Subject; item-level detail not extractable from the HTML body (Amazon renders line items as images). RELEVANT/transactional — sender is `auto-confirm@` and body has Order # + Grand Total. ETA prose "Arriving tomorrow" (relative to 2026-11-24, soft) — no hard date, so no calendar/purchase note. No sibling status notices found for THIS order yet (new standalone order). Distinct from the same-day flood of "Water Bottle Accessories" confirmations ($12.92 each, UIDs 1417/1418/1419/1420) and sibling UID 1424 (Building Supplies, $16.22) — different order number, amount, category, and Message-ID, so a DIFFERENT order, not a re-send; order # + Message-ID are the only sound dedupe keys. Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass (Gmail forwarder 74.125.224.43; SES client-ip 54.240.13.92), DMARC pass (quarantine) header.from=amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES, all links amazon.com. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed"); no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk / List-Id header ⇒ no auto-unsubscribe.
+- **Action required:** no — informational order confirmation; monitor for shipped/out-for-delivery/delivery follow-ups on order #112-0739342-5069068. No action for Rook.
+- **Message-ID:** <010001a20e847d34-4d482b2c-80b0-4561-a2b2-9f88e84fa15a-000000@email.amazonses.com>
+- **UID:** 1425 (INBOX)
+- **Related notes:** [[amazon-orders]] (new order #112-0739342-5069068, $32.03, Kitchen & Dining — no sibling status entries yet; distinct from same-day siblings UIDs 1417/1418/1419/1420 Water Bottle Accessories and UID 1424 Building Supplies — different order #/amount/category/Message-ID)
