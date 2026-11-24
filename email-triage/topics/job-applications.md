@@ -5,6 +5,20 @@ tags: [email-triage, job-applications]
 
 # Job Applications
 
+## 2026-11-24 — Honeycomb hiring decision (not moving forward): Senior Software Engineer II - Agentic Intelligence (UID 1447)
+
+- **Date:** 2026-11-24T23:01:01Z
+- **Sender:** no-reply@honeycomb.io (Honeycomb Talent Team; Greenhouse `ScheduledCandidateEmail` via Mailgun, `gh-mail.honeycomb.io`)
+- **To:** sutliff.reed@gmail.com (INBOX/1447; routed via Gmail forward -> ingest@ffilt.us -> reed@ffilt.us)
+- **Subject:** Thanks for your interest in Honeycomb
+- **Message-Id:** <20261124230101.3427a2b96bc1d255@gh-mail.honeycomb.io>
+- **UID:** 1447 (INBOX)
+- **Summary:** Greenhouse (Mailgun) hiring DECISION / rejection notice for Reed's application to **Senior Software Engineer II - Agentic Intelligence** at **Honeycomb**. Body: "Hi Reed, Thank you for your interest in Honeycomb and for your patience while we reviewed your application. After looking over your experience, we have made the decision not to move forward for the Senior Software Engineer II - Agentic Intelligence role." + curated investor job boards (Insight Partners, Scale Venture Partners), careers-page nudge, and a marketing-lite Honeycomb product/social footer (X/LinkedIn/YouTube, ToS/AUP/Privacy). This is a REJECTION despite the "Thanks for your interest in X!" subject shape — distinguish from the `CandidateAutoReply` ack by `X-Mailgun-Tag: ScheduledCandidateEmail` (NOT CandidateAutoReply) and the decision body (cf. Discord uid 1122). NOT marketing: no `Precedence: bulk`, no footer unsubscribe, `List-Unsubscribe` header present but EMPTY -> no unsubscribe (transactional decision; recipient-based auto-unsubscribe gate does not apply even though To contains "reed"); no unsubscribes.md row. No attachments (15,855 B, multipart/alternative). Authentic: DKIM pass (gh-mail.honeycomb.io s=krs, mailgun.org s=mg), SPF pass, DMARC pass (p=quarantine), ARC pass (i=1 and i=2); `X-Jellyfish-No-Auto-Response: 1`, `X-Feedback-Id: postmaster@gh-mail.honeycomb.io:ScheduledCandidateEmail:66c682b2aeedb7b5074187e5:mailgun`, `X-Mailgun-Variables: {"org_id": "4001403008", "person_id": "81567179008", "silo_id": "8", "user_id": ""}`. Dedupe: Message-Id hex tail `3427a2b96bc1d255`, 14-digit Mailgun timestamp prefix `20261124230101`, and `UID 1447` not previously in the topic -> distinct event, own section (dedupe by Message-Id, never subject). Closes the Honeycomb Agentic Intelligence track opened by the submission ACK [[job-applications#2026-11-18 — Application received: Senior Software Engineer II - Agentic Intelligence at Honeycomb (uid 1110)]] — same role, different sub-type (decision vs ack) and different Message-Id, not a duplicate. No calendar/bills/purchases/money note — no date, deadline, or next step (job-board suggestions are not obligations). Do not reply (unattended mailbox).
+- **Action required:** no — application outcome recorded; no next step or deadline. Do not reply (unattended mailbox).
+
+### Related notes
+- [[job-applications]]
+
 ## 2026-11-24 — Application received: Staff Platform Engineer at Gemini (uid 1415)
 
 - **Date:** 2026-11-24T16:24:14Z
