@@ -81,3 +81,14 @@ No unsubscribe performed (backfill run).
 - **UID:** 1328 (INBOX, message-id `<20261122184807.de0ebc3166b0b23b@mail.creditkarma.com>`, 99,852 B, no attachments)
 - **Summary:** Credit Karma engagement nudge: Reed's scores increased by 32 points since card balance went down, attributed to lower credit card utilization; basis TransUnion credit report as reported 05/16/2026–11/16/2026. CTA to view accounts in Credit Karma. Body self-labels "This is a promotional email." Carries RFC 8058 one-click List-Unsubscribe (preferences=CREDIT_AND_DEBT_GUIDANCE). Auto-unsubscribe performed (POST 200) — see unsubscribes.md.
 - **Action required:** no (informational; read actual score in Credit Karma if wanted; unsubscribe attempted and accepted)
+
+
+## 2026-11-23 — You lowered your home loan balance this year, Reed!
+
+- **Date:** 2026-11-23T19:51:56Z
+- **Sender:** Credit Karma <mail@mail.creditkarma.com> (X-Mailgun-Tag 17753; categories Engagement,US,SubscriptionRequired,Bulk; List-Id "Credit Karma Home" <home.lists.creditkarma.com>; List-Unsubscribe-Post: List-Unsubscribe=One-Click)
+- **To:** reedsut@gmail.com
+- **Subject:** You lowered your home loan balance this year, Reed!
+- **UID:** 1387 (INBOX, message-id `<20261123195156.8e21ee9494b152af@mail.creditkarma.com>`, 106,541 B, no attachments)
+- **Summary:** Credit Karma engagement nudge (notificationType=activation_lastyr_mort) from the "Credit Karma Home" list: states Reed's home loan balance was $390,053 last year, based on TransUnion credit report data as reported between 10/16/2025 and 11/23/2026, and invites checking current progress. CTA to view account. Self-labels "This is a promotional email." Carries RFC 8058 one-click List-Unsubscribe (preferences=HOME). Auto-unsubscribe performed (POST 200, {"status":"success"}) — see unsubscribes.md.
+- **Action required:** no (informational engagement nudge; read current balance in Credit Karma if wanted; unsubscribe attempted and accepted)
