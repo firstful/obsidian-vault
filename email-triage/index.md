@@ -75,6 +75,9 @@ tags: [email-triage, index]
   - 2026-11-20 — McDonald's mobile order receipt: $16.26, Order# RC63 (Reynoldsburg), action no (UID 1260) → [[mcdonalds#2026-11-20 — McDonald's mobile order receipt: $16.26 (UID 1260)]]
 - [papajohns](topics/papajohns.md) — Papa John's pizza order confirmations and delivery receipts (transactional)
   - 2026-11-23 — Papa John's pizza order #1339290922: 2 pizzas, $47.90, action no (UID 1390) → [[papajohns#2026-11-23 — Papa John's pizza order #1339290922, $47.90 (UID 1390)]]
+- [uber-eats](topics/uber-eats.md) — Uber Eats / food delivery receipts (Uber Receipts; transactional purchase records, no unsubscribe)
+  - 2026-11-24 — Uber Eats receipt: Papa John's Pizza, $40.91, action no (UID 1393) → [[uber-eats#2026-11-24 - Uber Eats receipt: Papa John's Pizza $40.91 (UID 1393)]]
+  - 2026-11-24 — Uber Eats receipt (tip-inclusive re-send): Papa John's Pizza, $46.05, action no (UID 1394) → [[uber-eats#2026-11-24 - Uber Eats receipt: Papa Johns Pizza $46.05 (UID 1394)]]
 - [roosters](topics/roosters.md) — Roosters (Pickerington) Toast pickup-order confirmations and receipts
 - [tim-hortons](topics/tim-hortons.md) — Tim Hortons itemized delivery-order receipts (Tims Rewards; transactional)
 - [t-mobile](topics/t-mobile.md) — T-Mobile wireless account notices (payment receipts, monthly bill-ready notices; transactional billing)
@@ -192,8 +195,6 @@ tags: [email-triage, index]
   - 2026-11-21 — Run failed: Deploy to Azure Static Web Apps - main (9b82c52) (UID 1274) → [[personal-blog#2026-11-21 — Run failed: Deploy to Azure Static Web Apps - main (9b82c52)]]
 - [shop-app](topics/shop-app.md) — Shop app (Shopify) gift-guide and product-recommendation marketing promos (marketing)
 
-- [uber-eats](topics/uber-eats.md) — Uber Eats food-delivery order receipts (Uber Receipts) and occasional promos (transactional receipts + marketing blasts)
-  - 2026-11-24 — Uber Eats receipt: Papa Johns Pizza $46.05, delivered to 12703 Stonecreek Dr (UID 1394) → [[uber-eats#2026-11-24 - Uber Eats receipt: Papa Johns Pizza $46.05 (UID 1394)]]
 - [unitedhealthcare](topics/unitedhealthcare.md) — UnitedHealthcare: member-benefit marketing (Real Appeal/Wellos), plan notices, and account/verification OTPs (transactional)
   - 2026-11-23 — "Direct Medical Reimbursement Form" is actually an email-verification OTP (code 613686, 6h expiry), action YES if Reed initiated the form (UID 1353) → [[unitedhealthcare#2026-11-23 — UnitedHealthcare: "Direct Medical Reimbursement Form" (email verification OTP)]]
   - 2026-11-23 — "Direct Medical Reimbursement Form" submission confirmation (submission ID 4d36a9e3…), post-OTP receipt, action no (UID 1355) → [[unitedhealthcare#2026-11-23 — UnitedHealthcare: "Direct Medical Reimbursement Form" (submission confirmation)]]

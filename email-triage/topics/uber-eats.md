@@ -84,13 +84,26 @@ UID 671) — all share `List-Id: <uber-eats.2936635940.uber.com>`; those entries
 - message-id: <cc81abf0-55dc-566b-8c95-c3159c8b9b0d@mail.uber.com>
 - related: UID 1165 (pre-tip receipt, $41.02)
 
-## 2026-11-24 - Uber Eats receipt: Papa Johns Pizza $46.05 (UID 1394)
-- date: 2026-11-24T05:54:59Z
-- sender: Uber Receipts <noreply@uber.com> (to emileesutliff@gmail.com)
-- subject: Your Tuesday morning order with Uber Eats
-- summary: Uber Eats receipt for Emilee's Papa Johns Pizza order (2579 S. Hamilton Road, Columbus, OH 43232). Total $46.05 — Huntington Bank card ending 9145 charged $40.91 and $5.14 on 11/24/26 12:54 AM (tip $5.14). Ordered for delivery 12:42 AM pickup, delivered 12:54 AM Nov 24, 2026 by courier JERRARD to 12703 Stonecreek Dr NW, Pickerington, OH 43147-8917. HTML-only receipt (no itemized list in email); no attachments. Transactional; no unsubscribe.
-- classification: relevant (transactional receipt / purchase)
-- action-required: no
-- message-id: <f3db354a-5c0e-5797-a574-7050557a8489@mail.uber.com>
-- auth: DKIM pass (header.d=sptrans.uber.com, s=scph), SPF pass, DMARC pass (policy=quarantine), ARC pass.
-- related: UID 1390 (Papa John's direct order #1339290922, $47.90, 2026-11-23)
+## 2026-11-24 - Uber Eats receipt: Papa John's Pizza $40.91 (UID 1393)
+
+- **Date:** 2026-11-24T05:54:50Z (order placed Tue 2026-11-24 12:16 AM EST; delivered 12:54 AM)
+- **Sender:** Uber Receipts <noreply@uber.com> (To: emileesutliff@gmail.com; forwarded via Cloudflare Email Routing → ingest@ffilt.us)
+- **Subject:** Your Tuesday morning order with Uber Eats
+- **Summary:** Uber Eats receipt for Emilee's Papa John's Pizza order (2579 South Hamilton Road, Columbus, OH). Total $40.91 paid with Huntington Bank card ending 9145 (charged 11/24/26 12:54 AM). Ordered 12:16 AM, pickup 12:42 AM, delivered 12:54 AM Nov 24, 2026 by courier JERRARD to 12703 Stonecreek Dr NW, Pickerington, OH 43147-8917. Itemized list is not in the email (full receipt/PDF via Uber Eats app). HTML-only (no text/plain part), 72,317 bytes, no attachments, no List-Unsubscribe header (transactional). Auth: DKIM pass (header.d=uber.com / mgt.uber.com / mailgun.org), SPF pass, DMARC pass (policy=quarantine), ARC pass.
+- **Classification:** relevant (transactional purchase receipt)
+- **Action required:** no (receipt only; no order issue, refund or follow-up requested)
+- **Message-ID:** <0e28130d-d3e1-58d6-8914-40adbbf3e9ac@mail.uber.com>
+- **Unsubscribe:** n/a — transactional receipt; no List-Unsubscribe header; To address does not contain "reed", so no auto-unsubscribe action.
+- **Related notes:** [[papajohns]] (direct Papa John's order receipts); UID 1394 (tip-inclusive re-send, $46.05)
+
+## 2026-11-24 - Uber Eats receipt (tip-inclusive re-send): Papa John's Pizza $46.05 (UID 1394)
+
+- **Date:** 2026-11-24T05:54:59Z (same order as UID 1393; tip added after delivery)
+- **Sender:** Uber Receipts <noreply@uber.com> (To: emileesutliff@gmail.com; forwarded via Cloudflare Email Routing → ingest@ffilt.us)
+- **Subject:** Your Tuesday morning order with Uber Eats
+- **Summary:** Second receipt for the same Papa John's order (2579 S. Hamilton Road, Columbus, OH 43232) already logged as UID 1393, this copy issued after the tip was added: total $46.05 vs $40.91 on the earlier copy. Payments shown as two Huntington Bank card 9145 charges — $40.91 and $5.14 on 11/24/26 12:54 AM (tip $5.14). Ordered for delivery, pickup 12:42 AM, delivered 12:54 AM Nov 24, 2026 by courier JERRARD to 12703 Stonecreek Dr NW, Pickerington, OH 43147-8917. HTML-only receipt (no itemized list in email); no attachments. Auth: DKIM pass (header.d=sptrans.uber.com, s=scph), SPF pass, DMARC pass (policy=quarantine), ARC pass. Transactional; no List-Unsubscribe header.
+- **Classification:** relevant (transactional purchase receipt)
+- **Action required:** no (receipt only; no order issue, refund or follow-up requested)
+- **Message-ID:** <f3db354a-5c0e-5797-a574-7050557a8489@mail.uber.com>
+- **Unsubscribe:** n/a — transactional receipt; no List-Unsubscribe header; To address does not contain "reed", so no auto-unsubscribe action.
+- **Related notes:** [[papajohns]] (direct Papa John's order receipts); UID 1393 (pre-tip receipt, $40.91)
