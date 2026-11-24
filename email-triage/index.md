@@ -48,6 +48,10 @@ tags: [email-triage, index]
 - [bandcamp](topics/bandcamp.md) — Bandcamp fan release notifications (marketing)
 - [backblaze](topics/backblaze.md) — Backblaze Privacy Notice / DPA / Cookie Notice / Subprocessor List legal policy updates (transactional, not marketing)
   - 2026-11-20 — Updates to Backblaze's Privacy Notice and Related Policies (effective 2026-12-01), action no (UID 1255) → [[backblaze#2026-11-20 — Updates to Backblaze's Privacy Notice and Related Policies (UID 1255)]]
+
+- [bambu-studio](topics/bambu-studio.md) — BambuStudio GitHub Actions CI failures on Reed's PRs (workflow "Build all"; dev-process facts, transactional)
+  - 2026-11-24 — PR run failed: Build all - Fix small painted features dropped in multi-material slicing (edf657e), action YES (UID 1414) → [[bambu-studio#2026-11-24 — PR run failed: Build all - Fix small painted features dropped in multi-material slicing (edf657e) (UID 1414)]]
+
 - [best-egg](topics/best-egg.md) — Best Egg personal loan autopay notices (transactional)
 - [rocket-loans](topics/rocket-loans.md) — Rocket Loans personal loan servicing: upcoming-payment reminders, payment-processed confirmations, and forwarded hardship/modification threads (transactional)
   - 2026-11-23 — Payment processed: $153.61 withdrawn from bank ••••3792, action no (UID 1359) → [[rocket-loans#2026-11-23 — Payment processed: $153.61 withdrawn (UID 1359)]]
