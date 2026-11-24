@@ -5,6 +5,18 @@ tags: [email-triage, billing]
 
 # Billing / Invoices
 
+## 2026-11-24 — Slowdive Premium subscription expired due to non-payment (UID 1389)
+
+- **Date:** 2026-11-24T03:50:39Z
+- **UID:** 1389 (INBOX) · message-id: <6b05098ec12bb_125f8376207945@emaily-consumer-7694b9759d-gf6kt.mail>
+- **Sender:** support@slowdive.app (Ascetix inc) — to emileesutliff@gmail.com, forwarded via Cloudflare Email Routing to reed@ffilt.us
+- **Subject:** Your Subscription Expired Due to Non-Payment
+- **Classification:** relevant (billing/payment failure — subscription expired)
+- **Summary:** Slowdive Premium Upgrade – 1 Month ($29.99, Google Pay) subscription has been expired because payment could not be processed. Same Ascetix inc / slowdive.app billing system as the prior dunning notices (Invoice #392381, $29.99, Nov 2 – Dec 2, 2026; billing address 12703 Stonecreek Drive, Pickerington OH 43147). Body asks recipient to update billing information via SendGrid click-tracking link; support@slowdive.app. No attachments, no `List-Unsubscribe` header. Auth clean (SPF/DKIM/DMARC/ARC pass via SendGrid). Addressed to Emilee's mailbox, not Reed's.
+- **Action required:** yes (Emilee: update payment method or cancel the premium subscription; subscription currently lapsed. Do not click links unless subscription is wanted; open Slowdive account directly.)
+- **ledger-note:** no unsubscribe performed (transactional billing notice; To is emileesutliff@gmail.com, no "reed", and no `List-Unsubscribe` header).
+
+
 ## 2026-11-22 — Columbia Gas of Ohio payment confirmed: $265.00 paid 11/22 (UID 1313)
 
 - **Date:** 2026-11-22T20:07:42Z

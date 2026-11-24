@@ -42,6 +42,7 @@ tags: [email-triage, index]
 - [billing](topics/billing.md) — Bills and invoices (Microsoft/Azure, Columbia Gas and South Central Power electric, other utilities, etc.)
   - 2026-11-22 — Columbia Gas $265.00 payment confirmed 11/22, shut-off avoided, action NO (UID 1313) → [[billing#2026-11-22 — Columbia Gas of Ohio payment confirmed: $265.00 paid 11/22 (UID 1313)]]
   - 2026-11-21 — Slowdive Premium $29.99 payment issue, 6th repeat, action YES (Emilee) (UID 1271) → [[billing#2026-11-21 - Payment issue notice: Slowdive Premium $29.99 (UID 1271)]]
+  - 2026-11-24 — Slowdive Premium subscription expired (Google Pay $29.99 declined), action YES (Emilee) (UID 1389) → [[billing#2026-11-24 — Slowdive Premium subscription expired due to non-payment (UID 1389)]]
 - [bandcamp](topics/bandcamp.md) — Bandcamp fan release notifications (marketing)
 - [backblaze](topics/backblaze.md) — Backblaze Privacy Notice / DPA / Cookie Notice / Subprocessor List legal policy updates (transactional, not marketing)
   - 2026-11-20 — Updates to Backblaze's Privacy Notice and Related Policies (effective 2026-12-01), action no (UID 1255) → [[backblaze#2026-11-20 — Updates to Backblaze's Privacy Notice and Related Policies (UID 1255)]]
