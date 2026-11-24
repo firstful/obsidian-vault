@@ -313,3 +313,16 @@ tags: [email-triage, security-alerts]
 - **Summary:** Meta reports a **passkey was created** on the account: **Pixel 8a, Android**, location **Pickerington, OHIO, US** (home metro), 2026-11-23 11:02 AM Eastern. The body flags it as an **"Unrecognized device"** and offers "This wasn't me" / "If this was you, ignore this email" CTAs. Profiles in account: _ginger_snapz_ (Threads), Reed Sutliff (Facebook), _ginger_snapz_ (Instagram). A Pixel 8a in Pickerington is a familiar household device/location (cf. Sam's Club UID 1321 Pixel 8a), so likely household-initiated; the "Unrecognized device" tag is a template label — passkey enrollment on a new-ish device can trigger it. If Reed did not create the passkey, use "This wasn't me" and secure the Meta account (change password, review active sessions/passkeys, enable 2FA).
 - **Action required:** conditional — no (if Reed created the passkey on the Pixel 8a, just ignore); yes (if unrecognized — tap "This wasn't me", change the Meta/Facebook password, review passkeys and active sessions, enable 2FA).
 - **Related notes:** [[security-alerts|Security alerts]], [[samsclub#2026-11-22 — Sam's Club sign-in from new device (UID 1321)|Sam's Club Pixel 8a sign-in (UID 1321)]] (same household device)
+
+## 2026-11-24 — 1Password new sign-in alert (moto g play - 2026, Ohio US) (UID 1384)
+
+- **Date:** 2026-11-24T01:01:35Z (email Date Tue, 24 Nov 2026 01:01:35 +0000; body clock Monday, November 23, 2026 at 8:01pm EST)
+- **UID:** 1384 (INBOX, message-id `<010101a20b128f7f-df7f2d56-c159-4356-9926-caf3f99f5147-000000@us-west-2.amazonses.com>`, 37,898 B, no attachments)
+- **Sender:** 1Password <hello@1password.com> (DKIM pass d=1password.com s=pv2rcpuajbwuypbqw43fotan7oaldzbw + d=amazonses.com; DMARC pass p=QUARANTINE; SPF pass; ARC pass google.com i=1/i=2)
+- **To:** reedsut@gmail.com (forwarded via Gmail → Cloudflare Email Routing → ingest@ffilt.us; Delivered-To reed@ffilt.us; Return-Path reedsut+caf_=ingest=ffilt.us@gmail.com)
+- **Subject:** New 1Password sign-in alert
+- **Classification:** relevant — transactional account-security new-device sign-in notice (not marketing). No List-Unsubscribe / List-Unsubscribe-Post / List-Id / Precedence: bulk headers → no unsubscribe action (transactional security mail).
+- **Summary:** 1Password reports a new sign-in to the account reedsut@gmail.com on a new device: **moto g play - 2026**, **Ohio, United States (76.73.229.106)**, Monday, November 23, 2026 at 8:01pm EST. If recognized, no action needed. If not recognized, secure the account immediately (https://support.1password.com/unrecognized-device/) and review/manage trusted devices at https://my.1password.com/profile. The IP 76.73.229.106 is in the Ohio metro (consistent with the household in Pickerington); a moto g play - 2026 is a plausible household Android device (cf. Google sign-in alert UID 584 on a Motorola moto g play - 2026). No attachments.
+- **Action required:** conditional — no (if Reed signed in on the moto g play - 2026 in Ohio, just ignore); yes (if unrecognized — follow 1Password's unrecognized-device steps, change the account password, review trusted devices, enable 2FA if not already).
+- **Unsubscribe:** none — transactional security mail; no List-Unsubscribe header; To contains "reed" but no unsubscribe attempted.
+- **Related notes:** [[security-alerts|Security alerts]]
