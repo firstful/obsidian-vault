@@ -144,6 +144,7 @@ tags: [email-triage, index]
   - 2026-11-20 — LinkedIn InMail: Wesley King (Stafford Technology), software engineering roles, action YES (UID 1247) → [[recruiter-outreach#2026-11-20 — LinkedIn InMail: Wesley King (Stafford Technology) — software engineering roles]]
   - 2026-11-23 — LinkedIn InMail REMINDER: Wesley King (Stafford Technology), software engineering roles, action YES (UID 1340) → [[recruiter-outreach#2026-11-23 — LinkedIn InMail REMINDER: Wesley King (Stafford Technology) — software engineering roles (UID 1340)]]
   - 2026-11-23 — LinkedIn InMail: Nikita Narendra Gore (STEM-DTS), Software Engineer Columbus OH / Champaign IL, action YES (UID 1375) → [[recruiter-outreach#2026-11-23 — LinkedIn InMail: Nikita Narendra Gore (STEM-DTS) — Software Engineer, Columbus OH / Champaign IL]]
+  - 2026-11-24 — LinkedIn InMail reply: Wesley King (Stafford Technology), resume requested, action YES (UID 1386) → [[recruiter-outreach#2026-11-24 — LinkedIn InMail reply: Wesley King (Stafford Technology) — resume requested]]
 - [unsubscribes](topics/unsubscribes.md) — Unsubscribe action ledger for marketing/promo senders (per-message attempts, method, result)
 - [job-applications](topics/job-applications.md) — Job applications and confirmations (Affirm, Reddit, Cresta, Descript, ZoomInfo)
   - 2026-11-19 — DataGrail Greenhouse CandidateAutoReply submission ack → [[job-applications#2026-11-19 — DataGrail application submission acknowledgement (uid 1194)]]
