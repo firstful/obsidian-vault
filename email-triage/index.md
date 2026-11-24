@@ -66,6 +66,7 @@ tags: [email-triage, index]
 - [cord-blood-registry](topics/cord-blood-registry.md) — Cord Blood Registry (CBR) newborn stem-cell lead-gen follow-ups (marketing)
 - [credit-karma](topics/credit-karma.md) — Credit Karma credit-monitoring alerts (credit-limit changes, score/usage notices)
 - [cvs-pharmacy](topics/cvs-pharmacy.md) — CVS Pharmacy prescription order confirmations (pickup/payment)
+- [lowes](topics/lowes.md) — Lowe's Credit Services (Synchrony) credit-card promos (marketing)
 - [donations](topics/donations.md) — Charitable donations and receipts (World Team, etc.)
 - [donatos](topics/donatos.md) — Donatos Pizza pickup order confirmations and receipts
 - [mcdonalds](topics/mcdonalds.md) — McDonald's Mobile Order & Pay receipts (transactional)
