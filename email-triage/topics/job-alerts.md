@@ -70,3 +70,14 @@ tags: [email-triage, job-alerts]
 - **Summary:** ZipRecruiter job-alert digest featuring "Sr. Software Development Engineer" at Amazon Kuiper Manufacturing Enterprises LLC (Beverly Hills, CA / On-site, $193K-$261K/yr) plus recommended roles (140,564 B HTML, 0 attachments). Marketing/job-board alert, not an application confirmation, recruiter outreach, or offer. No action required.
 - **Action required:** no
 - **Unsubscribe:** RFC 8058 one-click POST attempted (2026-11-23, see [[unsubscribes]]); result 403 (Cloudflare challenge) — not confirmed unsubscribed.
+
+## 2026-11-24 — DataAnnotation may want to hire you (UID 1452)
+
+- **Date:** 2026-11-24T23:46:07Z
+- **Sender:** alerts@ziprecruiter.com (ZipRecruiter)
+- **To:** sutliff.reed@gmail.com
+- **Subject:** Reed, DataAnnotation may want to hire you
+- **Message-ID:** `<20261124234607.9f00ff316b76712d@mg.ziprecruiter.com>`
+- **Summary:** ZipRecruiter bulk job-alert digest promoting a DataAnnotation opening (AI-training/annotation work) via the standard "Here are today's jobs recommended for you" card deck (145,107 B HTML, 0 attachments). List-Id job_alerts.ziprecruiter.com, Feedback-ID job_alert_candidate. Marketing/job-board alert, not an application confirmation, recruiter outreach, or an offer; the named role is ad copy, not a personalized hiring inquiry. Same sender family as uids 558, 600, 645, 784, 1369. No action required.
+- **Action required:** no
+- **Unsubscribe:** RFC 8058 one-click POST attempted (2026-11-24, see [[unsubscribes]]); result 403 (Cloudflare challenge) — not confirmed unsubscribed.
