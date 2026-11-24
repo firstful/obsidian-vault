@@ -158,7 +158,8 @@ tags: [email-triage, index]
   - 2026-11-19 — Google Home "Black Friday savings start today" promo → [[google-home#2026-11-19 — Google Home: "Black Friday savings start today" (uid 1196)]]
 - [google-merchant-center](topics/google-merchant-center.md) — Google Merchant Center onboarding/feature-adoption nudges (conversion tracking etc.; marketing)
 - [google-pixel](topics/google-pixel.md) — Google Pixel device / Google AI feature marketing (Gemini, Circle to Search promos; marketing)
-- [google-play](topics/google-play.md) — Google Play account/security and purchase settings notices
+- [google-play](topics/google-play.md) — Google Play account/security and purchase settings notices, order receipts
+  - 2026-11-24 — Spotify Premium Individual renewed via backup Mastercard-4809 ($14.03, primary -4309 failed), action no (UID 1434) → [[google-play#2026-11-24 — Google Play order receipt: Spotify Premium Individual renewed via backup card (UID 1434)]]
 - [huntington-bank](topics/huntington-bank.md) — Huntington Bank notices (debit card expiration/replacement, statement available, biometric Touch ID/Face ID security alerts, verification-code requests, agreement updates) (transactional)
   - 2026-11-21 — Statement Available (account ...3792, emileesutliff) (UID 1267) → [[huntington-bank#2026-11-21 — Statement Available (account ...3792, EMILEESUTLIFF@gmail.com)]]
   - 2026-11-21 — Statement Available (account ...3792, reedsut) (UID 1268) → [[huntington-bank#2026-11-21 — Statement Available (account ...3792, REEDSUT@gmail.com)]]
