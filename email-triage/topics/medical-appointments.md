@@ -339,3 +339,15 @@ tags: [email-triage, medical-appointments]
 - **Summary:** Nationwide Children's MyChart notification addressed to Emilee Sutliff ("Hello Emilee Sutliff"): "There is a new message for Elijah in MyChart." Body contains no message content, verification code, appointment, billing, or dated event — it provides a "View message" login link (mychart.nationwidechildrens.org/MyChart/Home/LogOut?postloginurl=/s/4NMDANG66RZPDODFS24OCKULJM/Messaging) directing the recipient to log in to read the message. Patient is Elijah (proxy access under Emilee). Same family as prior NCH "New Message" notices (UIDs 768/847/1142 for Elijah). Plain-text part (200 bytes) + HTML (7,822 bytes), 0 attachments. No `List-Unsubscribe` header; To is Emilee's mailbox (non-Reed) → no unsubscribe action.
 - **Action required:** yes (log in to Nationwide Children's MyChart to read/respond to Elijah's new message)
 - **Related notes:** [[medical-appointments]]
+
+## 2026-11-24 — MyChart appointment reminder, preregister (OSU Wexner, Reed; UID 1421)
+
+- **Date:** 2026-11-24T16:55:44Z (Tue 11:55:44 -0500)
+- **UID:** 1421 (INBOX) · message-id: <6ad35fab-01c8-427e-a73a-4bfe2e9ea971@SVR-EXCH19-VP02.OSUMC.EDU>
+- **Sender:** MyChart_DoNotReply@osumc.edu (OSU Wexner Medical Center MyChart)
+- **Subject:** MyChart - New Appointment Reminder.  Please preregister.
+- **To:** emileesutliff@gmail.com (forwarded via Gmail ingest to ingest@ffilt.us, Delivered-To reed@ffilt.us)
+- **Classification:** relevant (transactional telehealth appointment reminder; no List-Unsubscribe)
+- **Summary:** OSU Wexner MyChart preregistration reminder addressed to Emilee ("Hello Emilee", "You have a new check-in reminder for Reed in MyChart"): **patient is Reed**, telehealth/video visit **2026-11-25 11:35 AM EST with Jeffrey Schord, MD**. If joining, do not go to the doctor's office — join Reed's video visit online. Requests completing online preregistration via new eCheck-in link https://mychart.osu.edu/osumc/s/RPEJAXRJZPOSJJ2H774I7OW5GI/echeckin (also https://mychart.osu.edu/osumc/). This is a re-send of the SAME appointment as UIDs 1123/1124 (same patient Reed, provider Schord, date 11-25 11:35 EST) with a NEW eCheck-in token — no new calendar note; token appended to the shared note. Sibling delivery UID 1422 (To reedsut@gmail.com, message-id `<3fb47b76-...@SVR-EXCH19-VP01.OSUMC.EDU>`) is the patient's own copy of this same reminder — distinct message-id, both owe topic entries, one shared calendar note. DKIM/SPF/DMARC/ARC pass; no List-Unsubscribe; To is Emilee's mailbox (non-Reed) → no unsubscribe action.
+- **Action required:** yes (complete MyChart preregistration/eCheck-in before the 2026-11-25 11:35 AM EST telehealth visit; join online, do not travel to the office)
+- **Related:** [[calendar/2026-11-25 - Reed telehealth visit (Jeffrey Schord, MD)]], [[medical-appointments]]
