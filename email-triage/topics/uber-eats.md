@@ -83,3 +83,14 @@ UID 671) — all share `List-Id: <uber-eats.2936635940.uber.com>`; those entries
 - action-required: no
 - message-id: <cc81abf0-55dc-566b-8c95-c3159c8b9b0d@mail.uber.com>
 - related: UID 1165 (pre-tip receipt, $41.02)
+
+## 2026-11-24 - Uber Eats receipt: Papa Johns Pizza $46.05 (UID 1394)
+- date: 2026-11-24T05:54:59Z
+- sender: Uber Receipts <noreply@uber.com> (to emileesutliff@gmail.com)
+- subject: Your Tuesday morning order with Uber Eats
+- summary: Uber Eats receipt for Emilee's Papa Johns Pizza order (2579 S. Hamilton Road, Columbus, OH 43232). Total $46.05 — Huntington Bank card ending 9145 charged $40.91 and $5.14 on 11/24/26 12:54 AM (tip $5.14). Ordered for delivery 12:42 AM pickup, delivered 12:54 AM Nov 24, 2026 by courier JERRARD to 12703 Stonecreek Dr NW, Pickerington, OH 43147-8917. HTML-only receipt (no itemized list in email); no attachments. Transactional; no unsubscribe.
+- classification: relevant (transactional receipt / purchase)
+- action-required: no
+- message-id: <f3db354a-5c0e-5797-a574-7050557a8489@mail.uber.com>
+- auth: DKIM pass (header.d=sptrans.uber.com, s=scph), SPF pass, DMARC pass (policy=quarantine), ARC pass.
+- related: UID 1390 (Papa John's direct order #1339290922, $47.90, 2026-11-23)
