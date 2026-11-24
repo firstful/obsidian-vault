@@ -626,3 +626,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a20e07a55e-fb178eaa-f8ae-46f3-ad73-6211f2c9791a-000000@email.amazonses.com>
 - **UID:** 1408 (INBOX)
 - **Related notes:** [[amazon-orders]] (see UID 1392 — original batch order confirmation for #112-3321957-7085840, 2 items, $39.02)
+
+## 2026-11-24 — Amazon order confirmation: 1 item (Water Bottle Accessories) (UID 1418)
+
+- **Date:** 2026-11-24T16:55:12Z
+- **Sender:** "Amazon.com" <auto-confirm@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Ordered 1 item: Water Bottle Accessories
+- **Summary:** Transactional Amazon order confirmation (`auto-confirm@amazon.com`): "Emilee, you scored some great Black Friday Deals!" Order #112-6993305-1685851, Grand Total 12.92 USD, recipient Emilee - PICKERINGTON, OH. Category "Water Bottle Accessories" from Subject; item-level detail not extractable from the HTML body (Amazon renders line items as images). Promo "Black Friday Deals" greeting/nav links do NOT change class — sender is `auto-confirm@` and body has Order # + Grand Total, so this is RELEVANT/transactional. ETA prose "Arriving Sunday" (bare weekday, soft, relative to 2026-11-24) — no hard date, so no calendar/purchase note. No sibling status notices found for this order yet (new standalone order). Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass (Gmail forwarder 74.125.224.44; SES client-ip 54.240.13.138), DMARC pass (quarantine) header.from=amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES, all links amazon.com. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed"); no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk / List-Id header → no auto-unsubscribe.
+- **Action required:** no — informational order confirmation; monitor for shipped/out-for-delivery/delivery follow-ups on order #112-6993305-1685851. No action for Rook.
+- **Message-ID:** <010001a20e7ba119-7280db03-2d2d-4b5f-a4fc-853a5cd90075-000000@email.amazonses.com>
+- **UID:** 1418 (INBOX)
+- **Related notes:** [[amazon-orders]] (new order #112-6993305-1685851, $12.92, Water Bottle Accessories — no sibling status entries yet; distinct from same-day siblings UIDs 1392/1408, all different order numbers)
