@@ -178,6 +178,7 @@ tags: [email-triage, index]
   - 2026-11-23 — CoreWeave Greenhouse security code (60362757, action YES; uid 1379) → [[job-applications#2026-11-23 — Security code for CoreWeave application (uid 1379)]]
   - 2026-11-23 — CoreWeave Greenhouse security code (52903236, action YES; uid 1380) → [[job-applications#2026-11-23 — Security code for CoreWeave application (uid 1380)]]
   - 2026-11-23 — CoreWeave application submission ack (Senior Data Platform Engineer - Weights & Biases; uid 1381) → [[job-applications#2026-11-23 — Application submission acknowledgement: Senior Data Platform Engineer - Weights & Biases at CoreWeave (UID 1381)]]
+  - 2026-11-24 — Mercury Greenhouse security code (14740461, action YES; uid 1398) → [[job-applications#2026-11-24 — Security code for Mercury application (uid 1398)]]
 - [medical-appointments](topics/medical-appointments.md) — Medical appointment reminders, MyChart portal notices & OTPs (Nationwide Children's, OSU Wexner; transactional)
   - 2026-11-20 — New NCH MyChart message for Elijah (Emilee; UID 1239, action YES) → [[medical-appointments#2026-11-20 — New MyChart message for Elijah (Nationwide Children's, Emilee; UID 1239)]]
 - [mhs-assessments](topics/mhs-assessments.md) — MHS (mhs.com) online assessment invitations/reminders (e.g. Conners EC)
