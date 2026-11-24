@@ -138,6 +138,7 @@ tags: [email-triage, index]
   - 2026-11-20 — New remembered device added to Venmo account ("Generic Smartphone via Venmo App", 06:00 PST; action conditional) (UID 1234) → [[security-alerts#2026-11-20 — New remembered device added to Venmo account (UID 1234)]]
   - 2026-11-23 — Meta passkey created (Pixel 8a / Android, Pickerington OH — household device; action conditional) (UID 1361) → [[security-alerts#2026-11-23 — Meta passkey created (UID 1361)]]
   - 2026-11-24 — 1Password new sign-in alert (moto g play - 2026, Ohio US; action conditional) (UID 1384) → [[security-alerts#2026-11-24 — 1Password new sign-in alert (moto g play - 2026, Ohio US) (UID 1384)]]
+  - 2026-11-24 — Instagram login verification code 1880049173 (UID 1428, action YES) → [[security-alerts#2026-11-24 — Instagram login verification code (UID 1428)]]
 - [samsclub](topics/samsclub.md) — Sam's Club member marketing, transactional order confirmations, verification codes & new-device sign-in notices
   - 2026-11-22 — Sign-in from new device (UID 1321) → [[samsclub#2026-11-22 — Sign-in from new device (UID 1321)]]
   - 2026-11-22 — In-store purchase receipt, Reynoldsburg #6326, 99 items, TC# 7738058687663000896056, action no (UID 1327) → [[samsclub#2026-11-22 — In-store purchase receipt (UID 1327)]]
