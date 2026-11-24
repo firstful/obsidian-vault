@@ -226,3 +226,12 @@ Informational only; never action-required.
 - Summary: Daily Informed Delivery digest for Tuesday 24 November 2026 — 1 mailpiece, 0 inbound packages arriving soon; "Expected Today 1 item(s)". One mailpiece-scan JPEG attachment (2878870324-010.jpg 43 KB; 125 KB message). "No packages are available to display." Dashboard sender name not extractable from body (no campaign-from span present). No package exceptions, bills, deadlines, or account actions referenced.
 - Action required: no
 - Notes: Live triage (event id 1404). To is Emilee's mailbox (no "reed") and USPS digests are never marketing in any case — no unsubscribe performed. No sibling Reed copy observed at triage time (inbox search for this subject returned only UID 1404); if it arrives it will be a distinct entry keyed on its own message-id. Body fetched via email-sync MCP (email_fetch_body with reason; counts from QP-decode of whole raw message). Triage summary posted to #email-triage per inbound trigger.
+
+## 2026-11-24 13:07 — USPS Informed Delivery: "Your Daily Digest for Tue, 11/24 is ready to view"
+
+- UID: 1405 (INBOX) · message-id: <20261124130718.a92f274cd5d23b44@email.informeddelivery.usps.com>
+- To: reedsut@gmail.com (greeting "Hi , Reed !" — merge-field artifact); forwarded into ingest via Cloudflare Email Routing (Delivered-To: reed@ffilt.us)
+- Date: 2026-11-24T13:07:18Z
+- Summary: Daily Informed Delivery digest for Tuesday 24 November 2026 — 1 mailpiece, 0 inbound packages arriving soon; "Expected Today 1 item(s)", "No packages are available to display". One mailpiece-scan JPEG attachment (2878870324-010.jpg, 43 KB; 122 KB message). No sender name extractable from the dashboard. No package exceptions, bills, deadlines, or account actions referenced.
+- Action required: no
+- Notes: Live triage (event id 1405). To is Reed's mailbox (contains "reed"), but USPS digests are never marketing and never unsubscribed — no unsubscribe performed (no List-Unsubscribe action). Sibling of UID 1404 (Emilee's copy, 12:57:03Z, emileesutliff@gmail.com) — separate envelope, separate message-id, different household mailbox, byte-identical subject; a subject-only dedupe would have wrongly skipped it. Body fetched once via email-sync MCP (email_fetch_body with reason; counts from QP-decode of whole raw message). Triage summary posted to #email-triage per inbound trigger.
