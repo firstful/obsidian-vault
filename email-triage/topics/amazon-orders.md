@@ -670,3 +670,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a20e7bfe7c-4fd23401-b5f6-4110-b3be-87783119cfef-000000@email.amazonses.com>
 - **UID:** 1420 (INBOX)
 - **Related notes:** [[amazon-orders]] (new order #112-3121388-2298647, $12.92, Water Bottle Accessories — no sibling status entries yet; same subject/amount/category as sibling UID 1418 but DIFFERENT order #/Message-ID/ETA — distinct order, not a re-send; distinct from same-day siblings UIDs 1392/1408)
+## 2026-11-24 — Amazon order confirmation: 1 item (Building Supplies) (UID 1424)
+
+- **Date:** 2026-11-24T17:01:43Z
+- **Sender:** "Amazon.com" <auto-confirm@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Ordered 1 item: Building Supplies
+- **Summary:** Transactional Amazon order confirmation (`auto-confirm@amazon.com`) for Order #112-5130203-3571450, Grand Total 16.22 USD, 1 item in category "Building Supplies" (item-level detail not present in the body). Recipient Emilee - PICKERINGTON, OH. ETA prose "Arriving tomorrow" (soft, relative to 2026-11-24) — no hard date, so no calendar/purchase note. Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass (Gmail forwarder 74.125.224.46; SES client-ip 54.240.13.125), DMARC pass (quarantine) header.from=amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed"), no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk / List-Id header → no auto-unsubscribe. Distinct from same-day Amazon siblings (different order #, Message-ID, category); no sibling status/payment notices found for this order number yet.
+- **Action required:** no — informational order confirmation; monitor for shipped/out-for-delivery/delivery follow-ups on order #112-5130203-3571450. No action for Rook.
+- **Message-ID:** <010001a20e819557-f1cd301d-ece5-4ba3-a201-93a095181342-000000@email.amazonses.com>
+- **UID:** 1424 (INBOX)
+- **Related notes:** [[amazon-orders]]
+
