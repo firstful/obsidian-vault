@@ -94,3 +94,14 @@ tags: [email-triage, ebay]
 - **Action required:** yes — reply via eBay clarifying whether the unit was ever used and what the wifi incompatibility was (network/compatibility detail), since the buyer is checking before purchase.
 - **Message-ID:** <cf3104f2-966c-45bf-ad5d-aca06304d5b9@starship>
 - **UID:** 1385
+
+
+## 2026-11-24 — eBay buyer message from lakboh33: asks whether warranty is still good (item 267849469808) (UID 1395)
+- **Date:** 2026-11-24T07:03:44Z
+- **Sender:** eBay - lakboh33 <lakboh_esw3158ojf@members.ebay.com>
+- **To:** reedsut@gmail.com
+- **Subject:** Re: lakboh33 sent a message about Narwal Freo Z Ultra - Manufacture Restore - Open Box #267849469808
+- **Summary:** Fifth direct message from buyer `lakboh33` (member since Dec 25 2019, Fort Smith, AR) on the Narwal Freo Z Ultra — Manufacture Restore / Open Box listing (item 267849469808, the $150.00 self-listed item from [[ebay#2026-11-20 — eBay listing live: Narwal Freo Z Ultra (Manufacture Restore) listed at $150.00 (UID 1263)|UID 1263]], distinct from the offers thread on item 267822716429): "is the warranty still good?" Follows the buyer's earlier condition/completeness/price/shipping/usage/wifi messages ([[ebay#2026-11-23 — eBay buyer message from lakboh33: asking lowest price + condition (item 267849469808) (UID 1368)|UID 1368]], [[ebay#2026-11-23 — eBay buyer message from lakboh33: asks if new condition + included items (item 267849469808) (UID 1370)|UID 1370]], [[ebay#2026-11-23 — eBay buyer message from lakboh33: confirms purchase if everything works, wants shipping offset (item 267849469808) (UID 1371)|UID 1371]], [[ebay#2026-11-24 — eBay buyer message from lakboh33: asks whether unit was ever used + how it was wifi-incompatible (item 267849469808) (UID 1385)|UID 1385]]). Reed previously stated the unit ran a couple of vacuum cycles but app control never worked due to 5GHz wifi (needs 2.4GHz) and offered $100 as-is. Thread is a 1:1 eBay buyer message (Feedback-ID present; no List-Unsubscribe / Precedence: bulk) — RELEVANT, not marketing; no unsubscribe action. Do not reply by email; respond via eBay messaging. No sale yet, no money changed hands.
+- **Action required:** yes — reply via eBay clarifying the warranty status of the manufacturer-restored / open-box unit (likely sold as-is with no manufacturer warranty) before the buyer commits.
+- **Message-ID:** <d7cac467-b7de-46de-938a-9e7ca353114a@starship>
+- **UID:** 1395
