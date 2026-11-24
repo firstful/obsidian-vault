@@ -702,3 +702,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a20e848db5-a2ec9283-6de2-46dc-975b-88663068c6f5-000000@email.amazonses.com>
 - **UID:** 1426 (INBOX)
 - **Related notes:** [[amazon-orders]] (new order #112-3892735-4604262, $32.03, Water Bottles — no sibling status entries yet; distinct from same-day siblings UIDs 1417/1418/1419/1420/1424/1425 — different order #/category/Message-ID; UID 1425 shares the $32.03 amount but is a different order, not a re-send)
+
+## 2026-11-24 — Amazon payment declined / order on hold (UID 1429)
+
+- **Date:** 2026-11-24T17:39:58Z
+- **Sender:** "Amazon.com" <payments-update@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Payment declined: Update your information so we can ship your order.
+- **Summary:** Transactional Amazon payment-declined notice for order #112-4094759-8624262, Total 26.3 USD (Emilee - PICKERINGTON, OH). "Your order is on hold because your payment was declined" / "Payment revision needed — please update your payment method" / "View or edit order." This is the SAME order confirmed in UID 1348 (2026-11-23, Activewear, $26.30) — the confirmation did not mean payment settled; the hold surfaced a day later. Amount label is "Total … USD" (not "Grand Total:"). TeleCheck FCRA notice (800-366-2425) + Amazon Store Card/Synchrony contact numbers and "call your bank using the number on the back of your card" are normal boilerplate for genuine declines, not phishing tells. Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass bounces.amazon.com, DMARC pass (quarantine) header.from=amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES, all links www.amazon.com. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed"); Feedback-ID present but no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk / List-Id header → no auto-unsubscribe. No hardship date/deadline stated, so no calendar note.
+- **Action required:** yes — Emilee must update/repair the payment method with Amazon (verify card details with bank, or resolve a TeleCheck/Synchrony issue) to release the held order #112-4094759-8624262; no action for Rook.
+- **Message-ID:** <010001a20ea49c3f-cf1ccf5e-a42b-4f0c-871d-b8a909d419f6-000000@email.amazonses.com>
+- **UID:** 1429 (INBOX)
+- **Related notes:** [[amazon-orders]] (decline for order #112-4094759-8624262, $26.30, Activewear — see UID 1348 for the original 2026-11-23 order confirmation; distinct from the 2026-11-24 sibling confirmations UIDs 1417/1418/1419/1420/1424/1425/1426 — different order numbers)
