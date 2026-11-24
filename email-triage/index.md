@@ -49,6 +49,7 @@ tags: [email-triage, index]
   - 2026-11-24 — Amazon payment declined / order on hold, $16.22, order #112-5130203-3571450 (same as UID 1424), action yes (Emilee, no Rook action) (UID 1435) → [[amazon-orders#2026-11-24 — Amazon payment declined / order on hold (UID 1435)]]
   - 2026-11-24 — Amazon payment declined (repeat), $16.22, order #112-5130203-3571450 (same held order as UID 1435/1424), action yes (Emilee, no Rook action) (UID 1436) → [[amazon-orders#2026-11-24 — Amazon payment declined (repeat) / order on hold (UID 1436)]]
   - 2026-11-24 — Amazon payment declined / order on hold, $32.03, order #112-3892735-4604262 (same as UID 1426), action yes (Emilee, no Rook action) (UID 1438) → [[amazon-orders#2026-11-24 — Amazon payment declined / order on hold (UID 1438)]]
+  - 2026-11-24 — Amazon delivery confirmation: 4 items (Toys & Games, Makeup, and more), order #112-9989467-5816226 (Makeup, UID 1346), action no (UID 1450) → [[amazon-orders#2026-11-24 — Amazon delivery confirmation: 4 items (Toys & Games, Makeup, and more) (UID 1450)]]
 - [walmart-orders](topics/walmart-orders.md) — Walmart.com transactional order/payment, delivery, and cancellation notices
   - 2026-11-19 — Walmart login verification code 862372 for Emilee (action YES, 15-min expiry) → [[security-alerts#2026-11-19 — Walmart verification code / login OTP (Emilee; UID 1203)]]
 - [apple-developer](topics/apple-developer.md) — Apple Developer "Hello Developer" newsletter issues (Developer Center events, platform/tooling news; marketing)
