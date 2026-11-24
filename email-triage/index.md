@@ -79,8 +79,9 @@ tags: [email-triage, index]
 - [cheaper-inference](topics/cheaper-inference.md) — Cheaper Inference (Keak AI) model launch / discount announcements
 - [citizen](topics/citizen.md) — Citizen app local incident alerts (automated geo notifications; RELEVANT local safety facts — do NOT unsubscribe)
   - 2026-11-20 — Citizen: "One Dead in Northeast Columbus Shooting" (1999 E Hudson St, NE Columbus), action no (UID 1249) → [[citizen#2026-11-20 — Citizen: "One Dead in Northeast Columbus Shooting"]]
-- [discord](topics/discord.md) — Discord Nitro marketing/announcement emails (marketing; auto-unsubscribed via RFC 8058 one-click, UID 1383)
+- [discord](topics/discord.md) — Discord Nitro marketing (marketing; auto-unsubscribed via RFC 8058 one-click, UID 1383) + legal/policy notices (notifications@discord.com; transactional)
   - 2026-11-24 — Discord Nitro 2026 year-in-review promo ("Everything new in Nitro in 2026"), action no (UID 1383) → [[discord#2026-11-24 — Discord Nitro 2026 year-in-review promo (UID 1383)]]
+  - 2026-11-24 — Discord Terms of Service / Privacy Policy / Paid Services Terms update, effective 2026-12-15, action no (UID 1445) → [[discord#2026-11-24 — Discord Terms of Service / Privacy Policy / Paid Services Terms update (UID 1445)]]
 - [consulting-guidepoint](topics/consulting-guidepoint.md) — Guidepoint expert-network consultation requests
   - 2026-11-24 — Guidepoint consultation request: Renters Insurance Technology & Property Management Software (#1853973) [re-send of UID 1374], action YES (Reed accept/decline) (UID 1437) → [[consulting-guidepoint#2026-11-24 — Guidepoint consultation request: Renters Insurance Technology & Property Management Software (#1853973) [re-send]]]
   - 2026-11-23 — Guidepoint consultation request: Renters Insurance Technology & Property Management Software (#1853973), action YES (Reed accept/decline) (UID 1374) → [[consulting-guidepoint#2026-11-23 — Guidepoint consultation request: Renters Insurance Technology & Property Management Software (#1853973)]]
