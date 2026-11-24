@@ -5,6 +5,20 @@ tags: [email-triage, job-applications]
 
 # Job Applications
 
+## 2026-11-24 — Application submission acknowledgement: Mercury (uid 1400)
+
+- **Date:** 2026-11-24T08:08:02Z
+- **Sender:** no-reply@us.greenhouse-mail.io (Greenhouse `CandidateAutoReply` via Mailgun; `X-Feedback-Id: no-reply@us.greenhouse-mail.io:CandidateAutoReply:5ff5c19deab70c1acacf09a2:mailgun`)
+- **To:** sutliff.reed@gmail.com (INBOX/1400; routed via Gmail forward -> ingest@ffilt.us -> reed@ffilt.us)
+- **Subject:** Thank you for applying to Mercury
+- **Message-Id:** <20261124080802.251d096b604e96d7@us.greenhouse-mail.io>
+- **UID:** 1400 (INBOX)
+- **Summary:** Greenhouse (Mailgun) `CandidateAutoReply` application-submission acknowledgement for Reed's application to **Mercury**. Body: "Reed, Thanks for applying to Mercury. Your application has been received and we will review it as soon as possible. We will reach out for a call if your application seems like a good fit. In the meantime, feel free to learn more about Mercury here (https://mercury.com/about). All the best, Mercury Recruiting Team. ** Please note: Do not reply to this email." Pure submission ACK - NOT a security-code interstitial, NOT a hiring decision/rejection; no role named in the email (do not fabricate one), no code, no deadline, no concrete date. No attachments (10,950 B, multipart/alternative). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass; `X-Mailgun-Tag: CandidateAutoReply`, `X-Jellyfish-No-Auto-Response: 1`, `X-Gh-Mailer-Variables-Transport: mailgun`, `X-Gh-Email-Transport: mailgun`, `X-Mailgun-Variables: {"org_id": "4002779004", "person_id": "173180132004", "silo_id": "4", "user_id": ""}`. `List-Unsubscribe` header present but EMPTY -> no unsubscribe (transactional submission ack; recipient-based auto-unsubscribe gate does not apply even though To contains "reed"); no unsubscribes.md row. Dedupe: Message-Id hex tail `251d096b604e96d7`, 14-digit Mailgun timestamp prefix `20261124080802`, and `UID 1400` not previously in the topic -> distinct event, own section (dedupe by Message-Id, never subject). Post-code submission confirmation following the Mercury security-code cluster [[job-applications#2026-11-24 - Security code for Mercury application (uid 1399)]] (08:06:46Z, code 59885557) and [[job-applications#2026-11-24 - Security code for Mercury application (uid 1398)]] (08:05:36Z, code 14740461) - same employer/campaign, but a DIFFERENT sub-type (CandidateAutoReply ack, not code interstitial) and a fresh Message-Id. No calendar/bills/purchases/money note - no concrete date, deadline, or next step ("will reach out for a call if your application seems like a good fit" is not a date). Do not reply (unattended mailbox).
+- **Action required:** no - confirmation only; wait for recruiter follow-up. Do not reply (unattended mailbox).
+
+### Related notes
+- [[job-applications]]
+
 ## 2026-11-24 — Security code for Mercury application (uid 1399)
 
 - **Date:** 2026-11-24T08:06:46Z
