@@ -83,3 +83,14 @@ tags: [email-triage, google-account]
 - **UID / Message-ID:** 1258 (INBOX) / <d3ab46741820b5cb2bbd47db3629409eb105aa1b-20376977-337030291@google.com>
 - **Summary:** Google OAuth data-sharing notice: reedsut@gmail.com used Sign in with Google to sign in to Pirate Ship on 2026-11-20 21:09:39Z (body clock 4:09 PM Eastern), sharing basic profile info (Reed Sutliff, name/profile picture, email address reedsut@gmail.com). Legitimate Google mail: dkim=pass header.d=google.com header.s=20260707, spf=pass, dmarc=pass (policy=reject), arc=pass; Gmail relay 209.85.167.54; 0 attachments. Google states "There's nothing you need to do right now." Access can be reviewed/revoked at myaccount.google.com/linkedapps (linked apps > Pirate Ship). Carries RFC 8058 one-click List-Unsubscribe but this is a transactional security/privacy notification, NOT marketing — no unsubscribe performed (would suppress legitimate account-activity mail) even though To contains "reed". Same family as Umami/Blizzard/Seamless/Spotify (UIDs 561/728/921/1018) and TuneMyMusic (UID 1016).
 - **Action required:** no (informational third-party access grant; review linked apps and revoke Pirate Ship access at myaccount.google.com/linkedapps if this sign-in was not expected)
+
+## 2026-11-24 — Google Account data shared with Whatnot (UID 1413)
+
+- **Date:** 2026-11-24T15:56:50Z (Tue, 24 Nov 2026 07:56:50 -0800); body clock "November 24 at 10:56 AM" is Eastern (header PST +3h)
+- **From:** Google <noreply-accounts@google.com>
+- **To:** reedsut@gmail.com (Gmail auto-forward via Cloudflare Email Routing `caf_=ingest=ffilt.us`, Delivered-To reed@ffilt.us)
+- **Subject:** You shared some Google Account data with Whatnot
+- **UID / Message-ID:** 1413 (INBOX) / <c909649d7e47eff2ac92bab2373364254fa02dab-20376977-337030291@google.com>
+- **Summary:** Google OAuth data-sharing notice: reedsut@gmail.com used Sign in with Google to sign in to Whatnot on 2026-11-24 15:56:50Z (body clock 10:56 AM Eastern), sharing basic profile info (Reed Sutliff, name/profile picture, email address reedsut@gmail.com). Legitimate Google mail: dkim=pass header.d=google.com header.s=20260707, spf=pass, dmarc=pass (policy=reject), arc=pass; Gmail relay 209.85.167.50; 0 attachments. Google states "There's nothing you need to do right now." Sign-in with Google with Whatnot can be stopped at myaccount.google.com/linkedapps (linked apps > Whatnot). Carries RFC 8058 one-click List-Unsubscribe + Feedback-ID, but this is a transactional security/privacy account-activity notice, NOT marketing — no unsubscribe performed (would suppress legitimate account-activity mail) even though To contains "reed". Same family as Umami/Blizzard/Seamless/Spotify/Pirate Ship (UIDs 561/728/921/1018/1258) and TuneMyMusic (UID 1016).
+- **Action required:** no (informational third-party access grant; review linked apps and revoke Whatnot access at myaccount.google.com/linkedapps if this sign-in was not expected)
+
