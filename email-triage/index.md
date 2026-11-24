@@ -91,6 +91,8 @@ tags: [email-triage, index]
   - 2026-11-21 — eBay order confirmation: SK hynix 16GB (4x4GB) DDR3-1866 ECC UDIMM, order #24-15446-45567, $32.01, action no (UID 1270) → [[ebay-orders#2026-11-21 — eBay order confirmation: SK hynix 16GB (4x4GB) DDR3-1866 ECC UDIMM (UID 1270)]]
 - [email-delivery](topics/email-delivery.md) — Delivery status notifications, bounces, and mail routing failures
   - 2026-11-23 — DSN: ingest@ffilt.us blocked, 554 5.7.1 DMARC policy rejected (Atlas Obscura newsletter forwarded via Gmail), action YES (UID 1343) → [[email-delivery#2026-11-23 | Mail Delivery Subsystem <mailer-daemon@googlemail.com> | Delivery Status Notification (Failure)]]
+- [ellaola](topics/ellaola.md) — EllaOla subscription renewal / upcoming shipment notices (marketing)
+  - 2026-11-24 — EllaOla: "Your EllaOla upcoming shipment", subscription renewal (next charge 2026-11-27), action no (UID 1391) → [[ellaola#2026-11-24 — EllaOla: "Your EllaOla upcoming shipment" (UID 1391)]]
 - [experian](topics/experian.md) — Experian credit-report change and FICO-score alert emails (account-activation teasers; marketing)
 - [transunion-creditview](topics/transunion-creditview.md) — TransUnion CreditView Dashboard credit-report alerts (e.g. delinquency notices, score decreases; via financial institution)
 - [eyebuydirect](topics/eyebuydirect.md) — EyeBuyDirect post-purchase survey / follow-up emails (marketing)
