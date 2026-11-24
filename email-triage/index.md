@@ -72,6 +72,8 @@ tags: [email-triage, index]
 - [donatos](topics/donatos.md) — Donatos Pizza pickup order confirmations and receipts
 - [mcdonalds](topics/mcdonalds.md) — McDonald's Mobile Order & Pay receipts (transactional)
   - 2026-11-20 — McDonald's mobile order receipt: $16.26, Order# RC63 (Reynoldsburg), action no (UID 1260) → [[mcdonalds#2026-11-20 — McDonald's mobile order receipt: $16.26 (UID 1260)]]
+- [papajohns](topics/papajohns.md) — Papa John's pizza order confirmations and delivery receipts (transactional)
+  - 2026-11-23 — Papa John's pizza order #1339290922: 2 pizzas, $47.90, action no (UID 1390) → [[papajohns#2026-11-23 — Papa John's pizza order #1339290922, $47.90 (UID 1390)]]
 - [roosters](topics/roosters.md) — Roosters (Pickerington) Toast pickup-order confirmations and receipts
 - [tim-hortons](topics/tim-hortons.md) — Tim Hortons itemized delivery-order receipts (Tims Rewards; transactional)
 - [t-mobile](topics/t-mobile.md) — T-Mobile wireless account notices (payment receipts, monthly bill-ready notices; transactional billing)
