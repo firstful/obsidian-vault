@@ -614,3 +614,15 @@ tags: [email-triage, amazon-orders]
 - **Action required:** no — informational order confirmation; monitor deliveries/contents on arrival and review order details in Amazon if needed.
 - **Message-ID:** <010001a20c1d0179-7aa369ad-d4c6-444c-bdeb-25ec846a873d-000000@email.amazonses.com>
 - **UID:** 1392
+
+
+## 2026-11-24 — Amazon shipping notification: 2 items (Toys & Games) (UID 1408)
+
+- **Date:** 2026-11-24T14:48:31Z
+- **Sender:** "Amazon.com" <shipment-tracking@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Shipped 2 items: Toys & Games
+- **Summary:** Amazon shipping notification (`shipment-tracking@amazon.com`): "Emilee, your package was shipped!" Order #112-3321957-7085840, Total 39.019999999999996 USD (float-rendering artifact for $39.02; recipient Emilee - PICKERINGTON, OH). ETA prose "Arriving November 30 - December 2" (a soft multi-date window, not a single hard date) ⇒ no calendar/purchase note. Track-package link to amazon.com/progress-tracker. This is the "Shipped" status step for order #112-3321957-7085840, one of the three shipments in sibling batch confirmation UID 1392 ("Ordered 5 items: Toys & Games", order #112-3321957-7085840, 2 items, $39.02, "arriving November 30 to December 2"). Item-level detail not extractable from the HTML body; the item count (2) and category come from the Subject. Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass (Gmail forwarder 74.125.224.41; SES client-ip 54.240.13.122), DMARC pass (quarantine) header.from=amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES, all links amazon.com. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed"); no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk / List-Id header ⇒ no auto-unsubscribe. Shipping notification ⇒ promo/marketing, action-required no; logged as a compact paper-trail entry per household convention (same treatment as other Shipped/Out-for-delivery/Delivered notices), NOT Discord-only.
+- **Action required:** no — informational shipping notification; monitor delivery/contents on arrival. No action for Rook.
+- **Message-ID:** <010001a20e07a55e-fb178eaa-f8ae-46f3-ad73-6211f2c9791a-000000@email.amazonses.com>
+- **UID:** 1408 (INBOX)
+- **Related notes:** [[amazon-orders]] (see UID 1392 — original batch order confirmation for #112-3321957-7085840, 2 items, $39.02)
