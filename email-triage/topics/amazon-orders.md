@@ -604,3 +604,13 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a20906d704-1ae38841-31ee-44b6-894e-a8f60ba9025d-000000@email.amazonses.com>
 - **UID:** 1357
 - **Related notes:** [[amazon-orders]] (new order #112-3213619-4258628, $33.57, Hair Care — no sibling status entries yet; distinct same-day sibling orders UIDs 1345/1346/1347/1348/1349/1350/1352/1354, all different order numbers)
+
+## 2026-11-24 — Amazon order confirmation: 5 items (Toys & Games) (UID 1392)
+
+- **Date:** 2026-11-24T05:52:37Z
+- **Sender:** "Amazon.com" <auto-confirm@amazon.com> (to emilee.sutliff@gmail.com)
+- **Subject:** Ordered 5 items: Toys & Games
+- **Summary:** Transactional Amazon order confirmation covering 3 shipments: (1) Order #112-2252383-1309852, Grand Total $18.23 USD, 1 item (Toys & Games), arriving December 1 (Emilee, PICKERINGTON OH). (2) Order #112-3321957-7085840, Grand Total $39.02 USD, 2 items (Toys & Games), arriving November 30 to December 2 (Emilee, PICKERINGTON OH). (3) Order #112-7421320-7345022, Grand Total $54.74 USD, 1 item (Toys & Games), arriving today 5 PM to 8 PM (Emilee, PICKERINGTON OH). Combined Grand Total $111.99 USD across 4 item-lines (subject states 5 items; item-level details not fully extracted from HTML body). Envelope to_addr is emilee.sutliff@gmail.com (no "reed"); no List-Unsubscribe header present, so no auto-unsubscribe (transactional regardless). Genuine Amazon mail: DKIM pass header.d=amazon.com plus amazonses.com, SPF pass, ARC pass google.com, Message-ID at email.amazonses.com, Feedback-ID ...:AmazonSES. Soft/relative ETAs (Dec 1, Nov 30 to Dec 2, today 5 to 8 PM) so no calendar/purchase note.
+- **Action required:** no — informational order confirmation; monitor deliveries/contents on arrival and review order details in Amazon if needed.
+- **Message-ID:** <010001a20c1d0179-7aa369ad-d4c6-444c-bdeb-25ec846a873d-000000@email.amazonses.com>
+- **UID:** 1392
