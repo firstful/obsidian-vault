@@ -138,6 +138,7 @@ tags: [email-triage, index]
   - 2026-11-24 — Run failed: Gitea mirror - main (9d37763) (UID 1382) → [[gitea-mirror#2026-11-24 — Run failed: Gitea mirror - main (9d37763) (UID 1382)]]
   - 2026-11-24 — Run failed: Gitea mirror - main (9d37763) (UID 1403) → [[gitea-mirror#2026-11-24 — Run failed: Gitea mirror - main (9d37763) (UID 1403)]]
 - [github-security](topics/github-security.md) — GitHub security alerts and notifications
+  - 2026-11-24 — Dependabot vulnerability digest: Newtonsoft.Json < 13.0.1 in AgilityPartners (CVE-2024-21907, recurrence of UID 1044) (UID 1439, action YES) → [[github-security#2026-11-24 - Dependabot vulnerability digest: Newtonsoft.Json in AgilityPartners (recurrence) (UID 1439)]]
 - [security-alerts](topics/security-alerts.md) — Cross-service account-security alerts & one-time verification codes (Google, Battle.net, eBay, Huntington, Walmart, etc.)
   - 2026-11-22 — Sam's Club sign-in from new device (Android 17 / Pixel 8a, Detroit MI — out-of-state; action conditional) → [[security-alerts#2026-11-22 — Sam's Club sign-in from new device (UID 1321)]]
   - 2026-11-19 — Sam's Club sign-in from new device (Firefox/Linux, Columbus OH; action conditional) → [[security-alerts#2026-11-19 — Sam's Club sign-in from new device (UID 1204)]]
