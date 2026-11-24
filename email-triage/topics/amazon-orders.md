@@ -637,3 +637,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a20e7ba119-7280db03-2d2d-4b5f-a4fc-853a5cd90075-000000@email.amazonses.com>
 - **UID:** 1418 (INBOX)
 - **Related notes:** [[amazon-orders]] (new order #112-6993305-1685851, $12.92, Water Bottle Accessories — no sibling status entries yet; distinct from same-day siblings UIDs 1392/1408, all different order numbers)
+
+## 2026-11-24 — Amazon order confirmation: 1 item (Water Bottle Accessories) (UID 1420)
+
+- **Date:** 2026-11-24T16:55:36Z
+- **Sender:** "Amazon.com" <auto-confirm@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Ordered 1 item: Water Bottle Accessories
+- **Summary:** Transactional Amazon order confirmation (`auto-confirm@amazon.com`): "Emilee, you scored some great Black Friday Deals!" Order #112-3121388-2298647, Grand Total 12.92 USD, recipient Emilee - PICKERINGTON, OH. Category "Water Bottle Accessories" from Subject; item-level detail not extractable from the HTML body (Amazon renders line items as images). Promo "Black Friday Deals" greeting/nav links do NOT change class — sender is `auto-confirm@` and body has Order # + Grand Total, so this is RELEVANT/transactional. ETA prose "Arriving tomorrow" (relative to 2026-11-24, soft) — no hard date, so no calendar/purchase note. No sibling status notices found for THIS order yet (new standalone order). Distinct from same-subject/same-amount/same-category sibling UID 1418 (delivered 24s earlier at 16:55:12Z): DIFFERENT order number (#112-6993305-1685851 vs #112-3121388-2298647), different Message-ID, and different ETA ("Arriving Sunday" vs "Arriving tomorrow") — a genuinely distinct order, NOT a re-send; order # + Message-ID are the only sound dedupe keys. Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass (Gmail forwarder 74.125.224.45; SES client-ip 54.240.13.77), DMARC pass (quarantine) header.from=amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES, all links amazon.com. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed"); no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk / List-Id header → no auto-unsubscribe.
+- **Action required:** no — informational order confirmation; monitor for shipped/out-for-delivery/delivery follow-ups on order #112-3121388-2298647. No action for Rook.
+- **Message-ID:** <010001a20e7bfe7c-4fd23401-b5f6-4110-b3be-87783119cfef-000000@email.amazonses.com>
+- **UID:** 1420 (INBOX)
+- **Related notes:** [[amazon-orders]] (new order #112-3121388-2298647, $12.92, Water Bottle Accessories — no sibling status entries yet; same subject/amount/category as sibling UID 1418 but DIFFERENT order #/Message-ID/ETA — distinct order, not a re-send; distinct from same-day siblings UIDs 1392/1408)
