@@ -5,6 +5,17 @@ tags: [email-triage, job-applications]
 
 # Job Applications
 
+## 2026-11-24 — Affirm hiring decision (not moving forward): Staff Software Engineer, Backend (Search) (uid 1410)
+
+- **Date:** 2026-11-24T14:59:34Z
+- **Sender:** no-reply@appreview.gem.com ("affirm.com Recruiting"; Gem.com ATS via Amazon SES — NOT Greenhouse/Mailgun)
+- **To:** sutliff.reed@gmail.com (INBOX/1410; routed via Gmail forward -> ingest@ffilt.us -> reed@ffilt.us)
+- **Subject:** Follow-up on your application to Affirm
+- **Message-Id:** <010101a20e11c252-9e5e675c-bbee-4930-b031-3151f9a9105d-000000@us-west-2.amazonses.com>
+- **UID:** 1410 (INBOX)
+- **Summary:** Hiring DECISION/rejection notice for Reed's **Staff Software Engineer, Backend (Search)** application at **Affirm**. Body: "thank you for your interest in Affirm and giving us the opportunity to consider you for the Staff Software Engineer, Backend (Search) role. Unfortunately, we have decided not to move forward with your candidacy at this time," plus a nudge to Affirm's LinkedIn jobs page and careers page. NEW sender family: `appreview.gem.com` (Gem.com applicant-review ATS) via **Amazon SES**, distinct from the earlier Affirm decision notices from `no-reply@affirm.com`/`no-reply@us.greenhouse-mail.io` via Greenhouse/Mailgun (e.g. uid 1145 Cards, uid 1109 ack) — no `X-Mailgun-Tag`, no `X-Gh-*` headers; `Feedback-ID: ::1.us-west-2...:AmazonSES`, `X-SES-Outgoing` present. Authentic: DKIM pass (gem.com s=fbbqcx6v53dn24fpz2lfr6uqluddjcj7 + amazonses.com s=hsbnp7p3ensaochzwyq5wwmceodymuwv), SPF pass, DMARC pass (p=none), ARC pass (i=1 and i=2); `X-Jellyfish-No-Auto-Response: 1`; no attachments (11,430 B, multipart/alternative). No `List-Unsubscribe` header -> no unsubscribe (transactional decision; recipient-based gate does not apply even though To contains "reed"); no unsubscribes.md row. No calendar/bills/purchases/money note — no date, deadline, or next step. Dedupe: Message-Id SES token `9e5e675c-bbee-4930-b031-3151f9a9105d` and `UID 1410` not previously in topic -> distinct event, own section. Closes the Affirm Staff SWE Backend (Search) track opened by the application-received confirmation [[job-applications#2026-11-09 — Staff Software Engineer, Backend (Search) at Affirm (uid 579)]]; distinct role from Affirm's Cards/Compute/AI Platform/Ledger/ML tracks. Do not reply (unattended mailbox).
+- **Action required:** no — rejection decision, informational; no next step. Do not reply (unattended mailbox).
+
 ## 2026-11-24 — Application submission acknowledgement: Mercury (uid 1400)
 
 - **Date:** 2026-11-24T08:08:02Z
