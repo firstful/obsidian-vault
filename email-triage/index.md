@@ -99,6 +99,7 @@ tags: [email-triage, index]
   - 2026-11-22 — Run failed: Gitea mirror - main (9d37763) (UID 1305) → [[gitea-mirror#2026-11-22 — Run failed: Gitea mirror - main (9d37763) (UID 1305)]]
   - 2026-11-22 — Run failed: Gitea mirror - main (9d37763) (UID 1314) → [[gitea-mirror#2026-11-22 — Run failed: Gitea mirror - main (9d37763) (UID 1314)]]
   - 2026-11-23 — Run failed: Gitea mirror - main (9d37763) (UID 1335) → [[gitea-mirror#2026-11-23 — Run failed: Gitea mirror - main (9d37763) (UID 1335)]]
+  - 2026-11-24 — Run failed: Gitea mirror - main (9d37763) (UID 1382) → [[gitea-mirror#2026-11-24 — Run failed: Gitea mirror - main (9d37763) (UID 1382)]]
 - [github-security](topics/github-security.md) — GitHub security alerts and notifications
 - [security-alerts](topics/security-alerts.md) — Cross-service account-security alerts & one-time verification codes (Google, Battle.net, eBay, Huntington, Walmart, etc.)
   - 2026-11-22 — Sam's Club sign-in from new device (Android 17 / Pixel 8a, Detroit MI — out-of-state; action conditional) → [[security-alerts#2026-11-22 — Sam's Club sign-in from new device (UID 1321)]]
