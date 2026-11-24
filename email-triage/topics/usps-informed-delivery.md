@@ -217,3 +217,12 @@ Informational only; never action-required.
 - Summary: Daily Informed Delivery digest for Monday 23 November 2026 — 3 mailpieces, 0 inbound packages arriving soon; "You have 3 mailpiece(s) and 0 inbound package(s) arriving soon". Dashboard: "Expected Today 3 item(s) FROM: Meijer, Wayfair, JPMorganChase". Six mailpiece-scan JPEG attachments (2878758489-010.jpg 102 KB, content-6989.jpg 36 KB, mailer-1888.jpg 124 KB, content-1888.jpg 44 KB, mailer-1202187988.jpg 250 KB, content-1202187988.jpg 71 KB; ~626 KB attachments; ~757 KB message). No package exceptions, bills, deadlines, or account actions referenced.
 - Action required: no
 - Notes: Live triage (event id 1341). To is Emilee's mailbox (no "reed") and USPS digests are never marketing in any case — no unsubscribe performed. No List-Unsubscribe header present. Sibling Reed copy (UID 1339, reedsut@gmail.com, 13:01:58Z) already triaged. Body fetched via email-sync MCP (email_fetch_body with reason; counts from QP-decode of whole raw message). Triage summary posted to #email-triage per inbound trigger.
+
+## 2026-11-24 12:57 — USPS Informed Delivery: "Your Daily Digest for Tue, 11/24 is ready to view" (Emilee copy)
+
+- UID: 1404 (INBOX) · message-id: <20261124125703.ceb7340ae6bcc343@email.informeddelivery.usps.com>
+- To: emileesutliff@gmail.com — forwarded into ingest via Cloudflare Email Routing (Delivered-To: reed@ffilt.us); greeting "Hi , EMILEE !" (merge-field artifact)
+- Date: 2026-11-24T12:57:03Z
+- Summary: Daily Informed Delivery digest for Tuesday 24 November 2026 — 1 mailpiece, 0 inbound packages arriving soon; "Expected Today 1 item(s)". One mailpiece-scan JPEG attachment (2878870324-010.jpg 43 KB; 125 KB message). "No packages are available to display." Dashboard sender name not extractable from body (no campaign-from span present). No package exceptions, bills, deadlines, or account actions referenced.
+- Action required: no
+- Notes: Live triage (event id 1404). To is Emilee's mailbox (no "reed") and USPS digests are never marketing in any case — no unsubscribe performed. No sibling Reed copy observed at triage time (inbox search for this subject returned only UID 1404); if it arrives it will be a distinct entry keyed on its own message-id. Body fetched via email-sync MCP (email_fetch_body with reason; counts from QP-decode of whole raw message). Triage summary posted to #email-triage per inbound trigger.
