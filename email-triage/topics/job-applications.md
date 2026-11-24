@@ -5,6 +5,20 @@ tags: [email-triage, job-applications]
 
 # Job Applications
 
+## 2026-11-24 — Security code for Mercury application (uid 1399)
+
+- **Date:** 2026-11-24T08:06:46Z
+- **Sender:** Greenhouse <no-reply@us.greenhouse-mail.io> (Greenhouse; `X-Feedback-Id: no-reply@us.greenhouse-mail.io::5ff5c19deab70c1acacf09a2:mailgun`)
+- **To:** sutliff.reed@gmail.com (INBOX/1399; routed via Gmail forward → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Security code for your application to Mercury
+- **Message-Id:** <6b054596cb9fc_aa1824c8810b3@prod-jben-web-57886f765b-c67z9.mail>
+- **UID:** 1399 (INBOX)
+- **Summary:** Greenhouse (Mailgun) security verification-code interstitial for Reed's **Mercury** job application (resubmission after UID 1398). Body: "Copy and paste this code into the security code field on your application" / "After you enter the code, resubmit your application." 8-digit code: 59885557. Time-sensitive transactional/application verification (not marketing) — no `X-Mailgun-Tag: CandidateAutoReply` (that tag marks acks, not codes). 1 inline image attachment (Greenhouse Recruiting logo, image/png, 6756 B); 18,305 B, multipart/related. Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass (i=1 and i=2); `X-Jellyfish-No-Auto-Response: 1`. No `List-Unsubscribe` header → no unsubscribe (transactional security code; recipient-based auto-unsubscribe gate does not apply to relevant/transactional mail even though To contains "reed"); no unsubscribes.md row. No calendar/bills/purchases/money note — no concrete date or deadline. Dedupe: Message-Id `6b054596cb9fc_aa1824c8810b3@prod-jben-web-57886f765b-c67z9.mail` (prod-jben-web security-code form, hex tail `aa1824c8810b3`), code `59885557`, and `UID 1399` not previously in the topic → distinct event, own section (Greenhouse security-code subtype, action YES; dedupe by Message-Id, never subject). Second Mercury security code (resubmission after UID 1398); same campaign hash (`5ff5c19deab70c1acacf09a2`) as the CoreWeave/PlanetScale/Mercury security-code cluster, but a fresh Message-Id and code — not a duplicate. Do not reply (unattended mailbox).
+- **Action required:** yes — enter code 59885557 in the Mercury application security-code field and resubmit (if still pending). Do not reply (unattended mailbox).
+
+### Related notes
+- [[job-applications]]
+
 ## 2026-11-24 — Security code for Mercury application (uid 1398)
 
 - **Date:** 2026-11-24T08:05:36Z
