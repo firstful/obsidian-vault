@@ -81,6 +81,7 @@ tags: [email-triage, index]
 - [discord](topics/discord.md) — Discord Nitro marketing/announcement emails (marketing; auto-unsubscribed via RFC 8058 one-click, UID 1383)
   - 2026-11-24 — Discord Nitro 2026 year-in-review promo ("Everything new in Nitro in 2026"), action no (UID 1383) → [[discord#2026-11-24 — Discord Nitro 2026 year-in-review promo (UID 1383)]]
 - [consulting-guidepoint](topics/consulting-guidepoint.md) — Guidepoint expert-network consultation requests
+  - 2026-11-24 — Guidepoint consultation request: Renters Insurance Technology & Property Management Software (#1853973) [re-send of UID 1374], action YES (Reed accept/decline) (UID 1437) → [[consulting-guidepoint#2026-11-24 — Guidepoint consultation request: Renters Insurance Technology & Property Management Software (#1853973) [re-send]]]
   - 2026-11-23 — Guidepoint consultation request: Renters Insurance Technology & Property Management Software (#1853973), action YES (Reed accept/decline) (UID 1374) → [[consulting-guidepoint#2026-11-23 — Guidepoint consultation request: Renters Insurance Technology & Property Management Software (#1853973)]]
   - 2026-11-09 — Guidepoint consultation request: Property Technology Market (#1831985), action YES (UID 577) → [[consulting-guidepoint#2026-11-09 — Guidepoint consultation request: Property Technology Market (#1831985)]]
 - [cord-blood-registry](topics/cord-blood-registry.md) — Cord Blood Registry (CBR) newborn stem-cell lead-gen follow-ups (marketing)
