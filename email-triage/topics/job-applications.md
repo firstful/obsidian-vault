@@ -5,6 +5,20 @@ tags: [email-triage, job-applications]
 
 # Job Applications
 
+## 2026-11-24 — Application received: Staff Platform Engineer at Gemini (uid 1415)
+
+- **Date:** 2026-11-24T16:24:14Z
+- **Sender:** careers@gemini.com (Gemini recruiting team; Greenhouse `CandidateAutoReply` via Mailgun, `gh-mail.gemini.com`)
+- **To:** sutliff.reed@gmail.com (INBOX/1415; routed via Gmail forward -> ingest@ffilt.us -> reed@ffilt.us)
+- **Subject:** Thank you for applying to Gemini!
+- **Message-Id:** <20261124162414.fa8400d76b0baa67@gh-mail.gemini.com>
+- **UID:** 1415 (INBOX)
+- **Summary:** Greenhouse (Mailgun) `CandidateAutoReply` application-submission acknowledgement for Reed's application to **Staff Platform Engineer** at **Gemini** (gemini.com — the Gemini Trust crypto exchange, NOT Google Gemini; footer links to linkedin.com/company/geminitrust and facebook.com/GeminiTrust). Body: "Thanks for applying to Gemini! We appreciate your interest in our company. Your application for the Staff Platform Engineer role has been received and will be reviewed by our team." / "If your application seems like a good fit for the position, we will reach out to set up an interview." / "We try to get back to all candidates, but with the volume, it may not be possible. We'll reach out if there's a match." Marketing-lite social-media footer (LinkedIn/Instagram/Facebook/X) but the message is transactional — a submission ACK, not a newsletter. Explicit "do not reply — unattended mailbox." No attachments (12,277 B, multipart/alternative). Authentic: DKIM pass (gh-mail.gemini.com s=smtp, mailgun.org s=mg), SPF pass, DMARC pass (p=reject), ARC pass (i=1 and i=2). `X-Mailgun-Tag: CandidateAutoReply`, `X-Feedback-Id: postmaster@gh-mail.gemini.com:CandidateAutoReply:5935fc8daa3de655c592aa4e:mailgun`, `X-Mailgun-Variables: {"org_id": "4710", "person_id": "514268777", "silo_id": "1", "user_id": ""}`, `X-Gh-Email-Transport: mailgun`, `X-Gh-Mailer-Variables-Transport: mailgun`, `X-Jellyfish-No-Auto-Response: 1`. `List-Unsubscribe` header present but EMPTY -> no unsubscribe (transactional submission ack; recipient-based auto-unsubscribe gate does not apply even though To contains "reed"); no unsubscribes.md row. Dedupe: Message-Id hex tail `fa8400d76b0baa67`, 14-digit Mailgun timestamp prefix `20261124162414`, and `UID 1415` not previously in the topic -> distinct event, own section (dedupe by Message-Id, never subject). First Gemini (gemini.com) application entry in this topic; distinct from the `google-gemini` topic (Google Gemini product/service notices) — different company. No calendar/bills/purchases/money note — no concrete date, deadline, or next step ("we will reach out" is not a date). Do not reply (unattended mailbox).
+- **Action required:** no — confirmation only; wait for recruiter follow-up. Do not reply (unattended mailbox).
+
+### Related notes
+- [[job-applications]]
+
 ## 2026-11-24 — Affirm hiring decision (not moving forward): Staff Software Engineer, Backend (Search) (uid 1410)
 
 - **Date:** 2026-11-24T14:59:34Z
