@@ -11,7 +11,7 @@ _Auto-generated nightly. Personal money/bills/medical/appointments/errands and f
 ## Summary
 - Critical: 7 | High: 7 | Medium: 22 | Low: 26
 - Retired as complete: 0
-- Generated: 2026-11-24T06:30:32Z
+- Generated: 2026-11-24T18:23:43Z
 
 ## Critical
 - [ ] Maxine vet recheck and drain removal (overdue since 2026-11-05) — [[2026-11-05 - Maxine vet recheck and drain removal]]
