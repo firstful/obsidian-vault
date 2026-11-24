@@ -5,6 +5,20 @@ tags: [email-triage, job-applications]
 
 # Job Applications
 
+## 2026-11-24 — Lithic hiring decision (not selected): Senior Software Engineer, Issuing (UID 1449)
+
+- **Date:** 2026-11-24T23:07:19Z
+- **Sender:** no-reply@lithic.com (Lithic Talent Acquisition Team; Greenhouse `ScheduledCandidateEmail` via Mailgun, `gh-mail.lithic.com`)
+- **To:** sutliff.reed@gmail.com (INBOX/1449; routed via Gmail forward -> ingest@ffilt.us -> reed@ffilt.us)
+- **Subject:** Follow-up about your application to Lithic
+- **Message-Id:** <20261124230719.81d5aeb895a3584f@gh-mail.lithic.com>
+- **UID:** 1449 (INBOX)
+- **Summary:** Greenhouse (Mailgun) hiring DECISION / rejection notice for Reed's application to **Senior Software Engineer, Issuing** at **Lithic**. Body: "Hi Reed, Thank you for submitting an application for the Senior Software Engineer, Issuing position at Lithic. ... Unfortunately, you were not selected to the next stage of the hiring process, but we will hold onto your application for any future openings that you may be a good fit for." + "We wish you the best of luck in your search." Signed Lithic Talent Acquisition Team. This is a REJECTION despite the neutral "Follow-up about your application" subject shape — distinguish from the `CandidateAutoReply` ack by `X-Mailgun-Tag: ScheduledCandidateEmail` (NOT CandidateAutoReply) and the decision body. New subject shape for the decision sub-type (cf. "Thanks for your interest in X!", "Your Application to X", "Update from X", "Update on Your Application for ..."). NOT marketing: no `Precedence: bulk`, no footer unsubscribe link, `List-Unsubscribe` header present but EMPTY -> no unsubscribe (transactional decision; recipient-based auto-unsubscribe gate does not apply even though To contains "reed"); no unsubscribes.md row. Note: an OLDER unsubscribes.md row (2026-11-10, INGEST/750, same subject) was a "Not processed — MCP outage" placeholder for a different UID, not this message. No attachments (11,890 B, multipart/alternative). Authentic: DKIM pass (gh-mail.lithic.com s=k1, mailgun.org s=mg), SPF pass, DMARC pass (p=reject), ARC pass (i=1 and i=2); `X-Jellyfish-No-Auto-Response: 1`, `X-Feedback-Id: postmaster@gh-mail.lithic.com:ScheduledCandidateEmail:613bad6267c9caa2f45315d3:mailgun`, `X-Mailgun-Variables: {\"org_id\": \"4002412004\", \"person_id\": \"171567259004\", \"silo_id\": \"4\", \"user_id\": \"\"}`, `X-Gh-Email-Transport: mailgun`, `X-Gh-Mailer-Variables-Transport: mailgun`. Dedupe: Message-Id hex tail `81d5aeb895a3584f`, 14-digit Mailgun timestamp prefix `20261124230719`, and `UID 1449` not previously in the topic -> distinct event, own section (dedupe by Message-Id, never subject). First entry to NAME the Lithic role; closes the Lithic track opened by the submission ACK [[job-applications#2026-11-14 — Thank you for applying to Lithic (uid 878)]] (and security codes [[job-applications#2026-11-14 — Security code for your application to Lithic (uid 876)]] / [[job-applications#2026-11-14 — Security code for your application to Lithic (uid 877)]]) — same company, different sub-type (decision vs ack/code) and fresh Message-Id, not a duplicate. No calendar/bills/purchases/money note — no date, deadline, or next step. Do not reply (unattended mailbox).
+- **Action required:** no — application outcome recorded; no next step or deadline. Do not reply (unattended mailbox).
+
+### Related notes
+- [[job-applications]]
+
 ## 2026-11-24 — Honeycomb hiring decision (not moving forward): Senior Software Engineer II - Agentic Intelligence (UID 1447)
 
 - **Date:** 2026-11-24T23:01:01Z
