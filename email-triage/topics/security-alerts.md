@@ -326,3 +326,15 @@ tags: [email-triage, security-alerts]
 - **Action required:** conditional — no (if Reed signed in on the moto g play - 2026 in Ohio, just ignore); yes (if unrecognized — follow 1Password's unrecognized-device steps, change the account password, review trusted devices, enable 2FA if not already).
 - **Unsubscribe:** none — transactional security mail; no List-Unsubscribe header; To contains "reed" but no unsubscribe attempted.
 - **Related notes:** [[security-alerts|Security alerts]]
+
+## 2026-11-24 — Instagram login verification code (UID 1428)
+
+- **Date:** 2026-11-24T17:31:12Z (email Date 2026-11-24 17:31:12 UTC)
+- **UID:** 1428 (INBOX, message-id <4ee286eb-fef3-49da-b3ad-55f07d17d71b@account.meta.com>, 29,397 B, no attachments)
+- **Sender:** Meta <noreply@account.meta.com> (Instagram / Meta account security)
+- **To:** reedsut@gmail.com
+- **Subject:** Use 1880049173 to log into Instagram
+- **Classification:** relevant — transactional account-security login one-time verification code (not marketing). Fourth Instagram login code in the family (after UIDs 1218/1219/1224 on 2026-11-20). To contains "reed" but this is transactional security mail; no auto-unsubscribe (suppressing would hide future security alerts).
+- **Summary:** Meta/Instagram sent a one-time login verification code **1880049173** to reedsut@gmail.com for an Instagram sign-in attempt. Code is time-sensitive (short expiry, typically ~10 minutes). Body is the standard Meta account-security verification notice. If Reed did not initiate the Instagram sign-in, treat as a potential account-takeover attempt and secure the Instagram/Meta account (change password, review active sessions, enable 2FA).
+- **Action required:** yes (time-sensitive) — enter the code at Instagram if Reed initiated the sign-in; if not requested, change the Instagram/Meta account password immediately and review account security / active sessions.
+- **Related notes:** [[security-alerts|Security alerts]]
