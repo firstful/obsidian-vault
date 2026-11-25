@@ -5,6 +5,20 @@ tags: [email-triage, job-applications]
 
 # Job Applications
 
+## 2026-11-25 — Security code for Sumo Logic application (uid 1468)
+
+- **Date:** 2026-11-25T08:54:47Z
+- **Sender:** Greenhouse <no-reply@us.greenhouse-mail.io> (Greenhouse; `X-Feedback-Id: no-reply@us.greenhouse-mail.io::5ff5c19deab70c1acacf09a2:mailgun`)
+- **To:** sutliff.reed@gmail.com (INBOX/1468; routed via Gmail forward → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Security code for your application to Sumo Logic
+- **Message-Id:** <6b06a257218f1_cf7fd4c9046c@prod-jben-web-58d7f587bc-r9kvq.mail>
+- **UID:** 1468 (INBOX)
+- **Summary:** Greenhouse (Mailgun) security verification-code interstitial for Reed's **Sumo Logic** job application (resubmission after UID 1467). Body: "Copy and paste this code into the security code field on your application" / "After you enter the code, resubmit your application." 8-digit code: 37145191. Time-sensitive transactional/application verification (not marketing) — no `X-Mailgun-Tag: CandidateAutoReply` (that tag marks acks, not codes). 1 inline image attachment (Greenhouse Recruiting logo, image/png, 6756 B); 18,301 B, multipart/related. Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass (i=1 and i=2); `X-Jellyfish-No-Auto-Response: 1`. No `List-Unsubscribe` header → no unsubscribe (transactional security code; recipient-based auto-unsubscribe gate does not apply to relevant/transactional mail even though To contains "reed"); no unsubscribes.md row. No calendar/bills/purchases/money note — no concrete date or deadline. Dedupe: Message-Id `6b06a257218f1_cf7fd4c9046c@prod-jben-web-58d7f587bc-r9kvq.mail` (prod-jben-web security-code form), code `37145191`, and `UID 1468` not previously in the topic → distinct event, own section (Greenhouse security-code subtype, action YES; dedupe by Message-Id, never subject). Second Sumo Logic security code (resubmission after UID 1467); same campaign hash (`5ff5c19deab70c1acacf09a2`) as the CoreWeave/Mercury security-code cluster, but a fresh Message-Id and code — not a duplicate. Do not reply (unattended mailbox).
+- **Action required:** yes — enter code 37145191 in the Sumo Logic application security-code field and resubmit (if still pending). Do not reply (unattended mailbox).
+
+### Related notes
+- [[job-applications]]
+
 ## 2026-11-25 — Security code for Sumo Logic application (uid 1467)
 
 - **Date:** 2026-11-25T08:53:40Z
