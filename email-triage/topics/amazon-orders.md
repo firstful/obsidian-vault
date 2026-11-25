@@ -844,3 +844,15 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a21100e966-b154c4ac-066e-4d3d-828c-76b780b4b20e-000000@email.amazonses.com>
 - **UID:** 1461 (INBOX)
 - **Related notes:** [[amazon-orders]] (shipping notification for order #112-2252383-1309852, Total $18.23 — see UID 1392 for the 2026-11-24 original batch order confirmation "Ordered 5 items: Toys & Games"; no prior shipped/out-for-delivery/delivered status entries for this order yet)
+
+
+## 2026-11-25 — Amazon shipping notification: 2 items (Supplements, Lip Care) (UID 1462)
+
+- **Date:** 2026-11-25T04:47:37Z
+- **Sender:** "Amazon.com" <shipment-tracking@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Shipped 2 items: Supplements, Lip Care
+- **Summary:** Promo/marketing Amazon shipping notification (`shipment-tracking@amazon.com`): "Emilee, your package was shipped!" — status progress Ordered → Shipped (current) → Out for delivery → Delivered. Recipient Emilee - PICKERINGTON, OH. Body exposes order #112-5825406-8859457 with Total 28.53 USD (amount label "Total", not "Grand Total:"). The total equals the sum of the two sibling confirmations (UID 1347 Supplements $16.57 + UID 1349 Lip Care $11.96), so Amazon combined both orders into a single shipment; only one order number is exposed in the body, so do not manufacture a second. ETA prose "Arriving tomorrow" (soft, relative to 2026-11-25) ⇒ no `calendar/`/`purchases/` note; canned ICS on m.media-amazon.com is a promo reminder, NOT the delivery date. Track-package link to amazon.com/progress-tracker and the "Your invoice can be accessed here" link point at this same order #112-5825406-8859457. Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass (Gmail forwarder 74.125.224.41 designated permitted sender; SES client-ip 54.240.13.122), DMARC pass (quarantine) header.from=amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES, all links amazon.com. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed"); no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk / List-Id header ⇒ no auto-unsubscribe.
+- **Action required:** no — shipping status notification, paper trail only. Monitor for out-for-delivery / delivered follow-ups on order #112-5825406-8859457. No action for Rook.
+- **Message-ID:** <010001a21107dd86-02af6579-ae0f-4770-b119-015ed6fdc50a-000000@email.amazonses.com>
+- **UID:** 1462 (INBOX)
+- **Related notes:** [[amazon-orders]] (shipping notification for order #112-5825406-8859457, Total $28.53 — see UID 1347 for the original Supplements order confirmation and UID 1349 for the Lip Care order confirmation; combined shipment)
