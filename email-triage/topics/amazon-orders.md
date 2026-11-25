@@ -890,3 +890,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a213954969-95ff7caf-86a5-4945-9fb0-ead930d213e7-000000@email.amazonses.com>
 - **UID:** 1486 (INBOX)
 - **Related notes:** [[amazon-orders]] (payment decline for order #112-0739342-5069068, $32.03, Kitchen & Dining — see UID 1425 for the 2026-11-24 original order confirmation that did not mean payment settled; same-day decline clusters UIDs 1429/1430/1431/1432/1435/1436/1438 are different orders, not re-sends)
+
+## 2026-11-25 — Amazon delivery update: Educational Audio Figure Sets, Car Cleaning Gels delayed (UID 1490)
+
+- **Date:** 2026-11-25T17:01:35Z
+- **Sender:** "Amazon.com" <order-update@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Delivery update: Educational Audio Figure Sets, Car Cleaning Gels
+- **Summary:** Amazon post-shipment delay/status notice for order #112-0843072-6493854 (Emilee - PICKERINGTON, OH). Body: "Your package is delayed" (Ordered → Shipped → Out for delivery → Delivered tracker), "Now arriving Saturday", "Previously expected November 25. We're sorry for the delay." Subject names the concrete items (Educational Audio Figure Sets, Car Cleaning Gels) the order confirmation labeled only by category; no matching confirmation or sibling status entry for #112-0843072-6493854 exists in the topic (grep by order number found none), so no chain to wikilink. The "Track package" / invoice links carry a DIFFERENT order number (#112-0825619-4081052) — boilerplate, not evidence of this order's composition (per the UID 1454 lesson). Soft ETA ("Saturday", relative to the email date) is not a hard date ⇒ no calendar/purchases note; do not manufacture one. Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass (Gmail forwarder 74.125.224.52 designated permitted sender; SES client-ip 54.240.13.156), DMARC pass (quarantine) header.from=amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES, all links amazon.com. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed"); no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk / List-Id header => no auto-unsubscribe.
+- **Action required:** no — shipping/status notification only.
+- **Message-ID:** <010001a213a7d323-bb717a35-c9de-430c-a27a-98cdabd4c747-000000@email.amazonses.com>
+- **UID:** 1490 (INBOX)
+- **Related notes:** [[amazon-orders]] (delay for order #112-0843072-6493854 — no sibling confirmation/status entry found by order number; track/invoice links name unrelated order #112-0825619-4081052)
