@@ -5,6 +5,20 @@ tags: [email-triage, job-applications]
 
 # Job Applications
 
+## 2026-11-25 — Thank you for applying to GitLab (UID 1455)
+
+- **Date:** 2026-11-25T00:38:03Z
+- **Sender:** no-reply@us.greenhouse-mail.io (GitLab Recruiting team; Greenhouse `CandidateAutoReply` via Mailgun, shared `us.greenhouse-mail.io`)
+- **To:** sutliff.reed@gmail.com (INBOX/1455; routed via Gmail forward -> ingest@ffilt.us -> reed@ffilt.us)
+- **Subject:** Thank you for applying to GitLab
+- **Message-Id:** <20261125003803.1dd08934d1384b06@us.greenhouse-mail.io>
+- **UID:** 1455 (INBOX)
+- **Summary:** Greenhouse (Mailgun) submission ACK (`CandidateAutoReply`) for Reed's application to **Senior Applied AI Engineer, Enterprise AI** at **GitLab**. Body: "Thanks for applying to GitLab! We're thrilled you'd consider joining us, and wanted to confirm that we have received your application for the Senior Applied AI Engineer, Enterprise AI role. ... our team is working hard to evaluate applications and we will be in touch if your experience is a good match ... it may take some time for us to get back to you." + GitLab values/team/culture/handbook links and a "add @gitlab.com as a safe sender" note + Recruitment Privacy Policy footer. Marketing-lite company-culture footer does NOT make an ack promo. NOT marketing: no `Precedence: bulk`, no footer unsubscribe link, `List-Unsubscribe` header present but EMPTY -> no unsubscribe (transactional ack; recipient-based auto-unsubscribe gate does not apply even though To contains "reed"); no unsubscribes.md row. No attachments (14,514 B, multipart/alternative). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (policy=none), ARC pass (i=1 and i=2); `X-Jellyfish-No-Auto-Response: 1`, `X-Mailgun-Tag: CandidateAutoReply`, `X-Feedback-Id: no-reply@us.greenhouse-mail.io:CandidateAutoReply:5ff5c19deab70c1acacf09a2:mailgun`, `X-Mailgun-Variables: {\"org_id\": \"4001209002\", \"person_id\": \"294632675002\", \"silo_id\": \"2\", \"user_id\": \"\"}`, `X-Gh-Email-Transport: mailgun`, `X-Gh-Mailer-Variables-Transport: mailgun`. Dedupe: Message-Id hex tail `1dd08934d1384b06`, 14-digit Mailgun timestamp prefix `20261125003803`, and `UID 1455` not previously in the topic -> distinct event, own section (dedupe by Message-Id, never subject). First GitLab entry. No calendar/bills/purchases/money note — no date, deadline, or next step ("will be in touch" is not a date). Do not reply (unattended mailbox).
+- **Action required:** no — application received; no next step or deadline. Do not reply (unattended mailbox).
+
+### Related notes
+- [[job-applications]]
+
 ## 2026-11-24 — Lithic hiring decision (not selected): Senior Software Engineer, Issuing (UID 1449)
 
 - **Date:** 2026-11-24T23:07:19Z

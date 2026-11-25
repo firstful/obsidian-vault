@@ -221,6 +221,7 @@ tags: [email-triage, index]
   - 2026-11-24 — Gemini (gemini.com) Greenhouse CandidateAutoReply submission ack (Staff Platform Engineer; uid 1415) → [[job-applications#2026-11-24 — Application received: Staff Platform Engineer at Gemini (uid 1415)]]
   - 2026-11-24 — Honeycomb hiring decision, not moving forward (Senior SWE II - Agentic Intelligence; UID 1447) → [[job-applications#2026-11-24 — Honeycomb hiring decision (not moving forward): Senior Software Engineer II - Agentic Intelligence (UID 1447)]]
   - 2026-11-24 — Lithic hiring decision, not selected (Senior SWE, Issuing; UID 1449) → [[job-applications#2026-11-24 — Lithic hiring decision (not selected): Senior Software Engineer, Issuing (UID 1449)]]
+  - 2026-11-25 — GitLab Greenhouse CandidateAutoReply submission ack (Senior Applied AI Engineer, Enterprise AI; UID 1455) → [[job-applications#2026-11-25 — Thank you for applying to GitLab (UID 1455)]]
 - [medical-appointments](topics/medical-appointments.md) — Medical appointment reminders, MyChart portal notices & OTPs (Nationwide Children's, OSU Wexner; transactional)
   - 2026-11-20 — New NCH MyChart message for Elijah (Emilee; UID 1239, action YES) → [[medical-appointments#2026-11-20 — New MyChart message for Elijah (Nationwide Children's, Emilee; UID 1239)]]
   - 2026-11-24 — MyChart preregistration reminder for Reed's 11-25 11:35 EST telehealth visit (Emilee; UID 1421, action YES) → [[medical-appointments#2026-11-24 — MyChart appointment reminder, preregister (OSU Wexner, Reed; UID 1421)]]
