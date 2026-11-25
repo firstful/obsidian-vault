@@ -117,3 +117,16 @@ tags: [email-triage, walmart-orders, purchases]
 - **UID:** 1503
 - **Folder:** INBOX
 - **Calendar:** [[calendar/2026-11-25 - Walmart order 2000155-34096682 unavailable items act by 6-59pm]]
+
+
+## 2026-11-25 — Walmart order delivered (UID 1506, Order 2000155-34096682)
+
+- **Date:** 2026-11-25T18:19:04Z
+- **Sender:** Walmart.com <help@walmart.com> (to emilee.sutliff@gmail.com)
+- **Subject:** Delivered: Zicam Cold Remedy Zinc... +2 items
+- **Summary:** Transactional Walmart delivery-completion notice for order #2000155-34096682 (order date Wed, Nov 25, 2026). Driver OUMOUHANY dropped off the delivery from store at 1:18pm on Wed, Nov 25; photo of drop-off location provided. 3 items arrived: Zicam Cold Remedy Zinc RapidMelts Citrus Flavor Homeopathic Cold Shortening 25 Ct (subject's "Zicam Cold Remedy Zinc..."), Rold Gold Original Pretzel Sticks Snacks 16 oz Bag, and 4-pack Better Homes & Gardens White Porcelain Ramekin 10 oz. 6 items unavailable (shown as "6 items unavailable" with a "4" marker): 84x54 Autumn Harvest Paper Table Cover, 84x54 Turkey Activity Paper Table Cover (both Way To Celebrate, Thanksgiving), and Better Homes & Gardens White Porcelain Square Serving Bowl 6 oz (Qty 4) — overlapping the unavailable items flagged earlier by [[email-triage/topics/walmart-orders#2026-11-25 — Walmart unavailable items / take action by 6:59pm (UID 1503, Order 2000155-34096682)|UID 1503]]. Same order as [[email-triage/topics/walmart-orders#2026-11-25 — Walmart delivery order confirmed (UID 1479, Order 2000155-34096682)|order confirmed UID 1479]]. Payment ending 4780 charged the final total (no explicit dollar total in email); temporary hold to be removed by bank within ~7 days. Estimated Walmart Cash $4.00. To: emilee.sutliff@gmail.com ⇒ no unsubscribe.
+- **Action required:** no — informational terminal delivery event; verify items/refrigerate perishables and start a return from order details if needed. No deadline. Tracked in [[calendar/2026-11-25 - Walmart order 2000155-34096682 delivered]].
+- **Message-ID:** <6bc7d1988474a8ef12d603b5fa05e7d3dd8be89299e496b21ddb41b5714e52ad@walmart.com>
+- **UID:** 1506
+- **Folder:** INBOX
+- **Calendar:** [[calendar/2026-11-25 - Walmart order 2000155-34096682 delivered]]
