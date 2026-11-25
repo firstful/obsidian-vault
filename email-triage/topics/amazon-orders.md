@@ -868,3 +868,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a2112b0e01-1067d349-495d-483a-9816-c39ed5ef7b47-000000@email.amazonses.com>
 - **UID:** 1463 (INBOX)
 - **Related notes:** [[amazon-orders]] (shipping notification for order #112-3121388-2298647, Total $12.92 — see UID 1420 for the 2026-11-24 original order confirmation "Water Bottle Accessories" and UID 1458 for the 2026-11-25 delivery estimate delay to November 27; no prior shipped/out-for-delivery/delivered status entries for this order yet)
+
+## 2026-11-25 — Amazon shipping notification: 2 items (3D Printing Supplies, Water Bottle Accessories) (UID 1465)
+
+- **Date:** 2026-11-25T06:27:35Z
+- **Sender:** "Amazon.com" <shipment-tracking@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Shipped 2 items: 3D Printing Supplies, Water Bottle Accessories
+- **Summary:** Amazon shipping notification (`shipment-tracking@amazon.com`): "Emilee, your Black Friday Deals package is on the way!" / "Emilee, your package was shipped!" Status progress Ordered → Shipped (current) → Out for delivery → Delivered. Recipient Emilee - PICKERINGTON, OH. Body exposes order #112-2262393-6845053 with Total 36.50 USD (amount label "Total"), covering 2 items across two originally separate orders: 1× 3D Printing Supplies (#112-2262393-6845053, $23.58, UID 1352) + 1× Water Bottle Accessories (#112-8398424-0591455, $12.92, UID 1417) = $36.50. ETA prose "Arriving today" (soft same-day ETA) ⇒ no `calendar/`/`purchases/` note. Track-package link (amazon.com/progress-tracker) references orderId=112-8398424-0591455, shipmentId=N7nGlb3RS; invoice link (amazon.com/gp/css/summary/print.html) also references orderID=112-8398424-0591455. Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass (Gmail forwarder 74.125.224.44; SES client-ip 54.240.13.111), DMARC pass (quarantine) header.from=amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES, all links amazon.com. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed"); no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk / List-Id header ⇒ no auto-unsubscribe.
+- **Action required:** no — shipping status notification, paper trail only. Monitor for out-for-delivery / delivered follow-ups. No action for Rook.
+- **Message-ID:** <010001a211636067-48298c47-abab-40d5-a8ec-2ef3421102cc-000000@email.amazonses.com>
+- **UID:** 1465 (INBOX)
+- **Related notes:** [[amazon-orders]] (combined shipping notification for orders #112-2262393-6845053 (3D Printing Supplies, $23.58, UID 1352) and #112-8398424-0591455 (Water Bottle Accessories, $12.92, UID 1417); Total $36.50; arriving today)
