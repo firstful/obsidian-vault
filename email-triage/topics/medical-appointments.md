@@ -399,4 +399,17 @@ tags: [email-triage, medical-appointments]
 - **Summary:** "Join now" notice addressed to Emilee ("Dear Emilee"): "You may now join Reed's video visit. Check in before joining if you haven't done so already." Directs the patient/proxy to sign in at https://mychart.osu.edu with MyChart username/password to join the visit; no new eCheck-in token. This is the live-visit join notice for Reed's 2026-11-25 11:35 AM EST telehealth/video visit with Jeffrey Schord, MD at OSU Wexner Medical Center (same appointment tracked by UIDs 1123/1124/1421/1422 preregistration reminders and UIDs 1480/1481 same-day check-in reminders). Carries no new appointment detail. MyChart support: 614-366-6975 / 1-866-966-6975 (Mon-Fri 9 a.m.-6 p.m., excluding holidays).
 - **Action required:** yes (sign in to MyChart and join Reed's video visit now — appointment 2026-11-25 11:35 AM EST)
 - **Related:** [[calendar/2026-11-25 - Reed telehealth visit (Jeffrey Schord, MD)]], [[medical-appointments]]
-- **Sibling (not yet triaged):** UID 1484 — Reed's own copy of this same "now join" notice (To reedsut@gmail.com, message-id <d5fb81a8-7ad7-4428-bd02-0b93588bd5ca@SVR-EXCH19-VP01.OSUMC.EDU>), sent 2026-11-25T16:35:08Z. No `List-Unsubscribe` header and no `Precedence: bulk` → no auto-unsubscribe despite sibling To containing "reed"; no `unsubscribes.md` row.
+- **Sibling (triaged):** UID 1484 — Reed's own copy of this same "now join" notice (To reedsut@gmail.com, message-id <d5fb81a8-7ad7-4428-bd02-0b93588bd5ca@SVR-EXCH19-VP01.OSUMC.EDU>), sent 2026-11-25T16:35:08Z — triaged as the entry below. No `List-Unsubscribe` header and no `Precedence: bulk` → no auto-unsubscribe; no `unsubscribes.md` row.
+
+## 2026-11-25 — MyChart "You may now join your video visit" (OSU Wexner, Reed; UID 1484)
+
+- **Date:** 2026-11-25T16:35:08Z (Wed 11:35:08 -0500)
+- **UID:** 1484 (INBOX) · message-id: <d5fb81a8-7ad7-4428-bd02-0b93588bd5ca@SVR-EXCH19-VP01.OSUMC.EDU>
+- **Sender:** MyChart_DoNotReply@osumc.edu (OSU Wexner Medical Center MyChart)
+- **Subject:** You may now join your video visit
+- **To:** reedsut@gmail.com (Delivered-To reed@ffilt.us via forwarding; original recipient reedsut@gmail.com)
+- **Classification:** relevant (transactional — live "join now" video-visit notice; no List-Unsubscribe)
+- **Summary:** "Join now" notice addressed to Reed ("Dear Reed"): "You may now join your video visit. Check in before joining if you haven't done so already." Directs the patient to sign in at https://mychart.osu.edu with MyChart username/password to join the visit; no new eCheck-in token. This is the live-visit join notice (Reed's own copy) for Reed's 2026-11-25 11:35 AM EST telehealth/video visit with Jeffrey Schord, MD at OSU Wexner Medical Center (same appointment tracked by UIDs 1123/1124/1421/1422 preregistration reminders and UIDs 1480/1481 same-day check-in reminders, and the proxy/Emilee copy UID 1483). Carries no new appointment detail. MyChart support: 614-366-6975 / 1-866-966-6975 (Mon-Fri 9 a.m.-6 p.m., excluding holidays).
+- **Action required:** yes (sign in to MyChart and join the video visit now — appointment 2026-11-25 11:35 AM EST)
+- **Related:** [[calendar/2026-11-25 - Reed telehealth visit (Jeffrey Schord, MD)]], [[medical-appointments]]
+- **Sibling:** UID 1483 — Emilee/proxy copy of this same "now join" notice (To emileesutliff@gmail.com), triaged above.
