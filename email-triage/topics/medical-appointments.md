@@ -413,3 +413,15 @@ tags: [email-triage, medical-appointments]
 - **Action required:** yes (sign in to MyChart and join the video visit now — appointment 2026-11-25 11:35 AM EST)
 - **Related:** [[calendar/2026-11-25 - Reed telehealth visit (Jeffrey Schord, MD)]], [[medical-appointments]]
 - **Sibling:** UID 1483 — Emilee/proxy copy of this same "now join" notice (To emileesutliff@gmail.com), triaged above.
+
+## 2026-11-25 — MyChart "Sorry for the wait!" provider running late (OSU Wexner, Reed; UID 1488)
+
+- **Date:** 2026-11-25T16:45:05Z (Wed 11:45:05 -0500)
+- **UID:** 1488 (INBOX) · message-id: <869f136b-f3a0-4065-a571-5cbcd88e48b8@SVR-EXCH19-VP02.OSUMC.EDU>
+- **Sender:** MyChart_DoNotReply@osumc.edu (OSU Wexner Medical Center MyChart)
+- **Subject:** Sorry for the wait!
+- **To:** emileesutliff@gmail.com (original recipient; forwarded via Gmail ingest to ingest@ffilt.us, Delivered-To reed@ffilt.us)
+- **Classification:** relevant (transactional — live "provider running late" notice for an in-progress video visit; no List-Unsubscribe)
+- **Summary:** "Sorry for the wait!" notice addressed to Emilee ("Dear Emilee"): Reed's provider for the 2026-11-25 11:35 AM EST telehealth/video visit with Jeffrey Schord, MD at OSU Wexner Medical Center is running late and will join shortly; if the provider has not joined within 5 minutes, call the number in the notice (plain-text part: 614-366-2050; HTML part: 614-293-2850 — discrepancy between the two parts). Directs the patient/proxy to sign in at https://mychart.osu.edu with MyChart username/password to join the visit. Sent ~10 minutes after the scheduled 11:35 EST visit start. This is the "provider running late" variant of the same appointment tracked by UIDs 1123/1124/1421/1422 (preregistration reminders), UIDs 1480/1481 (same-day check-in reminders), and UIDs 1483/1484 ("you may now join your video visit"). Carries no new appointment detail or eCheck-in token. MyChart support: 614-366-6975 / 1-866-966-6975 (Mon-Fri 9 a.m.-6 p.m., excluding holidays).
+- **Action required:** yes (sign in to MyChart and join Reed's video visit now — provider is running late; if the provider has not joined within 5 minutes, call the number in the notice; appointment 2026-11-25 11:35 AM EST with Jeffrey Schord, MD)
+- **Related:** [[calendar/2026-11-25 - Reed telehealth visit (Jeffrey Schord, MD)]], [[medical-appointments]]
