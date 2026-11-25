@@ -234,6 +234,8 @@ tags: [email-triage, index]
   - 2026-11-20 — Verify contact info for arewefucked.xyz by 2026-12-05 or domain suspended (re-send of UID 1265, same verification key), action YES (UID 1266) → [[namecheap#2026-11-20 — Verify contact information for domain(s) — arewefucked.xyz (UID 1266, re-send of UID 1265)]]
   - 2026-11-20 — Verify contact info for arewefucked.xyz by 2026-12-05 or domain suspended, action YES (UID 1265) → [[namecheap#2026-11-20 — Verify contact information for domain(s) — arewefucked.xyz (UID 1265)]]
   - 2026-11-20 — Order summary: domain registration arewebfucked.xyz, $1.70, order #220122484, action no (UID 1264) → [[namecheap#2026-11-20 — Namecheap order summary: domain registration, order #220122484]]
+- [nationwide-pet](topics/nationwide-pet.md) — Nationwide Pet pet insurance marketing (Salesforce Marketing Cloud; auto-unsubscribe attempted)
+  - 2026-11-25 — Nationwide Pet pet insurance promo "Your pet's healthcare plan", action no (UID 1457) → [[nationwide-pet#2026-11-25 — Your pet's healthcare plan (UID 1457)]]
 - [opencode](topics/opencode.md) — OpenCode (Anomaly) paid-account billing/tax notices (sales tax/VAT/GST on invoices)
   - 2026-11-23 — Anomaly | Sales tax and VAT on your invoices (UID 1332) → [[opencode#2026-11-23 — Anomaly | Sales tax and VAT on your invoices (UID 1332)]]
 - [pickerington-schools](topics/pickerington-schools.md) — Pickerington Local School District (PLSD) superintendent/district communications + BusRight school-bus service notices (transactional, important)
