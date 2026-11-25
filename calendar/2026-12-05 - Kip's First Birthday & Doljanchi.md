@@ -16,5 +16,5 @@ tags: [calendar, events, evite, birthday]
 - Date/Time: Saturday, December 5, 2026, 1:00 PM–3:00 PM (America/New_York)
 - Location: Dwell Church — Office Auditorium, 1340 Community Park Dr, Columbus, OH 43229
 - RSVP (Sutliff family): "Maybe" for 2 adults + 2 kids (recorded 2026-11-25)
-- Source: email UID 1459 (INBOX, 2026-11-25, Evite) in [[evite]]
-- Action: finalize RSVP from "Maybe" to firm yes/no ahead of Dec 5 (change via Evite link in the email)
+- Source: email UID 1459 (INBOX, 2026-11-25, Evite) in [[evite]]; host reply notification UID 1493 (INBOX, 2026-11-25, Evite) in [[evite]]
+- Action: review host Jessi Middleton's RSVP reply (via View Invitation link, UID 1493) and finalize RSVP from "Maybe" to firm yes/no ahead of Dec 5 (change via Evite link in the email)

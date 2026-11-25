@@ -299,3 +299,4 @@ tags: [email-triage, index]
 
 - [evite](topics/evite.md) — Evite event invitations/RSVPs (transactional; family events)
   - 2026-11-25 — Evite RSVP confirmation: Kip's First Birthday & Doljanchi (UID 1459) → [[evite#2026-11-25 — Evite RSVP confirmation: Kip's First Birthday & Doljanchi (UID 1459)]]
+  - 2026-11-25 — Evite: host replied to your RSVP — Kip's First Birthday & Doljanchi (UID 1493), action yes → [[evite#2026-11-25 — Evite: host replied to your RSVP — Kip's First Birthday & Doljanchi (UID 1493)]]
