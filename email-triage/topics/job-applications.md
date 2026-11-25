@@ -5,6 +5,21 @@ tags: [email-triage, job-applications]
 
 # Job Applications
 
+## 2026-11-25 — Security code for Sumo Logic application (uid 1467)
+
+- **Date:** 2026-11-25T08:53:40Z
+- **Sender:** no-reply@us.greenhouse-mail.io (Greenhouse; `X-Feedback-Id: no-reply@us.greenhouse-mail.io::5ff5c19deab70c1acacf09a2:mailgun`)
+- **To:** sutliff.reed@gmail.com (INBOX/1467; routed via Gmail forward → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Security code for your application to Sumo Logic
+- **Message-Id:** <6b06a21431899_c6ef94d28119174@prod-jben-web-58d7f587bc-s29d7.mail>
+- **UID:** 1467 (INBOX)
+- **Summary:** Greenhouse (Mailgun) security verification-code interstitial for Reed's **Sumo Logic** job application. Body: "Copy and paste this code into the security code field on your application" / "After you enter the code, resubmit your application." 8-digit code: 38077089. Time-sensitive transactional/application verification (not marketing) — no `X-Mailgun-Tag: CandidateAutoReply` (that tag marks acks, not codes). 1 inline image attachment (Greenhouse Recruiting logo, image/png, 6756 B); 18,328 B, multipart/related. Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass, ARC pass (i=1 and i=2); `X-Jellyfish-No-Auto-Response: 1`. No `List-Unsubscribe` header → no unsubscribe (transactional security code; recipient-based auto-unsubscribe gate does not apply to relevant/transactional mail even though To contains "reed"); no unsubscribes.md row. No calendar/bills/purchases/money note — no concrete date or deadline. Dedupe: Message-Id `6b06a21431899_c6ef94d28119174@prod-jben-web-58d7f587bc-s29d7.mail` (prod-jben-web security-code form), code `38077089`, and `UID 1467` not previously in the topic → distinct event, own section (Greenhouse security-code subtype, action YES; dedupe by Message-Id, never subject). First Sumo Logic entry in this topic; same campaign hash (`5ff5c19deab70c1acacf09a2`) as the CoreWeave/Mercury security-code cluster, but a different employer and a fresh Message-Id — not a duplicate. Do not reply (unattended mailbox).
+- **Action required:** yes — enter code 38077089 in the Sumo Logic application security-code field and resubmit (if still pending). Do not reply (unattended mailbox).
+
+### Related notes
+- [[job-applications]]
+
+
 ## 2026-11-25 — Thank you for applying to GitLab (UID 1455)
 
 - **Date:** 2026-11-25T00:38:03Z
