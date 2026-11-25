@@ -105,3 +105,15 @@ tags: [email-triage, walmart-orders, purchases]
 - **Message-ID:** <20261125160818.a3098b7861f4926a@prod.walmart.com>
 - **UID:** 1479
 - **Folder:** INBOX
+
+## 2026-11-25 — Walmart unavailable items / take action by 6:59pm (UID 1503, Order 2000155-34096682)
+
+- **Date:** 2026-11-25T17:59:23Z
+- **Sender:** Walmart.com <help@walmart.com> (to emilee.sutliff@gmail.com)
+- **Subject:** Take action by 6:59pm to receive unavailable items later for free
+- **Summary:** Transactional Walmart order update for order #2000155-34096682 (order date Wed, Nov 25, 2026; same order as [[email-triage/topics/walmart-orders#2026-11-25 — Walmart delivery order confirmed (UID 1479, Order 2000155-34096682)|order confirmed UID 1479]]). 5 items are unavailable with the order. Emilee must review and accept alternate delivery options by 6:59pm Wed, Nov 25, 2026: 2 items (Equate Children's Melatonin Dietary Supplement Liquid, Natural Mixed Berry, 1 mg, 1 fl oz — Qty 2, $4.98 ea / $9.96) can be delivered later for free; 3 items remain unavailable — 84x54 Autumn Harvest Paper Table Cover, Thanksgiving by Way To Celebrate ($2.97), 84x54 Turkey Activity Paper Table Cover, Thanksgiving by Way To Celebrate ($2.97), and (4 pack) Better Homes & Gardens White Porcelain Square Serving Bowl, 6 oz ($8.48). If no action is taken, unavailable items are removed from the order; only received items are charged. Payment ending 4780; temporary hold $62.80 (not the final charge). No List-Unsubscribe / bulk headers; To is non-Reed ⇒ no unsubscribe.
+- **Action required:** yes — Emilee must review/accept alternate delivery (or let items be removed) in the Walmart app before 6:59pm on 2026-11-25. Rook takes no action. Tracked in [[calendar/2026-11-25 - Walmart order 2000155-34096682 unavailable items act by 6-59pm]].
+- **Message-ID:** <8fe5d15c13ec71ed10d3f763db297ff72524c738e53e0d95c215c333aa2eab29@walmart.com>
+- **UID:** 1503
+- **Folder:** INBOX
+- **Calendar:** [[calendar/2026-11-25 - Walmart order 2000155-34096682 unavailable items act by 6-59pm]]
