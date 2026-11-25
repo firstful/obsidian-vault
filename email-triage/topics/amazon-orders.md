@@ -856,3 +856,15 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a21107dd86-02af6579-ae0f-4770-b119-015ed6fdc50a-000000@email.amazonses.com>
 - **UID:** 1462 (INBOX)
 - **Related notes:** [[amazon-orders]] (shipping notification for order #112-5825406-8859457, Total $28.53 — see UID 1347 for the original Supplements order confirmation and UID 1349 for the Lip Care order confirmation; combined shipment)
+
+
+## 2026-11-25 — Amazon shipping notification: 1 item (Tumbler Lids) (UID 1463)
+
+- **Date:** 2026-11-25T05:26:04Z
+- **Sender:** "Amazon.com" <shipment-tracking@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Shipped 1 item: Tumbler Lids
+- **Summary:** Promo/marketing Amazon shipping notification (`shipment-tracking@amazon.com`): "Emilee, your Black Friday Deals package is on the way!" — status progress Ordered → Shipped (current) → Out for delivery → Delivered. Recipient Emilee - PICKERINGTON, OH. Body exposes order #112-3121388-2298647 with Total 12.92 USD (amount label "Total", not "Grand Total:"). This is the "Shipped" status step for order #112-3121388-2298647, originally confirmed 2026-11-24 in UID 1420 ("Ordered 1 item: Water Bottle Accessories", $12.92) and had its delivery estimate revised 2026-11-25 in UID 1458 (delayed to November 27). ETA prose "Arriving Friday" (bare weekday, soft ETA relative to 2026-11-25) ⇒ no `calendar/`/`purchases/` note; canned ICS on m.media-amazon.com is a promo reminder, NOT the delivery date. Track-package link to amazon.com/progress-tracker and the "Your invoice can be accessed here" link point at this same order #112-3121388-2298647. Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass (Gmail forwarder 74.125.224.53 designated permitted sender; SES client-ip 54.240.13.148), DMARC pass (quarantine) header.from=amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES, all links amazon.com. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed"); no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk / List-Id header ⇒ no auto-unsubscribe.
+- **Action required:** no — shipping status notification, paper trail only. Monitor for out-for-delivery / delivered follow-ups on order #112-3121388-2298647. No action for Rook.
+- **Message-ID:** <010001a2112b0e01-1067d349-495d-483a-9816-c39ed5ef7b47-000000@email.amazonses.com>
+- **UID:** 1463 (INBOX)
+- **Related notes:** [[amazon-orders]] (shipping notification for order #112-3121388-2298647, Total $12.92 — see UID 1420 for the 2026-11-24 original order confirmation "Water Bottle Accessories" and UID 1458 for the 2026-11-25 delivery estimate delay to November 27; no prior shipped/out-for-delivery/delivered status entries for this order yet)
