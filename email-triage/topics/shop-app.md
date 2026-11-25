@@ -26,3 +26,13 @@ tags: [email-triage, shop-app]
 - **Action required:** no
 - **Classification:** promo/marketing — Black Friday product-deal roundup.
 - **Auto-unsubscribe:** To contains "reed" → attempted. POST (RFC 8058 one-click) to the List-Unsubscribe HTTPS URL → 404 Not Found; GET fallback → 429 Too Many Requests (rate limited). Logged in `topics/unsubscribes.md`. No mailto fallback (HTTPS mechanism present).
+
+## 2026-11-25 — Shop: "Your tonies® cart? It's saved on Shop ☃️"
+
+- UID: 1487 (INBOX) · message-id: <E1020100-18EB577697D4A346-F5C10A15@shopify.com>
+- From: Shop <noreply@email.shop.app>
+- To: emileesutliff@gmail.com
+- Date: 2026-11-25T16:44:03Z
+- Summary: Cart-abandonment promo from the Shop app (Shopify) reminding the recipient that a tonies® cart is saved. Marketing only — no order, billing, deadline, or household action. 106,493 bytes, no attachments.
+- Action required: no
+- Notes: Promo / marketing. To address (emileesutliff@gmail.com) contains no "reed" substring, so no auto-unsubscribe performed. Silent on Discord (action-required = no).
