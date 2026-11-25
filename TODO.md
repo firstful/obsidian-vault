@@ -1,6 +1,6 @@
 ---
 title: TODO
-created: 2026-11-24
+created: 2026-11-25
 tags: [todo, auto-generated, personal]
 ---
 
@@ -9,9 +9,9 @@ tags: [todo, auto-generated, personal]
 _Auto-generated nightly. Personal money/bills/medical/appointments/errands and follow-ups from the last 24h of vault activity. Work/dev todos are excluded. Do not edit by hand._
 
 ## Summary
-- Critical: 7 | High: 7 | Medium: 22 | Low: 26
+- Critical: 7 | High: 8 | Medium: 24 | Low: 29
 - Retired as complete: 0
-- Generated: 2026-11-24T18:23:43Z
+- Generated: 2026-11-25T06:31:54Z
 
 ## Critical
 - [ ] Maxine vet recheck and drain removal (overdue since 2026-11-05) — [[2026-11-05 - Maxine vet recheck and drain removal]]
@@ -30,6 +30,7 @@ _Auto-generated nightly. Personal money/bills/medical/appointments/errands and f
 - [ ] Quicksilver credit card statement payment due $79.38 (2026-12-16) — [[2026-12-16 - Quicksilver payment 79.38 due]]
 - [ ] Auto insurance installment $119.98 (2026-12-19, Branch Insurance) — [[2026-12-19 - Auto insurance installment]]
 - [ ] Reply to eBay buyer lakboh33 (item 267849469808): confirm everything works, address shipping-cost offset request (action required) — [[ebay]]
+- [ ] Resolve Amazon payment declines — retry/update payment method on orders #112-4094759-8624262, #112-3213619-4258628, #112-5130203-3571450, #112-3892735-4604262 (UIDs 1429-1438) — [[amazon-orders]]
 
 ## Medium
 - [ ] Huntington Online Services Agreement update effective (overdue reminder, 2026-11-20) — [[2026-11-20 - Huntington Online Services Agreement update effective]]
@@ -54,6 +55,8 @@ _Auto-generated nightly. Personal money/bills/medical/appointments/errands and f
 - [ ] UHC super bills therapy — [[Todos]]
 - [ ] Cancel tonia — [[Todos]]
 - [ ] Add to AAC — [[Todos]]
+- [ ] Follow up on LinkedIn call with Wes King (Stafford Technology) — 3:30pm 2026-11-24 occurred; review outcomes/next steps — [[recruiter-outreach]]
+- [ ] Update Google Play payment method — Spotify charged to backup card (UID 1434) — [[google-play]]
 
 ## Low
 - [ ] Backblaze Privacy Notice and policies effective (2026-12-01) — [[2026-12-01 - Backblaze Privacy Notice and policies effective]]
@@ -82,6 +85,9 @@ _Auto-generated nightly. Personal money/bills/medical/appointments/errands and f
 - [ ] Dumpster for basement? — [[Todos]]
 - [ ] Verify Meta passkey creation was Reed's; secure account if unrecognized (UID 1361) — [[security-alerts]]
 - [ ] Manual unsubscribe from ZipRecruiter job alerts (one-click POST returned 403 Cloudflare challenge) — [[unsubscribes]]
+- [ ] Review updated Discord Terms of Service/Privacy Policy/Paid Services Terms (effective 2026-12-15) — [[discord]]
+- [ ] Kip's First Birthday & Doljanchi prep (2026-12-05) — [[2026-12-05 - Kip's First Birthday & Doljanchi]]
+- [ ] Manual unsubscribe from Ticketmaster promotional emails (one-click POST 400 / GET 302 failed; mailto recorded) — [[unsubscribes]]
 
 ## Retired this run
 - None this run.
