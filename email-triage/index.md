@@ -111,6 +111,7 @@ tags: [email-triage, index]
 - [lowes](topics/lowes.md) — Lowe's Credit Services (Synchrony) credit-card promos (marketing)
 - [donations](topics/donations.md) — Charitable donations and receipts (World Team, etc.)
 - [donatos](topics/donatos.md) — Donatos Pizza pickup order confirmations and receipts
+- [the-oven](topics/the-oven.md) — The Oven (theoven@mg.owner.com) restaurant marketing campaigns (marketing)
 - [mcdonalds](topics/mcdonalds.md) — McDonald's Mobile Order & Pay receipts (transactional)
   - 2026-11-20 — McDonald's mobile order receipt: $16.26, Order# RC63 (Reynoldsburg), action no (UID 1260) → [[mcdonalds#2026-11-20 — McDonald's mobile order receipt: $16.26 (UID 1260)]]
 - [papajohns](topics/papajohns.md) — Papa John's pizza order confirmations and delivery receipts (transactional)
