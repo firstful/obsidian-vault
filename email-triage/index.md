@@ -166,6 +166,7 @@ tags: [email-triage, index]
   - 2026-11-22 — In-store purchase receipt, Reynoldsburg #6326, 99 items, TC# 7738058687663000896056, action no (UID 1327) → [[samsclub#2026-11-22 — In-store purchase receipt (UID 1327)]]
   - 2026-11-19 — Sign-in from new device (UID 1204) → [[samsclub#2026-11-19 — Sign-in from new device (UID 1204)]]
 - [github-dependabot-pr](topics/github-dependabot-pr.md) — GitHub Dependabot pull-request activity notifications (PR comments/state changes; transactional, informational)
+  - 2026-11-25 — Dependabot bot comment on ci-dependencies group PR #4 (UID 1471) → [[github-dependabot-pr#2026-11-25 — Dependabot bot comment on ci-dependencies group PR #4 (UID 1471)]]
 - [google-account](topics/google-account.md) — Google Account security alerts and verification notices
 - [google-fi](topics/google-fi.md) — Google Fi Wireless rejoin/win-back offers and plan promos (marketing)
 - [google-gemini](topics/google-gemini.md) — Google Gemini mandatory privacy/settings service announcements (e.g. Keep Activity split into history-retention + AI-training settings; informational, not marketing)
