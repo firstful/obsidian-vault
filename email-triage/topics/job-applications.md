@@ -5,6 +5,17 @@ tags: [email-triage, job-applications]
 
 # Job Applications
 
+## 2026-11-25 — Thank you for applying to Sumo Logic (UID 1469)
+
+- **Date:** 2026-11-25T08:57:02Z
+- **Sender:** no-reply@sumologic.com (Sumo Logic Recruiting Team; Greenhouse `JobBoardCandidateImporting::Workers::JobApplicationsImporterWorker` via Amazon SES, `X-GH-Messaging-Service-Client: Greenhouse`, `X-GH-Email-Transport: messaging-service`, `X-GH-Mailer: Email::CustomSmtpClient::SmtpMailer#send_with_body`)
+- **To:** sutliff.reed@gmail.com (INBOX/1469; routed via Gmail forward → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Thank you for applying to Sumo Logic
+- **Message-Id:** <010001a211ec34d0-eeaebcb4-44c5-41b3-b105-463960e00faf-000000@email.amazonses.com>
+- **UID:** 1469 (INBOX)
+- **Summary:** Greenhouse (Amazon SES) application-submission acknowledgement for Reed's application to **Sumo Logic**. Body: "Hi Reed, Thank you for taking the time to apply to Sumo Logic. We're glad you're interested in joining our team, and we want you to know your application has been received and is in good hands. Our team will be reviewing your application soon. If we'd like to move forward, someone from our recruiting team will be in touch to discuss next steps. We appreciate your patience during the review process and wish you the very best! Regards, Sumo Logic Recruiting Team" + "This message was sent from a mailbox that isn't monitored — please don't reply directly to this email, as responses won't be received." No specific role named anywhere in the email — do not infer one. Pure submission ACK — NOT a security-code interstitial, NOT a hiring decision/rejection; no code, no deadline, no concrete date. No attachments (11,816 B, multipart/alternative). Authentic: DKIM pass (sumologic.com s=jk2747enduzvl5kiqlvlhntjuhwws5sv, amazonses.com s=224i4yxa5dv7c2xz3womw6peuasteono), SPF pass, DMARC pass (p=reject), ARC pass (i=1 and i=2); `X-Jellyfish-No-Auto-Response: 1`, `X-GH-Mailer-Variables-Org-Id: 772`, `X-GH-Mailer-Variables-Silo-Id: 1`, `X-GH-Messaging-Service-Version: ff8dcea4e34b6e77b168ab6f97f99de847c2005b`, `X-GH-Messaging-Service-Provider: smtp`, `X-SES-Outgoing: 2026.11.25-54.240.9.40`. No `List-Unsubscribe` header → no unsubscribe (transactional submission ack; recipient-based auto-unsubscribe gate does not apply even though To contains "reed"); no unsubscribes.md row. Dedupe: Message-Id `<010001a211ec34d0-eeaebcb4-44c5-41b3-b105-463960e00faf-000000@email.amazonses.com>` and `UID 1469` not previously in the topic → distinct event, own section (dedupe by Message-Id, never subject). Sibling in time to the Sumo Logic security codes [[job-applications#2026-11-25 — Security code for Sumo Logic application (uid 1468)]] (08:54:47Z, ~2.25 min earlier, code 37145191) and [[job-applications#2026-11-25 — Security code for Sumo Logic application (uid 1467)]] (08:53:40Z, ~3.5 min earlier, code 38077089) — same employer/campaign, but a DIFFERENT sub-type (submission ack via Amazon SES, not code interstitial via Mailgun) and a fresh Message-Id: this is the post-code submission confirmation, not a resend of the code. First Sumo Logic ack in this topic. No calendar/bills/purchases/money note — no concrete date, deadline, or next step ("will be in touch" is not a date). Do not reply (unmonitored mailbox).
+- **Action required:** no — confirmation only; wait for recruiter follow-up. Do not reply (unmonitored mailbox).
+
 ## 2026-11-25 — Security code for Sumo Logic application (uid 1468)
 
 - **Date:** 2026-11-25T08:54:47Z
@@ -15,9 +26,6 @@ tags: [email-triage, job-applications]
 - **UID:** 1468 (INBOX)
 - **Summary:** Greenhouse (Mailgun) security verification-code interstitial for Reed's **Sumo Logic** job application (resubmission after UID 1467). Body: "Copy and paste this code into the security code field on your application" / "After you enter the code, resubmit your application." 8-digit code: 37145191. Time-sensitive transactional/application verification (not marketing) — no `X-Mailgun-Tag: CandidateAutoReply` (that tag marks acks, not codes). 1 inline image attachment (Greenhouse Recruiting logo, image/png, 6756 B); 18,301 B, multipart/related. Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass (i=1 and i=2); `X-Jellyfish-No-Auto-Response: 1`. No `List-Unsubscribe` header → no unsubscribe (transactional security code; recipient-based auto-unsubscribe gate does not apply to relevant/transactional mail even though To contains "reed"); no unsubscribes.md row. No calendar/bills/purchases/money note — no concrete date or deadline. Dedupe: Message-Id `6b06a257218f1_cf7fd4c9046c@prod-jben-web-58d7f587bc-r9kvq.mail` (prod-jben-web security-code form), code `37145191`, and `UID 1468` not previously in the topic → distinct event, own section (Greenhouse security-code subtype, action YES; dedupe by Message-Id, never subject). Second Sumo Logic security code (resubmission after UID 1467); same campaign hash (`5ff5c19deab70c1acacf09a2`) as the CoreWeave/Mercury security-code cluster, but a fresh Message-Id and code — not a duplicate. Do not reply (unattended mailbox).
 - **Action required:** yes — enter code 37145191 in the Sumo Logic application security-code field and resubmit (if still pending). Do not reply (unattended mailbox).
-
-### Related notes
-- [[job-applications]]
 
 ## 2026-11-25 — Security code for Sumo Logic application (uid 1467)
 
