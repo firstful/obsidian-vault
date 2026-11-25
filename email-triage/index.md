@@ -167,6 +167,8 @@ tags: [email-triage, index]
   - 2026-11-19 — Sign-in from new device (UID 1204) → [[samsclub#2026-11-19 — Sign-in from new device (UID 1204)]]
 - [github-dependabot-pr](topics/github-dependabot-pr.md) — GitHub Dependabot pull-request activity notifications (PR comments/state changes; transactional, informational)
   - 2026-11-25 — Dependabot bot comment on ci-dependencies group PR #4 (UID 1471) → [[github-dependabot-pr#2026-11-25 — Dependabot bot comment on ci-dependencies group PR #4 (UID 1471)]]
+  - 2026-11-25 — Dependabot bot comment on typescript-group bump PR #6 (closed), firstful/quartz, action no (UID 1472) → [[github-dependabot-pr#2026-11-25 — Dependabot bot comment on typescript-group bump PR #6 (UID 1472)]]
+
 - [google-account](topics/google-account.md) — Google Account security alerts and verification notices
 - [google-fi](topics/google-fi.md) — Google Fi Wireless rejoin/win-back offers and plan promos (marketing)
 - [google-gemini](topics/google-gemini.md) — Google Gemini mandatory privacy/settings service announcements (e.g. Keep Activity split into history-retention + AI-training settings; informational, not marketing)
