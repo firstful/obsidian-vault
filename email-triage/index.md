@@ -267,3 +267,6 @@ tags: [email-triage, index]
 - [venmo](topics/venmo.md) — Venmo peer-to-peer payment receipts (money received/sent; transactional, no unsubscribe)
   - 2026-11-22 — Connor Monday paid you $185.00 (lifting equipment), action no (UID 1311) → [[venmo#2026-11-22 - Connor Monday paid you $185.00 - UID 1311]]
   - 2026-11-22 — Standard transfer initiated: $195.00 to Huntington ····3792, est. arrival 11/25, action no (UID 1320) → [[venmo#2026-11-22 - Standard transfer initiated ($195.00) - UID 1320]]
+
+- [evite](topics/evite.md) — Evite event invitations/RSVPs (transactional; family events)
+  - 2026-11-25 — Evite RSVP confirmation: Kip's First Birthday & Doljanchi (UID 1459) → [[evite#2026-11-25 — Evite RSVP confirmation: Kip's First Birthday & Doljanchi (UID 1459)]]
