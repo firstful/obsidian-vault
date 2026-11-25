@@ -242,6 +242,7 @@ tags: [email-triage, index]
 - [medical-appointments](topics/medical-appointments.md) — Medical appointment reminders, MyChart portal notices & OTPs (Nationwide Children's, OSU Wexner; transactional)
   - 2026-11-20 — New NCH MyChart message for Elijah (Emilee; UID 1239, action YES) → [[medical-appointments#2026-11-20 — New MyChart message for Elijah (Nationwide Children's, Emilee; UID 1239)]]
   - 2026-11-24 — MyChart preregistration reminder for Reed's 11-25 11:35 EST telehealth visit (Emilee; UID 1421, action YES) → [[medical-appointments#2026-11-24 — MyChart appointment reminder, preregister (OSU Wexner, Reed; UID 1421)]]
+  - 2026-11-25 — MyChart video visit check-in reminder for Reed's 11-25 11:35 EST telehealth visit (Emilee; UID 1480, action YES) → [[medical-appointments#2026-11-25 — MyChart video visit check-in reminder (OSU Wexner, Reed; UID 1480)]]
 - [mhs-assessments](topics/mhs-assessments.md) — MHS (mhs.com) online assessment invitations/reminders (e.g. Conners EC)
   - 2026-11-19 — Conners EC assessment reminder for Emilee (action YES, ~25 min) → [[mhs-assessments#2026-11-19 — Conners EC assessment reminder (uid 1202)]]
 - [namecheap](topics/namecheap.md) — Namecheap domain-registrar contact verification + account/order/billing (transactional) and Private Email product/marketing mail
