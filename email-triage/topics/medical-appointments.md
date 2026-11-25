@@ -375,3 +375,15 @@ tags: [email-triage, medical-appointments]
 - **Summary:** Same-day check-in reminder addressed to Emilee ("Dear Emilee"): "Reed has a video visit today. Check in for your visit if you haven't done so already." Directs the patient/proxy to sign in at https://mychart.osu.edu with MyChart username/password to join the visit; no separate eCheck-in/preregistration link is included in this notice. This is the same-day check-in variant of Reed's 2026-11-25 11:35 AM EST telehealth/video visit with Jeffrey Schord, MD at OSU Wexner Medical Center (see UIDs 1123/1124/1421/1422 preregistration reminders). Carries no new appointment detail. MyChart support: 614-366-6975 / 1-866-966-6975 (Mon-Fri 9 a.m.-6 p.m., excluding holidays).
 - **Action required:** yes (check in to MyChart to join Reed's video visit — appointment 2026-11-25 11:35 AM EST; visit is today)
 - **Related:** [[calendar/2026-11-25 - Reed telehealth visit (Jeffrey Schord, MD)]], [[medical-appointments]]
+
+## 2026-11-25 — MyChart video-visit check-in reminder (OSU Wexner, Reed; UID 1481)
+
+- **Date:** 2026-11-25T16:10:05Z (Wed 11:10:05 -0500)
+- **UID:** 1481 (INBOX) · message-id: <adaa1e88-9215-4c39-826e-bc4579aa0230@SVR-EXCH19-VP02.OSUMC.EDU>
+- **Sender:** MyChart_DoNotReply@osumc.edu (OSU Wexner Medical Center MyChart)
+- **Subject:** Reminder of your upcoming video visit
+- **To:** reedsut@gmail.com
+- **Classification:** relevant (transactional same-day video-visit check-in reminder; no List-Unsubscribe)
+- **Summary:** Same-day check-in reminder for Reed's **2026-11-25 11:35 AM EST** telehealth visit with **Jeffrey Schord, MD** at OSU Wexner Medical Center — sent ~25 min before the visit (11:10 EST). Body: "You have an upcoming video visit today. Check in for your visit if you haven't done so already." Directs the patient to sign in at https://mychart.osu.edu with MyChart username/password to join; no separate eCheck-in/preregistration link is included in this notice. This is the check-in variant of the same appointment tracked by UIDs 1123/1124/1421/1422 (preregistration reminders); carries no new appointment detail or eCheck-in token. MyChart support: 614-366-6975 / 1-866-966-6975 (Mon-Fri 9 a.m.-6 p.m.).
+- **Action required:** yes (check in to MyChart to join the video visit — appointment 2026-11-25 11:35 EST, ~25 min after this reminder)
+- **Related:** [[calendar/2026-11-25 - Reed telehealth visit (Jeffrey Schord, MD)]], [[medical-appointments]]
