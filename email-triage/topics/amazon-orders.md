@@ -913,6 +913,17 @@ tags: [email-triage, amazon-orders]
 - **UID:** 1497 (INBOX)
 - **Related notes:** [[amazon-orders]] (see UID 1392 — 2026-11-24 batch order confirmation "Ordered 5 items: Toys & Games" listing order #112-7421320-7345022; no other status/sibling entries for this order number were found by order-number grep)
 
+## 2026-11-25 — Amazon delivery confirmation: 2 items (Supplements, Lip Care) (UID 1499)
+
+- **Date:** 2026-11-25T17:42:38Z
+- **Sender:** "Amazon.com" <order-update@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Delivered 2 items: Supplements, Lip Care
+- **Summary:** Promo/marketing Amazon delivery confirmation (`order-update@amazon.com`), logged as a compact paper-trail entry per household convention (same treatment as UID 811/1003/1159/1160/1450). Body: "Emilee, your package was delivered!" / "Delivered today" / "Your package was left near the front door or porch."; recipient Emilee - PICKERINGTON, OH. Exposed order #112-5825406-8859457 (label and number on separate lines) — the combined Supplements + Lip Care shipment: original confirmations UID 1347 (Supplements, $16.57) and UID 1349 (Lip Care, $11.96), shipped in UID 1462 (Total $28.53 = 16.57 + 11.96). This notice carries no Total line, so the $28.53 comes from the Shipped sibling. Only one order number is exposed here; the other sibling order number (#112-5192310-6480222) and item-level detail are not in this body and are not manufactured. Soft "Delivered today" ⇒ no calendar/purchases note; the canned ICS / track-package / return links are informational boilerplate, not a hard date. Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass (Gmail forwarder 74.125.224.53 designated permitted sender; SES client-ip 54.240.13.116), DMARC pass (quarantine) header.from=amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES, all links amazon.com. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed"); List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk / List-Id all ABSENT ⇒ no auto-unsubscribe. Same-timestamp sibling UID 1500 (Delivered 1 item: Water Bottle Accessories) is a DIFFERENT order, not a re-send.
+- **Action required:** no — final delivery status, paper trail only. No action for Rook.
+- **Message-ID:** <010001a213cd67d3-adda102e-0daa-488f-93ea-9d9ef02d609e-000000@email.amazonses.com>
+- **UID:** 1499 (INBOX)
+- **Related notes:** [[amazon-orders]] (final Delivered step for order #112-5825406-8859457 — see UID 1347 Supplements confirmation $16.57, UID 1349 Lip Care confirmation $11.96, and UID 1462 Shipped notice Total $28.53; combined shipment)
+
 ## 2026-11-25 - Amazon delivery confirmation: 1 item (Water Bottle Accessories) (UID 1500)
 
 - **Date:** 2026-11-25T17:42:38Z
