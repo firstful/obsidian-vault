@@ -107,6 +107,8 @@ tags: [email-triage, index]
 - [t-mobile](topics/t-mobile.md) — T-Mobile wireless account notices (payment receipts, monthly bill-ready notices; transactional billing)
   - 2026-11-23 — Bill ready: $22.60 due, AutoPay 12/10/2026, acct XXXXX2020, card 4772, action no (UID 1367) → [[t-mobile#2026-11-23 — Your bill is ready (UID 1367)]]
 - [teamviewer](topics/teamviewer.md) — TeamViewer marketing/promo newsletters (Black Friday/sale offers; marketing; auto-unsub one-click returns form page, not confirmed — UID 1407)
+- [ticketmaster](topics/ticketmaster.md) — Ticketmaster event-marketing newsletters (Salesforce Marketing Cloud; always advertising, never action-required)
+  - 2026-11-25 — Ticketmaster: "Matt Rife, Jim Gaffigan, Kings of Leon & more near you!" (UID 1456) → [[ticketmaster#2026-11-25 — Ticketmaster: "Matt Rife, Jim Gaffigan, Kings of Leon & more near you!" (UID 1456)]]
   - 2026-11-24 — Black Friday 30% off first year, offer ends 2026-12-04, action no (UID 1407) → [[teamviewer#2026-11-24 — "Black Friday is here. 30% off your real work setup" (UID 1407)]]
 - [ebay](topics/ebay.md) — eBay account/listing notices: offers, messages, transactions, and alerts
   - 2026-11-20 — New buyer offer $200.00 for Narwal Freo Z Ultra (item 267822716429) from chubs230, expires Sat Nov 21 10:55 AM, action YES (UID 1245) → [[ebay#2026-11-20 — eBay new offer: $200.00 for Narwal Freo Z Ultra (item 267822716429) (UID 1245)]]
