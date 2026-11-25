@@ -243,6 +243,7 @@ tags: [email-triage, index]
   - 2026-11-25 — Sumo Logic Greenhouse security code (38077089, action YES; uid 1467) → [[job-applications#2026-11-25 — Security code for Sumo Logic application (uid 1467)]]
   - 2026-11-25 — Sumo Logic Greenhouse security code (37145191, action YES; uid 1468) → [[job-applications#2026-11-25 — Security code for Sumo Logic application (uid 1468)]]
   - 2026-11-25 — Sumo Logic application submission ack (no role named; UID 1469) → [[job-applications#2026-11-25 — Thank you for applying to Sumo Logic (UID 1469)]]
+  - 2026-11-25 — Hex application received (Ashby ATS; Staff SWE, Infrastructure; UID 1495) → [[job-applications#2026-11-25 — Application received: Staff Software Engineer, Infrastructure at Hex (UID 1495)]]
 - [medical-appointments](topics/medical-appointments.md) — Medical appointment reminders, MyChart portal notices & OTPs (Nationwide Children's, OSU Wexner; transactional)
   - 2026-11-20 — New NCH MyChart message for Elijah (Emilee; UID 1239, action YES) → [[medical-appointments#2026-11-20 — New MyChart message for Elijah (Nationwide Children's, Emilee; UID 1239)]]
   - 2026-11-24 — MyChart preregistration reminder for Reed's 11-25 11:35 EST telehealth visit (Emilee; UID 1421, action YES) → [[medical-appointments#2026-11-24 — MyChart appointment reminder, preregister (OSU Wexner, Reed; UID 1421)]]

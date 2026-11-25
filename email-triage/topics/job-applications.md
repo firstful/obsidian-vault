@@ -5,6 +5,20 @@ tags: [email-triage, job-applications]
 
 # Job Applications
 
+## 2026-11-25 — Application received: Staff Software Engineer, Infrastructure at Hex (UID 1495)
+
+- **Date:** 2026-11-25T17:16:55Z
+- **Sender:** no-reply@ashbyhq.com (Hex Hiring Team; **Ashby ATS** via Amazon SES — `X-Ashby-Stage: 1a357d27-b43a-481c-a28f-17d923f3e46d`, `Feedback-ID: ::1.us-east-1.WOmir7uCwltm0aTT8gfbA5rz60mv7TkX4bFsmUZNNF0=:AmazonSES`, `X-SES-Outgoing: 2026.11.25-54.240.78.44`; NOT Greenhouse/Gem — first Ashby-family entry in this topic)
+- **To:** sutliff.reed@gmail.com (INBOX/1495; routed via Gmail forward → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Your application to Hex has been received
+- **Message-Id:** <010001a213b5dba9-9fb9cc6c-28fc-470c-9e92-0a37bc3e3968-000000@email.amazonses.com>
+- **UID:** 1495 (INBOX)
+- **Summary:** Ashby (Amazon SES) application-submission acknowledgement for Reed's application to **Staff Software Engineer, Infrastructure** at **Hex**. Body: "Hi Reed, We are confirming that we have received your application for the Staff Software Engineer, Infrastructure role at Hex. We are grateful for your interest. We'll be in touch if there's a promising fit! Best Regards, The Hex Team." Pure submission ACK — NOT a security-code interstitial, NOT a hiring decision/rejection; no code, no deadline, no concrete date. No attachments (11,418 B, multipart/alternative). Authentic: DKIM pass (ashbyhq.com s=35ilcxfelejdmu2qkbchu4gfsqislwzy, amazonses.com s=224i4yxa5dv7c2xz3womw6peuasteono), SPF pass, DMARC pass (p=quarantine), ARC pass (i=1 and i=2); `X-Jellyfish-No-Auto-Response: 1`. No `List-Unsubscribe` header → no unsubscribe (transactional submission ack; recipient-based auto-unsubscribe gate does not apply even though To contains "reed"); no unsubscribes.md row. No calendar/bills/purchases/money note — no date, deadline, or next step ("we'll be in touch" is not a date). Dedupe: Message-Id hex tail `9fb9cc6c-28fc-470c-9e92-0a37bc3e3968`, `X-Ashby-Stage` UUID `1a357d27-b43a-481c-a28f-17d923f3e46d`, and `UID 1495` not previously in the topic → distinct event, own section (dedupe by Message-Id, never subject). Do not reply (unattended mailbox).
+- **Action required:** no — application received; no next step or deadline. Do not reply (unattended mailbox).
+
+### Related notes
+- [[job-applications]]
+
 ## 2026-11-25 — Thank you for applying to Sumo Logic (UID 1469)
 
 - **Date:** 2026-11-25T08:57:02Z
