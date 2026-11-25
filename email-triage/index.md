@@ -245,6 +245,7 @@ tags: [email-triage, index]
   - 2026-11-24 — MyChart preregistration reminder for Reed's 11-25 11:35 EST telehealth visit (Emilee; UID 1421, action YES) → [[medical-appointments#2026-11-24 — MyChart appointment reminder, preregister (OSU Wexner, Reed; UID 1421)]]
   - 2026-11-25 — MyChart video visit check-in reminder for Reed's 11-25 11:35 EST telehealth visit (Emilee; UID 1480, action YES) → [[medical-appointments#2026-11-25 — MyChart video visit check-in reminder (OSU Wexner, Reed; UID 1480)]]
   - 2026-11-25 — MyChart video-visit check-in reminder for Reed's 11-25 11:35 EST telehealth visit (Reed; UID 1481, action YES) → [[medical-appointments#2026-11-25 — MyChart video-visit check-in reminder (OSU Wexner, Reed; UID 1481)]]
+  - 2026-11-25 — MyChart "you may now join your video visit" for Reed's 11-25 11:35 EST telehealth visit (Emilee; UID 1483, action YES) → [[medical-appointments#2026-11-25 — MyChart "You may now join your video visit" (OSU Wexner, Reed; UID 1483)]]
 - [mhs-assessments](topics/mhs-assessments.md) — MHS (mhs.com) online assessment invitations/reminders (e.g. Conners EC)
   - 2026-11-19 — Conners EC assessment reminder for Emilee (action YES, ~25 min) → [[mhs-assessments#2026-11-19 — Conners EC assessment reminder (uid 1202)]]
 - [namecheap](topics/namecheap.md) — Namecheap domain-registrar contact verification + account/order/billing (transactional) and Private Email product/marketing mail
