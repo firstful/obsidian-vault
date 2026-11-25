@@ -363,3 +363,15 @@ tags: [email-triage, medical-appointments]
 - **Summary:** Third preregistration reminder (after UIDs 1123 and 1124) for Reed's **telehealth / video visit on 2026-11-25 at 11:35 AM EST with Jeffrey Schord, MD** at OSU Wexner Medical Center. Addressed "Dear Reed" — patient is Reed, recipient is Reed's own Gmail. Body states it is a video visit: do NOT go to the doctor's office; join the video visit online using a computer or mobile device. Includes five video-visit tips (enable Telehealth alerts, quiet/well-lit location with strong internet, charged device on a stable surface, check camera/mic at check-in, keep medications nearby). Newest eCheck-in / preregistration link: https://mychart.osu.edu/osumc/s/A2FAJPAT4ABGTKNATSYS5WTHCQ/echeckin (sibling tokens: UID 1421 RPEJAXRJZPOSJJ2H774I7OW5GI, UID 1123 NI2ARKXE25QTZPFLEKBSGGTQ5M, UID 1124 V37DDGAFS5S3NFD2K5BBLWVNXQ). Telehealth billing: 614-293-8008; MyChart Tech Support: 614-366-6975. Same appointment as sibling UIDs 1421/1123/1124 — one shared calendar note; distinct message-id delivery so it owes its own topic entry. No `List-Unsubscribe` header and no `Precedence: bulk` → no auto-unsubscribe despite To containing "reed"; no `unsubscribes.md` row.
 - **Action required:** yes (complete MyChart preregistration / eCheck-in via the new link before the 2026-11-25 11:35 AM EST telehealth visit; test camera/mic and join online at visit time)
 - **Related:** [[calendar/2026-11-25 - Reed telehealth visit (Jeffrey Schord, MD)]], [[medical-appointments]]
+
+## 2026-11-25 — MyChart video visit check-in reminder (OSU Wexner, Reed; UID 1480)
+
+- **Date:** 2026-11-25T16:10:04Z (Wed 11:10:04 -0500)
+- **UID:** 1480 (INBOX) · message-id: <3f05b3f0-2137-4306-8e32-0b802af42b09@SVR-EXCH19-VP02.OSUMC.EDU>
+- **Sender:** MyChart_DoNotReply@osumc.edu (OSU Wexner Medical Center MyChart)
+- **Subject:** Reminder of your upcoming video visit
+- **To:** emileesutliff@gmail.com (original recipient; forwarded via Gmail ingest to ingest@ffilt.us, Delivered-To reed@ffilt.us)
+- **Classification:** relevant (transactional same-day video-visit check-in reminder; no List-Unsubscribe)
+- **Summary:** Same-day check-in reminder addressed to Emilee ("Dear Emilee"): "Reed has a video visit today. Check in for your visit if you haven't done so already." Directs the patient/proxy to sign in at https://mychart.osu.edu with MyChart username/password to join the visit; no separate eCheck-in/preregistration link is included in this notice. This is the same-day check-in variant of Reed's 2026-11-25 11:35 AM EST telehealth/video visit with Jeffrey Schord, MD at OSU Wexner Medical Center (see UIDs 1123/1124/1421/1422 preregistration reminders). Carries no new appointment detail. MyChart support: 614-366-6975 / 1-866-966-6975 (Mon-Fri 9 a.m.-6 p.m., excluding holidays).
+- **Action required:** yes (check in to MyChart to join Reed's video visit — appointment 2026-11-25 11:35 AM EST; visit is today)
+- **Related:** [[calendar/2026-11-25 - Reed telehealth visit (Jeffrey Schord, MD)]], [[medical-appointments]]
