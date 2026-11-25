@@ -81,3 +81,14 @@ tags: [email-triage, job-alerts]
 - **Summary:** ZipRecruiter bulk job-alert digest promoting a DataAnnotation opening (AI-training/annotation work) via the standard "Here are today's jobs recommended for you" card deck (145,107 B HTML, 0 attachments). List-Id job_alerts.ziprecruiter.com, Feedback-ID job_alert_candidate. Marketing/job-board alert, not an application confirmation, recruiter outreach, or an offer; the named role is ad copy, not a personalized hiring inquiry. Same sender family as uids 558, 600, 645, 784, 1369. No action required.
 - **Action required:** no
 - **Unsubscribe:** RFC 8058 one-click POST attempted (2026-11-24, see [[unsubscribes]]); result 403 (Cloudflare challenge) — not confirmed unsubscribed.
+
+## 2026-11-25 — DataAnnotation may want to hire you (UID 1494)
+
+- **Date:** 2026-11-25T17:12:34Z
+- **Sender:** alerts@ziprecruiter.com (ZipRecruiter)
+- **To:** sutliff.reed@gmail.com
+- **Subject:** Reed, DataAnnotation may want to hire you
+- **Message-ID:** `<20261125171234.278a037b745acaa0@mg.ziprecruiter.com>`
+- **Summary:** ZipRecruiter bulk job-alert digest promoting a DataAnnotation opening (AI-training/annotation work, Santa Monica CA / On-site, $40-$125/hr) via the standard "Here are today's jobs recommended for you" card deck (145,818 B HTML, 0 attachments). List-Id job_alerts.ziprecruiter.com, Feedback-ID job_alert_candidate:mg.ziprecruiter.com. Marketing/job-board alert, not an application confirmation, recruiter outreach, or an offer; the named role and rate are ad copy, not a personalized hiring inquiry. Same sender family as uids 558, 600, 645, 784, 1369, 1452; identical subject to sibling UID 1452 (2026-11-24). No action required.
+- **Action required:** no
+- **Unsubscribe:** RFC 8058 one-click POST attempted (2026-11-25, see [[unsubscribes]]); result 403 (Cloudflare challenge) — not confirmed unsubscribed.
