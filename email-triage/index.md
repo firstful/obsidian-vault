@@ -270,6 +270,8 @@ tags: [email-triage, index]
   - 2026-11-25 — Nationwide Pet pet insurance promo "Your pet's healthcare plan", action no (UID 1457) → [[nationwide-pet#2026-11-25 — Your pet's healthcare plan (UID 1457)]]
 - [opencode](topics/opencode.md) — OpenCode (Anomaly) paid-account billing/tax notices (sales tax/VAT/GST on invoices)
   - 2026-11-23 — Anomaly | Sales tax and VAT on your invoices (UID 1332) → [[opencode#2026-11-23 — Anomaly | Sales tax and VAT on your invoices (UID 1332)]]
+- [optum-specialty-pharmacy](topics/optum-specialty-pharmacy.md) — Optum Specialty Pharmacy order-status and prescription-fulfillment notices (transactional)
+  - 2026-11-25 — Order #950481204 received, scheduled delivery 2026-11-28, no action (UID 1504) → [[optum-specialty-pharmacy#2026-11-25 — Optum Specialty Pharmacy order received / scheduled delivery 2026-11-28 (UID 1504)]]
 - [pickerington-schools](topics/pickerington-schools.md) — Pickerington Local School District (PLSD) superintendent/district communications + BusRight school-bus service notices (transactional, important)
 - [paypal](topics/paypal.md) — PayPal account notices: negative balance/collections, autopay failures, statements, legal/terms updates, payment receipts (transactional)
   - 2026-11-22 — Negative balance $522.00 (116 days), 11/26 collections deadline, action YES (UID 1318) → [[paypal#2026-11-22 - PayPal negative balance $522.00 (116 days) - UID 1318]]
