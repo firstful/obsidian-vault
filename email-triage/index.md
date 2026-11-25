@@ -273,6 +273,9 @@ tags: [email-triage, index]
 - [shop-app](topics/shop-app.md) — Shop app (Shopify) gift-guide and product-recommendation marketing promos (marketing)
   - 2026-11-25 — Shop: "Your tonies® cart? It's saved on Shop ☃️" cart-abandonment promo, action no (UID 1487) → [[shop-app#2026-11-25 — Shop: "Your tonies® cart? It's saved on Shop ☃️" (UID 1487)]]
 
+- [period-cramp-simulator](topics/period-cramp-simulator.md) — Period Cramp Simulator product-marketing promos (Shopify; marketing)
+  - 2026-11-25 — "See it in action" product pitch, action no (UID 1492) → [[period-cramp-simulator#2026-11-25 — "See it in action"]]
+
 - [unitedhealthcare](topics/unitedhealthcare.md) — UnitedHealthcare: member-benefit marketing (Real Appeal/Wellos), plan notices, and account/verification OTPs (transactional)
   - 2026-11-23 — "Direct Medical Reimbursement Form" is actually an email-verification OTP (code 613686, 6h expiry), action YES if Reed initiated the form (UID 1353) → [[unitedhealthcare#2026-11-23 — UnitedHealthcare: "Direct Medical Reimbursement Form" (email verification OTP)]]
   - 2026-11-23 — "Direct Medical Reimbursement Form" submission confirmation (submission ID 4d36a9e3…), post-OTP receipt, action no (UID 1355) → [[unitedhealthcare#2026-11-23 — UnitedHealthcare: "Direct Medical Reimbursement Form" (submission confirmation)]]
