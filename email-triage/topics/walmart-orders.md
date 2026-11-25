@@ -93,3 +93,15 @@ tags: [email-triage, walmart-orders, purchases]
 - **UID:** 1079
 - **Folder:** INBOX
 - **Calendar:** [[calendar/2026-11-17 - Walmart order 2000157-84565479 delivered]]
+
+
+## 2026-11-25 — Walmart delivery order confirmed (UID 1479, Order 2000155-34096682)
+
+- **Date:** 2026-11-25T16:08:18Z
+- **Sender:** Walmart.com <help@walmart.com> (to emilee.sutliff@gmail.com)
+- **Subject:** Thanks for your delivery order, emilee
+- **Summary:** Transactional Walmart delivery order confirmation. Order #2000155-34096682 (order date Wed, Nov 25, 2026). Delivery from store: 7 items (Equate Children's Melatonin + 6 others) arriving Wed, Nov 25, 11:28am–2:08pm to 12703 Stonecreek Dr, Pickerington, OH 43147. Order total $56.51 (saved $9.95); payment ending 4780 with temporary hold $58.01. Estimated Walmart Cash $4.00.
+- **Action required:** no — informational order confirmation; monitor delivery and verify items on arrival.
+- **Message-ID:** <20261125160818.a3098b7861f4926a@prod.walmart.com>
+- **UID:** 1479
+- **Folder:** INBOX

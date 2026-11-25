@@ -59,6 +59,7 @@ tags: [email-triage, index]
   - 2026-11-25 — Amazon shipping notification: 2 items (3D Printing Supplies, Water Bottle Accessories), orders #112-2262393-6845053 / #112-8398424-0591455, Total $36.50, action no (UID 1465) → [[amazon-orders#2026-11-25 — Amazon shipping notification: 2 items (3D Printing Supplies, Water Bottle Accessories) (UID 1465)]]
 - [walmart-orders](topics/walmart-orders.md) — Walmart.com transactional order/payment, delivery, and cancellation notices
   - 2026-11-19 — Walmart login verification code 862372 for Emilee (action YES, 15-min expiry) → [[security-alerts#2026-11-19 — Walmart verification code / login OTP (Emilee; UID 1203)]]
+  - 2026-11-25 — Walmart delivery order confirmed: 7 items (Equate Children's Melatonin + 6), $56.51, order #2000155-34096682, action no (UID 1479) → [[walmart-orders#2026-11-25 — Walmart delivery order confirmed (UID 1479, Order 2000155-34096682)]]
 - [apple-developer](topics/apple-developer.md) — Apple Developer "Hello Developer" newsletter issues (Developer Center events, platform/tooling news; marketing)
 - [appliance-factory](topics/appliance-factory.md) — Appliance Factory & Mattress Kingdom purchase receipts and card refunds
 - [bibibop](topics/bibibop.md) — Bibibop Rewards transactional emails (verification codes, account notices)
