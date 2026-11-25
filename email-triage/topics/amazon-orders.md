@@ -823,3 +823,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a210234bcf-6c60545c-178c-40e9-b766-177745ea4c60-000000@email.amazonses.com>
 - **UID:** 1454 (INBOX)
 - **Related notes:** [[amazon-orders]] (shipping notification for order #112-5130203-3571450, Total $138.94 — see UID 1424 for the original order confirmation and UIDs 1435/1436 for its payment declines; subject hair care/water bottles batch, other order numbers not extractable)
+
+## 2026-11-25 — Amazon delivery estimate update: Tumbler Lids delayed (UID 1458)
+
+- **Date:** 2026-11-25T03:04:02Z
+- **Sender:** "Amazon.com" <no-reply@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Delivery estimate update: Tumbler Lids
+- **Summary:** Promo/marketing Amazon delivery estimate update (`no-reply@amazon.com`): "Your package is delayed" — delivery estimate revised from November 25 to November 27. Recipient Emilee - PICKERINGTON, OH. Body exposes order #112-3121388-2298647 — this is the same order confirmed 2026-11-24 in UID 1420 ("Ordered 1 item: Water Bottle Accessories", item from subject "Tumbler Lids"). The delay is a soft date revision (no hard deadline stated) ⇒ no `calendar/`/`purchases/` note. Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass (Gmail forwarder 74.125.224.42 designated permitted sender; SES client-ip 54.240.13.166), DMARC pass (quarantine) header.from=amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES, all links amazon.com. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed"); no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk / List-Id header ⇒ no auto-unsubscribe.
+- **Action required:** no — delivery estimate revision only, paper trail. Monitor for out-for-delivery / delivered follow-ups on order #112-3121388-2298647. No action for Rook.
+- **Message-ID:** <010001a210a906f7-b9fba923-a1ae-4e73-b772-3fb416872b02-000000@email.amazonses.com>
+- **UID:** 1458 (INBOX)
+- **Related notes:** [[amazon-orders]] (delivery estimate delay for order #112-3121388-2298647, Tumbler Lids — see UID 1420 for the 2026-11-24 original order confirmation "Water Bottle Accessories"; new estimated delivery November 27, previously November 25)
