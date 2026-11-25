@@ -268,6 +268,7 @@ tags: [email-triage, index]
   - 2026-11-22 — Run failed: Deploy to Azure Static Web Apps - main (26faa0a) (UID 1304) → [[personal-blog#2026-11-22 — Run failed: Deploy to Azure Static Web Apps - main (26faa0a)]]
   - 2026-11-21 — Run failed: Deploy to Azure Static Web Apps - main (9b82c52) (UID 1274) → [[personal-blog#2026-11-21 — Run failed: Deploy to Azure Static Web Apps - main (9b82c52)]]
 - [shop-app](topics/shop-app.md) — Shop app (Shopify) gift-guide and product-recommendation marketing promos (marketing)
+  - 2026-11-25 — Shop: "Your tonies® cart? It's saved on Shop ☃️" cart-abandonment promo, action no (UID 1487) → [[shop-app#2026-11-25 — Shop: "Your tonies® cart? It's saved on Shop ☃️" (UID 1487)]]
 
 - [unitedhealthcare](topics/unitedhealthcare.md) — UnitedHealthcare: member-benefit marketing (Real Appeal/Wellos), plan notices, and account/verification OTPs (transactional)
   - 2026-11-23 — "Direct Medical Reimbursement Form" is actually an email-verification OTP (code 613686, 6h expiry), action YES if Reed initiated the form (UID 1353) → [[unitedhealthcare#2026-11-23 — UnitedHealthcare: "Direct Medical Reimbursement Form" (email verification OTP)]]
