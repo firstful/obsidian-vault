@@ -935,6 +935,17 @@ tags: [email-triage, amazon-orders]
 - **UID:** 1500 (INBOX)
 - **Related notes:** [[amazon-orders]] (final Delivered step for order #112-7547514-8993055 — see UID 1419 for the 2026-11-24 original order confirmation "Water Bottle Accessories", $12.92; no Shipped/Out-for-delivery siblings for this order by order-number grep; distinct from same-subject siblings UIDs 1417/1418/1420)
 
+## 2026-11-25 — Amazon delivery confirmation: 2 items (3D Printing Supplies, Water Bottle Accessories) (UID 1501)
+
+- **Date:** 2026-11-25T17:42:38Z
+- **Sender:** "Amazon.com" <order-update@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Delivered 2 items: 3D Printing Supplies, Water Bottle Accessories
+- **Summary:** Amazon delivery confirmation (`order-update@amazon.com`) — final status step (Ordered -> Shipped -> Out for delivery -> Delivered), logged as a compact paper-trail entry per household convention (same treatment as other Delivered notices; promo/marketing shipping notification, action no). Body: "Emilee, your Black Friday Deals package is here!" / "Delivered today" / "Your package was left near the front door or porch"; recipient Emilee - PICKERINGTON, OH. Body exposes a single order number, #112-8398424-0591455 (Water Bottle Accessories, $12.92, confirmed UID 1417) — the subject's "2 items" reflects a combined shipment with 1x 3D Printing Supplies (#112-2262393-6845053, $23.58, confirmed UID 1352); both orders were combined in the Shipped notice UID 1465 (Total $36.50). Do NOT manufacture a second order number from the item count — same limited-exposure rule as the batch Delivered notices (UID 1450). The "Track package" link carries the OTHER order number (orderId=112-2262393-6845053) — canned boilerplate, not evidence of composition; record only the body's `Order #` field. Item-level detail not extractable from the ~108 KB HTML body. Soft "Delivered today" => no `calendar/`/`purchases/` note. Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass (Gmail forwarder 209.85.128.180 designated permitted sender; SES client-ip 54.240.13.110), DMARC pass (quarantine) header.from=amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES, all links amazon.com. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed"); List-Unsubscribe / List-Unsubscribe-Post / Precedence / List-Id all ABSENT => no auto-unsubscribe.
+- **Action required:** no — final delivery-status notification, paper trail only. No action for Rook.
+- **Message-ID:** <010001a213cd69ae-dc3d8933-049c-46c8-a330-cb30869d7b85-000000@email.amazonses.com>
+- **UID:** 1501 (INBOX)
+- **Related notes:** [[amazon-orders]] (final delivery step for order #112-8398424-0591455, Water Bottle Accessories $12.92 — see UID 1417 original confirmation; combined 2-item shipment with #112-2262393-6845053 (3D Printing Supplies $23.58, UID 1352) shipped together in UID 1465, Total $36.50). Same-second sibling Delivered notices UID 1500 (1 item Water Bottle Accessories) and UID 1502 (6 items Hair Care/Water Bottles) are distinct deliveries — different order numbers/Message-IDs, not re-sends.
+
 ## 2026-11-25 - Amazon delivery confirmation: 6 items (Hair Care, Water Bottles, and more) (UID 1502)
 
 - **Date:** 2026-11-25T17:42:39Z
