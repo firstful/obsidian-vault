@@ -277,6 +277,7 @@ tags: [email-triage, index]
   - 2026-11-24 — Amazon order confirmation: 1 item (Building Supplies), $16.22, order #112-5130203-3571450, action no (UID 1424) → [[amazon-orders#2026-11-24 — Amazon order confirmation: 1 item (Building Supplies) (UID 1424)]]
   - 2026-11-24 — Tue 11/24 digest, Reed mailbox: 1 mailpiece, 0 packages, action no (UID 1405) → [[usps-informed-delivery#2026-11-24 13:07 — USPS Informed Delivery: "Your Daily Digest for Tue, 11/24 is ready to view"]]
 
+  - 2026-11-25 — Wed 11/25 digest, Reed mailbox: 1 mailpiece, 1 inbound package (US Bank mailpiece; SHIPBOB package awaiting from sender), action no (UID 1475) → [[usps-informed-delivery#2026-11-25 12:52 — USPS Informed Delivery: "Your Daily Digest for Wed, 11/25 is ready to view"]]
 - [venmo](topics/venmo.md) — Venmo peer-to-peer payment receipts (money received/sent; transactional, no unsubscribe)
   - 2026-11-22 — Connor Monday paid you $185.00 (lifting equipment), action no (UID 1311) → [[venmo#2026-11-22 - Connor Monday paid you $185.00 - UID 1311]]
   - 2026-11-22 — Standard transfer initiated: $195.00 to Huntington ····3792, est. arrival 11/25, action no (UID 1320) → [[venmo#2026-11-22 - Standard transfer initiated ($195.00) - UID 1320]]

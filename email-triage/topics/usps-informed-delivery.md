@@ -235,3 +235,13 @@ Informational only; never action-required.
 - Summary: Daily Informed Delivery digest for Tuesday 24 November 2026 — 1 mailpiece, 0 inbound packages arriving soon; "Expected Today 1 item(s)", "No packages are available to display". One mailpiece-scan JPEG attachment (2878870324-010.jpg, 43 KB; 122 KB message). No sender name extractable from the dashboard. No package exceptions, bills, deadlines, or account actions referenced.
 - Action required: no
 - Notes: Live triage (event id 1405). To is Reed's mailbox (contains "reed"), but USPS digests are never marketing and never unsubscribed — no unsubscribe performed (no List-Unsubscribe action). Sibling of UID 1404 (Emilee's copy, 12:57:03Z, emileesutliff@gmail.com) — separate envelope, separate message-id, different household mailbox, byte-identical subject; a subject-only dedupe would have wrongly skipped it. Body fetched once via email-sync MCP (email_fetch_body with reason; counts from QP-decode of whole raw message). Triage summary posted to #email-triage per inbound trigger.
+
+
+## 2026-11-25 12:52 — USPS Informed Delivery: "Your Daily Digest for Wed, 11/25 is ready to view"
+
+- UID: 1475 (INBOX) · message-id: <20261125125219.4c69094118b562b1@email.informeddelivery.usps.com>
+- To: reedsut@gmail.com — forwarded into ingest via Cloudflare Email Routing (Delivered-To: reed@ffilt.us)
+- Date: 2026-11-25T12:52:19Z
+- Summary: Daily Informed Delivery digest for Wednesday 25 November 2026 — 1 mailpiece, 1 inbound package arriving soon. Mailpiece scan from "US BANK DRP 5 NOV PL1 & BAU". Inbound package (tracking 9200190244541326906252) from SHIPBOB, awaiting from sender; no packages available to display for Expected Today / 1-2 days. No package exceptions, bills, deadlines, or account actions referenced.
+- Action required: no
+- Notes: Live triage (event id 1475). To is Reed's mailbox (contains "reed"), but USPS digests are never marketing and never unsubscribed — no unsubscribe performed (no List-Unsubscribe header present). Body fetched via email-sync MCP (email_fetch_body with reason; counts from QP-decode of whole raw message). Triage summary posted to #email-triage per inbound trigger.
