@@ -67,3 +67,14 @@ tags: [email-triage, gift-exchange]
 - **Summary:** Second drawnames.com marketing blast to Emilee Sutliff on 2026-11-26 with the same "new ways to draw names for the holidays" campaign as UID 1522 (separate message-id, so a distinct re-send, not a duplicate). Content identical in theme: "Pass the pie. Share the link." — set up Secret Santa via the free app, plus a new Drawnames ChatGPT plugin to plan Secret Santa ("One chat. Secret Santa all set."). Postmark bulk send (`X-PM-Tag: 1246`, same campaign id as UID 1522). RFC 8058 one-click `List-Unsubscribe` + `List-Unsubscribe-Post: List-Unsubscribe=One-Click` present but auto-unsubscribe NOT triggered because To address lacks "reed". Promo/marketing, no actionable content.
 - **Action required:** no
 - **Unsubscribe:** not performed (To address does not contain "reed"; auto-unsubscribe policy not triggered). Near-identical sibling UID 1522 same day also left unsubscribed.
+
+## 2026-11-26 — "new ways to draw names for the holidays" marketing to Reed (drawnames.com)
+
+- **Date:** 2026-11-26 17:44 UTC
+- **Sender:** drawnames@drawnames.com (From-name "Drawnames")
+- **To:** reedsut@gmail.com (Cloudflare Email Routing forward → ingest@ffilt.us, `Return-Path: reedsut+caf_=ingest=ffilt.us@gmail.com`)
+- **Subject:** Reed, new ways to draw names for the holidays
+- **UID:** 1534 (INBOX, message-id <010b01a218f5c22d-2e7e7c53-58ac-4c80-9064-a1261e21a2a0-000000@eu-west-2.amazonses.com>, 25.9 KB)
+- **Summary:** Third drawnames.com marketing blast on 2026-11-26 in the "new ways to draw names for the holidays" campaign, this one addressed to Reed (to a reedsut@gmail.com mailbox) rather than Emilee. Same pitch as siblings [[gift-exchange#2026-11-26 — "new ways to draw names for the holidays" marketing (drawnames.com)|UID 1522]] and UID 1533 — "Pass the pie. Share the link." (set up Secret Santa via the free app), plus the new Drawnames ChatGPT plugin ("One chat. Secret Santa all set."). Distinct message-id and Amazon SES bulk send (`Feedback-ID: …:AmazonSES`, message-id `@eu-west-2.amazonses.com`), unlike the Postmark siblings — a separate message, not a re-send of the same transport. Carries RFC 8058 one-click `List-Unsubscribe` + `List-Unsubscribe-Post: List-Unsubscribe=One-Click`. Promo/marketing, no actionable content.
+- **Action required:** no
+- **Unsubscribe:** performed — RFC 8058 one-click POST to the drawnames.com List-Unsubscribe URL returned HTTP 200 (empty-body ack = accepted). To contains "reed", so the auto-unsubscribe gate applied. Logged in [[unsubscribes]].

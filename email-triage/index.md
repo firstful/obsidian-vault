@@ -166,6 +166,7 @@ tags: [email-triage, index]
 - [gift-exchange](topics/gift-exchange.md) — Gift exchange / Secret Santa (drawnames.com)
   - 2026-11-26 — Drawnames "new ways to draw names for the holidays" marketing to Emilee, action no (UID 1522) → [[gift-exchange#2026-11-26 — "new ways to draw names for the holidays" marketing (drawnames.com)]]
   - 2026-11-26 — Drawnames "new ways to draw names for the holidays" marketing re-send to Emilee, action no (UID 1533) → [[gift-exchange#2026-11-26 — "new ways to draw names for the holidays" marketing, re-send (drawnames.com)]]
+  - 2026-11-26 — Drawnames "new ways to draw names for the holidays" marketing to Reed, action no, auto-unsubscribed (UID 1534) → [[gift-exchange#2026-11-26 — "new ways to draw names for the holidays" marketing to Reed (drawnames.com)]]
 - [gitea-mirror](topics/gitea-mirror.md) — Gitea mirror GitHub Actions CI failures
   - 2026-11-20 — Run failed: Gitea mirror - main (9d37763) (UID 1229) → [[gitea-mirror#2026-11-20 — Run failed: Gitea mirror - main (9d37763) (UID 1229)]]
   - 2026-11-20 — Run failed: Gitea mirror - main (9d37763) (UID 1256) → [[gitea-mirror#2026-11-20 — Run failed: Gitea mirror - main (9d37763) (UID 1256)]]
