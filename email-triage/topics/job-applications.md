@@ -5,6 +5,20 @@ tags: [email-triage, job-applications]
 
 # Job Applications
 
+## 2026-11-26 — Thank you for applying to Supabase (UID 1536)
+
+- **Date:** 2026-11-26T18:20:01Z
+- **Sender:** no-reply@ashbyhq.com (Supabase Hiring Team; **Ashby ATS** via Amazon SES — `X-Ashby-Stage: 05a8149f-83e5-48ec-90f2-4a0dcb4b4d2b`; same family as the Hex sibling [[job-applications#2026-11-25 — Application received: Staff Software Engineer, Infrastructure at Hex (UID 1495)]], NOT Greenhouse/Gem)
+- **To:** sutliff.reed@gmail.com (INBOX/1536; routed via Gmail forward → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Thank you for applying to Supabase!
+- **Message-Id:** <010001a21915ff00-cff2902d-3dd6-40d2-bc5c-33a3db5e791a-000000@email.amazonses.com>
+- **UID:** 1536 (INBOX)
+- **Summary:** Ashby (Amazon SES) application-submission acknowledgement for Reed's application to **Supabase**. Body: "Hey Reed, Thanks for your interest in joining Supabase! We've received your application and appreciate you taking the time to apply. What happens next? Our hiring team will review your application, and we'll be in touch if there's a potential match. Thanks again for considering Supabase. While you wait, feel free to explore our docs, check out the blog, or dive into the product itself. We're glad you're interested in being part of what we're building! Best, The Supabase Hiring Team." Pure submission ACK — no role named in the body, no security code, no hiring decision, no deadline or concrete date ("we'll be in touch" is not a date). No `List-Unsubscribe` header at all → no unsubscribe (transactional submission ack; recipient-based auto-unsubscribe gate does not apply even though To contains "reed"); no unsubscribes.md row. No calendar/bills/purchases/money note — no date, deadline, or next step. Dedupe: Message-Id hex tail `cff2902d-3dd6-40d2-bc5c-33a3db5e791a`, `X-Ashby-Stage` UUID `05a8149f-83e5-48ec-90f2-4a0dcb4b4d2b`, and `UID 1536` not previously in the topic → distinct event, own section (dedupe by Message-Id/stage UUID, never the generic subject). Do not reply (unattended mailbox).
+- **Action required:** no — application received; no next step or deadline. Do not reply (unattended mailbox).
+
+### Related notes
+- [[job-applications]]
+
 ## 2026-11-26 — Thank you for applying to DataGrail (UID 1525)
 
 - **Date:** 2026-11-26T10:01:03Z
