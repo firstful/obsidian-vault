@@ -5,6 +5,19 @@ tags: [email-triage, billing]
 
 # Billing / Invoices
 
+## 2026-11-26 — Nationwide Children's past-due balance: $75.00 not on payment plan (UID 1544)
+
+- **Date:** 2026-11-26T23:16:07Z
+- **UID:** 1544 (INBOX) · message-id: <e1de0b31-5bfe-4668-ab1b-9ed0dd3f9822@H2PWEXCHSVR02.childrensroot.net>
+- **Sender:** donotreply@nationwidechildrens.org (Nationwide Children's Hospital / MyChart)
+- **To:** emilee.sutliff@gmail.com (forwarded via Gmail → Cloudflare Email Routing / Namecheap to reed@ffilt.us)
+- **Subject:** Action Needed: Your balance is now past due
+- **Classification:** relevant (medical billing statement — past-due balance)
+- **Summary:** "New Statement" from NCH MyChart for account ending **5519**, greeted "Hi Reed": an outstanding balance from the previous statement is **now past due**, and there is a **$75.00 balance that is not on the payment plan**. Payment-plan details: remaining balance **$978.11**, **5** remaining payments, **$225.00/month**, autopay scheduled for **Dec 15** from **Checking x9145**. Body offers "Make a payment", "Update plan", and "Manage assistance" links (MyChart single-use URLs), plus "Send us a message" / call **614-722-2055**. HTML-only; no attachments. Auth clean: SPF/DKIM/DMARC/ARC pass for nationwidechildrens.org via Proofpoint/Google — genuine NCH billing mail. No `List-Unsubscribe`/`List-Unsubscribe-Post`/`Precedence: bulk` → transactional, never unsubscribe (To is Emilee's mailbox anyway, no "reed"). Follow-up to the NCH autopay notices in this topic (UID 745) and [[medical-appointments#2026-11-15 — Nationwide Children's automatic payment processed (UID 937)]] (that payment left $150.00 off-plan; now $75.00 past due).
+- **Account:** patient account ending 5519; autopay from checking x9145; ongoing plan tracked in [[Nationwide Children's Hospital]]
+- **Action required:** yes — review the statement in MyChart and resolve the **$75.00 past-due / not-on-plan** balance (pay it or fold it into the payment plan / check financial assistance). The recurring $225 Dec 15 autopay covers the on-plan balance only; do not assume it clears the $75. Open MyChart directly rather than clicking the emailed links.
+- **ledger-note:** no unsubscribe (transactional medical billing statement, no unsubscribe offered; To has no "reed").
+
 ## 2026-11-24 — Slowdive Premium subscription expired due to non-payment (UID 1389)
 
 - **Date:** 2026-11-24T03:50:39Z

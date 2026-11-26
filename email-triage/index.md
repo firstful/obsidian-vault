@@ -81,6 +81,7 @@ tags: [email-triage, index]
 - [bibibop](topics/bibibop.md) — Bibibop Rewards transactional emails (verification codes, account notices)
 - [bosch](topics/bosch.md) — Bosch appliance registration confirmations and product care (transactional)
 - [billing](topics/billing.md) — Bills and invoices (Microsoft/Azure, Columbia Gas and South Central Power electric, other utilities, etc.)
+  - 2026-11-26 — Nationwide Children's past-due balance: $75.00 not on plan, autopay Dec 15 (Emilee; UID 1544, action YES) → [[billing#2026-11-26 — Nationwide Children's past-due balance: $75.00 not on payment plan (UID 1544)]]
   - 2026-11-22 — Columbia Gas $265.00 payment confirmed 11/22, shut-off avoided, action NO (UID 1313) → [[billing#2026-11-22 — Columbia Gas of Ohio payment confirmed: $265.00 paid 11/22 (UID 1313)]]
   - 2026-11-21 — Slowdive Premium $29.99 payment issue, 6th repeat, action YES (Emilee) (UID 1271) → [[billing#2026-11-21 - Payment issue notice: Slowdive Premium $29.99 (UID 1271)]]
   - 2026-11-24 — Slowdive Premium subscription expired (Google Pay $29.99 declined), action YES (Emilee) (UID 1389) → [[billing#2026-11-24 — Slowdive Premium subscription expired due to non-payment (UID 1389)]]
