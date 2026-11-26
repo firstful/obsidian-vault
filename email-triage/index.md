@@ -331,3 +331,6 @@ tags: [email-triage, index]
 
 - [espn-fantasy-football](topics/espn-fantasy-football.md) — ESPN Fantasy Football notifications for league "Foxen Fantasy 2026": trade proposals and league activity (relevant; action required)
   - 2026-11-26 — ESPN Fantasy Football: trade proposal — CeeDee Lamb (WR, DAL) for Bijan Robinson (RB, ATL) (UID 1514) → [[espn-fantasy-football#2026-11-26 — ESPN Fantasy Football: trade proposal — CeeDee Lamb (WR, DAL) for Bijan Robinson (RB, ATL) (UID 1514)]]
+
+- [couchsurfing](topics/couchsurfing.md) — Couchsurfing traveler digests for Columbus (marketing; unsubscribed)
+  - 2026-11-26 — Couchsurfing: "Travelers are coming to Columbus" (UID 1526), action no → [[couchsurfing#2026-11-26 — Couchsurfing: "Travelers are coming to Columbus" (UID 1526)]]
