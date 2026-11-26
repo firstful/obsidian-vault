@@ -44,3 +44,15 @@ tags: [email-triage, gift-exchange]
 - **Summary:** drawnames.com marketing blast to Emilee Sutliff encouraging early wish-list creation / deal shopping for the gift exchange ("get a head start on your wish list with the best deals"). Promo/marketing, no actionable content; recipient is Emilee, not a reed@ address.
 - **Action required:** no
 - **Unsubscribe:** not performed (To address does not contain "reed"; auto-unsubscribe policy not triggered).
+
+
+## 2026-11-26 — "new ways to draw names for the holidays" marketing (drawnames.com)
+
+- **Date:** 2026-11-26 08:05 UTC
+- **Sender:** drawnames@drawnames.com (From-name "Drawnames")
+- **To:** emileesutliff@gmail.com
+- **Subject:** Emilee Sutliff, new ways to draw names for the holidays
+- **UID:** 1522 (INBOX, message-id <c1e6a688-804b-4ba4-86c7-4701b98f425b@mtasv.net>, 25.5 KB)
+- **Summary:** drawnames.com marketing blast to Emilee Sutliff promoting Secret Santa setup for the holidays ("Pass the pie. Share the link.") and a new ChatGPT plugin for planning Secret Santa. Promo/marketing, no actionable content; recipient is Emilee, not a reed@ address. List-Unsubscribe (RFC 8058 one-click HTTPS) present but auto-unsubscribe not triggered because To address does not contain "reed".
+- **Action required:** no
+- **Unsubscribe:** not performed (To address does not contain "reed"; auto-unsubscribe policy not triggered).
