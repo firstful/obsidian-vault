@@ -29,3 +29,11 @@ tags: [email-triage, aliexpress]
 - summary: AliExpress marketing/personalized recommendation digest ("to pair with what you purchased") from deals sender. Classified from fetched envelope/headers via email-sync (http://email.ffilt.us/mail/885; folder INBOX, uid 885, size 146471, seen false). No List-Unsubscribe header and no unsubscribe URL/mailto found in fetched headers/body scan; no order/tracking/billing fact requiring action.
 - action-required: no (marketing/promo)
 - message-id: <93245c4c075442d0bca7e2603de46c40#0c0b4605-4d16-4422-9911-f570986590fa#AE_GLOBAL@deals.aliexpress.com>
+
+## 2026-11-26 — To pair with what you purchased (UID 1527)
+- date: 2026-11-26T13:36:36Z
+- sender: AliExpress <promotion@aliexpress.com> — to reedsut@gmail.com
+- subject: To pair with what you purchased
+- summary: AliExpress personalized recommendation digest ("We've got these picks for you / Find items to match your recent purchase"). Pure cross-sell marketing: product tiles with slashed prices/discount badges, "Popular categories" (Home, Electronics, Phones, Beauty, Sports, Toys) and an app-download nudge. No order number, tracking, refund, account or billing fact, and no deadline; the only "order" wording is the standard "Prices, deals and availability … reflect offers at send time / shipping fees are not included" disclaimer. Footer identifies it as a marketing email ("You are receiving this email because you are a registered member … If you don't want to receive marketing emails … unsubscribe"). HTML-only message (single text/html part, no text/plain); no List-Unsubscribe mail header (footer link only), no attachments. To address reedsut@gmail.com contains "reed" → auto-unsubscribe attempted via GET fallback to footer unsubscribe URL (HTTP 200; page load, no List-Unsubscribe/RFC 8058 one-click available).
+- action-required: no (marketing newsletter; no reply, purchase or deadline — delete at leisure)
+- message-id: <010e01a2181283f0-4b42217a-71c0-4ffe-b446-6e35b3e0d90a-000000@ap-southeast-1.amazonses.com>

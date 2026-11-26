@@ -12,6 +12,7 @@ tags: [email-triage, index]
   - 2026-11-23 — arewefucked.xyz is active on Cloudflare (Free plan), action no (UID 1344) → [[cloudflare#2026-11-23 — arewefucked.xyz is active on Cloudflare (Free plan) (UID 1344)]]
 
 - [aliexpress](topics/aliexpress.md) — AliExpress marketing digests / personalized product recommendations (marketing)
+  - 2026-11-26 — AliExpress: "To pair with what you purchased" (UID 1527) → [[aliexpress#2026-11-26 — To pair with what you purchased (UID 1527)]]
 - [american-express](topics/american-express.md) — American Express website Terms of Service / account legal & servicing notices (transactional, not marketing)
 - [allegiant](topics/allegiant.md) — Allegiant Air fare promos (marketing)
 - [amazon-orders](topics/amazon-orders.md)
