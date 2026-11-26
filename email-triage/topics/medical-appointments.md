@@ -437,3 +437,15 @@ tags: [email-triage, medical-appointments]
 - **Summary:** "Sorry for the wait!" notice addressed to Reed ("Dear Reed"): Reed's provider for the 2026-11-25 11:35 AM EST telehealth/video visit with Jeffrey Schord, MD at OSU Wexner Medical Center is running late and will join shortly; if the provider has not joined within 5 minutes, call the number in the notice (plain-text part: 614-366-2050; HTML part: 614-293-2850 — discrepancy between the two parts). Directs the patient to sign in at https://mychart.osu.edu with MyChart username/password to join the visit. Sent ~10 minutes after the scheduled 11:35 EST visit start. This is the "provider running late" variant of the same appointment tracked by UIDs 1123/1124/1421/1422 (preregistration reminders), UIDs 1480/1481 (same-day check-in reminders), and UIDs 1483/1484 ("you may now join your video visit"). Carries no new appointment detail or eCheck-in token. MyChart support: 614-366-6975 / 1-866-966-6975 (Mon-Fri 9 a.m.-6 p.m., excluding holidays). Sibling (triaged): UID 1488 — Emilee/proxy copy of this same "provider running late" notice (To emileesutliff@gmail.com, message-id <869f136b-f3a0-4065-a571-5cbcd88e48b8@SVR-EXCH19-VP02.OSUMC.EDU>).
 - **Action required:** yes (sign in to MyChart and join Reed's video visit now — provider is running late; if the provider has not joined within 5 minutes, call the number in the notice; appointment 2026-11-25 11:35 AM EST with Jeffrey Schord, MD)
 - **Related:** [[calendar/2026-11-25 - Reed telehealth visit (Jeffrey Schord, MD)]], [[medical-appointments]]
+
+## 2026-11-26 — Check in online before Elijah's upcoming visit (Nationwide Children's, Emilee; UID 1529)
+
+- **Date:** 2026-11-26T14:33:44Z (Thu 09:33:44 -0500)
+- **UID:** 1529 (INBOX) · message-id: <45545ca9-bbb4-48e8-a145-19a27663054c@H2PWEXCHSVR02.childrensroot.net>
+- **Sender:** donotreply@nationwidechildrens.org (Nationwide Children's MyChart)
+- **Subject:** Check In for Upcoming Visits
+- **To:** emileesutliff@gmail.com
+- **Classification:** relevant (transactional MyChart e-check-in reminder for upcoming pediatric visit; no List-Unsubscribe)
+- **Summary:** MyChart notification addressed to Emilee Sutliff: check in online before Elijah's upcoming visit on **2026-12-03 at 1:00 PM EST with Dr. Kent Williams** at Nationwide Children's. eCheck-in link provided: https://mychart.nationwidechildrens.org/MyChart/s/HIRNTZYGZHUWMYHSZ6LXRT2SUY/echeckin. Phone 614-722-3450 (plain text; HTML footer lists 614-938-3000).
+- **Action required:** yes (complete online e-check-in before the 2026-12-03 13:00 EST visit)
+- **Related:** [[calendar/2026-12-03 - Elijah appointment Nationwide Children's (Dr. Kent Williams)]], [[medical-appointments]]
