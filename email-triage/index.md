@@ -317,3 +317,6 @@ tags: [email-triage, index]
   - 2026-11-25 — Evite RSVP confirmation: Kip's First Birthday & Doljanchi (UID 1459) → [[evite#2026-11-25 — Evite RSVP confirmation: Kip's First Birthday & Doljanchi (UID 1459)]]
   - 2026-11-25 — Evite: host replied to your RSVP — Kip's First Birthday & Doljanchi (UID 1493), action yes → [[evite#2026-11-25 — Evite: host replied to your RSVP — Kip's First Birthday & Doljanchi (UID 1493)]]
   - 2026-11-25 — Evite: Jessi Middleton liked your RSVP — Kip's First Birthday & Doljanchi (UID 1498), action no → [[evite#2026-11-25 — Evite: Jessi Middleton liked your RSVP — Kip's First Birthday & Doljanchi (UID 1498)]]
+
+- [espn-fantasy-football](topics/espn-fantasy-football.md) — ESPN Fantasy Football notifications for league "Foxen Fantasy 2026": trade proposals and league activity (relevant; action required)
+  - 2026-11-26 — ESPN Fantasy Football: trade proposal — CeeDee Lamb (WR, DAL) for Bijan Robinson (RB, ATL) (UID 1514) → [[espn-fantasy-football#2026-11-26 — ESPN Fantasy Football: trade proposal — CeeDee Lamb (WR, DAL) for Bijan Robinson (RB, ATL) (UID 1514)]]
