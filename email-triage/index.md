@@ -117,6 +117,7 @@ tags: [email-triage, index]
   - 2026-11-26 — Credit Karma Checking account closed (not funded within first 180 days), action no (UID 1520) → [[credit-karma#2026-11-26 — Important Information Regarding your Account. (UID 1520)]]
 - [cvs-pharmacy](topics/cvs-pharmacy.md) — CVS Pharmacy prescription order confirmations (pickup/payment)
 - [lowes](topics/lowes.md) — Lowe's Credit Services (Synchrony) credit-card promos (marketing)
+  - 2026-11-26 — Nail your next project with Black Friday deals!, action no (UID 1530) → [[lowes#2026-11-26 — Nail your next project with Black Friday deals! (UID 1530)]]
 - [donations](topics/donations.md) — Charitable donations and receipts (World Team, etc.)
 - [donatos](topics/donatos.md) — Donatos Pizza pickup order confirmations and receipts
 - [the-oven](topics/the-oven.md) — The Oven (theoven@mg.owner.com) restaurant marketing campaigns (marketing)

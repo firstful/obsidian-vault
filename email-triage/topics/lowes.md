@@ -18,3 +18,17 @@ tags: [email-triage, lowes, synchrony, marketing]
 - **Action required:** no — marketing promo; no action needed.
 - **Auto-unsubscribe:** NOT performed. Promo/marketing, but the To address (emileesutliff@gmail.com) does not contain "reed" (case-insensitive), so the auto-unsubscribe recipient-gating condition is not met. No unsubscribe attempted; no unsubscribes.md row.
 - **Related notes:** [[synchrony]] (issuer; account-servicing notices)
+
+
+## 2026-11-26 — Nail your next project with Black Friday deals! (UID 1530)
+
+- **Date:** 2026-11-26T14:44:40Z
+- **Sender:** Lowe's Credit Services <cardholder@emails.synchrony.com>
+- **To:** emileesutliff@gmail.com
+- **Subject:** Nail your next project with Black Friday deals!
+- **UID / Message-ID:** 1530 (INBOX) / `<mid-1795704074000df4865601628@emails.synchrony.com>`
+- **Classification:** promo/marketing
+- **Summary:** Lowe's Credit Services (Synchrony-issued Lowe's credit card) Black Friday marketing promo advertising home-improvement/project deals. No account number, balance, due date, or transaction data. Bulk marketing send from cardholder@emails.synchrony.com. Delivered to Emilee's personal Gmail (emileesutliff@gmail.com), not the reed ingest alias.
+- **Action required:** no — marketing promo; no action needed.
+- **Auto-unsubscribe:** NOT performed. Promo/marketing, but the To address (emileesutliff@gmail.com) does not contain "reed" (case-insensitive), so the auto-unsubscribe recipient-gating condition is not met. No unsubscribe attempted; no unsubscribes.md row.
+- **Related notes:** [[synchrony]] (issuer; account-servicing notices)
