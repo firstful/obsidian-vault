@@ -71,6 +71,8 @@ tags: [email-triage, index]
   - 2026-11-25 — Walmart delivery order confirmed: 7 items (Equate Children's Melatonin + 6), $56.51, order #2000155-34096682, action no (UID 1479) → [[walmart-orders#2026-11-25 — Walmart delivery order confirmed (UID 1479, Order 2000155-34096682)]]
   - 2026-11-25 — Walmart unavailable items / act by 6:59pm: 5 unavailable on order #2000155-34096682, 2 deliverable later free (Melatonin), action YES for Emilee (UID 1503) → [[walmart-orders#2026-11-25 — Walmart unavailable items / take action by 6:59pm (UID 1503, Order 2000155-34096682)]]
   - 2026-11-25 — Walmart order delivered: 3 items arrived (Zicam RapidMelts, Rold Gold pretzels, porcelain ramekins), 6 unavailable, order #2000155-34096682, action no (UID 1506) → [[walmart-orders#2026-11-25 — Walmart order delivered (UID 1506, Order 2000155-34096682)]]
+- [wonderbly](topics/wonderbly.md) — Wonderbly Books personalized children's books: $15 credit/promo mail (marketing)
+  - 2026-11-26 — Wonderbly: "You've got $15 credit to spend" ($15 USD credit, expires midnight in 4 days; claim via account creation), action no (UID 1517) → [[wonderbly#2026-11-26 — Wonderbly: "You've got $15 credit to spend" (UID 1517)]]
 - [apple-developer](topics/apple-developer.md) — Apple Developer "Hello Developer" newsletter issues (Developer Center events, platform/tooling news; marketing)
 - [appliance-factory](topics/appliance-factory.md) — Appliance Factory & Mattress Kingdom purchase receipts and card refunds
 - [bibibop](topics/bibibop.md) — Bibibop Rewards transactional emails (verification codes, account notices)
