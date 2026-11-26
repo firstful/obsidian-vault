@@ -13,6 +13,8 @@ tags: [email-triage, index]
 
 - [aliexpress](topics/aliexpress.md) — AliExpress marketing digests / personalized product recommendations (marketing)
   - 2026-11-26 — AliExpress: "To pair with what you purchased" (UID 1527) → [[aliexpress#2026-11-26 — To pair with what you purchased (UID 1527)]]
+- [anker](topics/anker.md) — Anker Soundcore community (Discourse) digest summaries (marketing; auto-unsubscribed via RFC 8058 one-click, UID 1532)
+  - 2026-11-26 — Anker Soundcore community: "[Discourse] Summary" (UID 1532), action no → [[anker#2026-11-26 — [Discourse] Summary (UID 1532)]]
 - [american-express](topics/american-express.md) — American Express website Terms of Service / account legal & servicing notices (transactional, not marketing)
 - [allegiant](topics/allegiant.md) — Allegiant Air fare promos (marketing)
 - [amazon-orders](topics/amazon-orders.md)
