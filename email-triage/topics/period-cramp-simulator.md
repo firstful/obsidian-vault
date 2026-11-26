@@ -14,3 +14,10 @@ Product-marketing / promotional mail from `hello@period-cramp-simulator.com` (Sh
 - To: emileesutliff@gmail.com
 - Summary: Promotional "see it in action" product pitch from Period Cramp Simulator. Marketing only — no booking, payment, deadline, or account action implied. Classified from envelope (sender domain + subject + Shopify bulk mail); body not fetched (no unsubscribe action needed).
 - Action required: no
+
+## 2026-11-26 — "Black Friday prices are live"
+
+- UID: 1528 (INBOX) · message-id: <E1020005-18EB9D3ED2FBCCDC-BCD19057@shopify.com>
+- To: emileesutliff@gmail.com
+- Summary: Black Friday promotional pricing email from Period Cramp Simulator (Shopify-hosted). Marketing only — no booking, payment, deadline, or account action implied. Classified from envelope (sender domain + subject + Shopify bulk mail); body not fetched (no unsubscribe action needed; To lacks "reed", so no auto-unsubscribe gating).
+- Action required: no

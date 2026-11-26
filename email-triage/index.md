@@ -303,6 +303,7 @@ tags: [email-triage, index]
 
 - [period-cramp-simulator](topics/period-cramp-simulator.md) — Period Cramp Simulator product-marketing promos (Shopify; marketing)
   - 2026-11-25 — "See it in action" product pitch, action no (UID 1492) → [[period-cramp-simulator#2026-11-25 — "See it in action"]]
+  - 2026-11-26 — "Black Friday prices are live" Black Friday promo, action no (UID 1528) → [[period-cramp-simulator#2026-11-26 — "Black Friday prices are live"]]
 
 - [unitedhealthcare](topics/unitedhealthcare.md) — UnitedHealthcare: member-benefit marketing (Real Appeal/Wellos), plan notices, and account/verification OTPs (transactional)
   - 2026-11-23 — "Direct Medical Reimbursement Form" is actually an email-verification OTP (code 613686, 6h expiry), action YES if Reed initiated the form (UID 1353) → [[unitedhealthcare#2026-11-23 — UnitedHealthcare: "Direct Medical Reimbursement Form" (email verification OTP)]]
