@@ -1,6 +1,6 @@
 ---
 title: TODO
-created: 2026-11-25
+created: 2026-11-26
 tags: [todo, auto-generated, personal]
 ---
 
@@ -9,9 +9,9 @@ tags: [todo, auto-generated, personal]
 _Auto-generated nightly. Personal money/bills/medical/appointments/errands and follow-ups from the last 24h of vault activity. Work/dev todos are excluded. Do not edit by hand._
 
 ## Summary
-- Critical: 7 | High: 8 | Medium: 24 | Low: 29
+- Critical: 7 | High: 9 | Medium: 25 | Low: 29
 - Retired as complete: 0
-- Generated: 2026-11-25T06:31:54Z
+- Generated: 2026-11-26T06:33:25Z
 
 ## Critical
 - [ ] Maxine vet recheck and drain removal (overdue since 2026-11-05) — [[2026-11-05 - Maxine vet recheck and drain removal]]
@@ -31,6 +31,7 @@ _Auto-generated nightly. Personal money/bills/medical/appointments/errands and f
 - [ ] Auto insurance installment $119.98 (2026-12-19, Branch Insurance) — [[2026-12-19 - Auto insurance installment]]
 - [ ] Reply to eBay buyer lakboh33 (item 267849469808): confirm everything works, address shipping-cost offset request (action required) — [[ebay]]
 - [ ] Resolve Amazon payment declines — retry/update payment method on orders #112-4094759-8624262, #112-3213619-4258628, #112-5130203-3571450, #112-3892735-4604262 (UIDs 1429-1438) — [[amazon-orders]]
+- [ ] Accept or decline ESPN Fantasy Football trade proposal (CeeDee Lamb for Bijan Robinson) before Fri Nov 27 7:39 PM EST — [[espn-fantasy-football]]
 
 ## Medium
 - [ ] Huntington Online Services Agreement update effective (overdue reminder, 2026-11-20) — [[2026-11-20 - Huntington Online Services Agreement update effective]]
@@ -57,6 +58,7 @@ _Auto-generated nightly. Personal money/bills/medical/appointments/errands and f
 - [ ] Add to AAC — [[Todos]]
 - [ ] Follow up on LinkedIn call with Wes King (Stafford Technology) — 3:30pm 2026-11-24 occurred; review outcomes/next steps — [[recruiter-outreach]]
 - [ ] Update Google Play payment method — Spotify charged to backup card (UID 1434) — [[google-play]]
+- [ ] Monitor Optum Specialty Pharmacy delivery #950481204 scheduled 2026-11-28 — [[2026-11-28 - Optum Specialty Pharmacy scheduled delivery]]
 
 ## Low
 - [ ] Backblaze Privacy Notice and policies effective (2026-12-01) — [[2026-12-01 - Backblaze Privacy Notice and policies effective]]
