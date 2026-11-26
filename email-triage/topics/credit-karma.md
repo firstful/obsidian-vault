@@ -92,3 +92,14 @@ No unsubscribe performed (backfill run).
 - **UID:** 1387 (INBOX, message-id `<20261123195156.8e21ee9494b152af@mail.creditkarma.com>`, 106,541 B, no attachments)
 - **Summary:** Credit Karma engagement nudge (notificationType=activation_lastyr_mort) from the "Credit Karma Home" list: states Reed's home loan balance was $390,053 last year, based on TransUnion credit report data as reported between 10/16/2025 and 11/23/2026, and invites checking current progress. CTA to view account. Self-labels "This is a promotional email." Carries RFC 8058 one-click List-Unsubscribe (preferences=HOME). Auto-unsubscribe performed (POST 200, {"status":"success"}) — see unsubscribes.md.
 - **Action required:** no (informational engagement nudge; read current balance in Credit Karma if wanted; unsubscribe attempted and accepted)
+
+
+## 2026-11-26 — Important Information Regarding your Account.
+
+- **Date:** 2026-11-26T06:56:57Z
+- **Sender:** Credit Karma Banking <notifications@creditkarma.com> (List-Id "Credit Karma Checking" <checking.lists.creditkarma.com>; List-Unsubscribe-Post: List-Unsubscribe=One-Click)
+- **To:** reedsut@gmail.com
+- **Subject:** Important Information Regarding your Account.
+- **UID:** 1520 (INBOX, message-id `<20261126065657.464cc98f8f9337ce@creditkarma.com>`, 82,532 B, no attachments)
+- **Summary:** Credit Karma Banking notice: the Credit Karma Checking account was **not funded within the first 180 days**, so it is now considered inactive and has been **closed**. Statements, tax forms, and other documents remain viewable from the account settings page. Support: help center / member support (888-236-5798). Banking services provided by MVB Bank, Inc., Member FDIC (Credit Karma, LLC, Oakland CA). Privacy/Terms links self-classify the send as `categories=SubscriptionNotRequired,US,Transactional` (`notificationType=chk_txn_unfunded_diseng`). Carries an RFC 8058 one-click List-Unsubscribe and a List-Id, but the payload is a transactional account-closure notice, not marketing — no auto-unsubscribe performed.
+- **Action required:** no (account closed automatically; nothing to pay and no deadline. Optionally review retained statements/tax forms in Credit Karma account settings; no Rook action.)
