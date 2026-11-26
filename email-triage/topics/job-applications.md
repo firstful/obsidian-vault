@@ -5,6 +5,20 @@ tags: [email-triage, job-applications]
 
 # Job Applications
 
+## 2026-11-26 — Thank you for applying to DataGrail (UID 1525)
+
+- **Date:** 2026-11-26T10:01:03Z
+- **Sender:** no-reply@us.greenhouse-mail.io (Greenhouse; `X-Mailgun-Tag: CandidateAutoReply`, `X-Gh-Email-Transport: mailgun`, `X-Feedback-Id: no-reply@us.greenhouse-mail.io:CandidateAutoReply:5ff5c19deab70c1acacf09a2:mailgun`, `X-Mailgun-Variables: {"org_id": "4000949003", "person_id": "193723835003", "silo_id": "3", "user_id": ""}`)
+- **To:** sutliff.reed@gmail.com (INBOX/1525; routed via Gmail forward → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Thank you for applying to DataGrail
+- **Message-Id:** <20261126100103.f55c4b572c60bd5b@us.greenhouse-mail.io>
+- **UID:** 1525 (INBOX)
+- **Summary:** Greenhouse (Mailgun) `CandidateAutoReply` submission acknowledgement for Reed's DataGrail application — "Reed, Thanks for applying to DataGrail. Your application has been received and we will review it right away. If your application seems like a good fit for the position we will contact you soon. Regards, DataGrail. ** Please note: Do not reply to this email. This email is sent from an unattended mailbox. Replies will not be read." Second DataGrail entry in this topic (first was UID 1194 on 2026-11-19). Pure acknowledgement — no role named anywhere in the email, no code, deadline, or next step (contrast the Greenhouse security-code interstitials, e.g. [[job-applications#2026-11-19 — Security code for PlanetScale application (uid 1195)]], which are action YES). No attachments (10,877 B, multipart/alternative). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass (i=1 and i=2); `X-Jellyfish-No-Auto-Response: 1`. `List-Unsubscribe` header present but EMPTY → no unsubscribe performed (transactional submission ack; recipient-based auto-unsubscribe gate does not apply to relevant/transactional mail even though To contains "reed"). No calendar/bills/purchases/money note — no concrete date or deadline. Dedupe: Message-Id hex tail `f55c4b572c60bd5b` and 14-digit Mailgun timestamp prefix `20261126100103`, plus `UID 1525`, not previously in the topic → distinct event, own section (dedupe by Message-Id, never subject).
+- **Action required:** no — informational submission acknowledgement; wait for recruiter follow-up. Do not reply (unattended mailbox).
+
+### Related notes
+- [[job-applications]]
+
 ## 2026-11-25 — Application received: Staff Software Engineer, Infrastructure at Hex (UID 1495)
 
 - **Date:** 2026-11-25T17:16:55Z
