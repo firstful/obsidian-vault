@@ -230,6 +230,7 @@ tags: [email-triage, index]
 - [job-alerts](topics/job-alerts.md) — Marketing job-board alerts (ZipRecruiter, etc.)
   - 2026-11-24 — DataAnnotation may want to hire you (UID 1452) → [[job-alerts#2026-11-24 — DataAnnotation may want to hire you (UID 1452)]]
   - 2026-11-25 — DataAnnotation may want to hire you (UID 1494) → [[job-alerts#2026-11-25 — DataAnnotation may want to hire you (UID 1494)]]
+  - 2026-11-26 — Full Stack Software Engineer (part-time work from home) - AI Trainer opening at DataAnnotation (UID 1535) → [[job-alerts#2026-11-26 — Full Stack Software Engineer (part-time work from home) - AI Trainer opening at DataAnnotation (UID 1535)]]
 - [recruiter-outreach](topics/recruiter-outreach.md) — Person-to-person recruiter InMails, connection requests/reminders with a real hiring conversation (LinkedIn, Robert Half, etc.)
   - 2026-11-20 — LinkedIn InMail: Wesley King (Stafford Technology), software engineering roles, action YES (UID 1247) → [[recruiter-outreach#2026-11-20 — LinkedIn InMail: Wesley King (Stafford Technology) — software engineering roles]]
   - 2026-11-23 — LinkedIn InMail REMINDER: Wesley King (Stafford Technology), software engineering roles, action YES (UID 1340) → [[recruiter-outreach#2026-11-23 — LinkedIn InMail REMINDER: Wesley King (Stafford Technology) — software engineering roles (UID 1340)]]
