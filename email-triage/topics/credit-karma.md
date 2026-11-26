@@ -103,3 +103,15 @@ No unsubscribe performed (backfill run).
 - **UID:** 1520 (INBOX, message-id `<20261126065657.464cc98f8f9337ce@creditkarma.com>`, 82,532 B, no attachments)
 - **Summary:** Credit Karma Banking notice: the Credit Karma Checking account was **not funded within the first 180 days**, so it is now considered inactive and has been **closed**. Statements, tax forms, and other documents remain viewable from the account settings page. Support: help center / member support (888-236-5798). Banking services provided by MVB Bank, Inc., Member FDIC (Credit Karma, LLC, Oakland CA). Privacy/Terms links self-classify the send as `categories=SubscriptionNotRequired,US,Transactional` (`notificationType=chk_txn_unfunded_diseng`). Carries an RFC 8058 one-click List-Unsubscribe and a List-Id, but the payload is a transactional account-closure notice, not marketing — no auto-unsubscribe performed.
 - **Action required:** no (account closed automatically; nothing to pay and no deadline. Optionally review retained statements/tax forms in Credit Karma account settings; no Rook action.)
+
+## 2026-11-26 — Debit card deactivated - Credit Karma Checking
+
+- **Date:** 2026-11-26T06:56:57Z
+- **Sender:** Credit Karma Banking <notifications@creditkarma.com> (List-Id "Credit Karma Checking" <checking.lists.creditkarma.com>)
+- **To:** reedsut@gmail.com (Delivered-To reed@ffilt.us via Gmail → ingest forward; Return-Path reedsut+caf_=ingest=ffilt.us@gmail.com)
+- **Subject:** Debit card deactivated - Credit Karma Checking
+- **UID:** 1521 (INBOX, message-id `<20261126065657.1995a1b49a7bd00a@creditkarma.com>`, 85,219 B, no attachments)
+- **Summary:** Credit Karma Banking transactional security notice: Reed's physical debit card on the Credit Karma Checking account was deactivated to protect the account (card ending not shown in the message). Transactions and ATM withdrawals with the physical card no longer work, but the account itself remains usable and any existing virtual debit card continues to work. Next steps offered: order a replacement physical card in the app (manage-cards link) or use the virtual card via a digital wallet (Apple Pay/Google Pay). If the deactivation looks wrong, contact member support. Message is transactional (X-Mailgun categories: US,Transactional,SubscriptionNotRequired); it carries an RFC 8058 one-click List-Unsubscribe (CHECKING) but no auto-unsubscribe was performed — this is a security/account notice, not marketing.
+- **Action required:** yes (order a replacement physical debit card in the Credit Karma app, or activate/use the virtual card via digital wallet; contact member support if the deactivation is unexpected)
+
+No unsubscribe performed (transactional security notice).

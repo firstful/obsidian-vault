@@ -112,6 +112,7 @@ tags: [email-triage, index]
   - 2026-11-09 — Guidepoint consultation request: Property Technology Market (#1831985), action YES (UID 577) → [[consulting-guidepoint#2026-11-09 — Guidepoint consultation request: Property Technology Market (#1831985)]]
 - [cord-blood-registry](topics/cord-blood-registry.md) — Cord Blood Registry (CBR) newborn stem-cell lead-gen follow-ups (marketing)
 - [credit-karma](topics/credit-karma.md) — Credit Karma credit-monitoring alerts (credit-limit changes, score/usage notices) and banking notices (checking account)
+  - 2026-11-26 — Debit card deactivated (Credit Karma Checking), action YES (order replacement card) (UID 1521) → [[credit-karma#2026-11-26 — Debit card deactivated - Credit Karma Checking (UID 1521)]]
   - 2026-11-26 — Credit Karma Checking account closed (not funded within first 180 days), action no (UID 1520) → [[credit-karma#2026-11-26 — Important Information Regarding your Account. (UID 1520)]]
 - [cvs-pharmacy](topics/cvs-pharmacy.md) — CVS Pharmacy prescription order confirmations (pickup/payment)
 - [lowes](topics/lowes.md) — Lowe's Credit Services (Synchrony) credit-card promos (marketing)
