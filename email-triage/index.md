@@ -146,6 +146,7 @@ tags: [email-triage, index]
 - [ellaola](topics/ellaola.md) — EllaOla subscription renewal / upcoming shipment notices (marketing)
   - 2026-11-24 — EllaOla: "Your EllaOla upcoming shipment", subscription renewal (next charge 2026-11-27), action no (UID 1391) → [[ellaola#2026-11-24 — EllaOla: "Your EllaOla upcoming shipment" (UID 1391)]]
 - [experian](topics/experian.md) — Experian credit-report change and FICO-score alert emails (account-activation teasers; marketing)
+  - 2026-11-26 — Experian Alerts: "Awaiting review: Change to your Experian credit report" (UID 1516), action no → [[experian#2026-11-26 — Experian Alerts: "Awaiting review: Change to your Experian credit report" (UID 1516)]]
 - [transunion-creditview](topics/transunion-creditview.md) — TransUnion CreditView Dashboard credit-report alerts (e.g. delinquency notices, score decreases; via financial institution)
 - [eyebuydirect](topics/eyebuydirect.md) — EyeBuyDirect post-purchase survey / follow-up emails (marketing)
 - [fairfield-dd](topics/fairfield-dd.md) — Fairfield County Board of Developmental Disabilities — Elijah's services, assistive-technology follow-ups and equipment links
