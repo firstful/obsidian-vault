@@ -5,6 +5,20 @@ tags: [email-triage, job-applications]
 
 # Job Applications
 
+## 2026-11-27 — Thank you for applying to Ramp! (UID 1578)
+
+- **Date:** 2026-11-27T19:59:46Z
+- **Sender:** no-reply@ashbyhq.com (Ramp Talent Team; **Ashby ATS** via Amazon SES — `X-Ashby-Stage: fef8b228-e0aa-440b-a51b-8623e68f2a2a`; same family as the Supabase sibling [[job-applications#2026-11-26 — Thank you for applying to Supabase (UID 1536)]] and the Hex sibling [[job-applications#2026-11-25 — Application received: Staff Software Engineer, Infrastructure at Hex (UID 1495)]], NOT Greenhouse/Gem)
+- **To:** sutliff.reed@gmail.com (INBOX/1578; routed via Gmail forward → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Thank you for applying to Ramp!
+- **Message-Id:** <010001a21e97ad32-ff798afa-a8cb-4c20-b3fa-341307f2e2b4-000000@email.amazonses.com>
+- **UID:** 1578 (INBOX)
+- **Summary:** Ashby (Amazon SES) application-submission acknowledgement for Reed's application to **Research Engineer, Agentic Systems** at **Ramp**. Body: "Hi Reed, Thank you for taking the time to apply to our Research Engineer, Agentic Systems opening at Ramp! Your application has been received and we will review it soon. If your application is a good fit for the position, we will contact you. Wishing you the best, Ramp" + "Please note: This email is sent from an unattended mailbox and replies will not be read." Pure submission ACK — no security code, no hiring decision, no deadline or concrete date ("we will contact you" is not a date). No attachments (12,582 B). Authentic: DKIM pass d=ashbyhq.com (s=35ilcxfelejdmu2qkbchu4gfsqislwzy) + d=amazonses.com (s=224i4yxa5dv7c2xz3womw6peuasteono), SPF pass, DMARC pass (p=quarantine), ARC pass; `X-Jellyfish-No-Auto-Response: 1`, `X-SES-Outgoing: 2026.11.27-54.240.78.44`, `Feedback-ID: ...:AmazonSES`. No `List-Unsubscribe` header at all → no unsubscribe (transactional submission ack; recipient-based auto-unsubscribe gate does not apply even though To contains "reed"); no unsubscribes.md row. No calendar/bills/purchases/money note — no date, deadline, or next step. Dedupe: Message-Id hex tail `ff798afa-a8cb-4c20-b3fa-341307f2e2b4`, `X-Ashby-Stage` UUID `fef8b228-e0aa-440b-a51b-8623e68f2a2a`, and `UID 1578` not previously in the topic → distinct event, own section (dedupe by Message-Id/stage UUID, never the generic "Thank you for applying to X!" subject). Do not reply (unattended mailbox).
+- **Action required:** no — application received; no next step or deadline. Do not reply (unattended mailbox).
+
+### Related notes
+- [[job-applications]]
+
 ## 2026-11-27 — Thank you for applying to BeyondTrust (UID 1552)
 
 - **Date:** 2026-11-27T11:28:02Z
