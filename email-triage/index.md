@@ -165,6 +165,7 @@ tags: [email-triage, index]
   - 2026-11-27 — Reed's buyer-side offer $14.53 expired on Elpida 8GB ECC RAM (seller electrothings, BIN $15.29), no sale — terminal event, action NO (UID 1551) → [[ebay#2026-11-27 — eBay buyer-side offer expired: $14.53 on Elpida 8GB ECC RAM (seller electrothings) (UID 1551)]]
 - [ebay-orders](topics/ebay-orders.md) — eBay buyer-side purchase confirmations and order receipts
   - 2026-11-21 — eBay order confirmation: SK hynix 16GB (4x4GB) DDR3-1866 ECC UDIMM, order #24-15446-45567, $32.01, action no (UID 1270) → [[ebay-orders#2026-11-21 — eBay order confirmation: SK hynix 16GB (4x4GB) DDR3-1866 ECC UDIMM (UID 1270)]]
+  - 2026-11-27 — eBay package delivered: SK hynix 16GB (4x4GB) ECC UDIMM, order #24-15446-45567, dropped off Nov 27, action no (UID 1580) → [[ebay-orders#2026-11-27 — eBay package delivered: SK hynix 16GB (4x4GB) ECC UDIMM (UID 1580)]]
 - [email-delivery](topics/email-delivery.md) — Delivery status notifications, bounces, and mail routing failures
   - 2026-11-23 — DSN: ingest@ffilt.us blocked, 554 5.7.1 DMARC policy rejected (Atlas Obscura newsletter forwarded via Gmail), action YES (UID 1343) → [[email-delivery#2026-11-23 | Mail Delivery Subsystem <mailer-daemon@googlemail.com> | Delivery Status Notification (Failure)]]
 - [ellaola](topics/ellaola.md) — EllaOla subscription renewal / upcoming shipment notices (marketing)
