@@ -103,3 +103,14 @@ tags: [email-triage, job-alerts]
 - **Summary:** ZipRecruiter bulk job-alert digest promoting a DataAnnotation "AI Trainer" opening (Santa Monica CA / On-site, $40-$125/hr) via the standard "Here are today's jobs recommended for you" card deck (145,342 B HTML, 0 attachments). List-Id job_alerts.ziprecruiter.com, Feedback-ID job_alert_candidate_ziprecruiter:mg.ziprecruiter.com. Marketing/job-board alert, not an application confirmation, recruiter outreach, or an offer; the named role and rate are ad copy, not a personalized hiring inquiry. Same sender family as uids 558, 600, 645, 784, 1369, 1452, 1494; same DataAnnotation campaign as siblings 1452/1494. No action required.
 - **Action required:** no
 - **Unsubscribe:** RFC 8058 one-click POST attempted (2026-11-26, see [[unsubscribes]]); result 403 (Cloudflare challenge) — not confirmed unsubscribed; manual unsubscribe via ZipRecruiter account email preferences required.
+
+## 2026-11-27 — Remote Full Stack Engineer opening at Turing (UID 1565)
+
+- **Date:** 2026-11-27T15:30:39Z
+- **Sender:** alerts@ziprecruiter.com (ZipRecruiter)
+- **To:** sutliff.reed@gmail.com
+- **Subject:** Remote Full Stack Engineer opening at Turing
+- **Message-ID:** `<20261127153039.55b84265946e9476@mg.ziprecruiter.com>`
+- **Summary:** ZipRecruiter bulk job-alert digest promoting a "Remote Full Stack Engineer" opening at Turing via the standard "Here are today's jobs recommended for you" card deck (146,140 B HTML, 0 attachments). List-Id job_alerts.ziprecruiter.com, Feedback-ID job_alert_candidate_ziprecruiter:mg.ziprecruiter.com, message-id @mg.ziprecruiter.com. Marketing/job-board alert, not an application confirmation, recruiter outreach, or an offer; the named role is ad copy, not a personalized hiring inquiry. Same sender family as uids 558, 600, 645, 784, 1369, 1452, 1494, 1535. No action required.
+- **Action required:** no
+- **Unsubscribe:** RFC 8058 one-click POST attempted (2026-11-27, see [[unsubscribes]]); result 403 (Cloudflare challenge) — not confirmed unsubscribed; manual unsubscribe via ZipRecruiter account email preferences required.
