@@ -253,3 +253,13 @@ Informational only; never action-required.
 - Summary: Daily Informed Delivery digest for Wednesday 25 November 2026 — 1 mailpiece, 1 inbound package arriving soon. Mailpiece FROM: US Bank (campaign "DRP 5 NOV PL1 & BAU"). Package: SHIPBOB, tracking 9200190244541326906252 (Awaiting From Sender). 2 JPEG attachments (mailer-33042.jpg 234 KB, content-33042.jpg 45 KB; 412 KB message). No package exceptions, bills, deadlines, or account actions referenced.
 - Action required: no
 - Notes: Live triage (event id 1474). To is Emilee's mailbox (no "reed") and USPS digests are never marketing in any case — no unsubscribe performed (no List-Unsubscribe header present). Body fetched via email-sync MCP (email_fetch_body with reason; counts from QP-decode of whole raw message). Triage summary posted to #email-triage per inbound trigger.
+
+
+## 2026-11-27 12:56 — USPS Informed Delivery: "Your Daily Digest for Fri, 11/27 is ready to view"
+
+- UID: 1554 (INBOX) · message-id: <20261127125651.c288b9e485a8b11a@email.informeddelivery.usps.com>
+- To: emileesutliff@gmail.com — forwarded into ingest via Cloudflare Email Routing (Delivered-To: reed@ffilt.us); greeting "Hi , EMILEE !" (merge-field artifact)
+- Date: 2026-11-27T12:56:51Z
+- Summary: Daily Informed Delivery digest for Friday 27 November 2026 — 2 mailpiece(s) and 1 inbound package arriving soon; "Expected Today 2 item(s) FROM: US BANK DRP 5 N…" (mailpiece scan from US Bank). "Expected Today 1 item(s) FROM: EBAY 9300111047400008270926" (inbound package, tracking 9300111047400008270926). "Expected 1-2 Days 0 item(s) — No packages are available". 3 JPEG attachments (mailer-33042.jpg 234 KB, content-33042.jpg 45 KB, 2879571265-010.jpg 44 KB; 457 KB message). No package exceptions, bills, deadlines, or account actions referenced.
+- Action required: no
+- Notes: Live triage (event id 1554). To is Emilee's mailbox (no "reed") and USPS digests are never marketing in any case — no unsubscribe performed (no List-Unsubscribe action). No sibling Reed copy observed at triage time (INBOX search for this subject returned only UID 1554); if it arrives it will be a distinct entry keyed on its own message-id. Body fetched once via LAN port-forward (email-sync svc) with audit reason; counts and sender/package detail from QP-decode of the whole raw message. Triage summary posted to #email-triage per inbound trigger.
