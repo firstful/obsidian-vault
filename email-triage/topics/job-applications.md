@@ -5,6 +5,20 @@ tags: [email-triage, job-applications]
 
 # Job Applications
 
+## 2026-11-27 — Thank you for applying to BeyondTrust (UID 1552)
+
+- **Date:** 2026-11-27T11:28:02Z
+- **Sender:** no-reply@us.greenhouse-mail.io (Greenhouse `CandidateAutoReply` via Mailgun; `X-Feedback-Id: no-reply@us.greenhouse-mail.io:CandidateAutoReply:5ff5c19deab70c1acacf09a2:mailgun`, `X-Gh-Mailer-Variables-Transport: mailgun`, `X-Gh-Email-Transport: mailgun`, `X-Mailgun-Variables: {"org_id": "5067", "person_id": "514833392", "silo_id": "1", "user_id": ""}`)
+- **To:** sutliff.reed@gmail.com (INBOX/1552; routed via Gmail forward → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Thank you for your interest in BeyondTrust!
+- **Message-Id:** <20261127112802.4ffd19a74aacc4dd@us.greenhouse-mail.io>
+- **UID:** 1552 (INBOX)
+- **Summary:** Greenhouse (Mailgun) `CandidateAutoReply` application-submission acknowledgement for Reed's application to **BeyondTrust** (cybersecurity sector; CEO Janine Seebeck). Body: "Thank you for your job application, Reed!" / "We are excited about your interest in joining us at BeyondTrust! ... a dedicated team member (not a robot!) will carefully review your application and reach out if you are a strong fit." + an invite to "The BeyondTrust Experience" CEO video (marketing-lite company-culture footer, does NOT make an ack promo — cf. Honeycomb uid 1110 / CoreWeave uid 1381). **No role named in the body** — do not fabricate one. Pure submission ACK — NOT a security-code interstitial, NOT a hiring decision/rejection ("Thank you for your interest in X!" is an ambiguous subject shape; judged on body + `X-Mailgun-Tag: CandidateAutoReply`); no code, no deadline, no concrete date. No attachments (11,832 B). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), `X-Jellyfish-No-Auto-Response: 1`; SPF/DMARC/ARC pass on the Gmail-forward path. `List-Unsubscribe` header present but EMPTY → no unsubscribe (transactional submission ack; recipient-based auto-unsubscribe gate does not apply even though To contains "reed"); no unsubscribes.md row. Dedupe: Message-Id hex tail `4ffd19a74aacc4dd`, 14-digit Mailgun timestamp prefix `20261127112802`, and `UID 1552` not previously in the topic → distinct event, own section (dedupe by Message-Id, never subject). First BeyondTrust entry in this topic; same campaign hash (`5ff5c19deab70c1acacf09a2`) as the other Greenhouse acks, but a different employer and fresh Message-Id — not a duplicate. Sibling in time to the 2026-11-27 Bitwarden ack [[job-applications#2026-11-27 — Thank you for applying to Bitwarden (UID 1546)]] and Twilio security code [[job-applications#2026-11-27 — Security code for your application to Twilio (UID 1547)]] — different employers, not duplicates. No calendar/bills/purchases/money note — no concrete date, deadline, or next step ("reach out if a strong fit" is not a date). Do not reply (unattended mailbox).
+- **Action required:** no — confirmation only; wait for recruiter follow-up. Do not reply (unattended mailbox).
+
+### Related notes
+- [[job-applications]]
+
 ## 2026-11-27 — Security code for your application to Twilio (UID 1547)
 
 - **Date:** 2026-11-27T03:03:06Z
