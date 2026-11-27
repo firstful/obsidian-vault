@@ -5,6 +5,20 @@ tags: [email-triage, job-applications]
 
 # Job Applications
 
+## 2026-11-27 — Thank you for applying to Bitwarden (UID 1546)
+
+- **Date:** 2026-11-27T02:52:02Z
+- **Sender:** no-reply@us.greenhouse-mail.io (Bitwarden; Greenhouse `CandidateAutoReply` via Mailgun — `X-Mailgun-Tag: CandidateAutoReply`, `X-Gh-Mailer-Variables-Transport: mailgun`, `X-Gh-Email-Transport: mailgun`, `X-Feedback-Id: no-reply@us.greenhouse-mail.io:CandidateAutoReply:5ff5c19deab70c1acacf09a2:mailgun`, `X-Mailgun-Variables: {"org_id": "4001643003", "person_id": "194338470003", "silo_id": "3", "user_id": ""}`; NOT Ashby/Amazon SES)
+- **To:** sutliff.reed@gmail.com (INBOX/1546; routed via Gmail forward → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Thank you for applying to Bitwarden
+- **Message-Id:** <20261127025202.be13223d17a3eba8@us.greenhouse-mail.io>
+- **UID:** 1546 (INBOX)
+- **Summary:** Greenhouse (Mailgun) `CandidateAutoReply` submission acknowledgement for Reed's application to **Senior Database Engineer** at **Bitwarden**. Body: "Reed, Thanks for applying to Bitwarden. We wanted to let you know our hiring team has received your application for Senior Database Engineer, and we are grateful that you would consider joining us as we work to help our users access their secure information simply and safely. We will review your application and be in touch soon if your application seems like a good match for the needs of position. Please keep an eye on your spam or promotions folder, as unfortunately our emails for interview requests sometimes find their way there. If you are not selected for this position, please keep an eye on our careers page (https://bitwarden.com/careers/), as we are always growing!" plus links to Reddit/Twitter/GitHub/Facebook/LinkedIn/Blog/YouTube. Pure submission ACK — no security code, no hiring decision, no deadline or concrete date ("we'll be in touch" is not a date). No attachments (14,282 B, multipart/alternative). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass (i=1 and i=2); `X-Jellyfish-No-Auto-Response: 1`. `List-Unsubscribe` header present but EMPTY → no unsubscribe performed (transactional submission ack; recipient-based auto-unsubscribe gate does not apply to relevant/transactional mail even though To contains "reed"); no unsubscribes.md row. No calendar/bills/purchases/money note — no concrete date, deadline, or next step. Do not reply (unattended mailbox).
+- **Action required:** no — application received; no next step or deadline. Do not reply (unattended mailbox).
+
+### Related notes
+- [[job-applications]]
+
 ## 2026-11-26 — Thank you for applying to Supabase (UID 1536)
 
 - **Date:** 2026-11-26T18:20:01Z
