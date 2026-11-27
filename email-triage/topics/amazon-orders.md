@@ -1002,3 +1002,15 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a21e11067c-5bb8e0da-3f44-45cd-9337-41874c14adcf-000000@email.amazonses.com>
 - **UID:** 1572 (INBOX)
 - **Related notes:** [[amazon-orders]] (new standalone order #112-2065686-4002636, $7.46, Toys & Games; distinct from same-subject/category sibling UID 1570 placed ~2 min earlier — different order #/amount/Message-ID)
+
+
+## 2026-11-27 - Amazon order confirmation: 1 item (Toys & Games) (UID 1573)
+
+- **Date:** 2026-11-27T17:35:06Z
+- **Sender:** "Amazon.com" <auto-confirm@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Ordered 1 item: Toys & Games
+- **Summary:** Amazon order confirmation (`auto-confirm@amazon.com`): "Emilee, thanks for your order!" — status step Ordered (just placed), recipient Emilee - PICKERINGTON, OH. RELEVANT/transactional → topics/amazon-orders.md. Body exposed one order number, #112-0054402-6851472, Grand Total 10.66 USD (label on one line, amount on next: "Grand Total:\n10.66 USD"); category "Toys & Games" and item count (1) come from the Subject; item-level detail not extractable from the ~108 KB HTML nav noise — do not manufacture it. No prior status/held-order entry for #112-0054402-6851472 by order-number grep: standalone new confirmation, not a re-send or a decline sibling. Third in a same-subject "Ordered 1 item: Toys & Games" pile-up on 2026-11-27: siblings UID 1570 (17:30:49Z, $9.55, order #112-5321231-5610657) and UID 1572 (17:32:41Z, $7.46, order #112-2065686-4002636) — same subject/category/recipient but DIFFERENT order number, amount and Message-ID, so genuinely distinct orders placed minutes apart, not re-sends (order # + Message-ID are the only sound dedupe keys; subject+amount+category is never a duplicate signal). Promotional "Black Friday Deals" nav copy does not change the class — sender is auto-confirm@ and the body has Order # + Grand Total. ETA prose "Arriving Sunday" is a bare weekday (soft), not a hard date ⇒ no calendar/purchase note. Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass (Gmail forwarder 74.125.224.44 designated permitted sender; SES client-ip 54.240.13.152), DMARC pass (quarantine) header.from=amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES, all links amazon.com. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed"); List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk / List-Id all ABSENT → no auto-unsubscribe. Newest by timestamp, tail-appended after sibling UID 1572.
+- **Action required:** no — informational order confirmation; monitor for Shipped/Delivered follow-ups. No action for Rook.
+- **Message-ID:** <010001a21e133b7c-b53b5f8c-634f-4d6b-9bbe-d8e4938fa112-000000@email.amazonses.com>
+- **UID:** 1573 (INBOX)
+- **Related notes:** [[amazon-orders]] (new standalone order #112-0054402-6851472, $10.66, Toys & Games; third of three same-subject orders on 2026-11-27 — distinct from siblings UID 1570 and UID 1572 by order #/amount/Message-ID)

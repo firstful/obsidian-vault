@@ -73,6 +73,7 @@ tags: [email-triage, index]
   - 2026-11-25 — Amazon delivery confirmation: 1 item (Storytelling Toys), order #112-7421320-7345022, action no — final Delivered step (UID 1511) → [[amazon-orders#2026-11-25 - Amazon delivery confirmation: 1 item (Storytelling Toys) (UID 1511)]]
   - 2026-11-27 — Amazon order confirmation: 1 item (Toys & Games), $9.55, order #112-5321231-5610657, action no (UID 1570) → [[amazon-orders#2026-11-27 - Amazon order confirmation: 1 item (Toys & Games) (UID 1570)]]
   - 2026-11-27 — Amazon order confirmation: 1 item (Toys & Games), $7.46, order #112-2065686-4002636, action no (UID 1572) → [[amazon-orders#2026-11-27 - Amazon order confirmation: 1 item (Toys & Games) (UID 1572)]]
+  - 2026-11-27 — Amazon order confirmation: 1 item (Toys & Games), $10.66, order #112-0054402-6851472, action no (UID 1573) → [[amazon-orders#2026-11-27 - Amazon order confirmation: 1 item (Toys & Games) (UID 1573)]]
 - [walmart-orders](topics/walmart-orders.md) — Walmart.com transactional order/payment, delivery, and cancellation notices
   - 2026-11-19 — Walmart login verification code 862372 for Emilee (action YES, 15-min expiry) → [[security-alerts#2026-11-19 — Walmart verification code / login OTP (Emilee; UID 1203)]]
   - 2026-11-25 — Walmart delivery order confirmed: 7 items (Equate Children's Melatonin + 6), $56.51, order #2000155-34096682, action no (UID 1479) → [[walmart-orders#2026-11-25 — Walmart delivery order confirmed (UID 1479, Order 2000155-34096682)]]
