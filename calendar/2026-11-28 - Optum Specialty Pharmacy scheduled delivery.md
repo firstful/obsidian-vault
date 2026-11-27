@@ -13,6 +13,6 @@ tags: [calendar, pharmacy, optum]
 
 ## Details
 
-Optum Specialty Pharmacy order #950481204 was placed 2026-11-25 with scheduled delivery 2026-11-28 to Pickerington, OH. The order email states no action is needed at this time; Optum will contact Reed if more information is needed or delivery slips. Estimated order total $0.00, payment type PENDING.
+Optum Specialty Pharmacy order #950481204 was placed 2026-11-25 with scheduled delivery 2026-11-28 to Pickerington, OH. Shipped 2026-11-27 via FedEx, tracking 496532090760 (per UID 1563); tracking may not be available for up to 2 days. The order email states no action is needed at this time; Optum will contact Reed if more information is needed or delivery slips. Estimated order total $0.00, payment type PENDING.
 
-Source: [[email-triage/topics/optum-specialty-pharmacy#2026-11-25 — Optum Specialty Pharmacy order received / scheduled delivery 2026-11-28 (UID 1504)]].
+Source: [[email-triage/topics/optum-specialty-pharmacy#2026-11-25 — Optum Specialty Pharmacy order received / scheduled delivery 2026-11-28 (UID 1504)]], shipping update [[email-triage/topics/optum-specialty-pharmacy#2026-11-27 — Optum Specialty Pharmacy order shipped / FedEx tracking (UID 1563)]].
