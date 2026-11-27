@@ -15,6 +15,8 @@ tags: [email-triage, index]
   - 2026-11-26 — AliExpress: "To pair with what you purchased" (UID 1527) → [[aliexpress#2026-11-26 — To pair with what you purchased (UID 1527)]]
 - [anker](topics/anker.md) — Anker Soundcore community (Discourse) digest summaries (marketing; auto-unsubscribed via RFC 8058 one-click, UID 1532)
   - 2026-11-26 — Anker Soundcore community: "[Discourse] Summary" (UID 1532), action no → [[anker#2026-11-26 — [Discourse] Summary (UID 1532)]]
+- [adirondack](topics/adirondack.md) — Adirondack Juice & Co Black Friday / holiday vape-juice promos (marketing; unsubscribed via RFC 8058 one-click, UID 1545)
+  - 2026-11-27 — Adirondack: "Adirondack's Annual Black Friday Event Is Live! Huge Offers Inside!" (UID 1545), action no → [[adirondack#2026-11-27 — Adirondack: "Adirondack's Annual Black Friday Event Is Live! Huge Offers Inside!" (UID 1545)]]
 - [american-express](topics/american-express.md) — American Express website Terms of Service / account legal & servicing notices (transactional, not marketing)
 - [allegiant](topics/allegiant.md) — Allegiant Air fare promos (marketing)
 - [amazon-orders](topics/amazon-orders.md)
