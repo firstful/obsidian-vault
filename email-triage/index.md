@@ -137,6 +137,7 @@ tags: [email-triage, index]
   - 2026-11-24 — Uber Eats receipt (tip-inclusive re-send): Papa John's Pizza, $46.05, action no (UID 1394) → [[uber-eats#2026-11-24 - Uber Eats receipt: Papa Johns Pizza $46.05 (UID 1394)]]
 - [roosters](topics/roosters.md) — Roosters (Pickerington) Toast pickup-order confirmations and receipts
 - [tim-hortons](topics/tim-hortons.md) — Tim Hortons itemized delivery-order receipts (Tims Rewards; transactional)
+  - 2026-11-27 — Tim Hortons delivery order receipt: $30.36, Order# 9897, action no (UID 1562) → [[tim-hortons#2026-11-27 — Tim Hortons delivery order receipt: $30.36 (UID 1562)]]
 - [t-mobile](topics/t-mobile.md) — T-Mobile wireless account notices (payment receipts, monthly bill-ready notices; transactional billing)
   - 2026-11-23 — Bill ready: $22.60 due, AutoPay 12/10/2026, acct XXXXX2020, card 4772, action no (UID 1367) → [[t-mobile#2026-11-23 — Your bill is ready (UID 1367)]]
 - [teamviewer](topics/teamviewer.md) — TeamViewer marketing/promo newsletters (Black Friday/sale offers; marketing; auto-unsub one-click returns form page, not confirmed — UID 1407)
