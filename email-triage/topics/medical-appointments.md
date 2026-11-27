@@ -449,3 +449,16 @@ tags: [email-triage, medical-appointments]
 - **Summary:** MyChart notification addressed to Emilee Sutliff: check in online before Elijah's upcoming visit on **2026-12-03 at 1:00 PM EST with Dr. Kent Williams** at Nationwide Children's. eCheck-in link provided: https://mychart.nationwidechildrens.org/MyChart/s/HIRNTZYGZHUWMYHSZ6LXRT2SUY/echeckin. Phone 614-722-3450 (plain text; HTML footer lists 614-938-3000).
 - **Action required:** yes (complete online e-check-in before the 2026-12-03 13:00 EST visit)
 - **Related:** [[calendar/2026-12-03 - Elijah appointment Nationwide Children's (Dr. Kent Williams)]], [[medical-appointments]]
+
+
+## 2026-11-27 — New MyChart message for Elijah (Nationwide Children's, Emilee; UID 1560)
+
+- **Date:** 2026-11-27T14:21:25Z (Fri 09:21:25 -0500)
+- **UID:** 1560 (INBOX) · message-id: <a6ee096d-1162-48c0-9d5b-3dda0fc66c0a@H2PWEXCHSVR02.childrensroot.net>
+- **Sender:** donotreply@nationwidechildrens.org (Nationwide Children's Hospital MyChart)
+- **Subject:** New Message
+- **To:** emileesutliff@gmail.com (original recipient; forwarded via Gmail ingest to reed@ffilt.us)
+- **Classification:** relevant (transactional MyChart portal notice; no List-Unsubscribe, no bulk signals — DKIM/SPF/DMARC/ARC pass)
+- **Summary:** Plain-text part (200 B): "Hello Emilee Sutliff, There is a new message for Elijah in MyChart. View the message: https://mychart.nationwidechildrens.org/MyChart/Home/LogOut?postloginurl=/s/PLM6WKPWCBBAJNMAYFWTLYLHBY/Messaging". Patient is Elijah (proxy access under Emilee); the email recipient need not be the patient. No verification code, appointment, billing detail, or dated event in the body. Same family as prior NCH "New Message" portal notices (UIDs 768/847/1142/1239); distinct UID + Message-Id = distinct delivery owing its own entry.
+- **Action required:** yes (log in to Nationwide Children's MyChart to read/respond to Elijah's new message)
+- **Related:** [[medical-appointments]]

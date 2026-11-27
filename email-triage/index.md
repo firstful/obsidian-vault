@@ -296,6 +296,7 @@ tags: [email-triage, index]
   - 2026-11-25 — MyChart "Sorry for the wait!" provider running late for Reed's 11-25 11:35 EST telehealth visit (Emilee; UID 1488, action YES) → [[medical-appointments#2026-11-25 — MyChart "Sorry for the wait!" provider running late (OSU Wexner, Reed; UID 1488)]]
   - 2026-11-25 — MyChart "Sorry for the wait!" provider running late for Reed's 11-25 11:35 EST telehealth visit (Reed; UID 1489, action YES) → [[medical-appointments#2026-11-25 — MyChart "Sorry for the wait!" provider running late (OSU Wexner, Reed; UID 1489)]]
   - 2026-11-26 — Check in online before Elijah's upcoming visit (Nationwide Children's, Emilee; UID 1529, action YES) → [[medical-appointments#2026-11-26 — Check in online before Elijah's upcoming visit (Nationwide Children's, Emilee; UID 1529)]]
+  - 2026-11-27 — New MyChart message for Elijah (Nationwide Children's, Emilee; UID 1560, action YES) → [[medical-appointments#2026-11-27 — New MyChart message for Elijah (Nationwide Children's, Emilee; UID 1560)]]
 - [mhs-assessments](topics/mhs-assessments.md) — MHS (mhs.com) online assessment invitations/reminders (e.g. Conners EC)
   - 2026-11-19 — Conners EC assessment reminder for Emilee (action YES, ~25 min) → [[mhs-assessments#2026-11-19 — Conners EC assessment reminder (uid 1202)]]
 - [namecheap](topics/namecheap.md) — Namecheap domain-registrar contact verification + account/order/billing (transactional) and Private Email product/marketing mail
