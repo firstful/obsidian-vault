@@ -186,6 +186,7 @@ tags: [email-triage, index]
   - 2026-11-25 — Run failed: Gitea mirror - main (9d37763) (UID 1512) → [[gitea-mirror#2026-11-25 — Run failed: Gitea mirror - main (9d37763) (UID 1512)]]
   - 2026-11-26 — Run failed: Gitea mirror - main (9d37763) (UID 1524) → [[gitea-mirror#2026-11-26 — Run failed: Gitea mirror - main (9d37763) (UID 1524)]]
   - 2026-11-26 — Run failed: Gitea mirror - main (9d37763) (UID 1542) → [[gitea-mirror#2026-11-26 — Run failed: Gitea mirror - main (9d37763) (UID 1542)]]
+  - 2026-11-27 — Run failed: Gitea mirror - main (9d37763), 39th stuck-sha failure (UID 1550) → [[gitea-mirror#2026-11-27 — Run failed: Gitea mirror - main (9d37763) (UID 1550)]]
 - [github-security](topics/github-security.md) — GitHub security alerts and notifications
   - 2026-11-24 — Dependabot vulnerability digest: Newtonsoft.Json < 13.0.1 in AgilityPartners (CVE-2024-21907, recurrence of UID 1044) (UID 1439, action YES) → [[github-security#2026-11-24 - Dependabot vulnerability digest: Newtonsoft.Json in AgilityPartners (recurrence) (UID 1439)]]
 - [security-alerts](topics/security-alerts.md) — Cross-service account-security alerts & one-time verification codes (Google, Battle.net, eBay, Huntington, Walmart, etc.)
