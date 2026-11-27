@@ -5,6 +5,20 @@ tags: [email-triage, job-applications]
 
 # Job Applications
 
+## 2026-11-27 — Security code for your application to Twilio (UID 1547)
+
+- **Date:** 2026-11-27T03:03:06Z
+- **Sender:** Greenhouse <no-reply@us.greenhouse-mail.io> (Greenhouse; `X-Feedback-Id: no-reply@us.greenhouse-mail.io::5ff5c19deab70c1acacf09a2:mailgun`)
+- **To:** sutliff.reed@gmail.com (INBOX/1547; routed via Gmail forward → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Security code for your application to Twilio
+- **Message-Id:** <6b08f2eaf142b_30a68f4d20258b2@prod-jben-web-58d7f587bc-xgcrq.mail>
+- **UID:** 1547 (INBOX)
+- **Summary:** Greenhouse (Mailgun) security verification-code interstitial for Reed's **Twilio** job application. Body: "Copy and paste this code into the security code field on your application" / "After you enter the code, resubmit your application." 8-digit code: 66675783. Time-sensitive transactional/application verification (not marketing) — no `X-Mailgun-Tag: CandidateAutoReply` (that tag marks acks, not codes). 1 inline image attachment (Greenhouse Recruiting logo, image/png, 6756 B); 18,320 B, multipart/related. Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass (i=1 and i=2); `X-Jellyfish-No-Auto-Response: 1`. No `List-Unsubscribe` header → no unsubscribe (transactional security code; recipient-based auto-unsubscribe gate does not apply to relevant/transactional mail even though To contains "reed"); no unsubscribes.md row. No calendar/bills/purchases/money note — no concrete date or deadline. Dedupe: Message-Id `6b08f2eaf142b_30a68f4d20258b2@prod-jben-web-58d7f587bc-xgcrq.mail` (prod-jben-web security-code form, hex tail `30a68f4d20258b2`), code `66675783`, and `UID 1547` not previously in the topic → distinct event, own section (Greenhouse security-code subtype, action YES; dedupe by Message-Id, never subject). First Twilio entry in this topic; same campaign hash (`5ff5c19deab70c1acacf09a2`) as the CoreWeave/PlanetScale/Mercury security-code cluster, but a different employer and a fresh Message-Id — not a duplicate. Do not reply (unattended mailbox).
+- **Action required:** yes — enter code 66675783 in the Twilio application security-code field and resubmit (if still pending). Do not reply (unattended mailbox).
+
+### Related notes
+- [[job-applications]]
+
 ## 2026-11-27 — Thank you for applying to Bitwarden (UID 1546)
 
 - **Date:** 2026-11-27T02:52:02Z
