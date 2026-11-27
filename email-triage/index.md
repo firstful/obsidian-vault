@@ -136,6 +136,8 @@ tags: [email-triage, index]
   - 2026-11-20 — McDonald's mobile order receipt: $16.26, Order# RC63 (Reynoldsburg), action no (UID 1260) → [[mcdonalds#2026-11-20 — McDonald's mobile order receipt: $16.26 (UID 1260)]]
 - [mixtiles](topics/mixtiles.md) — Mixtiles (hi@team.mixtiles.com) photo-tile / holiday sale promos (marketing; to Emilee, no unsubscribe)
   - 2026-11-27 — Mixtiles: "Today Only: 6 Mixtiles for $30" (UID 1576), action no → [[mixtiles#2026-11-27 — Mixtiles: "Today Only: 6 Mixtiles for $30" (UID 1576)]]
+- [halara](topics/halara.md) — Halara (hello@thehalara.com) win-back / free-shipping sale promos (marketing; to Emilee, no unsubscribe)
+  - 2026-11-27 — Halara: "Welcome Back! Free Shipping with No Minimum" (UID 1577), action no → [[halara#2026-11-27 — Halara: "Welcome Back! Free Shipping with No Minimum" (UID 1577)]]
 - [papajohns](topics/papajohns.md) — Papa John's pizza order confirmations and delivery receipts (transactional)
   - 2026-11-23 — Papa John's pizza order #1339290922: 2 pizzas, $47.90, action no (UID 1390) → [[papajohns#2026-11-23 — Papa John's pizza order #1339290922, $47.90 (UID 1390)]]
 - [uber-eats](topics/uber-eats.md) — Uber Eats / food delivery receipts (Uber Receipts; transactional purchase records, no unsubscribe)
