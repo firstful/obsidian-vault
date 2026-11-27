@@ -228,3 +228,17 @@ tags: [email-triage, personal-blog]
 - **Run:** https://github.com/firstful/personal-blog/actions/runs/45787194651
 - **Action required:** yes
 - **Classification:** relevant — CI failure (Azure Static Web Apps deploy). 18th consecutive daily failure at the "Build & Deploy" job (2026-11-09 -> 2026-11-26); broken deploy pipeline, not a flake.
+
+
+## 2026-11-27 — Run failed: Deploy to Azure Static Web Apps - main (a2f729b)
+
+- **Date:** 2026-11-27T09:06:13Z (message date 2026-11-27 01:06:13 -0800; uid 1549)
+- **Sender:** notifications@github.com (Reed Sutliff)
+- **To:** personal-blog@noreply.github.com (Cc ci_activity@noreply.github.com; routed via sutliff.reed@gmail.com -> ingest@ffilt.us)
+- **Subject:** [firstful/personal-blog] Run failed: Deploy to Azure Static Web Apps - main (a2f729b)
+- **Message-ID:** <firstful/personal-blog/check-suites/CS_kwDOUWGd288AAAAc9Ow6PQ/1795770353@github.com>
+- **UID:** 1549
+- **Summary:** GitHub Actions workflow "Deploy to Azure Static Web Apps" in firstful/personal-blog failed on main (commit a2f729b, run 45970744456, run #40, display title "recent-work: 2026-11-27 update"). Job "Build & Deploy" failed (2 annotations) in 42s; step "Deploy to staging" failed with "Process completed with exit code 1." at .github line 18. Downstream "Wait for staging to be healthy" and "Deploy to production" skipped; "PR Test" skipped. Annotations: Node.js 20 deprecation warning (actions/checkout@v4, actions/setup-node@v4); failure-level "Process completed with exit code 1." at .github line 18. Duration 46.0s, finished 2026-11-27 09:05:53 UTC. SPF/DKIM/DMARC pass for github.com. Raw job logs require repo admin rights.
+- **Run:** https://github.com/firstful/personal-blog/actions/runs/45970744456
+- **Action required:** yes
+- **Classification:** relevant — CI failure (Azure Static Web Apps deploy). 19th consecutive daily failure at the "Build & Deploy" job (2026-11-09 -> 2026-11-27); broken deploy pipeline, not a flake. Same staging step as prior days; changing commit sha is a red herring.

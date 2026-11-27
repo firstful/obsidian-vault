@@ -310,6 +310,7 @@ tags: [email-triage, index]
 - [paypal](topics/paypal.md) — PayPal account notices: negative balance/collections, autopay failures, statements, legal/terms updates, payment receipts (transactional)
   - 2026-11-22 — Negative balance $522.00 (116 days), 11/26 collections deadline, action YES (UID 1318) → [[paypal#2026-11-22 - PayPal negative balance $522.00 (116 days) - UID 1318]]
 - [personal-blog](topics/personal-blog.md) — firstful/personal-blog GitHub Actions "Deploy to Azure Static Web Apps" CI failures
+  - 2026-11-27 — Run failed: Deploy to Azure Static Web Apps - main (a2f729b) (UID 1549) → [[personal-blog#2026-11-27 — Run failed: Deploy to Azure Static Web Apps - main (a2f729b)]]
   - 2026-11-26 — Run failed: Deploy to Azure Static Web Apps - main (dadb4f8) (UID 1523) → [[personal-blog#2026-11-26 — Run failed: Deploy to Azure Static Web Apps - main (dadb4f8)]]
   - 2026-11-25 — Run failed: Deploy to Azure Static Web Apps - main (694e769) (UID 1470) → [[personal-blog#2026-11-25 — Run failed: Deploy to Azure Static Web Apps - main (694e769)]]
   - 2026-11-24 — Run failed: Deploy to Azure Static Web Apps - main (57badeb) (UID 1402) → [[personal-blog#2026-11-24 — Run failed: Deploy to Azure Static Web Apps - main (57badeb)]]
