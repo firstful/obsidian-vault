@@ -5,6 +5,20 @@ tags: [email-triage, job-applications]
 
 # Job Applications
 
+## 2026-11-28 — Thank you for applying to Ping Identity (UID 1600)
+
+- **Date:** 2026-11-28T04:22:02Z
+- **Sender:** no-reply@us.greenhouse-mail.io (Ping Identity Talent Team; Greenhouse `CandidateAutoReply` via Mailgun — `X-Mailgun-Tag: CandidateAutoReply`, `X-Gh-Email-Transport: mailgun`, `X-Gh-Mailer-Variables-Transport: mailgun`, `X-Feedback-Id: no-reply@us.greenhouse-mail.io:CandidateAutoReply:5ff5c19deab70c1acacf09a2:mailgun`, `X-Mailgun-Variables: {\"org_id\": \"4000360002\", \"person_id\": \"294958462002\", \"silo_id\": \"2\", \"user_id\": \"\"}`; NOT Ashby/Amazon SES)
+- **To:** sutliff.reed@gmail.com (INBOX/1600; routed via Gmail forward → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Thank you for applying to Ping Identity
+- **Message-Id:** <20261128042202.ac08e45478d81bd8@us.greenhouse-mail.io>
+- **UID:** 1600 (INBOX)
+- **Summary:** Greenhouse (Mailgun) `CandidateAutoReply` submission acknowledgement for Reed's application to **Ping Identity**. Body: \"Hi Reed, Thank you for your application! What happens next? A member of our Talent Team will review your application as soon as possible. If your application is a good fit for the position, one of our team members will contact you to schedule a call.\" Pure submission ACK — no specific role named anywhere in the email (do not infer one), no security code, no hiring decision, no deadline or concrete date (\"will contact you to schedule a call\" is not a date). No attachments (0; 10,889 B, multipart/alternative). Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass (i=1 and i=2); `X-Jellyfish-No-Auto-Response: 1`. `List-Unsubscribe` header present but EMPTY → no unsubscribe performed (transactional submission ack; recipient-based auto-unsubscribe gate does not apply to relevant/transactional mail even though To contains \"reed\"); no unsubscribes.md row. No calendar/bills/purchases/money note — no concrete date, deadline, or next step. Dedupe: Message-Id hex tail `ac08e45478d81bd8`, 14-digit Mailgun timestamp prefix `20261128042202`, and `UID 1600` not previously in the topic → distinct event, own section (dedupe by Message-Id, never subject). First Ping Identity entry in this topic; no sibling Ping Identity/Greenhouse entry to cross-reference. Do not reply (unattended mailbox).
+- **Action required:** no — application received; no next step or deadline. Do not reply (unattended mailbox).
+
+### Related notes
+- [[job-applications]]
+
 ## 2026-11-27 — Security code for your application to Twilio (UID 1547)
 
 - **Date:** 2026-11-27T03:03:06Z
