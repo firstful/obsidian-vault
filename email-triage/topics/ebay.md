@@ -105,3 +105,14 @@ tags: [email-triage, ebay]
 - **Action required:** yes — reply via eBay clarifying the warranty status of the manufacturer-restored / open-box unit (likely sold as-is with no manufacturer warranty) before the buyer commits.
 - **Message-ID:** <d7cac467-b7de-46de-938a-9e7ca353114a@starship>
 - **UID:** 1395
+
+
+## 2026-11-27 — eBay buyer-side offer expired: $14.53 on Elpida 8GB ECC RAM (seller electrothings) (UID 1551)
+- **Date:** 2026-11-27T11:02:11Z
+- **Sender:** eBay <ebay@ebay.com>
+- **To:** reedsut@gmail.com
+- **Subject:** Offer expired for Elpida 8GB 2x4GB PC3-...
+- **Summary:** Reed's own buyer-side Best Offer of $14.53 (expired) on "Elpida 8GB 2x4GB PC3-12800E ECC Unbuffered DDR3 1600 UDIMM 662609-572 Serve..." from seller `electrothings` (2258 feedback); Buy It Now $15.29. Terminal offer-lifecycle event — no sale, no money moved, no purchase (distinct from the confirmed SK hynix ECC RAM purchase in [[ebay-orders#2026-11-21 — eBay order confirmation: SK hynix 16GB (4x4GB) DDR3-1866 ECC UDIMM (UID 1270)|UID 1270]] and the seller-side Narwal offers thread on this same topic). Body's "see more options / make a new offer / buy it now" is eBay upsell copy, not a household obligation. Transactional notice: DKIM d=ebay.com pass, SPF/DMARC (p=reject)/ARC pass, no List-Unsubscribe or Precedence: bulk — RELEVANT, never auto-unsubscribe even though To contains "reed". Email Reference ID #be09f8cb-92a1-4c95-9041-6c316c67fd26.
+- **Action required:** no — offer lapsed; re-offer or buy at $15.29 only if Reed still wants the item.
+- **Message-ID:** <9d92e6db-5962-3a9e-97be-3e01722b7e22@starship>
+- **UID:** 1551

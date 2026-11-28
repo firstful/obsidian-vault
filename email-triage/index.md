@@ -71,6 +71,13 @@ tags: [email-triage, index]
   - 2026-11-25 — Amazon delivery confirmation: 6 items (Hair Care, Water Bottles, and more), order #112-3213619-4258628, action no — terminal delivery step (UID 1502) → [[amazon-orders#2026-11-25 - Amazon delivery confirmation: 6 items (Hair Care, Water Bottles, and more) (UID 1502)]]
   - 2026-11-25 — Amazon shipping notification: 1 item (Kitchen & Dining), order #112-0739342-5069068, Total $32.03, action no (UID 1509) → [[amazon-orders#2026-11-25 - Amazon shipping notification: 1 item (Kitchen & Dining) (UID 1509)]]
   - 2026-11-25 — Amazon delivery confirmation: 1 item (Storytelling Toys), order #112-7421320-7345022, action no — final Delivered step (UID 1511) → [[amazon-orders#2026-11-25 - Amazon delivery confirmation: 1 item (Storytelling Toys) (UID 1511)]]
+  - 2026-11-27 — Amazon order confirmation: 1 item (Toys & Games), $9.55, order #112-5321231-5610657, action no (UID 1570) → [[amazon-orders#2026-11-27 - Amazon order confirmation: 1 item (Toys & Games) (UID 1570)]]
+  - 2026-11-27 — Amazon order confirmation: 1 item (Toys & Games), $7.46, order #112-2065686-4002636, action no (UID 1572) → [[amazon-orders#2026-11-27 - Amazon order confirmation: 1 item (Toys & Games) (UID 1572)]]
+  - 2026-11-27 — Amazon order confirmation: 1 item (Toys & Games), $10.66, order #112-0054402-6851472, action no (UID 1573) → [[amazon-orders#2026-11-27 - Amazon order confirmation: 1 item (Toys & Games) (UID 1573)]]
+  - 2026-11-27 — Amazon order confirmation: 1 item (Toys & Games), $13.87, order #112-3906370-8584215, action no (UID 1574) → [[amazon-orders#2026-11-27 - Amazon order confirmation: 1 item (Toys & Games) (UID 1574)]]
+  - 2026-11-27 — Amazon out for delivery: 2 items (Educational Audio Figure Sets, Car Cleaning Gels), order #112-0843072-6493854, action no (UID 1582) → [[amazon-orders#2026-11-27 - Amazon shipping notification: 2 items (Educational Audio Figure Sets, Car Cleaning Gels) - Out for delivery (UID 1582)]]
+  - 2026-11-28 — Amazon order confirmation: 1 item (Toys & Games), $10.66, order #112-2828347-0984230, action no (UID 1593) → [[amazon-orders#2026-11-28 - Amazon order confirmation: 1 item (Toys & Games) (UID 1593)]]
+  - 2026-11-28 — Amazon order confirmation: 1 item (Toys & Games), $25.61, order #112-4372705-3186662, action no (UID 1596) → [[amazon-orders#2026-11-28 - Amazon order confirmation: 1 item (Toys & Games) (UID 1596)]]
 - [walmart-orders](topics/walmart-orders.md) — Walmart.com transactional order/payment, delivery, and cancellation notices
   - 2026-11-19 — Walmart login verification code 862372 for Emilee (action YES, 15-min expiry) → [[security-alerts#2026-11-19 — Walmart verification code / login OTP (Emilee; UID 1203)]]
   - 2026-11-25 — Walmart delivery order confirmed: 7 items (Equate Children's Melatonin + 6), $56.51, order #2000155-34096682, action no (UID 1479) → [[walmart-orders#2026-11-25 — Walmart delivery order confirmed (UID 1479, Order 2000155-34096682)]]
@@ -130,6 +137,10 @@ tags: [email-triage, index]
 - [the-oven](topics/the-oven.md) — The Oven (theoven@mg.owner.com) restaurant marketing campaigns (marketing)
 - [mcdonalds](topics/mcdonalds.md) — McDonald's Mobile Order & Pay receipts (transactional)
   - 2026-11-20 — McDonald's mobile order receipt: $16.26, Order# RC63 (Reynoldsburg), action no (UID 1260) → [[mcdonalds#2026-11-20 — McDonald's mobile order receipt: $16.26 (UID 1260)]]
+- [mixtiles](topics/mixtiles.md) — Mixtiles (hi@team.mixtiles.com) photo-tile / holiday sale promos (marketing; to Emilee, no unsubscribe)
+  - 2026-11-27 — Mixtiles: "Today Only: 6 Mixtiles for $30" (UID 1576), action no → [[mixtiles#2026-11-27 — Mixtiles: "Today Only: 6 Mixtiles for $30" (UID 1576)]]
+- [halara](topics/halara.md) — Halara (hello@thehalara.com) win-back / free-shipping sale promos (marketing; to Emilee, no unsubscribe)
+  - 2026-11-27 — Halara: "Welcome Back! Free Shipping with No Minimum" (UID 1577), action no → [[halara#2026-11-27 — Halara: "Welcome Back! Free Shipping with No Minimum" (UID 1577)]]
 - [papajohns](topics/papajohns.md) — Papa John's pizza order confirmations and delivery receipts (transactional)
   - 2026-11-23 — Papa John's pizza order #1339290922: 2 pizzas, $47.90, action no (UID 1390) → [[papajohns#2026-11-23 — Papa John's pizza order #1339290922, $47.90 (UID 1390)]]
 - [uber-eats](topics/uber-eats.md) — Uber Eats / food delivery receipts (Uber Receipts; transactional purchase records, no unsubscribe)
@@ -137,6 +148,7 @@ tags: [email-triage, index]
   - 2026-11-24 — Uber Eats receipt (tip-inclusive re-send): Papa John's Pizza, $46.05, action no (UID 1394) → [[uber-eats#2026-11-24 - Uber Eats receipt: Papa Johns Pizza $46.05 (UID 1394)]]
 - [roosters](topics/roosters.md) — Roosters (Pickerington) Toast pickup-order confirmations and receipts
 - [tim-hortons](topics/tim-hortons.md) — Tim Hortons itemized delivery-order receipts (Tims Rewards; transactional)
+  - 2026-11-27 — Tim Hortons delivery order receipt: $30.36, Order# 9897, action no (UID 1562) → [[tim-hortons#2026-11-27 — Tim Hortons delivery order receipt: $30.36 (UID 1562)]]
 - [t-mobile](topics/t-mobile.md) — T-Mobile wireless account notices (payment receipts, monthly bill-ready notices; transactional billing)
   - 2026-11-23 — Bill ready: $22.60 due, AutoPay 12/10/2026, acct XXXXX2020, card 4772, action no (UID 1367) → [[t-mobile#2026-11-23 — Your bill is ready (UID 1367)]]
 - [teamviewer](topics/teamviewer.md) — TeamViewer marketing/promo newsletters (Black Friday/sale offers; marketing; auto-unsub one-click returns form page, not confirmed — UID 1407)
@@ -153,8 +165,10 @@ tags: [email-triage, index]
   - 2026-11-23 — Buyer lakboh33 will buy if everything works, wants shipping offset, item 267849469808, action YES — reply via eBay (UID 1371) → [[ebay#2026-11-23 — eBay buyer message from lakboh33: confirms purchase if everything works, wants shipping offset (item 267849469808) (UID 1371)]]
   - 2026-11-24 — Buyer lakboh33 asks whether unit was ever used + how it was wifi-incompatible, item 267849469808, action YES — reply via eBay (UID 1385) → [[ebay#2026-11-24 — eBay buyer message from lakboh33: asks whether unit was ever used + how it was wifi-incompatible (item 267849469808) (UID 1385)]]
   - 2026-11-24 — Buyer lakboh33 asks whether warranty is still good, item 267849469808, action YES — reply via eBay (UID 1395) → [[ebay#2026-11-24 — eBay buyer message from lakboh33: asks whether warranty is still good (item 267849469808) (UID 1395)]]
+  - 2026-11-27 — Reed's buyer-side offer $14.53 expired on Elpida 8GB ECC RAM (seller electrothings, BIN $15.29), no sale — terminal event, action NO (UID 1551) → [[ebay#2026-11-27 — eBay buyer-side offer expired: $14.53 on Elpida 8GB ECC RAM (seller electrothings) (UID 1551)]]
 - [ebay-orders](topics/ebay-orders.md) — eBay buyer-side purchase confirmations and order receipts
   - 2026-11-21 — eBay order confirmation: SK hynix 16GB (4x4GB) DDR3-1866 ECC UDIMM, order #24-15446-45567, $32.01, action no (UID 1270) → [[ebay-orders#2026-11-21 — eBay order confirmation: SK hynix 16GB (4x4GB) DDR3-1866 ECC UDIMM (UID 1270)]]
+  - 2026-11-27 — eBay package delivered: SK hynix 16GB (4x4GB) ECC UDIMM, order #24-15446-45567, dropped off Nov 27, action no (UID 1580) → [[ebay-orders#2026-11-27 — eBay package delivered: SK hynix 16GB (4x4GB) ECC UDIMM (UID 1580)]]
 - [email-delivery](topics/email-delivery.md) — Delivery status notifications, bounces, and mail routing failures
   - 2026-11-23 — DSN: ingest@ffilt.us blocked, 554 5.7.1 DMARC policy rejected (Atlas Obscura newsletter forwarded via Gmail), action YES (UID 1343) → [[email-delivery#2026-11-23 | Mail Delivery Subsystem <mailer-daemon@googlemail.com> | Delivery Status Notification (Failure)]]
 - [ellaola](topics/ellaola.md) — EllaOla subscription renewal / upcoming shipment notices (marketing)
@@ -185,6 +199,7 @@ tags: [email-triage, index]
   - 2026-11-25 — Run failed: Gitea mirror - main (9d37763) (UID 1512) → [[gitea-mirror#2026-11-25 — Run failed: Gitea mirror - main (9d37763) (UID 1512)]]
   - 2026-11-26 — Run failed: Gitea mirror - main (9d37763) (UID 1524) → [[gitea-mirror#2026-11-26 — Run failed: Gitea mirror - main (9d37763) (UID 1524)]]
   - 2026-11-26 — Run failed: Gitea mirror - main (9d37763) (UID 1542) → [[gitea-mirror#2026-11-26 — Run failed: Gitea mirror - main (9d37763) (UID 1542)]]
+  - 2026-11-27 — Run failed: Gitea mirror - main (9d37763), 39th stuck-sha failure (UID 1550) → [[gitea-mirror#2026-11-27 — Run failed: Gitea mirror - main (9d37763) (UID 1550)]]
 - [github-security](topics/github-security.md) — GitHub security alerts and notifications
   - 2026-11-24 — Dependabot vulnerability digest: Newtonsoft.Json < 13.0.1 in AgilityPartners (CVE-2024-21907, recurrence of UID 1044) (UID 1439, action YES) → [[github-security#2026-11-24 - Dependabot vulnerability digest: Newtonsoft.Json in AgilityPartners (recurrence) (UID 1439)]]
 - [security-alerts](topics/security-alerts.md) — Cross-service account-security alerts & one-time verification codes (Google, Battle.net, eBay, Huntington, Walmart, etc.)
@@ -237,6 +252,7 @@ tags: [email-triage, index]
   - 2026-11-24 — DataAnnotation may want to hire you (UID 1452) → [[job-alerts#2026-11-24 — DataAnnotation may want to hire you (UID 1452)]]
   - 2026-11-25 — DataAnnotation may want to hire you (UID 1494) → [[job-alerts#2026-11-25 — DataAnnotation may want to hire you (UID 1494)]]
   - 2026-11-26 — Full Stack Software Engineer (part-time work from home) - AI Trainer opening at DataAnnotation (UID 1535) → [[job-alerts#2026-11-26 — Full Stack Software Engineer (part-time work from home) - AI Trainer opening at DataAnnotation (UID 1535)]]
+  - 2026-11-27 — Remote Full Stack Engineer opening at Turing (UID 1565), action no → [[job-alerts#2026-11-27 — Remote Full Stack Engineer opening at Turing (UID 1565)]]
 - [recruiter-outreach](topics/recruiter-outreach.md) — Person-to-person recruiter InMails, connection requests/reminders with a real hiring conversation (LinkedIn, Robert Half, etc.)
   - 2026-11-20 — LinkedIn InMail: Wesley King (Stafford Technology), software engineering roles, action YES (UID 1247) → [[recruiter-outreach#2026-11-20 — LinkedIn InMail: Wesley King (Stafford Technology) — software engineering roles]]
   - 2026-11-23 — LinkedIn InMail REMINDER: Wesley King (Stafford Technology), software engineering roles, action YES (UID 1340) → [[recruiter-outreach#2026-11-23 — LinkedIn InMail REMINDER: Wesley King (Stafford Technology) — software engineering roles (UID 1340)]]
@@ -283,6 +299,11 @@ tags: [email-triage, index]
   - 2026-11-26 — Supabase Ashby ATS application ACK (no role named; UID 1536) → [[job-applications#2026-11-26 — Thank you for applying to Supabase (UID 1536)]]
   - 2026-11-27 — Bitwarden Greenhouse CandidateAutoReply submission ack (Senior Database Engineer; UID 1546) → [[job-applications#2026-11-27 — Thank you for applying to Bitwarden (UID 1546)]]
   - 2026-11-27 — Twilio Greenhouse security code (66675783, action YES; UID 1547) → [[job-applications#2026-11-27 — Security code for your application to Twilio (UID 1547)]]
+  - 2026-11-27 — BeyondTrust Greenhouse CandidateAutoReply submission ack (no role named; UID 1552) → [[job-applications#2026-11-27 — Thank you for applying to BeyondTrust (UID 1552)]]
+  - 2026-11-27 — Ramp Ashby ATS application ACK (Research Engineer, Agentic Systems; UID 1578) → [[job-applications#2026-11-27 — Thank you for applying to Ramp! (UID 1578)]]
+  - 2026-11-28 — Ping Identity Greenhouse security code (60718812, action YES; UID 1597) → [[job-applications#2026-11-28 — Security code for your application to Ping Identity (UID 1597)]]
+  - 2026-11-28 — Ping Identity Greenhouse security code (73615411, action YES; UID 1598) → [[job-applications#2026-11-28 — Security code for your application to Ping Identity (UID 1598)]]
+  - 2026-11-28 — Ping Identity Greenhouse security code (71815945, action YES; UID 1599) → [[job-applications#2026-11-28 — Security code for your application to Ping Identity (UID 1599)]]
   - 2026-11-28 — Ping Identity Greenhouse CandidateAutoReply submission ack (no role named; UID 1600) → [[job-applications#2026-11-28 — Thank you for applying to Ping Identity (UID 1600)]]
 - [medical-appointments](topics/medical-appointments.md) — Medical appointment reminders, MyChart portal notices & OTPs (Nationwide Children's, OSU Wexner; transactional)
   - 2026-11-20 — New NCH MyChart message for Elijah (Emilee; UID 1239, action YES) → [[medical-appointments#2026-11-20 — New MyChart message for Elijah (Nationwide Children's, Emilee; UID 1239)]]
@@ -294,6 +315,7 @@ tags: [email-triage, index]
   - 2026-11-25 — MyChart "Sorry for the wait!" provider running late for Reed's 11-25 11:35 EST telehealth visit (Emilee; UID 1488, action YES) → [[medical-appointments#2026-11-25 — MyChart "Sorry for the wait!" provider running late (OSU Wexner, Reed; UID 1488)]]
   - 2026-11-25 — MyChart "Sorry for the wait!" provider running late for Reed's 11-25 11:35 EST telehealth visit (Reed; UID 1489, action YES) → [[medical-appointments#2026-11-25 — MyChart "Sorry for the wait!" provider running late (OSU Wexner, Reed; UID 1489)]]
   - 2026-11-26 — Check in online before Elijah's upcoming visit (Nationwide Children's, Emilee; UID 1529, action YES) → [[medical-appointments#2026-11-26 — Check in online before Elijah's upcoming visit (Nationwide Children's, Emilee; UID 1529)]]
+  - 2026-11-27 — New MyChart message for Elijah (Nationwide Children's, Emilee; UID 1560, action YES) → [[medical-appointments#2026-11-27 — New MyChart message for Elijah (Nationwide Children's, Emilee; UID 1560)]]
 - [mhs-assessments](topics/mhs-assessments.md) — MHS (mhs.com) online assessment invitations/reminders (e.g. Conners EC)
   - 2026-11-19 — Conners EC assessment reminder for Emilee (action YES, ~25 min) → [[mhs-assessments#2026-11-19 — Conners EC assessment reminder (uid 1202)]]
 - [namecheap](topics/namecheap.md) — Namecheap domain-registrar contact verification + account/order/billing (transactional) and Private Email product/marketing mail
@@ -306,10 +328,12 @@ tags: [email-triage, index]
   - 2026-11-23 — Anomaly | Sales tax and VAT on your invoices (UID 1332) → [[opencode#2026-11-23 — Anomaly | Sales tax and VAT on your invoices (UID 1332)]]
 - [optum-specialty-pharmacy](topics/optum-specialty-pharmacy.md) — Optum Specialty Pharmacy order-status and prescription-fulfillment notices (transactional)
   - 2026-11-25 — Order #950481204 received, scheduled delivery 2026-11-28, no action (UID 1504) → [[optum-specialty-pharmacy#2026-11-25 — Optum Specialty Pharmacy order received / scheduled delivery 2026-11-28 (UID 1504)]]
+  - 2026-11-27 — Order #950481204 shipped, FedEx track 496532090760, no action (UID 1563) → [[optum-specialty-pharmacy#2026-11-27 — Optum Specialty Pharmacy order shipped / FedEx tracking (UID 1563)]]
 - [pickerington-schools](topics/pickerington-schools.md) — Pickerington Local School District (PLSD) superintendent/district communications + BusRight school-bus service notices (transactional, important)
 - [paypal](topics/paypal.md) — PayPal account notices: negative balance/collections, autopay failures, statements, legal/terms updates, payment receipts (transactional)
   - 2026-11-22 — Negative balance $522.00 (116 days), 11/26 collections deadline, action YES (UID 1318) → [[paypal#2026-11-22 - PayPal negative balance $522.00 (116 days) - UID 1318]]
 - [personal-blog](topics/personal-blog.md) — firstful/personal-blog GitHub Actions "Deploy to Azure Static Web Apps" CI failures
+  - 2026-11-27 — Run failed: Deploy to Azure Static Web Apps - main (a2f729b) (UID 1549) → [[personal-blog#2026-11-27 — Run failed: Deploy to Azure Static Web Apps - main (a2f729b)]]
   - 2026-11-26 — Run failed: Deploy to Azure Static Web Apps - main (dadb4f8) (UID 1523) → [[personal-blog#2026-11-26 — Run failed: Deploy to Azure Static Web Apps - main (dadb4f8)]]
   - 2026-11-25 — Run failed: Deploy to Azure Static Web Apps - main (694e769) (UID 1470) → [[personal-blog#2026-11-25 — Run failed: Deploy to Azure Static Web Apps - main (694e769)]]
   - 2026-11-24 — Run failed: Deploy to Azure Static Web Apps - main (57badeb) (UID 1402) → [[personal-blog#2026-11-24 — Run failed: Deploy to Azure Static Web Apps - main (57badeb)]]
@@ -340,6 +364,8 @@ tags: [email-triage, index]
   - 2026-11-25 — Wed 11/25 digest, Emilee mailbox: 1 mailpiece (US Bank), 1 inbound package (SHIPBOB, awaiting from sender), action no (UID 1474) → [[usps-informed-delivery#2026-11-25 12:51 — USPS Informed Delivery: "Your Daily Digest for Wed, 11/25 is ready to view" (Emilee copy)]]
 
   - 2026-11-25 — Wed 11/25 digest, Reed mailbox: 1 mailpiece, 1 inbound package (US Bank mailpiece; SHIPBOB package awaiting from sender), action no (UID 1475) → [[usps-informed-delivery#2026-11-25 12:52 — USPS Informed Delivery: "Your Daily Digest for Wed, 11/25 is ready to view"]]
+  - 2026-11-27 — Fri 11/27 digest, Emilee mailbox: 2 mailpieces (US Bank), 1 inbound package (EBAY 9300111047400008270926, expected today), action no (UID 1554) → [[usps-informed-delivery#2026-11-27 12:56 — USPS Informed Delivery: "Your Daily Digest for Fri, 11/27 is ready to view"]]
+  - 2026-11-27 — Fri 11/27 digest, Reed mailbox: 2 mailpieces (US Bank), 1 inbound package (EBAY 9300111047400008270926, expected today), action no (UID 1556) → [[usps-informed-delivery#2026-11-27 13:08 — USPS Informed Delivery: "Your Daily Digest for Fri, 11/27 is ready to view"]]
 - [venmo](topics/venmo.md) — Venmo peer-to-peer payment receipts (money received/sent; transactional, no unsubscribe)
   - 2026-11-22 — Connor Monday paid you $185.00 (lifting equipment), action no (UID 1311) → [[venmo#2026-11-22 - Connor Monday paid you $185.00 - UID 1311]]
   - 2026-11-22 — Standard transfer initiated: $195.00 to Huntington ····3792, est. arrival 11/25, action no (UID 1320) → [[venmo#2026-11-22 - Standard transfer initiated ($195.00) - UID 1320]]
