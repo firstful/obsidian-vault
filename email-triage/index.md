@@ -248,6 +248,7 @@ tags: [email-triage, index]
   - 2026-11-25 — Run failed: Playwright Tests - main (4018ba5) (UID 1464) → [[intel-web#2026-11-25 — Run failed: Playwright Tests - main (4018ba5) (UID 1464)]]
   - 2026-11-26 — Run failed: Playwright Tests - main (4018ba5) (UID 1519) → [[intel-web#2026-11-26 — Run failed: Playwright Tests - main (4018ba5) (UID 1519)]]
   - 2026-11-27 — Run failed: Playwright Tests - main (4018ba5) (UID 1548) → [[intel-web#2026-11-27 — Run failed: Playwright Tests - main (4018ba5) (UID 1548)]]
+  - 2026-11-28 — Run failed: Playwright Tests - main (4018ba5) (UID 1601) → [[intel-web#2026-11-28 — Run failed: Playwright Tests - main (4018ba5) (UID 1601)]]
 - [job-alerts](topics/job-alerts.md) — Marketing job-board alerts (ZipRecruiter, etc.)
   - 2026-11-24 — DataAnnotation may want to hire you (UID 1452) → [[job-alerts#2026-11-24 — DataAnnotation may want to hire you (UID 1452)]]
   - 2026-11-25 — DataAnnotation may want to hire you (UID 1494) → [[job-alerts#2026-11-25 — DataAnnotation may want to hire you (UID 1494)]]
