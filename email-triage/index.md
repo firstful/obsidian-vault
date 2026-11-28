@@ -301,6 +301,7 @@ tags: [email-triage, index]
   - 2026-11-27 — Twilio Greenhouse security code (66675783, action YES; UID 1547) → [[job-applications#2026-11-27 — Security code for your application to Twilio (UID 1547)]]
   - 2026-11-27 — BeyondTrust Greenhouse CandidateAutoReply submission ack (no role named; UID 1552) → [[job-applications#2026-11-27 — Thank you for applying to BeyondTrust (UID 1552)]]
   - 2026-11-27 — Ramp Ashby ATS application ACK (Research Engineer, Agentic Systems; UID 1578) → [[job-applications#2026-11-27 — Thank you for applying to Ramp! (UID 1578)]]
+  - 2026-11-28 — Ping Identity Greenhouse security code (60718812, action YES; UID 1597) → [[job-applications#2026-11-28 — Security code for your application to Ping Identity (UID 1597)]]
 - [medical-appointments](topics/medical-appointments.md) — Medical appointment reminders, MyChart portal notices & OTPs (Nationwide Children's, OSU Wexner; transactional)
   - 2026-11-20 — New NCH MyChart message for Elijah (Emilee; UID 1239, action YES) → [[medical-appointments#2026-11-20 — New MyChart message for Elijah (Nationwide Children's, Emilee; UID 1239)]]
   - 2026-11-24 — MyChart preregistration reminder for Reed's 11-25 11:35 EST telehealth visit (Emilee; UID 1421, action YES) → [[medical-appointments#2026-11-24 — MyChart appointment reminder, preregister (OSU Wexner, Reed; UID 1421)]]
