@@ -1,6 +1,6 @@
 ---
 title: TODO
-created: 2026-11-27
+created: 2026-11-28
 tags: [todo, auto-generated, personal]
 ---
 
@@ -9,9 +9,9 @@ tags: [todo, auto-generated, personal]
 _Auto-generated nightly. Personal money/bills/medical/appointments/errands and follow-ups from the last 24h of vault activity. Work/dev todos are excluded. Do not edit by hand._
 
 ## Summary
-- Critical: 9 | High: 10 | Medium: 25 | Low: 29
-- Retired as complete: 1
-- Generated: 2026-11-27T06:37:01Z
+- Critical: 9 | High: 13 | Medium: 25 | Low: 29
+- Retired as complete: 0
+- Generated: 2026-11-28T06:35:09Z
 
 ## Critical
 - [ ] Maxine vet recheck and drain removal (overdue since 2026-11-05) — [[2026-11-05 - Maxine vet recheck and drain removal]]
@@ -20,7 +20,7 @@ _Auto-generated nightly. Personal money/bills/medical/appointments/errands and f
 - [ ] Follow up on Figo claim 26FP0524357 (Maxine) $1203.04 (overdue since 2026-11-17) — [[2026-11-17 - Follow up on Figo claim 26FP0524357]]
 - [ ] Dbp Follow Up (45min) with Kristen Crabtree for Elijah (overdue since 2026-11-18) — [[2026-11-18 - Dbp Follow Up (Kristen Crabtree, Elijah)]]
 - [ ] Auto insurance installment $119.98 (overdue since 2026-11-19, Branch Insurance) — [[2026-11-19 - Auto insurance installment]]
-- [ ] PayPal negative balance payment deadline $522.00 (due 2026-11-26) — [[2026-11-26 - PayPal negative balance payment deadline]]
+- [ ] PayPal negative balance payment deadline $522.00 (overdue; due 2026-11-26 passed) — [[2026-11-26 - PayPal negative balance payment deadline]]
 - [ ] OSU Wexner payment plan overdue $158.00 (overdue since 2026-11-16, auto-pay suspended; $90.00 off-plan) — [[2026-11-16 - OSU Wexner payment plan overdue]]
 - [ ] Nationwide Children's $75.00 past-due off-plan balance (account 5519) — pay or fold into plan; Dec 15 autopay covers on-plan only — [[bills/Nationwide Children's Hospital]]
 
@@ -32,9 +32,12 @@ _Auto-generated nightly. Personal money/bills/medical/appointments/errands and f
 - [ ] Auto insurance installment $119.98 (2026-12-19, Branch Insurance) — [[2026-12-19 - Auto insurance installment]]
 - [ ] Reply to eBay buyer lakboh33 (item 267849469808): confirm everything works, address shipping-cost offset request (action required) — [[ebay]]
 - [ ] Resolve Amazon payment declines — retry/update payment method on orders #112-4094759-8624262, #112-3213619-4258628, #112-5130203-3571450, #112-3892735-4604262 (UIDs 1429-1438) — [[amazon-orders]]
-- [ ] Accept or decline ESPN Fantasy Football trade proposal (CeeDee Lamb for Bijan Robinson) before Fri Nov 27 7:39 PM EST — [[espn-fantasy-football]]
+- [ ] Resolve Amazon held/declined orders — update payment method on #112-7026691-5399453; Emilee to repair TeleCheck/Synchrony method on held orders — [[amazon-orders]]
+- [ ] Accept or decline ESPN Fantasy Football trade proposal (CeeDee Lamb for Bijan Robinson) before Fri Nov 27 7:39 PM EST (deadline passed; trade likely expired — confirm) — [[espn-fantasy-football]]
 - [ ] Enter security code 66675783 in Twilio Greenhouse application and resubmit (UID 1547) — [[job-applications]]
+- [ ] Enter Ping Identity security code 71815945 in application and resubmit (UID 1599; earlier codes 73615411 UID 1598 and 60718812 UID 1597 superseded if pending) — [[job-applications]]
 - [ ] Elijah appointment 2026-12-03 1:00 PM EST with Dr. Kent Williams (Nationwide Children's) — complete e-check-in — [[2026-12-03 - Elijah appointment Nationwide Children's (Dr. Kent Williams)]]
+- [ ] Read/respond to Elijah's new Nationwide Children's MyChart message (UID 1560) — [[medical-appointments]]
 
 ## Medium
 - [ ] Huntington Online Services Agreement update effective (overdue reminder, 2026-11-20) — [[2026-11-20 - Huntington Online Services Agreement update effective]]
@@ -61,7 +64,7 @@ _Auto-generated nightly. Personal money/bills/medical/appointments/errands and f
 - [ ] Add to AAC — [[Todos]]
 - [ ] Follow up on LinkedIn call with Wes King (Stafford Technology) — 3:30pm 2026-11-24 occurred; review outcomes/next steps — [[recruiter-outreach]]
 - [ ] Update Google Play payment method — Spotify charged to backup card (UID 1434) — [[google-play]]
-- [ ] Monitor Optum Specialty Pharmacy delivery #950481204 scheduled 2026-11-28 — [[2026-11-28 - Optum Specialty Pharmacy scheduled delivery]]
+- [ ] Monitor Optum Specialty Pharmacy delivery #950481204 scheduled 2026-11-28 — shipped 2026-11-27 via FedEx tracking 496532090760; watch for delivery — [[2026-11-28 - Optum Specialty Pharmacy scheduled delivery]]
 
 ## Low
 - [ ] Backblaze Privacy Notice and policies effective (2026-12-01) — [[2026-12-01 - Backblaze Privacy Notice and policies effective]]
@@ -95,4 +98,4 @@ _Auto-generated nightly. Personal money/bills/medical/appointments/errands and f
 - [ ] Manual unsubscribe from Ticketmaster promotional emails (one-click POST 400 / GET 302 failed; mailto recorded) — [[unsubscribes]]
 
 ## Retired this run
-- Reed telehealth visit (Jeffrey Schord, MD) (2026-11-25) — appointment occurred (MyChart join-now/provider-late notices); [[2026-11-25 - Reed telehealth visit (Jeffrey Schord, MD)]]
+- None (no items showed completion evidence in the last 24h)
