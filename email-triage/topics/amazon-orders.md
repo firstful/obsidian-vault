@@ -1062,3 +1062,14 @@ tags: [email-triage, amazon-orders]
 - **Message-ID:** <010001a220406731-9a9cd707-3f66-45b3-b5d0-78fffbdc3578-000000@email.amazonses.com>
 - **UID:** 1596 (INBOX)
 - **Related notes:** [[amazon-orders]] (new standalone order #112-4372705-3186662, $25.61, Toys & Games; distinct from same-subject/category siblings by order #/Message-ID)
+
+## 2026-11-28 - Amazon Subscribe & Save delivery review: 1 item (Vitamin B Complex) (UID 1602)
+
+- **Date:** 2026-11-28T07:12:10Z
+- **Sender:** "Amazon Subscribe & Save" <no-reply@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Review your upcoming delivery
+- **Summary:** Amazon Subscribe & Save upcoming-delivery review (no-reply@amazon.com): "Hi Emilee Sutliff, You have 1 Subscribe & Save subscriptions arriving on Friday, Dec 04. Review your subscriptions below." Single item: Vitamin B Complex with Vitamin B12 B6 D3 Magnesium... (ASIN B00VXGJJP2), 1 unit every 3 months, Subscribe & Save discounted. Order total (including tax) $21.20 USD, total savings -$2.20. Arriving by Friday, Dec 04; last day to manage delivery: Saturday, Nov 28 (today). Delivering to Emilee Sutliff, 12703 Stonecreek Dr, Pickerington OH. Shipping/delivery notification to PROMO/marketing, action required no (auto-delivers unless skipped; management window closes today). No order number exposed (subscription bundle, not a one-off order). Auto-Submitted: auto-generated; no List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk / List-Id header present. Envelope to_addr is emilee.sutliff@gmail.com (no "reed") to no auto-unsubscribe (recipient gate off). Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass, DMARC pass (quarantine) header.from=amazon.com. Manage link: https://www.amazon.com/gp/subscribe-and-save/manage?shipId=qlmiroqqtrkq&deliveryBundleDate=1796371200000. First Subscribe & Save delivery-review entry in this topic (no prior siblings by subject/order).
+- **Action required:** no - informational Subscribe & Save delivery review; management window closes today (Sat Nov 28) if a skip/edit is desired, otherwise auto-delivers Fri Dec 04. No Rook action.
+- **Message-ID:** <010001a220ff47bd-6bf91498-6fa2-49a2-83ab-a2917a605110-000000@email.amazonses.com>
+- **UID:** 1602 (INBOX)
+- **Related notes:** [[calendar/2026-12-04 - Amazon Subscribe & Save delivery (Vitamin B Complex)]] (delivery date Dec 04, $21.20); [[amazon-orders]] (this entry)
