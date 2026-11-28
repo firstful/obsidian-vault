@@ -1050,3 +1050,15 @@ tags: [email-triage, amazon-orders]
 - **UID:** 1593 (INBOX)
 - **Related notes:** [[amazon-orders]] (new standalone order #112-2828347-0984230, $10.66, Toys & Games; distinct from same-amount sibling UID 1573 by order #/Message-ID)
 
+
+
+## 2026-11-28 - Amazon order confirmation: 1 item (Toys & Games) (UID 1596)
+
+- **Date:** 2026-11-28T03:43:41Z
+- **Sender:** "Amazon.com" <auto-confirm@amazon.com> (to emilee.sutliff@gmail.com; Gmail-forwarded via caf_=ingest=ffilt.us, raw Delivered-To reed@ffilt.us)
+- **Subject:** Ordered 1 item: Toys & Games
+- **Summary:** Amazon order confirmation (`auto-confirm@amazon.com`): "Emilee, thanks for your order!" - status step Ordered (just placed), recipient Emilee - PICKERINGTON, OH. RELEVANT/transactional -> topics/amazon-orders.md. Body exposed one order number, #112-4372705-3186662, Grand Total 25.61 USD (label on one line, amount on next: "Grand Total:\n25.61 USD"); category "Toys & Games" and item count (1) come from the Subject; item-level detail not extractable from the ~108 KB HTML nav noise - do not manufacture it. No prior status/held-order entry for #112-4372705-3186662 by order-number grep: standalone new confirmation, not a re-send or a decline sibling. Promotional "Black Friday Deals" nav copy does not change the class - sender is auto-confirm@ and the body has Order # + Grand Total. ETA prose "Arriving Sunday" is a bare weekday (soft), not a hard date => no calendar/purchase note. The body also carried a `transactional-t12-add-to-calendar` block linking a canned `.ics` on m.media-amazon.com - do NOT treat that ICS DTSTART as the order's arrival date (promo reminder, not a real delivery date; UID 1073 lesson). Genuine Amazon mail: DKIM pass header.d=amazon.com + amazonses.com, SPF pass (Gmail forwarder 209.85.128.182 designated permitted sender; SES client-ip 54.240.13.126), DMARC pass (quarantine) header.from=amazon.com, ARC pass google.com, Message-ID @email.amazonses.com, Feedback-ID ...:AmazonSES, all links amazon.com. Envelope `to_addr` is emilee.sutliff@gmail.com (no "reed"); List-Unsubscribe / List-Unsubscribe-Post / Precedence: bulk / List-Id all ABSENT -> no auto-unsubscribe.
+- **Action required:** no - informational order confirmation; monitor for Shipped/Delivered follow-ups. No action for Rook.
+- **Message-ID:** <010001a220406731-9a9cd707-3f66-45b3-b5d0-78fffbdc3578-000000@email.amazonses.com>
+- **UID:** 1596 (INBOX)
+- **Related notes:** [[amazon-orders]] (new standalone order #112-4372705-3186662, $25.61, Toys & Games; distinct from same-subject/category siblings by order #/Message-ID)
