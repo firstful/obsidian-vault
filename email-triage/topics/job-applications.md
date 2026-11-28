@@ -5,6 +5,20 @@ tags: [email-triage, job-applications]
 
 # Job Applications
 
+## 2026-11-28 — Security code for your application to Ping Identity (UID 1599)
+
+- **Date:** 2026-11-28T04:20:15Z
+- **Sender:** Greenhouse <no-reply@us.greenhouse-mail.io> (Greenhouse; `X-Feedback-Id: no-reply@us.greenhouse-mail.io::5ff5c19deab70c1acacf09a2:mailgun`)
+- **To:** sutliff.reed@gmail.com (INBOX/1599; routed via Gmail forward → ingest@ffilt.us → reed@ffilt.us)
+- **Subject:** Security code for your application to Ping Identity
+- **Message-Id:** <6b0a567f8bec3_e3c384c88894f5@prod-jben-web-58d7f587bc-pn5rj.mail>
+- **UID:** 1599 (INBOX)
+- **Summary:** Greenhouse (Mailgun) security verification-code interstitial for Reed's **Ping Identity** job application. Body: "Copy and paste this code into the security code field on your application" / "After you enter the code, resubmit your application." 8-digit code: 71815945. Time-sensitive transactional/application verification (not marketing) — no `X-Mailgun-Tag: CandidateAutoReply` (that tag marks acks, not codes). 1 inline image attachment (Greenhouse Recruiting logo, image/png, 6756 B); 18,321 B, multipart/related. Authentic: DKIM pass (us.greenhouse-mail.io s=mailgun, mailgun.org s=mg), SPF pass, DMARC pass (p=none), ARC pass (i=1 and i=2); `X-Jellyfish-No-Auto-Response: 1`. No `List-Unsubscribe` header → no unsubscribe (transactional security code; recipient-based auto-unsubscribe gate does not apply to relevant/transactional mail even though To contains "reed"); no unsubscribes.md row. No calendar/bills/purchases/money note — no concrete date or deadline. Dedupe: Message-Id `6b0a567f8bec3_e3c384c88894f5@prod-jben-web-58d7f587bc-pn5rj.mail` (prod-jben-web security-code form, hex tail `e3c384c88894f5`), code `71815945`, and `UID 1599` not previously in the topic → distinct event, own section (Greenhouse security-code subtype, action YES; dedupe by Message-Id, never subject). Sibling resubmission of UID 1597 (code 60718812, Message-Id tail `83da4c8836443`, ~4 min earlier) and UID 1598 (code 73615411, Message-Id tail `1c62c84c88641d2`, ~3 min earlier) — same employer, same campaign hash (`5ff5c19deab70c1acacf09a2`), fresh Message-Id and a different code → distinct resubmission, not a duplicate. Do not reply (unattended mailbox).
+- **Action required:** yes — enter code 71815945 in the Ping Identity application security-code field and resubmit (if still pending). Do not reply (unattended mailbox).
+
+### Related notes
+- [[job-applications]]
+
 ## 2026-11-28 — Security code for your application to Ping Identity (UID 1597)
 
 - **Date:** 2026-11-28T04:16:08Z
